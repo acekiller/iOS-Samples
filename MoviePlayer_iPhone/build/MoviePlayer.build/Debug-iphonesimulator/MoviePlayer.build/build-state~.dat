@@ -1,0 +1,463 @@
+TMoviePlayer
+v7
+r0
+t294637226.382374
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/MoviePlayer.app/preview.jpg preview.jpg
+cCpResource build/Debug-iphonesimulator/MoviePlayer.app/Movie.m4v Movie.m4v
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MoviePlayer.app/Settings.bundle Settings.bundle
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib
+cCpResource build/Debug-iphonesimulator/MoviePlayer.app/local.png local.png
+cCpResource build/Debug-iphonesimulator/MoviePlayer.app/streaming.png streaming.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch.gch MoviePlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayerAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyOverlayView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyMovieViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyStreamingMovieViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.h
+c000000004B3C58480000000000000C74
+t1262245960
+s3188
+i<UIKit/UIKit.h>
+i"MyMovieViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m
+c000000004B3C58480000000000002938
+t1262245960
+s10552
+i"MoviePlayerAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.h
+c000000004B3C58480000000000000BB7
+t1262245960
+s2999
+i<UIKit/UIKit.h>
+i"MyMovieViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m
+c000000004B3C58480000000000000BF2
+t1262245960
+s3058
+i"MyImageView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.h
+c000000004B3C58480000000000000C51
+t1262245960
+s3153
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i"MyOverlayView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m
+c000000004B3C58480000000000001234
+t1262245960
+s4660
+i"MyMovieViewController.h"
+i"MoviePlayerAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.h
+c000000004B3C58480000000000000B41
+t1262245960
+s2881
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m
+c000000004B3C58480000000000001259
+t1262245960
+s4697
+i"MyOverlayView.h"
+i"MyMovieViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.h
+c000000004B3C58480000000000000C1E
+t1262245960
+s3102
+i<UIKit/UIKit.h>
+i"MyMovieViewController.h"
+i"MoviePlayerAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m
+c000000004B3C58480000000000000F29
+t1262245960
+s3881
+i"MyStreamingMovieViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Movie.m4v
+c0000000049FF12D70000000000231547
+t1241453271
+s2299207
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/MoviePlayer_Prefix.pch
+c0000000049FF12D70000000000000051
+t1241453271
+s81
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Settings.bundle
+c000000004B3C58470000000000000066
+t1262245959
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app
+t1272944426
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app.dSYM
+t1272944426
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Info.plist
+t1272944424
+s632
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Movie.m4v
+t1272944424
+s2299207
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer
+t1272944426
+s34384
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/PkgInfo
+t1272944424
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Settings.bundle
+t1272944424
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/en.lproj/MainWindow.nib
+t1272944425
+s5605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/en.lproj/SecondView.nib
+t1272944425
+s3665
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/local.png
+t1272944425
+s866
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/preview.jpg
+t1272944424
+s127871
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/streaming.png
+t1272944425
+s2014
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayer.LinkFileList
+c000000004BDF972800000000000003F5
+t1272944424
+s1013
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayerAppDelegate.o
+t1272944426
+s53224
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyImageView.o
+t1272944426
+s32268
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyMovieViewController.o
+t1272944426
+s42056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyOverlayView.o
+t1272944426
+s15148
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyStreamingMovieViewController.o
+t1272944426
+s39728
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/main.o
+t1272944426
+s5996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib
+c0000000049FF12D7000000000000649C
+t1241453271
+s25756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib
+c0000000049FF12D70000000000002FBC
+t1241453271
+s12220
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/local.png
+c0000000049FF12D70000000000000362
+t1241453271
+s866
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m
+c000000004B3C58480000000000000AB5
+t1262245960
+s2741
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/preview.jpg
+c0000000049FF12D7000000000001F37F
+t1241453271
+s127871
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/streaming.png
+c0000000049FF12D700000000000007DE
+t1241453271
+s2014
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch.gch
+t1272944426
+s12952976
+
+NInfo.plist
+c0000000049FF12D70000000000000385
+t1241453271
+s901
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294637224#294637224#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayerAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.121226
+e294637226.281825
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayerAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m294637226#294637226#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m4300911832#2267"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MoviePlayerAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayerAppDelegate.o0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.122192
+e294637226.262174
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyImageView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m294637226#294637226#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m4300911832#2245"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyImageView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyImageView.o0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyMovieViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.197262
+e294637226.318556
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyMovieViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m294637226#294637226#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m4300911832#2265"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyMovieViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyMovieViewController.o0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyOverlayView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.123300
+e294637226.228486
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyOverlayView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m294637226#294637226#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m4300911832#2249"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyOverlayView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyOverlayView.o0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyStreamingMovieViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.228651
+e294637226.333895
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyStreamingMovieViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m294637226#294637226#0(0"0(0#0#105"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m4300911832#2283"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Classes/MyStreamingMovieViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MyStreamingMovieViewController.o0#
+
+CCompileC build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637226.120214
+e294637226.197098
+r1
+xCompileC
+xbuild/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m294637226#294637226#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m4300911832#2223"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib
+s294637224.979154
+e294637225.475060
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294637224#294637225#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib
+s294637224.981041
+e294637225.387527
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib
+lSLF07#2@34"CompileXIB en.lproj/SecondView.xib294637224#294637225#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/en.lproj/SecondView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/en.lproj/SecondView.xib0#
+
+CCpResource build/Debug-iphonesimulator/MoviePlayer.app/Movie.m4v Movie.m4v
+s294637224.978387
+e294637224.992566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoviePlayer.app/Movie.m4v
+xMovie.m4v
+lSLF07#2@14"Copy Movie.m4v294637224#294637224#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Movie.m4v4300911832#535"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Movie.m4v /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/MoviePlayer.app/Settings.bundle Settings.bundle
+s294637224.980214
+e294637224.997202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoviePlayer.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle294637224#294637224#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Settings.bundle4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Settings.bundle /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/MoviePlayer.app/local.png local.png
+s294637224.992686
+e294637225.002965
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoviePlayer.app/local.png
+xlocal.png
+lSLF07#2@14"Copy local.png294637224#294637225#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/local.png4300911832#535"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/local.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/MoviePlayer.app/preview.jpg preview.jpg
+s294637224.977519
+e294637224.984708
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoviePlayer.app/preview.jpg
+xpreview.jpg
+lSLF07#2@16"Copy preview.jpg294637224#294637224#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/preview.jpg4300911832#537"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/preview.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/MoviePlayer.app/streaming.png streaming.png
+s294637224.994859
+e294637225.007293
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoviePlayer.app/streaming.png
+xstreaming.png
+lSLF07#2@18"Copy streaming.png294637224#294637225#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/streaming.png4300911832#539"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/streaming.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer
+s294637226.359778
+e294637226.379142
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MoviePlayer.app.dSYM build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer294637226#294637226#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer4300911832#473"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer normal i386
+s294637226.334041
+e294637226.359667
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer
+xnormal
+xi386
+lSLF07#2@125"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer294637226#294637226#0(0"0(0#0#0"4300911832#1057"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/Objects-normal/i386/MoviePlayer.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework MediaPlayer -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/MoviePlayer0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Info.plist Info.plist
+s294637224.973692
+e294637224.977393
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294637224#294637224#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/Info.plist4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch.gch MoviePlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637225.475206
+e294637226.120108
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch.gch
+xMoviePlayer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MoviePlayer_Prefix.pch294637225#294637226#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/MoviePlayer_Prefix.pch4300911832#2085"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/MoviePlayer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/MoviePlayer.build/Debug-iphonesimulator/MoviePlayer.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/MoviePlayer_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoviePlayer_Prefix-dytfmsmajzyiphcrcjkyxpsyhdty/MoviePlayer_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app
+s294637226.379233
+e294637226.382330
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app
+lSLF07#2@114"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app294637226#294637226#0(0"0(0#0#0"4300911832#334"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoviePlayer_iPhone/build/Debug-iphonesimulator/MoviePlayer.app0#
+

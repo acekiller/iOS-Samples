@@ -1,0 +1,369 @@
+TMoveMe
+v7
+r0
+t294632888.008643
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Placard.png Placard.png
+cCpResource build/Debug-iphonesimulator/MoveMe.app/DisplayStrings.strings DisplayStrings.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MoveMe.app/Icon.png Icon.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch.gch MoveMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.h
+c000000004BA3E7740000000000000ACC
+t1269032820
+s2764
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m
+c000000004BA3E7740000000000000DA0
+t1269032820
+s3488
+i"MoveMeAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.h
+c000000004BA3E7740000000000000B01
+t1269032820
+s2817
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m
+c000000004BA3E7740000000000003137
+t1269032820
+s12599
+i"MoveMeView.h"
+i"PlacardView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.h
+c000000004BA3E7740000000000000B6E
+t1269032820
+s2926
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m
+c000000004BA3E774000000000000157A
+t1269032820
+s5498
+i"PlacardView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Default.png
+c0000000048B653C200000000000032EC
+t1219908546
+s13036
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/DisplayStrings.strings
+c0000000048B653C20000000000000106
+t1219908546
+s262
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Icon.png
+c0000000048B653C2000000000000156A
+t1219908546
+s5482
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib
+c0000000048B653C20000000000001B8B
+t1219908546
+s7051
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib
+c0000000048B653C20000000000001568
+t1219908546
+s5480
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMe_Prefix.pch
+c0000000048B653C200000000000000B5
+t1219908546
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Placard.png
+c0000000048B653C20000000000001583
+t1219908546
+s5507
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+t1272940088
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM
+t1272940088
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Default.png
+t1272940086
+s13036
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/DisplayStrings.strings
+t1272940086
+s262
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Icon.png
+t1272940086
+s5482
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist
+t1272940086
+s648
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MainWindow.nib
+t1272940087
+s1328
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+t1272940087
+s32164
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMeView.nib
+t1272940087
+s1180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/PkgInfo
+t1272940086
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Placard.png
+t1272940086
+s5507
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMe.LinkFileList
+c000000004BDF86360000000000000232
+t1272940086
+s562
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o
+t1272940087
+s38408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o
+t1272940087
+s28628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o
+t1272940087
+s19864
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o
+t1272940087
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m
+c000000004BA3E7740000000000000A61
+t1269032820
+s2657
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch.gch
+t1272940087
+s12952976
+
+NInfo.plist
+c000000004A4A54EE00000000000003B5
+t1246385390
+s949
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294632886#294632886#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632887.848422
+e294632887.937397
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m294632887#294632887#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m4300911832#2025"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeAppDelegate.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632887.850629
+e294632887.970262
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m294632887#294632887#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m4300911832#2011"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/MoveMeView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMeView.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632887.849355
+e294632887.944850
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m294632887#294632887#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m4300911832#2013"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Classes/PlacardView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/PlacardView.o0#
+
+CCompileC build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632887.847428
+e294632887.911373
+r1
+xCompileC
+xbuild/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m294632887#294632887#0(0"0(0#0#59"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m4300911832#1991"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib
+s294632886.956778
+e294632887.231486
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294632886#294632887#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib
+s294632886.964350
+e294632887.231175
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib
+lSLF07#2@25"CompileXIB MoveMeView.xib294632886#294632887#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMeView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMeView.xib0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Default.png Default.png
+s294632886.954454
+e294632886.961100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294632886#294632886#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Default.png4300911832#496"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/DisplayStrings.strings DisplayStrings.strings
+s294632886.955821
+e294632886.966751
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/DisplayStrings.strings
+xDisplayStrings.strings
+lSLF07#2@27"Copy DisplayStrings.strings294632886#294632886#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/DisplayStrings.strings4300911832#507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/DisplayStrings.strings /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Icon.png Icon.png
+s294632886.961244
+e294632886.978797
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294632886#294632886#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Icon.png4300911832#493"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CCpResource build/Debug-iphonesimulator/MoveMe.app/Placard.png Placard.png
+s294632886.955138
+e294632886.966566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MoveMe.app/Placard.png
+xPlacard.png
+lSLF07#2@16"Copy Placard.png294632886#294632886#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Placard.png4300911832#496"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Placard.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+s294632887.990344
+e294632888.005672
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/MoveMe.app.dSYM build/Debug-iphonesimulator/MoveMe.app/MoveMe294632887#294632888#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe4300911832#422"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe normal i386
+s294632887.970363
+e294632887.990225
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe
+xnormal
+xi386
+lSLF07#2@103"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe294632887#294632887#0(0"0(0#0#0"4300911832#949"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/Objects-normal/i386/MoveMe.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/MoveMe0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist Info.plist
+s294632886.950945
+e294632886.954376
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294632886#294632886#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/Info.plist4300911832#511"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch.gch MoveMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632887.231620
+e294632887.847239
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch.gch
+xMoveMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MoveMe_Prefix.pch294632887#294632887#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMe_Prefix.pch4300911832#1870"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/MoveMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/MoveMe.build/Debug-iphonesimulator/MoveMe.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/MoveMe_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoveMe_Prefix-fypesamcvhgfsmgmhirsepvysvta/MoveMe_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+s294632888.005762
+e294632888.008604
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app
+lSLF07#2@97"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app294632888#294632888#0(0"0(0#0#0"4300911832#305"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MoveMe/build/Debug-iphonesimulator/MoveMe.app0#
+

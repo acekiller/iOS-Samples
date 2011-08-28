@@ -1,0 +1,255 @@
+TAppPrefs
+v7
+r0
+t294635900.472027
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AppPrefs.app/Settings.bundle Settings.bundle
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.h
+c000000004BA3ED080000000000000C78
+t1269034248
+s3192
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m
+c000000004BA3ED0800000000000014E7
+t1269034248
+s5351
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.h
+c000000004BA3ED080000000000000B26
+t1269034248
+s2854
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m
+c000000004BA3ED080000000000001A1D
+t1269034248
+s6685
+i"MyViewController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Prefix.pch
+c000000004A173D1F0000000000000059
+t1243036959
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Settings.bundle
+c000000004BA3ED080000000000000088
+t1269034248
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppDelegate.o
+t1272943100
+s46852
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppPrefs.LinkFileList
+c000000004BDF91FB00000000000001B7
+t1272943099
+s439
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/MyViewController.o
+t1272943100
+s48280
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/main.o
+t1272943100
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app
+t1272943100
+s238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app.dSYM
+t1272943100
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs
+t1272943100
+s26768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Info.plist
+t1272943099
+s590
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/PkgInfo
+t1272943099
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Settings.bundle
+t1272943099
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/en.lproj/MainWindow.nib
+t1272943099
+s5166
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib
+c000000004A173D1F0000000000004F18
+t1243036959
+s20248
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m
+c000000004BA3ED080000000000000A83
+t1269034248
+s2691
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch.gch
+t1272943100
+s12948848
+
+NInfo.plist
+c000000004A173D1F0000000000000351
+t1243036959
+s849
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294635899#294635899#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635900.343956
+e294635900.430653
+r1
+xCompileC
+xbuild/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m294635900#294635900#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m4300911832#2040"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635900.345191
+e294635900.437597
+r1
+xCompileC
+xbuild/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m294635900#294635900#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m4300911832#2050"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635900.342245
+e294635900.400486
+r1
+xCompileC
+xbuild/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m294635900#294635900#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m4300911832#2026"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib
+s294635899.403196
+e294635899.725905
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294635899#294635899#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/en.lproj/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/AppPrefs.app/Settings.bundle Settings.bundle
+s294635899.404190
+e294635899.413351
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AppPrefs.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle294635899#294635899#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Settings.bundle4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Settings.bundle /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs
+s294635900.455135
+e294635900.468644
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/AppPrefs.app.dSYM build/Debug-iphonesimulator/AppPrefs.app/AppPrefs294635900#294635900#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs normal i386
+s294635900.437701
+e294635900.454940
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs294635900#294635900#0(0"0(0#0#0"4300911832#947"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/Objects-normal/i386/AppPrefs.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/AppPrefs0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Info.plist Info.plist
+s294635899.393146
+e294635899.403054
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294635899#294635899#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Info.plist4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635899.726030
+e294635900.342085
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294635899#294635900#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Prefix.pch4300911832#1892"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/AppPrefs-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/AppPrefs.build/Debug-iphonesimulator/AppPrefs.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-bcdkrhjdlxapfjarmuowkqywwjoi/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app
+s294635900.468731
+e294635900.471986
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app294635900#294635900#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AppPrefs/build/Debug-iphonesimulator/AppPrefs.app0#
+

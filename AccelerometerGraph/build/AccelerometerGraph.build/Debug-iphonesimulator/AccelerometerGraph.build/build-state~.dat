@@ -1,0 +1,360 @@
+TAccelerometerGraph
+v7
+r0
+t294629177.476495
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AccelerometerGraph.app/Icon.png Icon.png
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerFilter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/GraphView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.h
+c000000004BA3E78C0000000000000DA5
+t1269032844
+s3493
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m
+c000000004BA3E78C0000000000001338
+t1269032844
+s4920
+i"AccelerometerFilter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.h
+c000000004BA3E78C0000000000000A9D
+t1269032844
+s2717
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m
+c000000004BA3E78C0000000000000B2F
+t1269032844
+s2863
+i"AppDelegate.h"
+i"MainViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.h
+c000000004BA3E78C0000000000000B69
+t1269032844
+s2921
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m
+c000000004BA3E78C0000000000004365
+t1269032844
+s17253
+i"GraphView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Icon.png
+c0000000048B654DD0000000000001F00
+t1219908829
+s7936
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.h
+c000000004BA3E78C0000000000000C64
+t1269032844
+s3172
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m
+c000000004BA3E78C00000000000018B1
+t1269032844
+s6321
+i"MainViewController.h"
+i"GraphView.h"
+i"AccelerometerFilter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Prefix.pch
+c0000000048B654DD00000000000009DA
+t1219908829
+s2522
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerFilter.o
+t1272936377
+s17124
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerGraph.LinkFileList
+c000000004BDF77B7000000000000037B
+t1272936375
+s891
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AppDelegate.o
+t1272936377
+s37452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/GraphView.o
+t1272936377
+s36672
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/MainViewController.o
+t1272936377
+s44188
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/main.o
+t1272936377
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app
+t1272936377
+s238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM
+t1272936377
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph
+t1272936377
+s42668
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Icon.png
+t1272936375
+s7936
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Info.plist
+t1272936375
+s597
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/PkgInfo
+t1272936375
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/Localizable.strings
+t1272936376
+s212
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/MainViewController.nib
+t1272936376
+s4486
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/MainWindow.nib
+t1272936376
+s1472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/Localizable.strings
+c000000004A80935E0000000000000180
+t1249940318
+s384
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib
+c000000004A2D95190000000000004FB2
+t1244501273
+s20402
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib
+c000000004A2D95190000000000002A38
+t1244501273
+s10808
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m
+c0000000048B654DD0000000000000A4F
+t1219908829
+s2639
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch.gch
+t1272936377
+s12952976
+
+NInfo.plist
+c000000004A2BDE120000000000000319
+t1244388882
+s793
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629175#294629175#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerFilter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629177.192808
+e294629177.293546
+r1
+xCompileC
+xbuild/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerFilter.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m294629177#294629177#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m4300911832#2361"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AccelerometerFilter.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerFilter.o0#
+
+CCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629177.190583
+e294629177.289795
+r1
+xCompileC
+xbuild/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m294629177#294629177#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m4300911832#2345"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/GraphView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629177.254663
+e294629177.414396
+r1
+xCompileC
+xbuild/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/GraphView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m294629177#294629177#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m4300911832#2341"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/GraphView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/GraphView.o0#
+
+CCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629177.191584
+e294629177.307342
+r1
+xCompileC
+xbuild/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/MainViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m294629177#294629177#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m4300911832#2359"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/MainViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629177.189479
+e294629177.254510
+r1
+xCompileC
+xbuild/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m294629177#294629177#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m4300911832#2331"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib
+s294629175.879054
+e294629176.507105
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib
+lSLF07#2@42"CompileXIB en.lproj/MainViewController.xib294629175#294629176#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib4300911832#603"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/MainViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib
+s294629175.874972
+e294629176.340242
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294629175#294629176#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib4300911832#587"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/MainWindow.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294629175.876909
+e294629176.479220
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294629175#294629176#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/en.lproj/Localizable.strings4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/AccelerometerGraph.app/Icon.png Icon.png
+s294629175.875907
+e294629175.911508
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AccelerometerGraph.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294629175#294629175#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Icon.png4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph
+s294629177.457477
+e294629177.473416
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph294629177#294629177#0(0"0(0#0#134"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph4300911832#494"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph normal i386
+s294629177.414620
+e294629177.457320
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph
+xnormal
+xi386
+lSLF07#2@139"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph294629177#294629177#0(0"0(0#0#0"4300911832#1069"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/Objects-normal/i386/AccelerometerGraph.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/AccelerometerGraph0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Info.plist Info.plist
+s294629175.862064
+e294629175.874853
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294629175#294629175#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Info.plist4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629176.507269
+e294629177.189368
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294629176#294629177#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Prefix.pch4300911832#2167"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/AccelerometerGraph-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/AccelerometerGraph.build/Debug-iphonesimulator/AccelerometerGraph.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-disuupmvpspkskdursslsuidysww/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app
+s294629177.473516
+e294629177.476451
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app
+lSLF07#2@121"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app294629177#294629177#0(0"0(0#0#0"4300911832#341"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AccelerometerGraph/build/Debug-iphonesimulator/AccelerometerGraph.app0#
+

@@ -1,0 +1,595 @@
+ToalTouch
+v7
+r0
+t294628913.651760
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/oalTouch.app/play.png Resources/play.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/pause.png Resources/pause.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/speaker_off.png Resources/speaker_off.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/listener.png Resources/listener.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/instructions.png Resources/instructions.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/stagebg.png Resources/stagebg.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/speaker_on.png Resources/speaker_on.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/oalTouch.app/sound.caf Resources/sound.caf
+cCpResource build/Debug-iphonesimulator/oalTouch.app/background.m4a Resources/background.m4a
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch.gch oalTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch.gch oalTouch_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalSpatialView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalPlayback.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/MyOpenALSupport.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004A0DADB60000000000004E19
+t1242410422
+s19993
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004A0BB03100000000000064FD
+t1242279985
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004A0BB0310000000000001F45
+t1242279985
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004A0BB034000000000001DAB0
+t1242279988
+s121520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c
+c000000004BA3E1CA00000000000018A7
+t1269031370
+s6311
+i"MyOpenALSupport.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.h
+c000000004BA3E1CA0000000000000B61
+t1269031370
+s2913
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.h
+c000000004BA3E1CA0000000000000E8C
+t1269031370
+s3724
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m
+c000000004BA3E1CA000000000000289A
+t1269031370
+s10394
+i"oalPlayback.h"
+i"MyOpenALSupport.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.h
+c000000004BA3E1CA0000000000000E22
+t1269031370
+s3618
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m
+c000000004BA3E1CA0000000000002C10
+t1269031370
+s11280
+i"oalSpatialView.h"
+i"oalPlayback.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.h
+c000000004BA3E1CA0000000000000BB3
+t1269031370
+s2995
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m
+c000000004BA3E1CA0000000000000F30
+t1269031370
+s3888
+i"oalTouchAppDelegate.h"
+i"oalPlayback.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Default.png
+c000000004A3834180000000000003A4F
+t1245197336
+s14927
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib
+c000000004A3834180000000000004D4D
+t1245197336
+s19789
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/background.m4a
+c000000004A3834300000000000159DE7
+t1245197360
+s1416679
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/instructions.png
+c000000004844B9C300000000000012DD
+t1212463555
+s4829
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/listener.png
+c000000004844B9C30000000000000CEC
+t1212463555
+s3308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/pause.png
+c000000004844B9C30000000000000B30
+t1212463555
+s2864
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/play.png
+c000000004844B9C30000000000000BA3
+t1212463555
+s2979
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/sound.caf
+c0000000049271737000000000001DD42
+t1227298615
+s122178
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_off.png
+c000000004844B9C30000000000000C1E
+t1212463555
+s3102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_on.png
+c00000000490B74570000000000000ED9
+t1225487447
+s3801
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/stagebg.png
+c000000004844B9C30000000000001058
+t1212463555
+s4184
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app
+t1272936113
+s578
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app.dSYM
+t1272936113
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Default.png
+t1272936110
+s14927
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Info.plist
+t1272936110
+s679
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/MainWindow.nib
+t1272936111
+s4321
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/PkgInfo
+t1272936110
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/background.m4a
+t1272936110
+s1416679
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/icon.png
+t1272936110
+s5061
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/instructions.png
+t1272936110
+s4829
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/listener.png
+t1272936110
+s3308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch
+t1272936113
+s46228
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/pause.png
+t1272936110
+s2864
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/play.png
+t1272936110
+s2979
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/sound.caf
+t1272936111
+s122178
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/speaker_off.png
+t1272936110
+s3102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/speaker_on.png
+t1272936110
+s3801
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/stagebg.png
+t1272936110
+s4184
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/MyOpenALSupport.o
+t1272936113
+s10652
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/main.o
+t1272936113
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalPlayback.o
+t1272936113
+s30292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalSpatialView.o
+t1272936113
+s33948
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouch.LinkFileList
+c000000004BDF76AE00000000000002E7
+t1272936110
+s743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouchAppDelegate.o
+t1272936113
+s25412
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/icon.png
+c000000004844B9C300000000000013C5
+t1212463555
+s5061
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m
+c000000004BA3E1CA0000000000000A2D
+t1269031370
+s2605
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/oalTouch_Prefix.pch
+c000000004BA3E1CA00000000000009B9
+t1269031370
+s2489
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch.gch
+t1272936112
+s12952976
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch.gch
+t1272936112
+s2138480
+
+NInfo.plist
+c00000000490F67F700000000000003D4
+t1225746423
+s980
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294628910#294628910#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/MyOpenALSupport.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+s294628913.148503
+e294628913.388100
+r1
+xCompileC
+xbuild/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/MyOpenALSupport.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c294628913#294628913#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/MyOpenALSupport.c -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/MyOpenALSupport.o0#
+
+CCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294628912.968286
+e294628913.148353
+r1
+xCompileC
+xbuild/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m294628912#294628913#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m4300911832#2053"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/main.o0#
+
+CCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalPlayback.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294628913.023671
+e294628913.269816
+r1
+xCompileC
+xbuild/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalPlayback.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m294628913#294628913#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m4300911832#2075"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalPlayback.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalPlayback.o0#
+
+CCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalSpatialView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294628913.022276
+e294628913.302561
+r1
+xCompileC
+xbuild/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalSpatialView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m294628913#294628913#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m4300911832#2081"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalSpatialView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalSpatialView.o0#
+
+CCompileC build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294628913.020733
+e294628913.208805
+r1
+xCompileC
+xbuild/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouchAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m294628913#294628913#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m4300911832#2091"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Classes/oalTouchAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouchAppDelegate.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib
+s294628910.904695
+e294628911.496409
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294628910#294628911#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/Default.png Default.png
+s294628910.912957
+e294628910.993952
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294628910#294628911#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Default.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/background.m4a Resources/background.m4a
+s294628910.981988
+e294628910.994682
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/background.m4a
+xResources/background.m4a
+lSLF07#2@29"Copy Resources/background.m4a294628910#294628911#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/background.m4a4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/background.m4a /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/icon.png icon.png
+s294628910.911114
+e294628910.981874
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png294628910#294628911#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/icon.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/instructions.png Resources/instructions.png
+s294628910.909258
+e294628910.994266
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/instructions.png
+xResources/instructions.png
+lSLF07#2@31"Copy Resources/instructions.png294628910#294628911#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/instructions.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/instructions.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/listener.png Resources/listener.png
+s294628910.908441
+e294628910.980260
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/listener.png
+xResources/listener.png
+lSLF07#2@27"Copy Resources/listener.png294628910#294628911#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/listener.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/listener.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/pause.png Resources/pause.png
+s294628910.906743
+e294628910.986158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/pause.png
+xResources/pause.png
+lSLF07#2@24"Copy Resources/pause.png294628910#294628911#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/pause.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/pause.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/play.png Resources/play.png
+s294628910.905808
+e294628910.989205
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/play.png
+xResources/play.png
+lSLF07#2@23"Copy Resources/play.png294628910#294628911#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/play.png4300911832#511"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/play.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/sound.caf Resources/sound.caf
+s294628910.980394
+e294628911.037307
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/sound.caf
+xResources/sound.caf
+lSLF07#2@24"Copy Resources/sound.caf294628910#294628911#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/sound.caf4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/sound.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/speaker_off.png Resources/speaker_off.png
+s294628910.907607
+e294628910.989690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/speaker_off.png
+xResources/speaker_off.png
+lSLF07#2@30"Copy Resources/speaker_off.png294628910#294628911#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_off.png4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_off.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/speaker_on.png Resources/speaker_on.png
+s294628910.911916
+e294628910.983462
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/speaker_on.png
+xResources/speaker_on.png
+lSLF07#2@29"Copy Resources/speaker_on.png294628910#294628911#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_on.png4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/speaker_on.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/oalTouch.app/stagebg.png Resources/stagebg.png
+s294628910.910078
+e294628910.989414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/oalTouch.app/stagebg.png
+xResources/stagebg.png
+lSLF07#2@26"Copy Resources/stagebg.png294628910#294628911#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/stagebg.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Resources/stagebg.png /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch
+s294628913.633425
+e294628913.647886
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/oalTouch.app.dSYM build/Debug-iphonesimulator/oalTouch.app/oalTouch294628913#294628913#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch normal i386
+s294628913.388230
+e294628913.633308
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch294628913#294628913#0(0"0(0#0#0"4300911832#1058"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/Objects-normal/i386/oalTouch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework OpenAL -framework QuartzCore -framework MediaPlayer -framework AVFoundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/oalTouch0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Info.plist Info.plist
+s294628910.899319
+e294628910.904537
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294628910#294628910#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/Info.plist4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch.gch oalTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294628911.496592
+e294628912.968089
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch.gch
+xoalTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile oalTouch_Prefix.pch294628911#294628913#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/oalTouch_Prefix.pch4300911832#1928"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/oalTouch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-bamjkdaqixmigxglsansaahfvarn/oalTouch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch.gch oalTouch_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s294628911.497926
+e294628912.339513
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch.gch
+xoalTouch_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile oalTouch_Prefix.pch294628911#294628912#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/oalTouch_Prefix.pch4300911832#1918"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/oalTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/oalTouch.build/Debug-iphonesimulator/oalTouch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/oalTouch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/oalTouch_Prefix-epddoxbrkrqefkbxbfwgtsyalpaa/oalTouch_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app
+s294628913.648010
+e294628913.651710
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app294628913#294628913#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/oalTouch/build/Debug-iphonesimulator/oalTouch.app0#
+

@@ -1,0 +1,104 @@
+TURLCache
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/Images/Default.png
+c0000000048F7DE5900000000000021E4
+t1224203865
+s8676
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/Images/Icon.png
+c0000000048AC79B800000000000019FC
+t1219262904
+s6652
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/URLCache.plist
+c0000000048F7DE5900000000000000F9
+t1224203865
+s249
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/URLCache.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/en.lproj/InfoPlist.strings
+c0000000048AC79B8000000000000013C
+t1219262904
+s316
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/en.lproj/Localizable.strings
+c0000000048FD1C6D0000000000000678
+t1224547437
+s1656
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/en.lproj/MainWindow.xib
+c0000000048FD1C6D0000000000004F67
+t1224547437
+s20327
+
+NInfo.plist
+c0000000048AC79B80000000000000381
+t1219262904
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294638995#294638995#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294638995#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/en.lproj/MainWindow.xib
+r0
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/URLCache.plist URLCache.plist
+r0
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Resources/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug/URLCache.app/Contents/Resources/Default.png Images/Default.png
+r0
+
+CCpResource build/Debug/URLCache.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/URLCache/build/Debug/URLCache.app
+r0
+

@@ -1,0 +1,317 @@
+TTeslameter
+v7
+r0
+t294631864.683051
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Info.plist Teslameter-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib
+cCpResource build/Debug-iphonesimulator/Teslameter.app/Background.png Resources/Background.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch.gch Teslameter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/TeslameterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/GraphView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B00000000000423F0
+t1242354571
+s271344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.h
+c000000004BA3FF850000000000000AF1
+t1269038981
+s2801
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m
+c000000004BA3FF850000000000000B30
+t1269038981
+s2864
+i"AppDelegate.h"
+i"TeslameterViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.h
+c000000004BA3FF850000000000000A95
+t1269038981
+s2709
+i"TeslameterViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m
+c000000004BA3FF8500000000000016F8
+t1269038981
+s5880
+i"GraphView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.h
+c000000004BA3FF850000000000000D57
+t1269038981
+s3415
+i"AppDelegate.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m
+c000000004BA3FF8500000000000016A3
+t1269038981
+s5795
+i"TeslameterViewController.h"
+i"GraphView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/Background.png
+c000000004A4BD38F0000000000006D55
+t1246483343
+s27989
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib
+c000000004A4BD38F0000000000004F31
+t1246483343
+s20273
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib
+c000000004A4BD38F0000000000003EB6
+t1246483343
+s16054
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Teslameter_Prefix.pch
+c000000004A4BD38F00000000000000BD
+t1246483343
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app
+t1272939064
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app.dSYM
+t1272939064
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Background.png
+t1272939063
+s27989
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Info.plist
+t1272939063
+s692
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/MainWindow.nib
+t1272939063
+s1526
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/PkgInfo
+t1272939063
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter
+t1272939064
+s28060
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/TeslameterViewController.nib
+t1272939063
+s3498
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/AppDelegate.o
+t1272939064
+s38056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/GraphView.o
+t1272939064
+s14056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/Teslameter.LinkFileList
+c000000004BDF82370000000000000268
+t1272939063
+s616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/TeslameterViewController.o
+t1272939064
+s46612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/main.o
+t1272939064
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m
+c000000004BA3FF850000000000000A34
+t1269038981
+s2612
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch.gch
+t1272939064
+s12952976
+
+NTeslameter-Info.plist
+c000000004A4BD38F00000000000003E0
+t1246483343
+s992
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294631863#294631863#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631864.524753
+e294631864.613832
+r1
+xCompileC
+xbuild/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m294631864#294631864#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m4300911832#2137"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/GraphView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631864.526765
+e294631864.614800
+r1
+xCompileC
+xbuild/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/GraphView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m294631864#294631864#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m4300911832#2133"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/GraphView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/GraphView.o0#
+
+CCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/TeslameterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631864.525791
+e294631864.636948
+r1
+xCompileC
+xbuild/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/TeslameterViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m294631864#294631864#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m4300911832#2163"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Classes/TeslameterViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/TeslameterViewController.o0#
+
+CCompileC build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631864.523712
+e294631864.583049
+r1
+xCompileC
+xbuild/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m294631864#294631864#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m4300911832#2115"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib
+s294631863.476228
+e294631863.761296
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294631863#294631863#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib
+s294631863.477338
+e294631863.900382
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib
+lSLF07#2@49"CompileXIB Resources/TeslameterViewController.xib294631863#294631863#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/TeslameterViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/TeslameterViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/Teslameter.app/Background.png Resources/Background.png
+s294631863.478313
+e294631863.485699
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Teslameter.app/Background.png
+xResources/Background.png
+lSLF07#2@29"Copy Resources/Background.png294631863#294631863#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/Background.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Resources/Background.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter
+s294631864.660663
+e294631864.678591
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Teslameter.app.dSYM build/Debug-iphonesimulator/Teslameter.app/Teslameter294631864#294631864#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter normal i386
+s294631864.637086
+e294631864.660556
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter
+xnormal
+xi386
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter294631864#294631864#0(0"0(0#0#0"4300911832#991"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Objects-normal/i386/Teslameter.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Teslameter0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Info.plist Teslameter-Info.plist
+s294631863.466059
+e294631863.476048
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Info.plist
+xTeslameter-Info.plist
+lSLF07#2@29"Process Teslameter-Info.plist294631863#294631863#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Teslameter-Info.plist4300911832#542"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Teslameter-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch.gch Teslameter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631863.900516
+e294631864.523600
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch.gch
+xTeslameter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Teslameter_Prefix.pch294631863#294631864#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Teslameter_Prefix.pch4300911832#1986"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/Teslameter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Teslameter.build/Debug-iphonesimulator/Teslameter.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/Teslameter_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Teslameter_Prefix-ajggudrmoxenbrdczcptpwiufkmz/Teslameter_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app
+s294631864.678716
+e294631864.682976
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app294631864#294631864#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Teslameter/build/Debug-iphonesimulator/Teslameter.app0#
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Publisher</key>
+		<string>Super Sportz, Inc.</string>
+		<key>Name</key>
+		<string>Baseball</string>
+		<key>NumRatings</key>
+		<integer>106</integer>
+		<key>Rating</key>
+		<real>3.5</real>
+		<key>Price</key>
+		<string>$2.98</string>
+		<key>Icon</key>
+		<string>Baseball.png</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string>General Specifics, Inc.</string>
+		<key>Name</key>
+		<string>Blocks</string>
+		<key>NumRatings</key>
+		<integer>114</integer>
+		<key>Rating</key>
+		<real>4.5</real>
+		<key>Price</key>
+		<string>$0.99</string>
+		<key>Icon</key>
+		<string>Blocks.png</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string>Gameitoids, Inc.</string>
+		<key>Name</key>
+		<string>Checkers</string>
+		<key>NumRatings</key>
+		<integer>87</integer>
+		<key>Rating</key>
+		<integer>4</integer>
+		<key>Price</key>
+		<string>Free</string>
+		<key>Icon</key>
+		<string>Checkers.png</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string>Foodies, Inc.</string>
+		<key>Name</key>
+		<string>Dinner</string>
+		<key>NumRatings</key>
+		<integer>254</integer>
+		<key>Rating</key>
+		<real>3</real>
+		<key>Price</key>
+		<string>$4.98</string>
+		<key>Icon</key>
+		<string>Dinner.png</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string>Super Sportz, Inc.</string>
+		<key>Name</key>
+		<string>Football</string>
+		<key>NumRatings</key>
+		<integer>422</integer>
+		<key>Rating</key>
+		<real>3</real>
+		<key>Price</key>
+		<string>$1.99</string>
+		<key>Icon</key>
+		<string>Football.png</string>
+	</dict>
+	<dict>
+		<key>Publisher</key>
+		<string>Math Nutz</string>
+		<key>Name</key>
+		<string>MathGraph</string>
+		<key>NumRatings</key>
+		<integer>45</integer>
+		<key>Rating</key>
+		<real>4</real>
+		<key>Price</key>
+		<string>$0.99</string>
+		<key>Icon</key>
+		<string>MathGraph.png</string>
+	</dict>
+</array>
+</plist>

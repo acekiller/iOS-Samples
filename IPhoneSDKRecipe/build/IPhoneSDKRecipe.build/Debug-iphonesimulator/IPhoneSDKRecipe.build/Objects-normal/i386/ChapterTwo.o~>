@@ -1,0 +1,16 @@
+In file included from /Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:9:
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.h:32: error: property 'starCount' with 'retain' attribute must be of object type
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m: In function '-[ChapterTwo encodeWithCorder:]':
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:59: error: 'imtes' undeclared (first use in this function)
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:59: error: (Each undeclared identifier is reported only once
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:59: error: for each function it appears in.)
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:62: warning: passing argument 1 of 'encodeObject:forKey:' makes pointer from integer without a cast
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m: At top level:
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'starCount' requires method '-starCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'starCount' requires the method 'setStarCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'titleText' requires method '-titleText' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'titleText' requires the method 'setTitleText:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'items' requires method '-items' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'items' requires the method 'setItems:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'tempNumber' requires method '-tempNumber' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/IPhoneSDKRecipe/Classes/ChapterTwo.m:65: warning: property 'tempNumber' requires the method 'setTempNumber:' to be defined - use @synthesize, @dynamic or provide a method implementation

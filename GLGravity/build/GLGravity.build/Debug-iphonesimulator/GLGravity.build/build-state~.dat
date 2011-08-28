@@ -1,0 +1,316 @@
+TGLGravity
+v7
+r0
+t294589740.081265
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/GLGravity.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/GLGravity.app/Icon.png Icon.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A76554E000000000000094F
+t1249269070
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A76554E0000000000000A61
+t1249269070
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A76554E0000000000009369
+t1249269070
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A76554E0000000000002A42
+t1249269070
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A765556000000000001F8E0
+t1249269078
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7655B1000000000000007D
+t1249269169
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E5890
+t1249269258
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.h
+c000000004AB914BE0000000000000B97
+t1253643454
+s2967
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m
+c000000004AB7C5920000000000000FB6
+t1253557650
+s4022
+i"GLGravityAppDelegate.h"
+i"GLGravityView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.h
+c000000004AB42CA40000000000000F46
+t1253321892
+s3910
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m
+c000000004AB42CA40000000000003415
+t1253321892
+s13333
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLGravityView.h"
+i"teapot.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Default.png
+c0000000048B655530000000000001020
+t1219908947
+s4128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Icon.png
+c0000000048B6555300000000000018FA
+t1219908947
+s6394
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib
+c000000004AB7C38F000000000000471F
+t1253557135
+s18207
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Models/teapot.h
+c000000004AB16A130000000000030CCB
+t1253141011
+s199883
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Prefix.pch
+c0000000048B655530000000000000030
+t1219908947
+s48
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app
+t1272896940
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app.dSYM
+t1272896940
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Default.png
+t1272896938
+s4128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity
+t1272896940
+s70384
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Icon.png
+t1272896938
+s6394
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Info.plist
+t1272896938
+s626
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/MainWindow.nib
+t1272896938
+s1156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/PkgInfo
+t1272896938
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravity.LinkFileList
+c000000004BDEDDAA00000000000001C6
+t1272896938
+s454
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityAppDelegate.o
+t1272896939
+s22340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityView.o
+t1272896939
+s73452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/main.o
+t1272896939
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m
+c000000004AB42CA40000000000000A47
+t1253321892
+s2631
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch.gch
+t1272896939
+s13026768
+
+NInfo.plist
+c000000004AB7C6B800000000000003AD
+t1253557944
+s941
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294589738#294589738#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589739.611315
+e294589739.710294
+r1
+xCompileC
+xbuild/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m294589739#294589739#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m4300911832#2110"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityAppDelegate.o0#
+
+CCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589739.609569
+e294589739.835862
+r1
+xCompileC
+xbuild/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m294589739#294589739#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m4300911832#2096"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Classes/GLGravityView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravityView.o0#
+
+CCompileC build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589739.608170
+e294589739.689123
+r1
+xCompileC
+xbuild/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m294589739#294589739#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m4300911832#2070"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib
+s294589738.155256
+e294589738.473873
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294589738#294589738#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GLGravity.app/Default.png Default.png
+s294589738.153555
+e294589738.190248
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLGravity.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294589738#294589738#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Default.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app0#
+
+CCpResource build/Debug-iphonesimulator/GLGravity.app/Icon.png Icon.png
+s294589738.154461
+e294589738.190535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLGravity.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294589738#294589738#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Icon.png4300911832#505"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity
+s294589740.062714
+e294589740.078437
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/GLGravity.app.dSYM build/Debug-iphonesimulator/GLGravity.app/GLGravity294589740#294589740#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity normal i386
+s294589739.835967
+e294589740.062597
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity294589739#294589740#0(0"0(0#0#0"4300911832#999"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/Objects-normal/i386/GLGravity.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/GLGravity0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Info.plist Info.plist
+s294589738.149828
+e294589738.153450
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294589738#294589738#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Info.plist4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589738.474042
+e294589739.608042
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294589738#294589739#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Prefix.pch4300911832#1933"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/GLGravity-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/GLGravity.build/Debug-iphonesimulator/GLGravity.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gihkbdmyvzpdhqcngrrogphomgtu/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app
+s294589740.078536
+e294589740.081226
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app294589740#294589740#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLGravity/build/Debug-iphonesimulator/GLGravity.app0#
+

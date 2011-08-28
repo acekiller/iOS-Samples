@@ -1,0 +1,357 @@
+TMultipleDetailViews
+v7
+r0
+t294369251.340901
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD448B20000000000000110
+t1272203442
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.h
+c000000004BABEB0E0000000000000B1D
+t1269558030
+s2845
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m
+c000000004BABEB0E0000000000000B92
+t1269558030
+s2962
+i"AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.h
+c000000004BABEB0E0000000000000B72
+t1269558030
+s2930
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m
+c000000004BABEB0E0000000000000EA5
+t1269558030
+s3749
+i"FirstDetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.h
+c000000004BABEB0E0000000000000D8B
+t1269558030
+s3467
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m
+c000000004BABEB0E0000000000001C78
+t1269558030
+s7288
+i"RootViewController.h"
+i"FirstDetailViewController.h"
+i"SecondDetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.h
+c000000004BABEB0E0000000000000B97
+t1269558030
+s2967
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m
+c000000004BABEB0E0000000000000DC9
+t1269558030
+s3529
+i"SecondDetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib
+c000000004B96FABE0000000000004DDB
+t1268185790
+s19931
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib
+c000000004B96FABE0000000000007025
+t1268185790
+s28709
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MultipleDetailViews_Prefix.pch
+c000000004B912FA000000000000000CF
+t1267806112
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/ReadMe.txt
+c000000004B968DB200000000000007FA
+t1268157874
+s2042
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib
+c000000004B96FABE0000000000004CE0
+t1268185790
+s19680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+t1272676451
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM
+t1272675405
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/FirstDetailView.nib
+t1272675404
+s1382
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist
+t1272676451
+s852
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MainWindow.nib
+t1272675404
+s1833
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+t1272675405
+s29060
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/PkgInfo
+t1272676451
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt
+t1272675404
+s2042
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/SecondDetailView.nib
+t1272675404
+s1050
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o
+t1272675405
+s42756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o
+t1272675405
+s37420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/MultipleDetailViews.LinkFileList
+c000000004BDB7C4C00000000000003A1
+t1272675404
+s929
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+t1272675405
+s46444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+t1272675405
+s36460
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o
+t1272675405
+s5996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m
+c000000004BABEB0E0000000000000A83
+t1269558030
+s2691
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch.gch
+t1272675405
+s13805456
+
+NMultipleDetailViews-Info.plist
+c000000004B912FA000000000000004AA
+t1267806112
+s1194
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294369251#294369251#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368205.613310
+e294368205.712215
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m294368205#294368205#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m4300911832#2416"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368205.614796
+e294368205.715046
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m294368205#294368205#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m4300911832#2444"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/FirstDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/FirstDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368205.616399
+e294368205.734026
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m294368205#294368205#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m4300911832#2430"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368205.676890
+e294368205.751692
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m294368205#294368205#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m4300911832#2446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/Classes/SecondDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/SecondDetailViewController.o0#
+
+CCompileC build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368205.611692
+e294368205.675974
+r1
+xCompileC
+xbuild/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m294368205#294368205#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m4300911832#2394"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib
+s294368204.601692
+e294368204.955790
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib
+lSLF07#2@30"CompileXIB FirstDetailView.xib294368204#294368204#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib4300911832#583"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/FirstDetailView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/FirstDetailView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib
+s294368204.600046
+e294368204.951527
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294368204#294368204#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib
+s294368204.602526
+e294368204.950214
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib
+lSLF07#2@31"CompileXIB SecondDetailView.xib294368204#294368204#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib4300911832#585"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/SecondDetailView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/SecondDetailView.xib0#
+
+CCpResource build/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt ReadMe.txt
+s294368204.600870
+e294368204.612206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultipleDetailViews.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294368204#294368204#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/ReadMe.txt4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+s294368205.771151
+e294368205.788746
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews294368205#294368205#0(0"0(0#0#137"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews normal i386
+s294368205.751788
+e294368205.771021
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews
+xnormal
+xi386
+lSLF07#2@142"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews294368205#294368205#0(0"0(0#0#0"4300911832#1057"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/Objects-normal/i386/MultipleDetailViews.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/MultipleDetailViews0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist MultipleDetailViews-Info.plist
+s294369251.332973
+e294369251.336358
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist
+xMultipleDetailViews-Info.plist
+lSLF07#2@38"Process MultipleDetailViews-Info.plist294369251#294369251#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MultipleDetailViews-Info.plist4300911832#596"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultipleDetailViews-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch.gch MultipleDetailViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294368204.955926
+e294368205.611530
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch.gch
+xMultipleDetailViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile MultipleDetailViews_Prefix.pch294368204#294368205#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MultipleDetailViews_Prefix.pch4300911832#2247"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/MultipleDetailViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/MultipleDetailViews.build/Debug-iphonesimulator/MultipleDetailViews.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/MultipleDetailViews_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleDetailViews_Prefix-gbolfjdwozfpafexgfgjsnucajzz/MultipleDetailViews_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+s294369251.337781
+e294369251.340817
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app
+lSLF07#2@123"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app294369251#294369251#0(0"0(0#0#0"4300911832#344"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MultipleDetailViews/build/Debug-iphonesimulator/MultipleDetailViews.app0#
+

@@ -1,0 +1,515 @@
+TGenericKeychain2
+v7
+r0
+t295976326.339098
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/Info.plist Info2.plist
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch.gch GenericKeychain_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/KeychainItemWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/EditorController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2 normal armv6
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2
+cPhaseScriptExecution スクリプトを実行 /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Script-BF4B932D0F8ABE3600E4CD44.sh
+cProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+cProcessProductPackaging /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/KeychainAccessGroups2.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent
+cCodeSign /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004A0BAD3500000000000004F5
+t1242279221
+s1269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004A121F050000000000092910
+t1242701573
+s600336
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004ABDBB1100000000000004F5
+t1253948177
+s1269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004ABDBB1900000000000E3B80
+t1253948185
+s932736
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004B2B52A100000000000004F5
+t1261130401
+s1269
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004B2B52CB00000000000E3B80
+t1261130443
+s932736
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision
+c000000004BF3FFF00000000000001BFE
+t1274281968
+s7166
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.h
+c000000004A0A102F0000000000000CC3
+t1242173487
+s3267
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m
+c000000004BF4059F0000000000000E20
+t1274283423
+s3616
+i"AppDelegate.h"
+i"DetailViewController.h"
+i"KeychainItemWrapper.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.h
+c000000004A0A102F0000000000000CBD
+t1242173487
+s3261
+i<UIKit/UIkit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m
+c000000004A148C400000000000002A66
+t1242860608
+s10854
+i<Security/Security.h>
+i"DetailViewController.h"
+i"KeychainItemWrapper.h"
+i"EditorController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.h
+c000000004A0A102F0000000000000C1B
+t1242173487
+s3099
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m
+c000000004A148C400000000000000E78
+t1242860608
+s3704
+i"EditorController.h"
+i"KeychainItemWrapper.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.h
+c000000004A0A102F0000000000000D99
+t1242173487
+s3481
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m
+c000000004A148C400000000000002D8D
+t1242860608
+s11661
+i"KeychainItemWrapper.h"
+i<Security/Security.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/GenericKeychain_Prefix.pch
+c0000000048B6563D00000000000000BF
+t1219909181
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/KeychainAccessGroups2.plist
+c000000004BF405A40000000000000174
+t1274283428
+s372
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+t1274283526
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app.dSYM
+t1274283525
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2
+t1274283525
+s49424
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/Info.plist
+t1274283523
+s697
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/PkgInfo
+t1274283523
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist
+t1274283523
+s485
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision
+t1274283525
+s7166
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/Localizable.strings
+t1274283523
+s197
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/MainWindow2.nib
+t1274283525
+s5024
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent
+t1274283526
+s477
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/AppDelegate.o
+t1274283525
+s45392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/DetailViewController.o
+t1274283525
+s65780
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/EditorController.o
+t1274283525
+s37244
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/GenericKeychain2.LinkFileList
+c000000004BF40603000000000000033E
+t1274283523
+s830
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/KeychainItemWrapper.o
+t1274283525
+s23612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/main.o
+t1274283525
+s6492
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Script-BF4B932D0F8ABE3600E4CD44.sh
+c000000004BF40603000000000000000B
+t1274283523
+s11
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/Localizable.strings
+c000000004A0A102F00000000000002EC
+t1242173487
+s748
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib
+c000000004A0A102F0000000000006BF2
+t1242173487
+s27634
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m
+c000000004A148C400000000000000AAB
+t1242860608
+s2731
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-atrvsahyonlnvlatwgccdehndhus/GenericKeychain_Prefix.pch.gch
+t1274282916
+s8339584
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch.gch
+t1274283487
+s8388792
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-fmsgcuohojhkilfbpmdrwclhscba/GenericKeychain_Prefix.pch.gch
+t1274283096
+s8388792
+
+NInfo2.plist
+c000000004A0A102F000000000000035A
+t1242173487
+s858
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295976323#295976323#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+s295976326.013953
+e295976326.339050
+r1
+xCodeSign
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+lSLF07#2@50"CodeSign build/Debug-iphoneos/GenericKeychain2.app295976326#295976326#0(0"0(0#0#103"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app4300911832#804"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Koichi Ishida (AMDM8DK3NY)" --resource-rules=/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist --entitlements /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app0#
+
+CCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295976325.580015
+e295976325.717804
+r1
+xCompileC
+xbuild/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m295976325#295976325#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m4300911832#2174"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295976325.577223
+e295976325.794499
+r1
+xCompileC
+xbuild/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m295976325#295976325#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m4300911832#2192"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/DetailViewController.o0#
+
+CCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/EditorController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295976325.646929
+e295976325.794873
+r1
+xCompileC
+xbuild/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/EditorController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m295976325#295976325#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m4300911832#2184"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/EditorController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/EditorController.o0#
+
+CCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/KeychainItemWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295976325.584425
+e295976325.795104
+r1
+xCompileC
+xbuild/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/KeychainItemWrapper.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m295976325#295976325#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m4300911832#2190"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Classes/KeychainItemWrapper.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/KeychainItemWrapper.o0#
+
+CCompileC build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295976325.575171
+e295976325.645927
+r1
+xCompileC
+xbuild/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m295976325#295976325#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m4300911832#2152"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib
+s295976323.531023
+e295976325.574065
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib
+lSLF07#2@35"CompileXIB en.lproj/MainWindow2.xib295976323#295976325#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib4300911832#566"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/MainWindow2.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/MainWindow2.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s295976323.529268
+e295976324.012335
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+oen.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy en.lproj/Localizable.strings295976323#295976324#0(130"en.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/en.lproj/Localizable.strings4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/en.lproj0#
+
+CCpResource build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s295976323.475908
+e295976323.529011
+r1
+xCpResource
+xbuild/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist295976323#295976323#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300911832#537"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app0#
+
+CCpResource build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2
+s295976325.825687
+e295976325.879093
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2
+lSLF07#2@122"GenerateDSYMFile build/Debug-iphoneos/GenericKeychain2.app.dSYM build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2295976325#295976325#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain24300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2 -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2 normal armv6
+s295976325.795378
+e295976325.824758
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2
+xnormal
+xarmv6
+lSLF07#2@125"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain2295976325#295976325#0(0"0(0#0#0"4300911832#1007"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/GenericKeychain2.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework Security -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/GenericKeychain20#
+
+CPhaseScriptExecution スクリプトを実行 /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Script-BF4B932D0F8ABE3600E4CD44.sh
+s295976325.880025
+e295976325.905503
+r1
+xPhaseScriptExecution
+xスクリプトを実行
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Script-BF4B932D0F8ABE3600E4CD44.sh
+lSLF07#2@53"Run custom shell script 'スクリプトを実行'295976325#295976325#0(0"0(0#0#0"4300911832#18614"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER pika    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv6    setenv ARCHS_STANDARD_32_64_BIT armv6    setenv ARCHS_STANDARD_32_BIT armv6    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv6 armv7"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build    setenv BUILD_ROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos    setenv CACHE_ROOT /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_ENTITLEMENTS KeychainAccessGroups2.plist    setenv CODE_SIGN_IDENTITY "iPhone Developer: Koichi Ishida (AMDM8DK3NY)"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH GenericKeychain2.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv6    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/GenericKeychain.dst    setenv DWARF_DSYM_FILE_NAME GenericKeychain2.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH GenericKeychain2.app/Executables    setenv EXECUTABLE_FOLDER_PATH GenericKeychain2.app    setenv EXECUTABLE_NAME GenericKeychain2    setenv EXECUTABLE_PATH GenericKeychain2.app/GenericKeychain2    setenv FILE_LIST /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH GenericKeychain2.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME GenericKeychain2.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER GenericKeychain_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info2.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH GenericKeychain2.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/GenericKeychain.dst/Users/pika/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER pika    setenv INSTALL_PATH /Users/pika/Applications    setenv INSTALL_ROOT /tmp/GenericKeychain.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH GenericKeychain2.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2-LinkMap-normal-armv6.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal/armv6/GenericKeychain2.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Objects-normal    setenv OBJROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH GenericKeychain2.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/PkgInfo    setenv PKGINFO_PATH GenericKeychain2.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH GenericKeychain2.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH GenericKeychain2.app/PrivateHeaders    setenv PRODUCT_NAME GenericKeychain2    setenv PRODUCT_SETTINGS_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Info2.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT GenericKeychain    setenv PROJECT_DERIVED_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/DerivedSources    setenv PROJECT_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PROJECT_FILE_PATH /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/GenericKeychain.xcodeproj    setenv PROJECT_NAME GenericKeychain    setenv PROJECT_TEMP_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH GenericKeychain2.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH GenericKeychain2.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_NAME iphoneos3.1.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH GenericKeychain2.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH GenericKeychain2.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv SRCROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/SymbolRepositories    setenv SYMROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME GenericKeychain2    setenv TARGET_BUILD_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos    setenv TARGET_NAME GenericKeychain2    setenv TARGET_TEMP_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build    setenv TEMP_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build    setenv TEMP_FILES_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build    setenv TEMP_FILE_DIR /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build    setenv TEMP_ROOT /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH GenericKeychain2.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER pika    setenv USER_APPS_DIR /Users/pika/Applications    setenv USER_LIBRARY_DIR /Users/pika/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH GenericKeychain2.app/version.plist    setenv VERSION_INFO_BUILDER pika    setenv VERSION_INFO_FILE GenericKeychain2_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:GenericKeychain2  PROJECT:GenericKeychain-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME GenericKeychain2.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/Script-BF4B932D0F8ABE3600E4CD44.sh0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/Info.plist Info2.plist
+s295976323.478106
+e295976323.526421
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/Info.plist
+xInfo2.plist
+lSLF07#2@19"Process Info2.plist295976323#295976323#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/Info2.plist4300911832#674"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info2.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/ResourceRules.plist -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-atrvsahyonlnvlatwgccdehndhus/GenericKeychain_Prefix.pch.gch GenericKeychain_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-cbhuqigvuxxywtgecypxxdoviekz/GenericKeychain_Prefix.pch.gch GenericKeychain_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GenericKeychain_Prefix-fmsgcuohojhkilfbpmdrwclhscba/GenericKeychain_Prefix.pch.gch GenericKeychain_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision
+s295976325.906479
+e295976325.984651
+r1
+xProcessProductPackaging
+x/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision295976325#295976325#0(0"0(0#0#128"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision4300911832#477"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/KeychainAccessGroups2.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent
+s295976325.990539
+e295976326.013136
+r1
+xProcessProductPackaging
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/KeychainAccessGroups2.plist
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent
+lSLF07#2@140"ProcessProductPackaging KeychainAccessGroups2.plist build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent295976325#295976326#0(0"0(0#0#150"/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent4300911832#505"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/KeychainAccessGroups2.plist -entitlements -format xml -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/GenericKeychain.build/Debug-iphoneos/GenericKeychain2.build/GenericKeychain2.xcent0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+s295976325.985566
+e295976325.989646
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app295976325#295976325#0(0"0(0#0#0"4300911832#319"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GenericKeychain/build/Debug-iphoneos/GenericKeychain2.app0#
+

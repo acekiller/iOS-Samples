@@ -1,0 +1,327 @@
+TCopyPasteTile
+v7
+r0
+t294632436.538094
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/Info.plist CopyPasteTile-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/CopyPasteTile.app/ReadMe.rtf ReadMe.rtf
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch.gch CopyPasteTile_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTileAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTile.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTileView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.h
+c000000004BA400B90000000000000B4C
+t1269039289
+s2892
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m
+c000000004BA400B90000000000000D0F
+t1269039289
+s3343
+i"ColorTile.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.h
+c000000004BA400B90000000000000B7E
+t1269039289
+s2942
+i"ColorTile.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m
+c000000004BA400B90000000000002DFC
+t1269039289
+s11772
+i"ColorTileView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.h
+c000000004BA400B90000000000000AD9
+t1269039289
+s2777
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m
+c000000004BA400B90000000000000D6C
+t1269039289
+s3436
+i"CopyPasteTileAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/CopyPasteTile_Prefix.pch
+c000000004A54FA18000000000000014C
+t1247083032
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/Localizable.strings
+c000000004A54FA1800000000000015CC
+t1247083032
+s5580
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib
+c000000004A54FA1800000000000048FC
+t1247083032
+s18684
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib
+c000000004A54FA180000000000001DEF
+t1247083032
+s7663
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/ReadMe.rtf
+c000000004A54FA180000000000000B5A
+t1247083032
+s2906
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTile.o
+t1272939636
+s11484
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTileView.o
+t1272939636
+s34880
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTile.LinkFileList
+c000000004BDF8473000000000000028E
+t1272939635
+s654
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTileAppDelegate.o
+t1272939636
+s42504
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/main.o
+t1272939636
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app
+t1272939636
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app.dSYM
+t1272939636
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile
+t1272939636
+s32808
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/Localizable.strings
+t1272939635
+s358
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/MainView.nib
+t1272939635
+s2187
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/Info.plist
+t1272939635
+s615
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/MainWindow.nib
+t1272939635
+s1369
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/PkgInfo
+t1272939635
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/ReadMe.rtf
+t1272939635
+s2906
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m
+c000000004BA400B90000000000000A78
+t1269039289
+s2680
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch.gch
+t1272939636
+s12952976
+
+NCopyPasteTile-Info.plist
+c000000004A54FA18000000000000038D
+t1247083032
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294632435#294632435#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTile.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632436.370051
+e294632436.455119
+r1
+xCompileC
+xbuild/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTile.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m294632436#294632436#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m4300911832#2226"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTile.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTile.o0#
+
+CCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTileView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632436.371300
+e294632436.503295
+r1
+xCompileC
+xbuild/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTileView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m294632436#294632436#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m4300911832#2234"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/ColorTileView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/ColorTileView.o0#
+
+CCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTileAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632436.368814
+e294632436.464736
+r1
+xCompileC
+xbuild/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTileAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m294632436#294632436#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m4300911832#2256"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/Classes/CopyPasteTileAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTileAppDelegate.o0#
+
+CCompileC build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632436.367624
+e294632436.440493
+r1
+xCompileC
+xbuild/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m294632436#294632436#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m4300911832#2208"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib
+s294632435.427075
+e294632435.745237
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib
+lSLF07#2@37"CompileXIB English.lproj/MainView.xib294632435#294632435#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/MainView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/MainView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib
+s294632435.428123
+e294632435.704740
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294632435#294632435#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/MainWindow.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s294632435.433172
+e294632435.536478
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings294632435#294632435#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/English.lproj/Localizable.strings4300911832#544"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/English.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CopyPasteTile.app/ReadMe.rtf ReadMe.rtf
+s294632435.428983
+e294632435.449691
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CopyPasteTile.app/ReadMe.rtf
+xReadMe.rtf
+lSLF07#2@15"Copy ReadMe.rtf294632435#294632435#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/ReadMe.rtf4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/ReadMe.rtf /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile
+s294632436.522252
+e294632436.535246
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CopyPasteTile.app.dSYM build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile294632436#294632436#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile4300911832#464"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile normal i386
+s294632436.503397
+e294632436.522126
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile
+xnormal
+xi386
+lSLF07#2@124"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile294632436#294632436#0(0"0(0#0#0"4300911832#997"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/Objects-normal/i386/CopyPasteTile.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/CopyPasteTile0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/Info.plist CopyPasteTile-Info.plist
+s294632435.422118
+e294632435.426951
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/Info.plist
+xCopyPasteTile-Info.plist
+lSLF07#2@32"Process CopyPasteTile-Info.plist294632435#294632435#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/CopyPasteTile-Info.plist4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CopyPasteTile-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch.gch CopyPasteTile_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632435.745371
+e294632436.367521
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch.gch
+xCopyPasteTile_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile CopyPasteTile_Prefix.pch294632435#294632436#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/CopyPasteTile_Prefix.pch4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/CopyPasteTile-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/CopyPasteTile.build/Debug-iphonesimulator/CopyPasteTile.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/CopyPasteTile_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CopyPasteTile_Prefix-etiubozvwngqcvbotjpkvxepgrms/CopyPasteTile_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app
+s294632436.535342
+e294632436.538058
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app
+lSLF07#2@111"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app294632436#294632436#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CopyPasteTile/build/Debug-iphonesimulator/CopyPasteTile.app0#
+

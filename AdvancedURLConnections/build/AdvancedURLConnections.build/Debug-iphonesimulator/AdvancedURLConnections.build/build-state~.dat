@@ -1,0 +1,817 @@
+TAdvancedURLConnections
+v7
+r0
+t294574823.933592
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/Info.plist Resources/Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AdvURLs.app/debug.png Resources/debug.png
+cCpResource build/Debug-iphonesimulator/AdvURLs.app/get.png Resources/get.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/InitialDefaults.plist Resources/InitialDefaults.plist
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetControllerPickList.plist Resources/AdvancedGetControllerPickList.plist
+cCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib"
+cCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib"
+cCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib"
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsControllerPickList.plist Resources/CredentialsControllerPickList.plist
+cCpResource build/Debug-iphonesimulator/AdvURLs.app/credentials.png Resources/credentials.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/Credentials.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvancedGetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugOptions.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ServerTrustChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialImportController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialsController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/PickListController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004A0BA99500000000000004F5
+t1242278293
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004A0BA9980000000000073E20
+t1242278296
+s474656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.h
+c000000004B7C1C77000000000000111F
+t1266424951
+s4383
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m
+c000000004B7ECBF40000000000004E39
+t1266600948
+s20025
+i"AdvancedGetController.h"
+i"ChallengeHandler.h"
+i"PickListController.h"
+i"DebugOptions.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib
+c000000004B7C1BBE0000000000007491
+t1266424766
+s29841
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.h
+c000000004B7C1C770000000000000E20
+t1266424951
+s3616
+i<UIKit/UIKit.h>
+i"DebugController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m
+c000000004B7C1C770000000000001AEE
+t1266424951
+s6894
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m
+c000000004B7C1C770000000000000D00
+t1266424951
+s3328
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.h
+c000000004B7C1C7700000000000024CC
+t1266424951
+s9420
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m
+c000000004B7C1C770000000000002BB9
+t1266424951
+s11193
+i"ChallengeHandler.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.h
+c000000004B7C1C770000000000000CF1
+t1266424951
+s3313
+i"ChallengeHandler.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m
+c000000004B7C1C770000000000002375
+t1266424951
+s9077
+i"AuthenticationChallengeHandler.h"
+i"AuthenticationController.h"
+i"DebugOptions.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.h
+c000000004B7C1C770000000000000D1D
+t1266424951
+s3357
+i"ChallengeHandler.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m
+c000000004B7C1C770000000000002F36
+t1266424951
+s12086
+i"ClientIdentityChallengeHandler.h"
+i"ClientIdentityController.h"
+i"Credentials.h"
+i"DebugOptions.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.h
+c000000004B7ECBF40000000000000CA5
+t1266600948
+s3237
+i"ChallengeHandler.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m
+c000000004B7ECBF40000000000003DC8
+t1266600948
+s15816
+i"ServerTrustChallengeHandler.h"
+i"Credentials.h"
+i"DebugOptions.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.h
+c000000004B7C1C770000000000001104
+t1266424951
+s4356
+i"AppDelegate.h"
+i<Security/Security.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m
+c000000004B7C1C770000000000006A5B
+t1266424951
+s27227
+i"Credentials.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.h
+c000000004B7C1C7700000000000012DA
+t1266424951
+s4826
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m
+c000000004B7ECBF40000000000007F05
+t1266600948
+s32517
+i"CredentialsController.h"
+i"Credentials.h"
+i"CredentialImportController.h"
+i"PickListController.h"
+i"ServerTrustChallengeHandler.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib
+c000000004B7C1BBE0000000000007D8B
+t1266424766
+s32139
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.h
+c000000004B7C1C770000000000000C73
+t1266424951
+s3187
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m
+c000000004B7C1C77000000000000332E
+t1266424951
+s13102
+i"DebugController.h"
+i"DebugOptions.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib
+c000000004B420D9500000000000044D6
+t1262620053
+s17622
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.h
+c000000004B7C1C7700000000000013D3
+t1266424951
+s5075
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m
+c000000004B7C1C77000000000000193A
+t1266424951
+s6458
+i"DebugOptions.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/AdvancedGetControllerPickList.plist
+c000000004B7D4258000000000000027F
+t1266500184
+s639
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/CredentialsControllerPickList.plist
+c000000004B7D42580000000000000225
+t1266500184
+s549
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/InitialDefaults.plist
+c000000004B420D9500000000000001CF
+t1262620053
+s463
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib
+c000000004B420D950000000000007D31
+t1262620053
+s32049
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/credentials.png
+c000000004B420D9500000000000005D8
+t1262620053
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/debug.png
+c000000004B420D9500000000000005A4
+t1262620053
+s1444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/get.png
+c000000004B420D95000000000000010F
+t1262620053
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.h
+c000000004B7C1C770000000000001761
+t1266424951
+s5985
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m
+c000000004B7C1C7700000000000025E3
+t1266424951
+s9699
+i"AuthenticationController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib
+c000000004B420D95000000000000739B
+t1262620053
+s29595
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.h
+c000000004B7C1C770000000000001904
+t1266424951
+s6404
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m
+c000000004B7C1C77000000000000279F
+t1266424951
+s10143
+i"ClientIdentityController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib
+c000000004B420D950000000000005729
+t1262620053
+s22313
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.h
+c000000004B7C1C770000000000001820
+t1266424951
+s6176
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m
+c000000004B7C1C770000000000003127
+t1266424951
+s12583
+i"CredentialImportController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib
+c000000004B420D950000000000008C1D
+t1262620053
+s35869
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.h
+c000000004B7C1C7700000000000011B0
+t1266424951
+s4528
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m
+c000000004B7C1C77000000000000281E
+t1266424951
+s10270
+i"PickListController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvURLs.LinkFileList
+c000000004BDEA3630000000000000B90
+t1272882019
+s2960
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvancedGetController.o
+t1272882022
+s79952
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AppDelegate.o
+t1272882022
+s47776
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationChallengeHandler.o
+t1272882022
+s40292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationController.o
+t1272882023
+s49816
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ChallengeHandler.o
+t1272882022
+s51996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityChallengeHandler.o
+t1272882022
+s51828
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityController.o
+t1272882023
+s51340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialImportController.o
+t1272882023
+s56028
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/Credentials.o
+t1272882022
+s55052
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialsController.o
+t1272882023
+s111476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugController.o
+t1272882022
+s45472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugOptions.o
+t1272882022
+s16644
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/PickListController.o
+t1272882023
+s45212
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ServerTrustChallengeHandler.o
+t1272882023
+s52760
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/main.o
+t1272882022
+s6376
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app
+t1272882023
+s612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app.dSYM
+t1272882023
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs
+t1272882023
+s207728
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetController.nib
+t1272882021
+s3836
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetControllerPickList.plist
+t1272882020
+s388
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AuthenticationController.nib
+t1272882020
+s3731
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/ClientIdentityController.nib
+t1272882021
+s2211
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialImportController.nib
+t1272882021
+s5155
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsController.nib
+t1272882021
+s4330
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsControllerPickList.plist
+t1272882020
+s324
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/DebugController.nib
+t1272882021
+s1401
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/Info.plist
+t1272882019
+s554
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/InitialDefaults.plist
+t1272882020
+s216
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/MainWindow.nib
+t1272882020
+s3046
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/PkgInfo
+t1272882019
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/credentials.png
+t1272882020
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/debug.png
+t1272882020
+s1444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/get.png
+t1272882020
+s271
+
+NResources/Info.plist
+c000000004B420D950000000000000357
+t1262620053
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294574819#294574819#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvancedGetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.329067
+e294574822.727853
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvancedGetController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m294574822#294574822#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m4300911832#2450"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvancedGetController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574821.889702
+e294574822.431965
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m294574821#294574822#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m4300911832#2447"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/AppDelegate.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.432111
+e294574822.752781
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationChallengeHandler.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m294574822#294574822#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m4300911832#2486"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/AuthenticationChallengeHandler.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationChallengeHandler.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.728025
+e294574823.115090
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m294574822#294574823#0(0"0(0#0#114"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m4300911832#2477"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AuthenticationController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.331629
+e294574822.679042
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ChallengeHandler.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m294574822#294574822#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m4300911832#2440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandler.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ChallengeHandler.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.523852
+e294574822.875945
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityChallengeHandler.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m294574822#294574822#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m4300911832#2486"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ClientIdentityChallengeHandler.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityChallengeHandler.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.752964
+e294574823.128644
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m294574822#294574823#0(0"0(0#0#114"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m4300911832#2477"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ClientIdentityController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialImportController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.876118
+e294574823.225683
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialImportController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m294574822#294574823#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m4300911832#2481"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialImportController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/Credentials.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574821.892193
+e294574822.331439
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/Credentials.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m294574821#294574822#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m4300911832#2430"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Credentials.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/Credentials.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialsController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574823.047157
+e294574823.459381
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialsController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m294574823#294574823#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m4300911832#2450"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/CredentialsController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574821.893593
+e294574822.333768
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m294574821#294574822#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m4300911832#2438"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugOptions.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.333923
+e294574822.523686
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugOptions.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m294574822#294574822#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m4300911832#2432"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugOptions.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/DebugOptions.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/PickListController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574823.115241
+e294574823.392402
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/PickListController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m294574823#294574823#0(0"0(0#0#108"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m4300911832#2465"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/PickListController.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/PickListController.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ServerTrustChallengeHandler.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574822.679200
+e294574823.045922
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ServerTrustChallengeHandler.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m294574822#294574823#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m4300911832#2480"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/ChallengeHandlers/ServerTrustChallengeHandler.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/ServerTrustChallengeHandler.o0#
+
+CCompileC build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574821.890859
+e294574822.328810
+r1
+xCompileC
+xbuild/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m294574821#294574822#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m4300911832#2433"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/AdvURLs-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Ancillary Code/main.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib"
+s294574820.003102
+e294574820.423954
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib
+lSLF07#2@60"CompileXIB "UI Building Blocks/AuthenticationController.xib"294574820#294574820#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib4300911832#619"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AuthenticationController.nib "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/AuthenticationController.xib"0#
+
+CCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib"
+s294574820.396968
+e294574821.366475
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib
+lSLF07#2@60"CompileXIB "UI Building Blocks/ClientIdentityController.xib"294574820#294574821#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib4300911832#619"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/ClientIdentityController.nib "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/ClientIdentityController.xib"0#
+
+CCompileXIB "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib"
+s294574820.398476
+e294574821.236325
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib
+lSLF07#2@62"CompileXIB "UI Building Blocks/CredentialImportController.xib"294574820#294574821#0(0"0(0#0#118"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib4300911832#623"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialImportController.nib "/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/UI Building Blocks/CredentialImportController.xib"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib
+s294574820.478378
+e294574821.201511
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib
+lSLF07#2@36"CompileXIB AdvancedGetController.xib294574820#294574821#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib4300911832#592"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/AdvancedGetController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib
+s294574820.533844
+e294574821.205070
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib
+lSLF07#2@36"CompileXIB CredentialsController.xib294574820#294574821#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib4300911832#592"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/CredentialsController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib
+s294574821.201646
+e294574821.889491
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib
+lSLF07#2@30"CompileXIB DebugController.xib294574821#294574821#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/DebugController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/DebugController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib
+s294574819.972388
+e294574820.533703
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294574819#294574820#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetControllerPickList.plist Resources/AdvancedGetControllerPickList.plist
+s294574820.001698
+e294574820.396823
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvancedGetControllerPickList.plist
+xResources/AdvancedGetControllerPickList.plist
+lSLF07#2@50"Copy Resources/AdvancedGetControllerPickList.plist294574820#294574820#0(0"0(0#0#114"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/AdvancedGetControllerPickList.plist4300911832#480"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/AdvancedGetControllerPickList.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsControllerPickList.plist Resources/CredentialsControllerPickList.plist
+s294574820.424088
+e294574820.475869
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/CredentialsControllerPickList.plist
+xResources/CredentialsControllerPickList.plist
+lSLF07#2@50"Copy Resources/CredentialsControllerPickList.plist294574820#294574820#0(0"0(0#0#114"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/CredentialsControllerPickList.plist4300911832#480"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/CredentialsControllerPickList.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/InitialDefaults.plist Resources/InitialDefaults.plist
+s294574819.975318
+e294574820.398255
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/InitialDefaults.plist
+xResources/InitialDefaults.plist
+lSLF07#2@36"Copy Resources/InitialDefaults.plist294574819#294574820#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/InitialDefaults.plist4300911832#466"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/InitialDefaults.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvURLs.app/credentials.png Resources/credentials.png
+s294574820.476007
+e294574820.488909
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvURLs.app/credentials.png
+xResources/credentials.png
+lSLF07#2@30"Copy Resources/credentials.png294574820#294574820#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/credentials.png4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/credentials.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvURLs.app/debug.png Resources/debug.png
+s294574819.973442
+e294574820.001557
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvURLs.app/debug.png
+xResources/debug.png
+lSLF07#2@24"Copy Resources/debug.png294574819#294574820#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/debug.png4300911832#574"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/debug.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvURLs.app/get.png Resources/get.png
+s294574819.974403
+e294574820.002976
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvURLs.app/get.png
+xResources/get.png
+lSLF07#2@22"Copy Resources/get.png294574819#294574820#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/get.png4300911832#572"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/get.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs
+s294574823.859461
+e294574823.930195
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/AdvURLs.app.dSYM build/Debug-iphonesimulator/AdvURLs.app/AdvURLs294574823#294574823#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs4300911832#473"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs normal i386
+s294574823.459541
+e294574823.859316
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs
+xnormal
+xi386
+lSLF07#2@121"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs294574823#294574823#0(0"0(0#0#0"4300911832#1038"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/AdvancedURLConnections.build/Debug-iphonesimulator/AdvancedURLConnections.build/Objects-normal/i386/AdvURLs.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework Security -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/AdvURLs0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/Info.plist Resources/Info.plist
+s294574819.967325
+e294574819.972248
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist294574819#294574819#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/Resources/Info.plist4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app/Info.plist0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app
+s294574823.930294
+e294574823.933553
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app
+lSLF07#2@114"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app294574823#294574823#0(0"0(0#0#0"4300911832#338"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedURLConnections/build/Debug-iphonesimulator/AdvURLs.app0#
+

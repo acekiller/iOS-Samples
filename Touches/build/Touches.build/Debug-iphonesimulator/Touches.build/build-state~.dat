@@ -1,0 +1,332 @@
+TTouches
+v7
+r0
+t294636330.181012
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/Touches.app/CyanSquare.png Images/CyanSquare.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Default.png Images/Default.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+cCpResource build/Debug-iphonesimulator/Touches.app/YellowSquare.png Images/YellowSquare.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch.gch Touches_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.h
+c000000004BA3EA170000000000000E44
+t1269033495
+s3652
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m
+c000000004BA3EA1700000000000028B3
+t1269033495
+s10419
+i"MyView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.h
+c000000004BA3EA170000000000000A35
+t1269033495
+s2613
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m
+c000000004BA3EA170000000000000C25
+t1269033495
+s3109
+i"TouchesAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/CyanSquare.png
+c0000000048B655FB000000000000191A
+t1219909115
+s6426
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Default.png
+c0000000048B655FB0000000000004B3C
+t1219909115
+s19260
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Icon.png
+c0000000048B655FB0000000000000968
+t1219909115
+s2408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/MagentaSquare.png
+c0000000048B655FB00000000000019CE
+t1219909115
+s6606
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/YellowSquare.png
+c0000000048B655FB0000000000000F03
+t1219909115
+s3843
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Touches_Prefix.pch
+c0000000048B655FB00000000000000AF
+t1219909115
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app
+t1272943530
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app.dSYM
+t1272943530
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/CyanSquare.png
+t1272943528
+s6426
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Default.png
+t1272943528
+s19260
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Icon.png
+t1272943528
+s2408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Info.plist
+t1272943528
+s680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/MagentaSquare.png
+t1272943528
+s6606
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/PkgInfo
+t1272943528
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches
+t1272943530
+s26552
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/YellowSquare.png
+t1272943528
+s3843
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/en.lproj/MainWindow.nib
+t1272943529
+s3851
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o
+t1272943530
+s32784
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/Touches.LinkFileList
+c000000004BDF93A800000000000001AB
+t1272943528
+s427
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o
+t1272943530
+s14116
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o
+t1272943530
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib
+c0000000049F9E5A80000000000004B34
+t1241114024
+s19252
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m
+c000000004BA3EA170000000000000A53
+t1269033495
+s2643
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch.gch
+t1272943529
+s12952976
+
+NInfo.plist
+c0000000049F9E5A800000000000003D9
+t1241114024
+s985
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636328#294636328#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636330.040235
+e294636330.147186
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m294636330#294636330#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m4300911832#2034"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/MyView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636330.038983
+e294636330.107471
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m294636330#294636330#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m4300911832#2058"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Classes/TouchesAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636330.037770
+e294636330.103038
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m294636330#294636330#0(0"0(0#0#60"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m4300911832#2022"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib
+s294636328.964958
+e294636329.389757
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636328#294636329#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib4300911832#543"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/en.lproj/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/CyanSquare.png Images/CyanSquare.png
+s294636328.960327
+e294636328.967858
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/CyanSquare.png
+xImages/CyanSquare.png
+lSLF07#2@26"Copy Images/CyanSquare.png294636328#294636328#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/CyanSquare.png4300911832#510"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/CyanSquare.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Default.png Images/Default.png
+s294636328.961275
+e294636328.968612
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Default.png
+xImages/Default.png
+lSLF07#2@23"Copy Images/Default.png294636328#294636328#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Default.png4300911832#507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon.png Images/Icon.png
+s294636328.962186
+e294636328.973351
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png294636328#294636328#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Icon.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+s294636328.963097
+e294636328.975990
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/MagentaSquare.png
+xImages/MagentaSquare.png
+lSLF07#2@29"Copy Images/MagentaSquare.png294636328#294636328#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/MagentaSquare.png4300911832#513"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/MagentaSquare.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/YellowSquare.png Images/YellowSquare.png
+s294636328.964035
+e294636328.972757
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/YellowSquare.png
+xImages/YellowSquare.png
+lSLF07#2@28"Copy Images/YellowSquare.png294636328#294636328#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/YellowSquare.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Images/YellowSquare.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches
+s294636330.164103
+e294636330.176939
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Touches.app.dSYM build/Debug-iphonesimulator/Touches.app/Touches294636330#294636330#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches4300911832#428"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches normal i386
+s294636330.147289
+e294636330.163991
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches
+xnormal
+xi386
+lSLF07#2@106"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches294636330#294636330#0(0"0(0#0#0"4300911832#937"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/Touches.LinkFileList -mmacosx-version-min=10.5 -framework UIKit -framework CoreGraphics -framework Foundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Touches0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Info.plist Info.plist
+s294636328.956446
+e294636328.960202
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636328#294636328#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Info.plist4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch.gch Touches_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636329.389886
+e294636330.037658
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch.gch
+xTouches_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Touches_Prefix.pch294636329#294636330#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Touches_Prefix.pch4300911832#1899"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/Touches_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-fazzmlkjwfudqigddvfxbjzrdmmn/Touches_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app
+s294636330.177052
+e294636330.180964
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app
+lSLF07#2@99"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app294636330#294636330#0(0"0(0#0#0"4300911832#308"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Touches/build/Debug-iphonesimulator/Touches.app0#
+

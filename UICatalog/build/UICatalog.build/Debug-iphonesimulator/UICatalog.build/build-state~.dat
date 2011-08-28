@@ -1,0 +1,1308 @@
+TUICatalog
+v7
+r0
+t294590655.366905
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/UICatalog.app/scene1.jpg images/scene1.jpg
+cCpResource build/Debug-iphonesimulator/UICatalog.app/scene2.jpg images/scene2.jpg
+cCpResource build/Debug-iphonesimulator/UICatalog.app/scene3.jpg images/scene3.jpg
+cCpResource build/Debug-iphonesimulator/UICatalog.app/scene4.jpg images/scene4.jpg
+cCpResource build/Debug-iphonesimulator/UICatalog.app/scene5.jpg images/scene5.jpg
+cCpResource build/Debug-iphonesimulator/UICatalog.app/whiteButton.png images/whiteButton.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/Default.png images/Default.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/segment_tools.png images/segment_tools.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/segment_search.png images/segment_search.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/segment_check.png images/segment_check.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/slider_ball.png images/slider_ball.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/yellowslide.png images/yellowslide.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/orangeslide.png images/orangeslide.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/UIButton_custom.png images/UIButton_custom.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/UICatalog.app/blueButton.png images/blueButton.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/12-6AM.png images/12-6AM.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/6-12PM.png images/6-12PM.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/6-12AM.png images/6-12AM.png
+cCpResource build/Debug-iphonesimulator/UICatalog.app/12-6PM.png images/12-6PM.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/WebViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/PickerViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ImagesViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ControlsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AlertsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SegmentViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextFieldController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ButtonsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ToolbarViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SearchBarController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TransitionViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomPickerDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004A0BA8D900000000001D7C70
+t1242278105
+s1932400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.h
+c000000004BA3EA7D0000000000000AE8
+t1269033597
+s2792
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m
+c000000004BA3EA7D0000000000002A78
+t1269033597
+s10872
+i"AlertsViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.h
+c000000004BA3EA7D0000000000000AFF
+t1269033597
+s2815
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m
+c000000004BA3EA7D0000000000000F71
+t1269033597
+s3953
+i"AppDelegate.h"
+i"MainViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.h
+c000000004BA3EA7D0000000000000D4B
+t1269033597
+s3403
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m
+c000000004BA3EA7D00000000000040F3
+t1269033597
+s16627
+i"ButtonsViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Constants.h
+c000000004BA3EA7D0000000000000ADD
+t1269033597
+s2781
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.h
+c000000004BA3EA7D0000000000000CD0
+t1269033597
+s3280
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m
+c000000004BA3EA7D0000000000003668
+t1269033597
+s13928
+i"ControlsViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.h
+c000000004BA3EA7D0000000000000AF6
+t1269033597
+s2806
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m
+c000000004BA3EA7D00000000000013DE
+t1269033597
+s5086
+i"ImagesViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.h
+c000000004BA3EA7D0000000000000A68
+t1269033597
+s2664
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m
+c000000004BA3EA7D00000000000029E5
+t1269033597
+s10725
+i"MainViewController.h"
+i"ButtonsViewController.h"
+i"ControlsViewController.h"
+i"TextFieldController.h"
+i"SearchBarController.h"
+i"TextViewController.h"
+i"SegmentViewController.h"
+i"ToolbarViewController.h"
+i"PickerViewController.h"
+i"ImagesViewController.h"
+i"WebViewController.h"
+i"AlertsViewController.h"
+i"TransitionViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.h
+c000000004BA3EA7D0000000000000A8D
+t1269033597
+s2701
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m
+c000000004BA3EA7D00000000000012F9
+t1269033597
+s4857
+i"CustomPickerDataSource.h"
+i"CustomView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.h
+c000000004BA3EA7D0000000000000AB2
+t1269033597
+s2738
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m
+c000000004BA3EA7D0000000000000FF2
+t1269033597
+s4082
+i"CustomView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.h
+c000000004BA3EA7D0000000000000F26
+t1269033597
+s3878
+i<UIKit/UIKit.h>
+i"CustomPickerDataSource.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m
+c000000004BA3EA7D00000000000031E7
+t1269033597
+s12775
+i"PickerViewController.h"
+i"CustomView.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Prefix.pch
+c0000000049FA2DB4000000000000005A
+t1241132468
+s90
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.h
+c000000004BA3EA7D0000000000000A90
+t1269033597
+s2704
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m
+c000000004BA3EA7D0000000000000F73
+t1269033597
+s3955
+i"SearchBarController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.h
+c000000004BA3EA7D0000000000000A30
+t1269033597
+s2608
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m
+c000000004BA3EA7D0000000000002013
+t1269033597
+s8211
+i"SegmentViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.h
+c000000004BA3EA7D0000000000000C38
+t1269033597
+s3128
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m
+c000000004BA3EA7D0000000000003260
+t1269033597
+s12896
+i"TextFieldController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.h
+c000000004BA3EA7D0000000000000A83
+t1269033597
+s2691
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m
+c000000004BA3EA7D0000000000001A96
+t1269033597
+s6806
+i"TextViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.h
+c000000004BA3EA7D0000000000000DB2
+t1269033597
+s3506
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m
+c000000004BA3EA7D0000000000002495
+t1269033597
+s9365
+i"ToolbarViewController.h"
+i"AppDelegate.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.h
+c000000004BA3EA7D0000000000000B53
+t1269033597
+s2899
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m
+c000000004BA3EA7D000000000000196D
+t1269033597
+s6509
+i"TransitionViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.h
+c000000004BA3EA7D0000000000000A93
+t1269033597
+s2707
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m
+c000000004BA3EA7D0000000000001A68
+t1269033597
+s6760
+i"WebViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app
+t1272897855
+s884
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app.dSYM
+t1272897855
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/12-6AM.png
+t1272897852
+s2025
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/12-6PM.png
+t1272897852
+s2488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/6-12AM.png
+t1272897852
+s2375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/6-12PM.png
+t1272897852
+s2219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Default.png
+t1272897852
+s2120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Icon.png
+t1272897852
+s4465
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Info.plist
+t1272897852
+s628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/PkgInfo
+t1272897852
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UIButton_custom.png
+t1272897852
+s655
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog
+t1272897855
+s149756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/blueButton.png
+t1272897852
+s1468
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/AlertsViewController.nib
+t1272897853
+s1307
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ButtonsViewController.nib
+t1272897852
+s1351
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ControlsViewController.nib
+t1272897852
+s1351
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ImagesViewController.nib
+t1272897853
+s2235
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/Localizable.strings
+t1272897852
+s1053
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/MainWindow.nib
+t1272897852
+s2414
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/PickerViewController.nib
+t1272897852
+s4252
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/SearchBarController.nib
+t1272897853
+s1144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/SegmentViewController.nib
+t1272897853
+s1144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TextFieldController.nib
+t1272897853
+s1441
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TextViewController.nib
+t1272897853
+s1144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ToolbarViewController.nib
+t1272897853
+s4769
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TransitionViewController.nib
+t1272897853
+s1854
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/WebViewController.nib
+t1272897853
+s1144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/orangeslide.png
+t1272897852
+s3113
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/scene1.jpg
+t1272897852
+s47088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/scene2.jpg
+t1272897852
+s12079
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/scene3.jpg
+t1272897852
+s23859
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/scene4.jpg
+t1272897852
+s15622
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/scene5.jpg
+t1272897852
+s15527
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/segment_check.png
+t1272897852
+s510
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/segment_search.png
+t1272897852
+s3777
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/segment_tools.png
+t1272897852
+s3884
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/slider_ball.png
+t1272897852
+s868
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/whiteButton.png
+t1272897852
+s1430
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/yellowslide.png
+t1272897852
+s3110
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AlertsViewController.o
+t1272897854
+s56224
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AppDelegate.o
+t1272897854
+s39388
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ButtonsViewController.o
+t1272897855
+s59856
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ControlsViewController.o
+t1272897854
+s58168
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomPickerDataSource.o
+t1272897855
+s19692
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomView.o
+t1272897855
+s17084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ImagesViewController.o
+t1272897854
+s40016
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/MainViewController.o
+t1272897854
+s57708
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/PickerViewController.o
+t1272897854
+s64812
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SearchBarController.o
+t1272897855
+s36348
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SegmentViewController.o
+t1272897854
+s43456
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextFieldController.o
+t1272897855
+s53988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextViewController.o
+t1272897854
+s48056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ToolbarViewController.o
+t1272897855
+s55800
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TransitionViewController.o
+t1272897855
+s44476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/UICatalog.LinkFileList
+c000000004BDEE13C0000000000000A6E
+t1272897852
+s2670
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/WebViewController.o
+t1272897854
+s46832
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/main.o
+t1272897854
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib
+c0000000049FA2DB40000000000001768
+t1241132468
+s5992
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib
+c0000000049FA2DB400000000000017F8
+t1241132468
+s6136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib
+c0000000049FA2DB400000000000017FB
+t1241132468
+s6139
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib
+c0000000049FA2DB40000000000002AA2
+t1241132468
+s10914
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/Localizable.strings
+c000000004A807EB00000000000000414
+t1249935024
+s1044
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib
+c0000000049FA2DB40000000000003227
+t1241132468
+s12839
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib
+c0000000049FA2DB4000000000000421A
+t1241132468
+s16922
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib
+c0000000049FA2DB4000000000000168E
+t1241132468
+s5774
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib
+c0000000049FA2DB400000000000016C9
+t1241132468
+s5833
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib
+c0000000049FA2DB40000000000001B23
+t1241132468
+s6947
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib
+c0000000049FA2DB4000000000000179C
+t1241132468
+s6044
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib
+c0000000049FA2DB40000000000004FD1
+t1241132468
+s20433
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib
+c0000000049FA2DB40000000000002906
+t1241132468
+s10502
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib
+c0000000049FA2DB4000000000000167C
+t1241132468
+s5756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6AM.png
+c0000000049FA2DB400000000000007E9
+t1241132468
+s2025
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6PM.png
+c0000000049FA2DB400000000000009B8
+t1241132468
+s2488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12AM.png
+c0000000049FA2DB40000000000000947
+t1241132468
+s2375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12PM.png
+c0000000049FA2DB400000000000008AB
+t1241132468
+s2219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Default.png
+c0000000049FA2DB40000000000000848
+t1241132468
+s2120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Icon.png
+c0000000049FA2DB40000000000001171
+t1241132468
+s4465
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/UIButton_custom.png
+c0000000049FA2DB4000000000000028F
+t1241132468
+s655
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/blueButton.png
+c0000000049FA2DB400000000000005BC
+t1241132468
+s1468
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/orangeslide.png
+c0000000049FA2DB40000000000000C29
+t1241132468
+s3113
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene1.jpg
+c0000000049FA2DB4000000000000B7F0
+t1241132468
+s47088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene2.jpg
+c0000000049FA2DB40000000000002F2F
+t1241132468
+s12079
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene3.jpg
+c0000000049FA2DB40000000000005D33
+t1241132468
+s23859
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene4.jpg
+c0000000049FA2DB40000000000003D06
+t1241132468
+s15622
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene5.jpg
+c0000000049FA2DB40000000000003CA7
+t1241132468
+s15527
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_check.png
+c0000000049FA2DB400000000000001FE
+t1241132468
+s510
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_search.png
+c0000000049FA2DB40000000000000EC1
+t1241132468
+s3777
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_tools.png
+c0000000049FA2DB40000000000000F2C
+t1241132468
+s3884
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/slider_ball.png
+c0000000049FA2DB40000000000000364
+t1241132468
+s868
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/whiteButton.png
+c0000000049FA2DB40000000000000596
+t1241132468
+s1430
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/yellowslide.png
+c0000000049FA2DB40000000000000C26
+t1241132468
+s3110
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m
+c000000004BA3EA7D0000000000000A81
+t1269033597
+s2689
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch.gch
+t1272897854
+s12948848
+
+NInfo.plist
+c000000004A8097CF0000000000000389
+t1249941455
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294590652#294590652#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AlertsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.751036
+e294590654.923830
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AlertsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m294590654#294590654#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m4300911832#2087"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AlertsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AlertsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.476179
+e294590654.605259
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m294590654#294590654#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m4300911832#2069"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ButtonsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.901632
+e294590655.137717
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ButtonsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m294590654#294590655#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ButtonsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ButtonsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ControlsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.690430
+e294590654.901443
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ControlsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m294590654#294590654#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m4300911832#2091"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ControlsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ControlsViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomPickerDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590655.137875
+e294590655.218798
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomPickerDataSource.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m294590655#294590655#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m4300911832#2098"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomPickerDataSource.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomPickerDataSource.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590655.090083
+e294590655.187367
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m294590655#294590655#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m4300911832#2074"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Picker/CustomView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/CustomView.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ImagesViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.688595
+e294590654.793556
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ImagesViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m294590654#294590654#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m4300911832#2087"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ImagesViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ImagesViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.605406
+e294590654.865169
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/MainViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m294590654#294590654#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m4300911832#2083"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/MainViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/PickerViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.534559
+e294590654.750874
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/PickerViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m294590654#294590654#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m4300911832#2087"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/PickerViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/PickerViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SearchBarController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.952724
+e294590655.083092
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SearchBarController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m294590654#294590655#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m4300911832#2085"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SearchBarController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SearchBarController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SegmentViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.793715
+e294590654.952557
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SegmentViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m294590654#294590654#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/SegmentViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/SegmentViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextFieldController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.865337
+e294590655.089930
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextFieldController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m294590654#294590655#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m4300911832#2085"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextFieldController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextFieldController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.478556
+e294590654.688389
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m294590654#294590654#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m4300911832#2083"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TextViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TextViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ToolbarViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.923988
+e294590655.142692
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ToolbarViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m294590654#294590655#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/ToolbarViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/ToolbarViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TransitionViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590655.083249
+e294590655.219189
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TransitionViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m294590655#294590655#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m4300911832#2095"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/TransitionViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/TransitionViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/WebViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.477230
+e294590654.690285
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/WebViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m294590654#294590654#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m4300911832#2081"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/WebViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/WebViewController.o0#
+
+CCompileC build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590654.475124
+e294590654.534395
+r1
+xCompileC
+xbuild/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m294590654#294590654#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m4300911832#2055"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib
+s294590653.460781
+e294590653.769757
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/AlertsViewController.xib294590653#294590653#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/AlertsViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/AlertsViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib
+s294590652.479383
+e294590652.880140
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/ButtonsViewController.xib294590652#294590652#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ButtonsViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ButtonsViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib
+s294590652.677517
+e294590652.992038
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/ControlsViewController.xib294590652#294590652#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ControlsViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ControlsViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib
+s294590653.038786
+e294590653.460646
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/ImagesViewController.xib294590653#294590653#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ImagesViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ImagesViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib
+s294590652.457606
+e294590652.963661
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294590652#294590652#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib
+s294590652.470058
+e294590653.038663
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/PickerViewController.xib294590652#294590653#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/PickerViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/PickerViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib
+s294590652.992179
+e294590653.347843
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib
+lSLF07#2@43"CompileXIB en.lproj/SearchBarController.xib294590652#294590653#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/SearchBarController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SearchBarController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib
+s294590653.319871
+e294590653.646155
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/SegmentViewController.xib294590653#294590653#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/SegmentViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/SegmentViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib
+s294590652.880288
+e294590653.205956
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib
+lSLF07#2@43"CompileXIB en.lproj/TextFieldController.xib294590652#294590653#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TextFieldController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextFieldController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib
+s294590652.963822
+e294590653.319736
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib
+lSLF07#2@42"CompileXIB en.lproj/TextViewController.xib294590652#294590653#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib4300911832#567"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TextViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TextViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib
+s294590653.347979
+e294590653.856554
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/ToolbarViewController.xib294590653#294590653#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/ToolbarViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/ToolbarViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib
+s294590653.540981
+e294590653.871515
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib
+lSLF07#2@48"CompileXIB en.lproj/TransitionViewController.xib294590653#294590653#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/TransitionViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/TransitionViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib
+s294590653.206092
+e294590653.540849
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/WebViewController.xib294590653#294590653#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/WebViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/WebViewController.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294590652.461930
+e294590652.677395
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294590652#294590652#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/en.lproj/Localizable.strings4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/12-6AM.png images/12-6AM.png
+s294590652.466170
+e294590652.477262
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/12-6AM.png
+ximages/12-6AM.png
+lSLF07#2@22"Copy images/12-6AM.png294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6AM.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6AM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/12-6PM.png images/12-6PM.png
+s294590652.469152
+e294590652.479267
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/12-6PM.png
+ximages/12-6PM.png
+lSLF07#2@22"Copy images/12-6PM.png294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6PM.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/12-6PM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/6-12AM.png images/6-12AM.png
+s294590652.468279
+e294590652.477019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/6-12AM.png
+ximages/6-12AM.png
+lSLF07#2@22"Copy images/6-12AM.png294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12AM.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12AM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/6-12PM.png images/6-12PM.png
+s294590652.467288
+e294590652.478795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/6-12PM.png
+ximages/6-12PM.png
+lSLF07#2@22"Copy images/6-12PM.png294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12PM.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/6-12PM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/Default.png images/Default.png
+s294590652.428212
+e294590652.459130
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png294590652#294590652#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Default.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/Icon.png images/Icon.png
+s294590652.452252
+e294590652.461571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png294590652#294590652#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Icon.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/UIButton_custom.png images/UIButton_custom.png
+s294590652.455881
+e294590652.471175
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/UIButton_custom.png
+ximages/UIButton_custom.png
+lSLF07#2@31"Copy images/UIButton_custom.png294590652#294590652#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/UIButton_custom.png4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/UIButton_custom.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/blueButton.png images/blueButton.png
+s294590652.465144
+e294590652.473893
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/blueButton.png
+ximages/blueButton.png
+lSLF07#2@26"Copy images/blueButton.png294590652#294590652#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/blueButton.png4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/blueButton.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/orangeslide.png images/orangeslide.png
+s294590652.439072
+e294590652.465005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/orangeslide.png
+ximages/orangeslide.png
+lSLF07#2@27"Copy images/orangeslide.png294590652#294590652#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/orangeslide.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/orangeslide.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/scene1.jpg images/scene1.jpg
+s294590652.423268
+e294590652.433834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/scene1.jpg
+ximages/scene1.jpg
+lSLF07#2@22"Copy images/scene1.jpg294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene1.jpg4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene1.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/scene2.jpg images/scene2.jpg
+s294590652.424075
+e294590652.432503
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/scene2.jpg
+ximages/scene2.jpg
+lSLF07#2@22"Copy images/scene2.jpg294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene2.jpg4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene2.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/scene3.jpg images/scene3.jpg
+s294590652.424764
+e294590652.438935
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/scene3.jpg
+ximages/scene3.jpg
+lSLF07#2@22"Copy images/scene3.jpg294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene3.jpg4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene3.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/scene4.jpg images/scene4.jpg
+s294590652.425625
+e294590652.461813
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/scene4.jpg
+ximages/scene4.jpg
+lSLF07#2@22"Copy images/scene4.jpg294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene4.jpg4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene4.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/scene5.jpg images/scene5.jpg
+s294590652.426525
+e294590652.458935
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/scene5.jpg
+ximages/scene5.jpg
+lSLF07#2@22"Copy images/scene5.jpg294590652#294590652#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene5.jpg4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/scene5.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/segment_check.png images/segment_check.png
+s294590652.430673
+e294590652.457488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/segment_check.png
+ximages/segment_check.png
+lSLF07#2@29"Copy images/segment_check.png294590652#294590652#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_check.png4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_check.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/segment_search.png images/segment_search.png
+s294590652.429833
+e294590652.452101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/segment_search.png
+ximages/segment_search.png
+lSLF07#2@30"Copy images/segment_search.png294590652#294590652#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_search.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_search.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/segment_tools.png images/segment_tools.png
+s294590652.429019
+e294590652.457296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/segment_tools.png
+ximages/segment_tools.png
+lSLF07#2@29"Copy images/segment_tools.png294590652#294590652#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_tools.png4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/segment_tools.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/slider_ball.png images/slider_ball.png
+s294590652.432610
+e294590652.460278
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/slider_ball.png
+ximages/slider_ball.png
+lSLF07#2@27"Copy images/slider_ball.png294590652#294590652#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/slider_ball.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/slider_ball.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/whiteButton.png images/whiteButton.png
+s294590652.427380
+e294590652.455755
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/whiteButton.png
+ximages/whiteButton.png
+lSLF07#2@27"Copy images/whiteButton.png294590652#294590652#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/whiteButton.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/whiteButton.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CCpResource build/Debug-iphonesimulator/UICatalog.app/yellowslide.png images/yellowslide.png
+s294590652.433945
+e294590652.457098
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UICatalog.app/yellowslide.png
+ximages/yellowslide.png
+lSLF07#2@27"Copy images/yellowslide.png294590652#294590652#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/yellowslide.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/images/yellowslide.png /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog
+s294590655.279914
+e294590655.360797
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/UICatalog.app.dSYM build/Debug-iphonesimulator/UICatalog.app/UICatalog294590655#294590655#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog normal i386
+s294590655.219290
+e294590655.279803
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog294590655#294590655#0(0"0(0#0#0"4300911832#983"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/Objects-normal/i386/UICatalog.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/UICatalog0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Info.plist Info.plist
+s294590652.419470
+e294590652.423176
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294590652#294590652#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Info.plist4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590653.871669
+e294590654.474944
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294590653#294590654#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Prefix.pch4300911832#1918"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/UICatalog-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/UICatalog.build/Debug-iphonesimulator/UICatalog.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dhfzfoypcysyvabghfccvrjvtgqu/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app
+s294590655.360892
+e294590655.366852
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app294590655#294590655#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/UICatalog/build/Debug-iphonesimulator/UICatalog.app0#
+

@@ -1,0 +1,4 @@
+/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m:103: warning: property 'saturation' requires method '-saturation' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m:103: warning: property 'saturation' requires the method 'setSaturation:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m:103: warning: property 'brightness' requires method '-brightness' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m:103: warning: property 'brightness' requires the method 'setBrightness:' to be defined - use @synthesize, @dynamic or provide a method implementation

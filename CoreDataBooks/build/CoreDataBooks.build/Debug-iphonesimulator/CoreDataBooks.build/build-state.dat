@@ -1,0 +1,482 @@
+TCoreDataBooks
+v7
+r0
+t294633427.414169
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/CoreDataBooks.app/ReadMe.txt ReadMe.txt
+cCpResource build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.sqlite CoreDataBooks.sqlite
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Localizable.strings Localizable.strings
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch.gch CoreDataBooks_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooksAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/AddViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/EditingViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/Book.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000181680
+t1242278878
+s1578624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.h
+c000000004BA400B00000000000000C8E
+t1269039280
+s3214
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m
+c000000004BA400B00000000000000FA2
+t1269039280
+s4002
+i"AddViewController.h"
+i"Book.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.h
+c000000004BA400B00000000000000AA1
+t1269039280
+s2721
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m
+c000000004BA400B00000000000000A26
+t1269039280
+s2598
+i"Book.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.h
+c000000004BA400B00000000000000D40
+t1269039280
+s3392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m
+c000000004BA400B00000000000001D49
+t1269039280
+s7497
+i"CoreDataBooksAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.h
+c000000004BA400B00000000000000D5F
+t1269039280
+s3423
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m
+c000000004BA400B000000000000028EE
+t1269039280
+s10478
+i"DetailViewController.h"
+i"Book.h"
+i"EditingViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.h
+c000000004BA400B00000000000000C67
+t1269039280
+s3175
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m
+c000000004BA400B00000000000001346
+t1269039280
+s4934
+i"EditingViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.h
+c000000004BA400B00000000000000FB5
+t1269039280
+s4021
+i"AddViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m
+c000000004BA400B00000000000004087
+t1269039280
+s16519
+i"RootViewController.h"
+i"DetailViewController.h"
+i"Book.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.sqlite
+c000000004A4BC0FD0000000000002800
+t1246478589
+s10240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel
+c000000004BA400AF0000000000000088
+t1269039279
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks_Prefix.pch
+c000000004A4BC0FD0000000000000156
+t1246478589
+s342
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib
+c000000004A4BC0FD00000000000048BD
+t1246478589
+s18621
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Localizable.strings
+c000000004A4BC0FD0000000000000190
+t1246478589
+s400
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib
+c000000004A4BC0FD0000000000002B8A
+t1246478589
+s11146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/ReadMe.txt
+c000000004A4BC0FD0000000000000B5A
+t1246478589
+s2906
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib
+c000000004A4BC0FD0000000000001F63
+t1246478589
+s8035
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/AddViewController.o
+t1272940627
+s37476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/Book.o
+t1272940627
+s5196
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooks.LinkFileList
+c000000004BDF8851000000000000048D
+t1272940625
+s1165
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooksAppDelegate.o
+t1272940627
+s53640
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/DetailViewController.o
+t1272940627
+s55300
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/EditingViewController.o
+t1272940627
+s44340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/RootViewController.o
+t1272940627
+s62812
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/main.o
+t1272940627
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app
+t1272940627
+s408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app.dSYM
+t1272940627
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks
+t1272940627
+s51040
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.mom
+t1272940627
+s3134
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.sqlite
+t1272940626
+s10240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/EditingView.nib
+t1272940626
+s2286
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Info.plist
+t1272940625
+s615
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Localizable.strings
+t1272940626
+s110
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/MainWindow.nib
+t1272940626
+s2020
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/PkgInfo
+t1272940625
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/ReadMe.txt
+t1272940626
+s2906
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/RootViewController.nib
+t1272940626
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m
+c000000004A4BC0FD00000000000000CE
+t1246478589
+s206
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch.gch
+t1272940627
+s13801648
+
+NInfo.plist
+c000000004A4BC0FD000000000000038D
+t1246478589
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294633425#294633425#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/AddViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.200385
+e294633427.310761
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/AddViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m294633427#294633427#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m4300911832#2242"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/AddViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/AddViewController.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/Book.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.310925
+e294633427.366771
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/Book.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m294633427#294633427#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m4300911832#2216"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/Book.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/Book.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooksAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.137837
+e294633427.251285
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooksAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m294633427#294633427#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m4300911832#2256"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/CoreDataBooksAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooksAppDelegate.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.192514
+e294633427.339255
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m294633427#294633427#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m4300911832#2248"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/EditingViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.251448
+e294633427.366179
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/EditingViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m294633427#294633427#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m4300911832#2250"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/EditingViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/EditingViewController.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.139491
+e294633427.320581
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m294633427#294633427#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m4300911832#2244"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633427.136453
+e294633427.200232
+r1
+xCompileC
+xbuild/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m294633427#294633427#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m4300911832#2208"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib
+s294633426.001080
+e294633426.390625
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib
+lSLF07#2@26"CompileXIB EditingView.xib294633426#294633426#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/EditingView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/EditingView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib
+s294633426.001807
+e294633426.337901
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294633426#294633426#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib
+s294633426.002460
+e294633426.339821
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib294633426#294633426#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/RootViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/RootViewController.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Localizable.strings Localizable.strings
+s294633426.005185
+e294633426.058707
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Localizable.strings
+xLocalizable.strings
+lSLF07#2@24"Copy Localizable.strings294633426#294633426#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Localizable.strings4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.sqlite CoreDataBooks.sqlite
+s294633426.004138
+e294633426.021864
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.sqlite
+xCoreDataBooks.sqlite
+lSLF07#2@25"Copy CoreDataBooks.sqlite294633426#294633426#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.sqlite4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.sqlite /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app0#
+
+CCpResource build/Debug-iphonesimulator/CoreDataBooks.app/ReadMe.txt ReadMe.txt
+s294633426.003235
+e294633426.026789
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoreDataBooks.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294633426#294633426#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/ReadMe.txt4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app0#
+
+CDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel
+s294633427.134867
+e294633427.192328
+r1
+xDataModelCompile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.mom
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel294633427#294633427#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel4300911832#465"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks.xcdatamodel /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks.mom0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks
+s294633427.388669
+e294633427.410506
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/CoreDataBooks.app.dSYM build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks294633427#294633427#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks4300911832#464"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks normal i386
+s294633427.366848
+e294633427.388539
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks
+xnormal
+xi386
+lSLF07#2@124"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks294633427#294633427#0(0"0(0#0#0"4300911832#1017"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/Objects-normal/i386/CoreDataBooks.LinkFileList -mmacosx-version-min=10.5 -framework CoreData -framework CoreGraphics -framework Foundation -framework UIKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/CoreDataBooks0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Info.plist Info.plist
+s294633425.996871
+e294633426.000976
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294633425#294633426#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/Info.plist4300911832#546"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch.gch CoreDataBooks_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633426.390794
+e294633427.134635
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch.gch
+xCoreDataBooks_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile CoreDataBooks_Prefix.pch294633426#294633427#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks_Prefix.pch4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/CoreDataBooks-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/CoreDataBooks.build/Debug-iphonesimulator/CoreDataBooks.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/CoreDataBooks_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataBooks_Prefix-ezdmgxfalnmlzkecmjrjmxfaqxmw/CoreDataBooks_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app
+s294633427.410600
+e294633427.414105
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app
+lSLF07#2@111"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app294633427#294633427#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CoreDataBooks/build/Debug-iphonesimulator/CoreDataBooks.app0#
+

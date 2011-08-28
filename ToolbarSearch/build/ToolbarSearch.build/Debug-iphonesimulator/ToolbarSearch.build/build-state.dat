@@ -1,0 +1,307 @@
+TToolbarSearch
+v7
+r0
+t294574211.293923
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist ToolbarSearch-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib
+cCpResource build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch.gch ToolbarSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD448B20000000000000110
+t1272203442
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.h
+c000000004B9FBD850000000000001044
+t1268759941
+s4164
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m
+c000000004B9FBD8500000000000022CB
+t1268759941
+s8907
+i"RecentSearchesController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.h
+c000000004B9FBD850000000000000AF5
+t1268759941
+s2805
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m
+c000000004B9FBD850000000000000BB2
+t1268759941
+s2994
+i"ToolbarSearchAppDelegate.h"
+i"ToolbarSearchViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.h
+c000000004B9FBD850000000000000D7C
+t1268759941
+s3452
+i<UIKit/UIKit.h>
+i"RecentSearchesController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m
+c000000004B9FBD850000000000001E62
+t1268759941
+s7778
+i"ToolbarSearchViewController.h"
+i"RecentSearchesController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib
+c000000004B96F4A5000000000000536C
+t1268184229
+s21356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ReadMe.txt
+c000000004B9697EC0000000000000821
+t1268160492
+s2081
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib
+c000000004B96F4A500000000000050F0
+t1268184229
+s20720
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearch_Prefix.pch
+c000000004B4AAB8C00000000000000C3
+t1263184780
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+t1272881411
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM
+t1272881411
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist
+t1272881409
+s822
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/MainWindow.nib
+t1272881409
+s1105
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/PkgInfo
+t1272881409
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt
+t1272881409
+s2081
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+t1272881411
+s35796
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearchViewController.nib
+t1272881409
+s1483
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o
+t1272881411
+s55708
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearch.LinkFileList
+c000000004BDEA10100000000000002AB
+t1272881409
+s683
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o
+t1272881410
+s43856
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o
+t1272881411
+s52724
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o
+t1272881410
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m
+c000000004B9FBD850000000000000A83
+t1268759941
+s2691
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch.gch
+t1272881410
+s13805456
+
+NToolbarSearch-Info.plist
+c000000004B75E32B00000000000004D6
+t1266017067
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294574209#294574209#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574210.868283
+e294574211.046495
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m294574210#294574211#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m4300911832#2256"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/RecentSearchesController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/RecentSearchesController.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574210.865383
+e294574210.970283
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m294574210#294574210#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m4300911832#2256"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchAppDelegate.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574210.866898
+e294574211.005685
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m294574210#294574211#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m4300911832#2262"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/Classes/ToolbarSearchViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearchViewController.o0#
+
+CCompileC build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574210.852370
+e294574210.968458
+r1
+xCompileC
+xbuild/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m294574210#294574210#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m4300911832#2208"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib
+s294574209.462159
+e294574209.751080
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294574209#294574209#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib
+s294574209.463098
+e294574209.778525
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib
+lSLF07#2@42"CompileXIB ToolbarSearchViewController.xib294574209#294574209#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib4300911832#583"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearchViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearchViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt ReadMe.txt
+s294574209.464085
+e294574209.480840
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ToolbarSearch.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294574209#294574209#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ReadMe.txt4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+s294574211.218493
+e294574211.278301
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/ToolbarSearch.app.dSYM build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch294574211#294574211#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch4300911832#464"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch normal i386
+s294574211.046589
+e294574211.218361
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch
+xnormal
+xi386
+lSLF07#2@124"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch294574211#294574211#0(0"0(0#0#0"4300911832#997"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/Objects-normal/i386/ToolbarSearch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/ToolbarSearch0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist ToolbarSearch-Info.plist
+s294574209.458482
+e294574209.462029
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist
+xToolbarSearch-Info.plist
+lSLF07#2@32"Process ToolbarSearch-Info.plist294574209#294574209#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearch-Info.plist4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ToolbarSearch-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch.gch ToolbarSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294574209.778660
+e294574210.852220
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch.gch
+xToolbarSearch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile ToolbarSearch_Prefix.pch294574209#294574210#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearch_Prefix.pch4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/ToolbarSearch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/ToolbarSearch.build/Debug-iphonesimulator/ToolbarSearch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/ToolbarSearch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToolbarSearch_Prefix-grmzfriatdekpeblravmeicatddg/ToolbarSearch_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+s294574211.278395
+e294574211.293851
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app
+lSLF07#2@111"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app294574211#294574211#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ToolbarSearch/build/Debug-iphonesimulator/ToolbarSearch.app0#
+

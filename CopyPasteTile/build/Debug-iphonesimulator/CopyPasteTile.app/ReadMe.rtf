@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1028
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Monaco;
+}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 CopyPasteTile\
+
+\f1\b0 \
+The CopyPasteTile project demonstrates how to implement the copy-cut-paste feature introduced in iPhone OS v3.0. The application built by the project is a grid of squares on which four tiles of different colors are situated. You copy, cut, and paste these tiles to create simple designs or pictures. To start over, tap the reset button or shake the device. (The project also includes a very simple handler of shake-motion events, which were also introduced in iPhone OS v3.0.)\
+\
+\
+
+\f0\b\fs26 Classes of Interest\
+
+\f1\b0\fs28 \
+
+\b\fs26 CopyPasteTileAppDelegate
+\b0\fs28  \'97 Creates a UIViewController object that manages a ColorTileView. Displays a help message when the application launches. \
+\
+
+\b\fs26 ColorTileView
+\b0\fs28  \'97A custom view that draws the grid and the tiles and responds to touch and shake-motion events. This class has the methods implementing copy, cut, and paste.\
+\
+
+\b\fs26 ColorTile
+\b0\fs28  \'97 A model object that ColorTileView uses for drawing tiles. Each object encapsulates a color and a location on the grid. The class conforms to the NSCoder protocol so that ColorTileView can archive a ColorTile object to a data object, which it then writes to the pasteboard.\
+\
+\
+
+\f0\b\fs26 ColorTileView Methods of Interest\
+
+\f1\b0\fs28 \
+\'95 
+\f2\fs20 touchesEnded:WithEvent:
+\f1\fs28  \'97Responds to the double-tap gesture by identifying the selection (the square tapped). It then uses the shared instance of the UIMenuController class to display the editing menu right above or below the selected square.\
+\
+\'95 
+\f2\fs20 canPerformAction:withSender:
+\f1\fs28  \'97 Implements this UIResponder method to validate the commands of the editing menu before it's displayed. Returns 
+\f2\fs20 NO
+\f1\fs28  for a given selector if it is not appropriate to include the associated command.\
+\
+\'95 
+\f2\fs20 copy:
+\f1\fs28 , 
+\f2\fs20 cut:
+\f1\fs28 , and 
+\f2\fs20 paste:
+\f1\fs28  \'97 Implements these methods of the UIResponderStandardEditActions informal protocol to respond to taps on the associated menu commands. \
+\
+\'95 
+\f2\fs20 \CocoaLigature0 motionEnded:withEvent:
+\f1\fs28 \CocoaLigature1  \'97 Implements this UIResponder method to respond to the user shaking the device; the implementation resets the orignal tiles on the grid.\
+\
+\
+
+\f0\b\fs24 Related Information
+\f1\b0\fs28 \
+\
+For conceptual information, see "Copy and Paste Operations" in the "Event Handling" chapter of 
+\i iPhone Application Programming Guide
+\i0 . Also see the reference documentation for the UIPasteboard, UIMenuController, and UIResponder classes.}

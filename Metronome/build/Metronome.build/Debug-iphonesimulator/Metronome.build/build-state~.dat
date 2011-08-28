@@ -1,0 +1,500 @@
+TMetronome
+v7
+r0
+t294638575.669666
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/Metronome.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/Metronome.app/metronomeArm.png Images/metronomeArm.png
+cCpResource build/Debug-iphonesimulator/Metronome.app/metronomeBody.png Images/metronomeBody.png
+cCpResource build/Debug-iphonesimulator/Metronome.app/metronomeWeight.png Images/metronomeWeight.png
+cCpResource build/Debug-iphonesimulator/Metronome.app/base.png Images/base.png
+cCpResource build/Debug-iphonesimulator/Metronome.app/tick.caf Sounds/tick.caf
+cCpResource build/Debug-iphonesimulator/Metronome.app/tock.caf Sounds/tock.caf
+cCpResource build/Debug-iphonesimulator/Metronome.app/Default.png Images/Default.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch.gch Metronome_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/PreferencesViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/Constants.h
+c000000004BA3E8D40000000000000A2F
+t1269033172
+s2607
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.h
+c000000004BA3E8D40000000000000CC2
+t1269033172
+s3266
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m
+c000000004BA3E8D4000000000000157B
+t1269033172
+s5499
+i"MetronomeAppDelegate.h"
+i"MetronomeView.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.h
+c000000004BA3E8D40000000000000E7E
+t1269033172
+s3710
+i<QuartzCore/QuartzCore.h>
+i<AVFoundation/AVFoundation.h>
+i"MetronomeViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m
+c000000004BA3E8D400000000000044F7
+t1269033172
+s17655
+i"MetronomeView.h"
+i"MetronomeAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.h
+c000000004BA3E8D40000000000000B20
+t1269033172
+s2848
+i"PreferencesViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m
+c000000004BA3E8D40000000000000ECB
+t1269033172
+s3787
+i"MetronomeViewController.h"
+i"MetronomeView.h"
+i"PreferencesViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.h
+c000000004BA3E8D40000000000000BBA
+t1269033172
+s3002
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m
+c000000004BA3E8D400000000000016A7
+t1269033172
+s5799
+i"PreferencesViewController.h"
+i"MetronomeViewController.h"
+i"MetronomeAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Default.png
+c0000000049FA24C50000000000014791
+t1241130181
+s83857
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Icon.png
+c0000000049FA24C50000000000001145
+t1241130181
+s4421
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/base.png
+c0000000049FA24C500000000000092F7
+t1241130181
+s37623
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeArm.png
+c0000000049FA24C50000000000001DD8
+t1241130181
+s7640
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeBody.png
+c0000000049FA24C500000000000151ED
+t1241130181
+s86509
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeWeight.png
+c0000000049FA24C50000000000002F3C
+t1241130181
+s12092
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib
+c0000000049FA24C50000000000001CF2
+t1241130181
+s7410
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Metronome_Prefix.pch
+c000000004BA3E8D40000000000000A34
+t1269033172
+s2612
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib
+c0000000049FA24C50000000000002BDB
+t1241130181
+s11227
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tick.caf
+c0000000049FA24C50000000000006622
+t1241130181
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tock.caf
+c0000000049FA24C50000000000006622
+t1241130181
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app
+t1272945775
+s510
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app.dSYM
+t1272945775
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Default.png
+t1272945774
+s83857
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Icon.png
+t1272945774
+s4421
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Info.plist
+t1272945774
+s655
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/MainWindow.nib
+t1272945774
+s1370
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome
+t1272945775
+s46336
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/PkgInfo
+t1272945774
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/PreferencesView.nib
+t1272945774
+s2158
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/base.png
+t1272945774
+s37623
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/metronomeArm.png
+t1272945774
+s7640
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/metronomeBody.png
+t1272945774
+s86509
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/metronomeWeight.png
+t1272945774
+s12092
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/tick.caf
+t1272945774
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/tock.caf
+t1272945774
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/Metronome.LinkFileList
+c000000004BDF9C6E000000000000030C
+t1272945774
+s780
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeAppDelegate.o
+t1272945775
+s44976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeView.o
+t1272945775
+s71556
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeViewController.o
+t1272945775
+s34212
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/PreferencesViewController.o
+t1272945775
+s45016
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/main.o
+t1272945775
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m
+c000000004BA3E8D40000000000000A9B
+t1269033172
+s2715
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch.gch
+t1272945775
+s12952976
+
+NInfo.plist
+c0000000049FA24C500000000000003B7
+t1241130181
+s951
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294638574#294638574#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638575.410308
+e294638575.529870
+r1
+xCompileC
+xbuild/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m294638575#294638575#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m4300911832#2124"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeAppDelegate.o0#
+
+CCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638575.411278
+e294638575.597804
+r1
+xCompileC
+xbuild/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m294638575#294638575#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m4300911832#2110"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeView.o0#
+
+CCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638575.412546
+e294638575.534305
+r1
+xCompileC
+xbuild/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m294638575#294638575#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m4300911832#2130"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/MetronomeViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/MetronomeViewController.o0#
+
+CCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/PreferencesViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638575.477200
+e294638575.578653
+r1
+xCompileC
+xbuild/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/PreferencesViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m294638575#294638575#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m4300911832#2134"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Classes/PreferencesViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/PreferencesViewController.o0#
+
+CCompileC build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638575.409002
+e294638575.477035
+r1
+xCompileC
+xbuild/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m294638575#294638575#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m4300911832#2084"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib
+s294638574.443751
+e294638574.740629
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294638574#294638574#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib
+s294638574.453463
+e294638574.807519
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib
+lSLF07#2@30"CompileXIB PreferencesView.xib294638574#294638574#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib4300911832#543"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/PreferencesView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/PreferencesView.xib0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/Default.png Images/Default.png
+s294638574.442880
+e294638574.456723
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/Default.png
+xImages/Default.png
+lSLF07#2@23"Copy Images/Default.png294638574#294638574#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Default.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/Icon.png Images/Icon.png
+s294638574.436543
+e294638574.444787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png294638574#294638574#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Icon.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/base.png Images/base.png
+s294638574.440124
+e294638574.449808
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/base.png
+xImages/base.png
+lSLF07#2@20"Copy Images/base.png294638574#294638574#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/base.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/base.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/metronomeArm.png Images/metronomeArm.png
+s294638574.437510
+e294638574.444979
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/metronomeArm.png
+xImages/metronomeArm.png
+lSLF07#2@28"Copy Images/metronomeArm.png294638574#294638574#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeArm.png4300911832#520"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeArm.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/metronomeBody.png Images/metronomeBody.png
+s294638574.438320
+e294638574.455710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/metronomeBody.png
+xImages/metronomeBody.png
+lSLF07#2@29"Copy Images/metronomeBody.png294638574#294638574#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeBody.png4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeBody.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/metronomeWeight.png Images/metronomeWeight.png
+s294638574.439019
+e294638574.451317
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/metronomeWeight.png
+xImages/metronomeWeight.png
+lSLF07#2@31"Copy Images/metronomeWeight.png294638574#294638574#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeWeight.png4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Images/metronomeWeight.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/tick.caf Sounds/tick.caf
+s294638574.441142
+e294638574.452628
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/tick.caf
+xSounds/tick.caf
+lSLF07#2@20"Copy Sounds/tick.caf294638574#294638574#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tick.caf4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tick.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CCpResource build/Debug-iphonesimulator/Metronome.app/tock.caf Sounds/tock.caf
+s294638574.442032
+e294638574.453331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Metronome.app/tock.caf
+xSounds/tock.caf
+lSLF07#2@20"Copy Sounds/tock.caf294638574#294638574#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tock.caf4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Sounds/tock.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome
+s294638575.645417
+e294638575.665658
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Metronome.app.dSYM build/Debug-iphonesimulator/Metronome.app/Metronome294638575#294638575#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome normal i386
+s294638575.597902
+e294638575.645287
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome294638575#294638575#0(0"0(0#0#0"4300911832#1003"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Objects-normal/i386/Metronome.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Metronome0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Info.plist Info.plist
+s294638574.432374
+e294638574.436426
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294638574#294638574#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Info.plist4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch.gch Metronome_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638574.807666
+e294638575.408857
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch.gch
+xMetronome_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Metronome_Prefix.pch294638574#294638575#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Metronome_Prefix.pch4300911832#1957"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/Metronome-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Metronome.build/Debug-iphonesimulator/Metronome.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/Metronome_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Metronome_Prefix-gorsknrqbbvhsvecscibphihafcf/Metronome_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app
+s294638575.665743
+e294638575.669594
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app294638575#294638575#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Metronome/build/Debug-iphonesimulator/Metronome.app0#
+

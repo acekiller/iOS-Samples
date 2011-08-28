@@ -1,0 +1,104 @@
+THeadsUpUI
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/Left.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/LeftPressed.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/Right.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/RightPressed.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/en.lproj/MainWindow.xib
+c0000000048C156A30000000000005739
+t1220630179
+s22329
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/images/Default.png
+c0000000048C156A30000000000038D2A
+t1220630179
+s232746
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/images/Left.png
+c0000000048C156A300000000000000BF
+t1220630179
+s191
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/images/LeftPressed.png
+c0000000048C156A300000000000000BF
+t1220630179
+s191
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/images/Right.png
+c0000000048C156A30000000000000131
+t1220630179
+s305
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/images/RightPressed.png
+c0000000048C156A30000000000000126
+t1220630179
+s294
+
+NInfo.plist
+c0000000048C7F5610000000000000379
+t1221064033
+s889
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639030#294639030#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639030#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/HeadsUpUI.app/Contents/Resources/Default.png images/Default.png
+r0
+
+CCpResource build/Debug/HeadsUpUI.app/Contents/Resources/Left.png images/Left.png
+r0
+
+CCpResource build/Debug/HeadsUpUI.app/Contents/Resources/LeftPressed.png images/LeftPressed.png
+r0
+
+CCpResource build/Debug/HeadsUpUI.app/Contents/Resources/Right.png images/Right.png
+r0
+
+CCpResource build/Debug/HeadsUpUI.app/Contents/Resources/RightPressed.png images/RightPressed.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/HeadsUpUI/build/Debug/HeadsUpUI.app
+r0
+

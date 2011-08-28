@@ -1,0 +1,104 @@
+TSpeakHere
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/Default.png
+c0000000049C44A920000000000005C35
+t1237600914
+s23605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/MainWindow.xib
+c000000004990CADC000000000000232F
+t1234225884
+s9007
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/SpeakHereViewController.xib
+c0000000049C44A920000000000004AA3
+t1237600914
+s19107
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/SpeakHereViewController.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/en.lproj/icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/en.lproj/soundbar_plate_mono.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Resources/en.lproj/speaker_grill.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/en.lproj/icon.png
+c00000000493DD8F800000000000017D7
+t1228790008
+s6103
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/en.lproj/soundbar_plate_mono.png
+c00000000493DD8F8000000000000226C
+t1228790008
+s8812
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/en.lproj/speaker_grill.png
+c00000000493DD8F800000000000025B4
+t1228790008
+s9652
+
+NInfo.plist
+c00000000493DD8F80000000000000389
+t1228790008
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629624#294629624#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'1(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'294629624#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/MainWindow.xib
+r0
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/SpeakHereViewController.xib
+r0
+
+CCpResource build/Debug/SpeakHere.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/SpeakHere.app/Contents/Resources/en.lproj/icon.png en.lproj/icon.png
+r0
+
+CCpResource build/Debug/SpeakHere.app/Contents/Resources/en.lproj/soundbar_plate_mono.png en.lproj/soundbar_plate_mono.png
+r0
+
+CCpResource build/Debug/SpeakHere.app/Contents/Resources/en.lproj/speaker_grill.png en.lproj/speaker_grill.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SpeakHere/build/Debug/SpeakHere.app
+r0
+

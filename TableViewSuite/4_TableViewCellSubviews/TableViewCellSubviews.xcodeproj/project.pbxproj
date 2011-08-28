@@ -1,0 +1,329 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		28275AF10D6E02D900A8AFA4 /* TimeZoneWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 28275AF00D6E02D900A8AFA4 /* TimeZoneWrapper.m */; };
+		2867DEFD0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */; };
+		288749F60D9DA29200CC0247 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 288749F50D9DA29200CC0247 /* MainWindow.xib */; };
+		2898DD0E0D9466E300E0EC8B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2898DD0D0D9466E300E0EC8B /* Default.png */; };
+		28BDD37E0D628913006FBFB9 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28BDD37D0D628913006FBFB9 /* RootViewController.m */; };
+		28C78CE80D595CFC003FFB91 /* 12-6PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C78CE40D595CFC003FFB91 /* 12-6PM.png */; };
+		28C78CE90D595CFC003FFB91 /* 6-12AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C78CE50D595CFC003FFB91 /* 6-12AM.png */; };
+		28C78CEA0D595CFC003FFB91 /* 6-12PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C78CE60D595CFC003FFB91 /* 6-12PM.png */; };
+		28C78CEB0D595CFC003FFB91 /* 12-6AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C78CE70D595CFC003FFB91 /* 12-6AM.png */; };
+		28D655C30D6E3F78005F58A3 /* Region.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D655C20D6E3F78005F58A3 /* Region.m */; };
+		28F1A71C0DC92FE900332FD8 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 28F1A71A0DC92FE900332FD8 /* Localizable.strings */; };
+		28F1A8940DC9369100332FD8 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 28F1A8930DC9369100332FD8 /* Icon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* TableViewCellSubviews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewCellSubviews.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28275AEF0D6E02D900A8AFA4 /* TimeZoneWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TimeZoneWrapper.h; path = Classes/TimeZoneWrapper.h; sourceTree = "<group>"; };
+		28275AF00D6E02D900A8AFA4 /* TimeZoneWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TimeZoneWrapper.m; path = Classes/TimeZoneWrapper.m; sourceTree = "<group>"; };
+		2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCellSubviewsAppDelegate.m; sourceTree = "<group>"; };
+		2867DEFC0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCellSubviewsAppDelegate.h; sourceTree = "<group>"; };
+		288749F50D9DA29200CC0247 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		2898DD0D0D9466E300E0EC8B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		28BDD37C0D628913006FBFB9 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28BDD37D0D628913006FBFB9 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28C78CE40D595CFC003FFB91 /* 12-6PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "12-6PM.png"; sourceTree = "<group>"; };
+		28C78CE50D595CFC003FFB91 /* 6-12AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-12AM.png"; sourceTree = "<group>"; };
+		28C78CE60D595CFC003FFB91 /* 6-12PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6-12PM.png"; sourceTree = "<group>"; };
+		28C78CE70D595CFC003FFB91 /* 12-6AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "12-6AM.png"; sourceTree = "<group>"; };
+		28D655C10D6E3F78005F58A3 /* Region.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Region.h; path = Classes/Region.h; sourceTree = "<group>"; };
+		28D655C20D6E3F78005F58A3 /* Region.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Region.m; path = Classes/Region.m; sourceTree = "<group>"; };
+		28F1A71B0DC92FE900332FD8 /* en */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		28F1A7200DC9300100332FD8 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		28F1A7210DC9300800332FD8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		28F1A8850DC9365F00332FD8 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ReadMe.txt; path = ../ReadMe.txt; sourceTree = SOURCE_ROOT; };
+		28F1A8930DC9369100332FD8 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* TableViewCellSubviews_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCellSubviews_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				28BDD37C0D628913006FBFB9 /* RootViewController.h */,
+				28BDD37D0D628913006FBFB9 /* RootViewController.m */,
+				2867DEFC0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.h */,
+				2867DEFB0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m */,
+			);
+			name = "View Controllers";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* TableViewCellSubviews.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		28275B330D6E06C500A8AFA4 /* Model Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28D655C10D6E3F78005F58A3 /* Region.h */,
+				28D655C20D6E3F78005F58A3 /* Region.m */,
+				28275AEF0D6E02D900A8AFA4 /* TimeZoneWrapper.h */,
+				28275AF00D6E02D900A8AFA4 /* TimeZoneWrapper.m */,
+			);
+			name = "Model Classes";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				28F1A8850DC9365F00332FD8 /* ReadMe.txt */,
+				080E96DDFE201D6D7F000001 /* View Controllers */,
+				28275B330D6E06C500A8AFA4 /* Model Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* TableViewCellSubviews_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28F1A71A0DC92FE900332FD8 /* Localizable.strings */,
+				288749F50D9DA29200CC0247 /* MainWindow.xib */,
+				28C78CE40D595CFC003FFB91 /* 12-6PM.png */,
+				28C78CE50D595CFC003FFB91 /* 6-12AM.png */,
+				28C78CE60D595CFC003FFB91 /* 6-12PM.png */,
+				28C78CE70D595CFC003FFB91 /* 12-6AM.png */,
+				28F1A8930DC9369100332FD8 /* Icon.png */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				2898DD0D0D9466E300E0EC8B /* Default.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* TableViewCellSubviews */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TableViewCellSubviews" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TableViewCellSubviews;
+			productName = CustomTableViewCell;
+			productReference = 1D6058910D05DD3D006BFB54 /* TableViewCellSubviews.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TableViewCellSubviews" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				french,
+				en,
+				fr,
+				de,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* TableViewCellSubviews */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28C78CE80D595CFC003FFB91 /* 12-6PM.png in Resources */,
+				28C78CE90D595CFC003FFB91 /* 6-12AM.png in Resources */,
+				28C78CEA0D595CFC003FFB91 /* 6-12PM.png in Resources */,
+				28C78CEB0D595CFC003FFB91 /* 12-6AM.png in Resources */,
+				2898DD0E0D9466E300E0EC8B /* Default.png in Resources */,
+				288749F60D9DA29200CC0247 /* MainWindow.xib in Resources */,
+				28F1A71C0DC92FE900332FD8 /* Localizable.strings in Resources */,
+				28F1A8940DC9369100332FD8 /* Icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				2867DEFD0D581C2E0037AED8 /* TableViewCellSubviewsAppDelegate.m in Sources */,
+				28BDD37E0D628913006FBFB9 /* RootViewController.m in Sources */,
+				28275AF10D6E02D900A8AFA4 /* TimeZoneWrapper.m in Sources */,
+				28D655C30D6E3F78005F58A3 /* Region.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		28F1A71A0DC92FE900332FD8 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				28F1A71B0DC92FE900332FD8 /* en */,
+				28F1A7200DC9300100332FD8 /* fr */,
+				28F1A7210DC9300800332FD8 /* de */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TableViewCellSubviews_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PREBINDING = NO;
+				PRODUCT_NAME = TableViewCellSubviews;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TableViewCellSubviews_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PREBINDING = NO;
+				PRODUCT_NAME = CustomTableViewCell;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "TableViewCellSubviews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TableViewCellSubviews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

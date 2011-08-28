@@ -1,0 +1,118 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CryptoExercise */ = {
+		activeExec = 0;
+		executables = (
+			261E2BF0118FCD6500AE7070 /* CryptoExercise */,
+		);
+	};
+	261E2BF0118FCD6500AE7070 /* CryptoExercise */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CryptoExercise;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	261E2BFF118FCD7100AE7070 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "#error This sample is designed to run on a device, not in the simulator. To run this sample, choose Project > Set Active SDK > Device and connect a device. Then click Build and Go.";
+		fRef = 4AB68C700E083E6E0007FE98 /* SecKeyWrapper.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 75;
+		rType = 1;
+	};
+	261E2C00118FCD7100AE7070 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4AB68C700E083E6E0007FE98 /* SecKeyWrapper.m */;
+		name = "SecKeyWrapper.m: 76";
+		rLen = 0;
+		rLoc = 3117;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 2977;
+	};
+	261E2C04118FCD7100AE7070 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	261E2C05118FCD7100AE7070 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 261E2BF0118FCD6500AE7070 /* CryptoExercise */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CryptoExercise */;
+		codeSenseManager = 261E2C05118FCD7100AE7070 /* Code sense */;
+		executables = (
+			261E2BF0118FCD6500AE7070 /* CryptoExercise */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294636901;
+			PBXWorkspaceStateSaveDate = 294636901;
+		};
+		perUserProjectItems = {
+			261E2BFF118FCD7100AE7070 /* XCBuildMessageTextBookmark */ = 261E2BFF118FCD7100AE7070 /* XCBuildMessageTextBookmark */;
+			261E2C00118FCD7100AE7070 /* PBXTextBookmark */ = 261E2C00118FCD7100AE7070 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 261E2C04118FCD7100AE7070 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4AB68C700E083E6E0007FE98 /* SecKeyWrapper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 10907}}";
+			sepNavSelRange = "{3117, 0}";
+			sepNavVisRange = "{2989, 446}";
+		};
+	};
+}

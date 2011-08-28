@@ -1,0 +1,22 @@
+"PageOneTitle" = "View 1";
+"PageOneExplain" = "Custom Right View";
+
+"PageTwoTitle" = "View 2";
+"PageTwoExplain" = "Custom Right View with Image";
+
+"PageThreeTitle" = "View 3";
+"PageThreeExplain" = "Custom Right View with Segment";
+
+"PageFourTitle" = "View 4";
+"PageFourExplain" = "Custom Title Bar";
+
+"PageFiveTitle" = "View 5";
+"PageFiveExplain" = "Custom Title Bar with Prompt";
+
+"AddTitle" = "Add";
+"StyleTitle" = "Style";
+
+"DefaultTitle" = "Default";
+"BlackOpaqueTitle" = "Black-Op";
+"BlackTranslucentTitle" = "Black-Trans";
+"RedTitleTitle" = "Red";

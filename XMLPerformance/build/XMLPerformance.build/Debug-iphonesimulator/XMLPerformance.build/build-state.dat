@@ -1,0 +1,652 @@
+TXMLPerformance
+v7
+r0
+t294660827.790293
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib
+cCpResource build/Debug-iphonesimulator/XMLPerformance.app/stats.sqlite stats.sqlite
+cCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Stat.png en.lproj/Stat.png
+cCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/XML.png en.lproj/XML.png
+cCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Default.png en.lproj/Default.png
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/StatsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/SongsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/ParserChoiceViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/iTunesRSSParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Song.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/LibXMLParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/CocoaXMLParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/DetailController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Statistics.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2/libxml/tree.h
+c000000004A0BA93B0000000000008F14
+t1242278203
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sqlite3.h
+c000000004A0BA76A000000000003D86F
+t1242277738
+s252015
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/libsqlite3.dylib
+c000000004A0BA78C00000000000C36F0
+t1242277772
+s800496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/libxml2.dylib
+c000000004A0BA93B0000000000124950
+t1242278203
+s1198416
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.h
+c000000004BA3EB8F0000000000000AE1
+t1269033871
+s2785
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m
+c000000004BA3EB8F0000000000000BC0
+t1269033871
+s3008
+i"AppDelegate.h"
+i"Statistics.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.h
+c000000004BA3EB8F0000000000000E18
+t1269033871
+s3608
+i<UIKit/UIKit.h>
+i"iTunesRSSParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m
+c000000004BA3EB8F000000000000247D
+t1269033871
+s9341
+i"CocoaXMLParser.h"
+i"Song.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.h
+c000000004BA3EB8F0000000000000AB9
+t1269033871
+s2745
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m
+c000000004BA3EB8F0000000000001248
+t1269033871
+s4680
+i"DetailController.h"
+i"Song.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.h
+c000000004BA3EB8F0000000000001328
+t1269033871
+s4904
+i<UIKit/UIKit.h>
+i<libxml/tree.h>
+i"iTunesRSSParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m
+c000000004BA3EB8F000000000000410F
+t1269033871
+s16655
+i"LibXMLParser.h"
+i"Song.h"
+i<libxml/tree.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.h
+c000000004BA3EB8F0000000000000C3C
+t1269033871
+s3132
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m
+c000000004BA3EB8F0000000000001355
+t1269033871
+s4949
+i"ParserChoiceViewController.h"
+i"SongsViewController.h"
+i"LibXMLParser.h"
+i"CocoaXMLParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.h
+c000000004BA3EB8F0000000000000B3E
+t1269033871
+s2878
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m
+c000000004BA3EB8F0000000000000AA9
+t1269033871
+s2729
+i"Song.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.h
+c000000004BA3EB8F0000000000000D34
+t1269033871
+s3380
+i<UIKit/UIKit.h>
+i"iTunesRSSParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m
+c000000004BA3EB8F0000000000001CC2
+t1269033871
+s7362
+i"SongsViewController.h"
+i"DetailController.h"
+i"Song.h"
+i"LibXMLParser.h"
+i"CocoaXMLParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.h
+c000000004BA3EB8F0000000000000F00
+t1269033871
+s3840
+i<UIKit/UIKit.h>
+i"iTunesRSSParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m
+c000000004BA3EB8F0000000000003791
+t1269033871
+s14225
+i"Statistics.h"
+i<sqlite3.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.h
+c000000004BA3EB8F0000000000000BC3
+t1269033871
+s3011
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m
+c000000004BA3EB8F0000000000001669
+t1269033871
+s5737
+i"StatsViewController.h"
+i"Statistics.h"
+i"CocoaXMLParser.h"
+i"LibXMLParser.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.h
+c000000004BA3EB8F0000000000001374
+t1269033871
+s4980
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m
+c000000004BA3EB8F00000000000018EB
+t1269033871
+s6379
+i"iTunesRSSParser.h"
+i"Song.h"
+i"Statistics.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Prefix.pch
+c000000004A0B2E5D00000000000000BF
+t1242246749
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app
+t1272941030
+s238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app.dSYM
+t1272941030
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/Info.plist
+t1272941028
+s614
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/PkgInfo
+t1272941028
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance
+t1272941029
+s93460
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Default.png
+t1272941028
+s15424
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Localizable.strings
+t1272941028
+s284
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/MainWindow.nib
+t1272941028
+s3279
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/ParserChoiceView.nib
+t1272941028
+s3124
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Stat.png
+t1272941028
+s3879
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/StatsView.nib
+t1272941028
+s3102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/XML.png
+t1272941028
+s4523
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/stats.sqlite
+t1272941028
+s2048
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/AppDelegate.o
+t1272941029
+s40252
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/CocoaXMLParser.o
+t1272941029
+s27756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/DetailController.o
+t1272941029
+s37524
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/LibXMLParser.o
+t1272941029
+s47676
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/ParserChoiceViewController.o
+t1272941029
+s55376
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Song.o
+t1272941029
+s11032
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/SongsViewController.o
+t1272941029
+s61292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Statistics.o
+t1272941029
+s33108
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/StatsViewController.o
+t1272941029
+s57012
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/XMLPerformance.LinkFileList
+c000000004BDF89E40000000000000734
+t1272941028
+s1844
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/iTunesRSSParser.o
+t1272941029
+s30364
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/main.o
+t1272941029
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Default.png
+c000000004A0B2E5D0000000000003C40
+t1242246749
+s15424
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Localizable.strings
+c000000004A0B2E5D00000000000005A4
+t1242246749
+s1444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib
+c000000004A3FE5200000000000007573
+t1245701408
+s30067
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib
+c000000004A0B2E5D0000000000002A72
+t1242246749
+s10866
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Stat.png
+c000000004A0B2E5D0000000000000F27
+t1242246749
+s3879
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib
+c000000004A0B2E5D000000000000458C
+t1242246749
+s17804
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/XML.png
+c000000004A0B2E5D00000000000011AB
+t1242246749
+s4523
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m
+c000000004BA3EB8F0000000000000A66
+t1269033871
+s2662
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/stats.sqlite
+c000000004A0B2E5D0000000000000800
+t1242246749
+s2048
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch.gch
+t1272941029
+s12952976
+
+NInfo.plist
+c000000004A0B2E5D0000000000000381
+t1242246749
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294660827#294660827#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.537865
+e294633829.654149
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m294633829#294633829#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m4300911832#2337"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/CocoaXMLParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.788670
+e294633829.918900
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/CocoaXMLParser.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m294633829#294633829#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m4300911832#2343"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/CocoaXMLParser.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/CocoaXMLParser.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/DetailController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.818931
+e294633829.920204
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/DetailController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m294633829#294633829#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m4300911832#2347"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/DetailController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/DetailController.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/LibXMLParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.775739
+e294633829.945112
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/LibXMLParser.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m294633829#294633829#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m4300911832#2339"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/LibXMLParser.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/LibXMLParser.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/ParserChoiceViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.626486
+e294633829.818773
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/ParserChoiceViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m294633829#294633829#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m4300911832#2367"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/ParserChoiceViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/ParserChoiceViewController.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Song.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.758218
+e294633829.834986
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Song.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m294633829#294633829#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m4300911832#2323"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Song.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Song.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/SongsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.540388
+e294633829.757995
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/SongsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m294633829#294633829#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m4300911832#2353"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/SongsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/SongsViewController.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Statistics.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.835144
+e294633829.972503
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Statistics.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m294633829#294633829#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m4300911832#2335"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/Statistics.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/Statistics.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/StatsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.539116
+e294633829.775587
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/StatsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m294633829#294633829#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m4300911832#2353"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/StatsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/StatsViewController.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/iTunesRSSParser.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.654310
+e294633829.788525
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/iTunesRSSParser.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m294633829#294633829#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m4300911832#2345"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Classes/iTunesRSSParser.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/iTunesRSSParser.o0#
+
+CCompileC build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633829.536515
+e294633829.626334
+r1
+xCompileC
+xbuild/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m294633829#294633829#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m4300911832#2315"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib
+s294633828.429450
+e294633828.847075
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294633828#294633828#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib
+s294633828.447454
+e294633828.832376
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib
+lSLF07#2@40"CompileXIB en.lproj/ParserChoiceView.xib294633828#294633828#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib4300911832#583"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/ParserChoiceView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/ParserChoiceView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib
+s294633828.430484
+e294633828.832126
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib
+lSLF07#2@33"CompileXIB en.lproj/StatsView.xib294633828#294633828#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/StatsView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/StatsView.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294633828.435242
+e294633828.509977
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+oen.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy en.lproj/Localizable.strings294633828#294633828#0(130"en.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Localizable.strings4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Default.png en.lproj/Default.png
+s294633828.433948
+e294633828.446225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Default.png
+xen.lproj/Default.png
+lSLF07#2@25"Copy en.lproj/Default.png294633828#294633828#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Default.png4300911832#546"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Stat.png en.lproj/Stat.png
+s294633828.432178
+e294633828.441596
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/XMLPerformance.app/en.lproj/Stat.png
+xen.lproj/Stat.png
+lSLF07#2@22"Copy en.lproj/Stat.png294633828#294633828#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Stat.png4300911832#543"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/Stat.png /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/XMLPerformance.app/en.lproj/XML.png en.lproj/XML.png
+s294633828.433072
+e294633828.443958
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/XMLPerformance.app/en.lproj/XML.png
+xen.lproj/XML.png
+lSLF07#2@21"Copy en.lproj/XML.png294633828#294633828#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/XML.png4300911832#542"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/en.lproj/XML.png /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/XMLPerformance.app/stats.sqlite stats.sqlite
+s294633828.431311
+e294633828.447337
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/XMLPerformance.app/stats.sqlite
+xstats.sqlite
+lSLF07#2@17"Copy stats.sqlite294633828#294633828#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/stats.sqlite4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/stats.sqlite /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance
+s294633830.000418
+e294633830.022504
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/XMLPerformance.app.dSYM build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance294633830#294633830#0(0"0(0#0#122"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance4300911832#470"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance normal i386
+s294633829.972629
+e294633830.000312
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance
+xnormal
+xi386
+lSLF07#2@127"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance294633829#294633830#0(0"0(0#0#0"4300911832#1024"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/Objects-normal/i386/XMLPerformance.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -lsqlite3 -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/XMLPerformance0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/Info.plist Info.plist
+s294633828.425113
+e294633828.429333
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294633828#294633828#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Info.plist4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633828.847204
+e294633829.536360
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294633828#294633829#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Prefix.pch4300911832#2163"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/XMLPerformance-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libxml2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/XMLPerformance.build/Debug-iphonesimulator/XMLPerformance.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dfsnasadchgyiihgwjmrluikflwm/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app
+s294633830.022616
+e294633830.025677
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app
+lSLF07#2@113"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app294633830#294633830#0(0"0(0#0#0"4300911832#329"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/XMLPerformance/build/Debug-iphonesimulator/XMLPerformance.app0#
+

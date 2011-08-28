@@ -1,0 +1,1096 @@
+TTheElements
+v7
+r0
+t294590153.236100
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/TheElements.app/Icon.png Icon.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Elements.plist Elements.plist
+cCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_24.png Images/Artificial_24.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_256.png Images/Artificial_256.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Gas_24.png Images/Gas_24.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Gas_256.png Images/Gas_256.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_24.png Images/Liquid_24.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_256.png Images/Liquid_256.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Solid_24.png Images/Solid_24.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Solid_256.png Images/Solid_256.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/name_gray.png Images/name_gray.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/number_gray.png Images/number_gray.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/state_gray.png Images/state_gray.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/symbol_gray.png Images/symbol_gray.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/table_gray.png Images/table_gray.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_37.png Images/Artificial_37.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Gas_37.png Images/Gas_37.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_37.png Images/Liquid_37.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Solid_37.png Images/Solid_37.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/flipper_list_blue.png Images/flipper_list_blue.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Gas_30.png Images/Gas_30.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Solid_30.png Images/Solid_30.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_30.png Images/Liquid_30.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_30.png Images/Artificial_30.png
+cCpResource build/Debug-iphonesimulator/TheElements.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch.gch TheElements_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElementsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElement.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByAtomicNumberDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByStateDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedBySymbolDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByNameDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/PeriodicElements.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTileView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementFlippedView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.h
+c000000004BA3EA0A0000000000000E52
+t1269033482
+s3666
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m
+c000000004BA3EA0A00000000000015B4
+t1269033482
+s5556
+i"AtomicElement.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.h
+c000000004BA3EA0A0000000000000A9F
+t1269033482
+s2719
+i<UIKit/UIKit.h>
+i"AtomicElementView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m
+c000000004BA3EA0A0000000000001BCA
+t1269033482
+s7114
+i"AtomicElementView.h"
+i"AtomicElement.h"
+i"PeriodicElements.h"
+i"AtomicElementFlippedView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.h
+c000000004BA3EA0A0000000000000B57
+t1269033482
+s2903
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m
+c000000004BA3EA0A000000000000135A
+t1269033482
+s4954
+i"AtomicElementTableViewCell.h"
+i"AtomicElement.h"
+i"AtomicElementTileView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.h
+c000000004BA3EA0A0000000000000A97
+t1269033482
+s2711
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m
+c000000004BA3EA0A0000000000000E7C
+t1269033482
+s3708
+i"AtomicElementTileView.h"
+i"AtomicElement.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.h
+c000000004BA3EA0A0000000000000B76
+t1269033482
+s2934
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m
+c000000004BA3EA0A00000000000023C5
+t1269033482
+s9157
+i"AtomicElementView.h"
+i"AtomicElementViewController.h"
+i"AtomicElement.h"
+i"PeriodicElements.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.h
+c000000004BA3EA0A0000000000000DC8
+t1269033482
+s3528
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m
+c000000004BA3EA0A00000000000023CA
+t1269033482
+s9162
+i"AtomicElementViewController.h"
+i"AtomicElementView.h"
+i"AtomicElementFlippedView.h"
+i"AtomicElement.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsDataSourceProtocol.h
+c000000004BA3EA0A0000000000000D83
+t1269033482
+s3459
+i<UIKit/UIKit.h>
+i"AtomicElement.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.h
+c000000004BA3EA0A0000000000000A96
+t1269033482
+s2710
+i<UIKit/UIKit.h>
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m
+c000000004BA3EA0A0000000000001306
+t1269033482
+s4870
+i"ElementsSortedByAtomicNumberDataSource.h"
+i"TheElementsAppDelegate.h"
+i"PeriodicElements.h"
+i"AtomicElement.h"
+i"AtomicElementTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.h
+c000000004BA3EA0A0000000000000A7C
+t1269033482
+s2684
+i<UIKit/UIKit.h>
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m
+c000000004BA3EA0A00000000000018DE
+t1269033482
+s6366
+i"ElementsSortedByNameDataSource.h"
+i"TheElementsAppDelegate.h"
+i"PeriodicElements.h"
+i"AtomicElement.h"
+i"AtomicElementTableViewCell.h"
+i"AtomicElementViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.h
+c000000004BA3EA0A0000000000000A97
+t1269033482
+s2711
+i<UIKit/UIKit.h>
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m
+c000000004BA3EA0A0000000000001815
+t1269033482
+s6165
+i"ElementsSortedByStateDataSource.h"
+i"TheElementsAppDelegate.h"
+i"PeriodicElements.h"
+i"AtomicElement.h"
+i"AtomicElementTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.h
+c000000004BA3EA0A0000000000000A88
+t1269033482
+s2696
+i<UIKit/UIKit.h>
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m
+c000000004BA3EA0A00000000000012F7
+t1269033482
+s4855
+i"ElementsSortedBySymbolDataSource.h"
+i"TheElementsAppDelegate.h"
+i"PeriodicElements.h"
+i"AtomicElement.h"
+i"AtomicElementTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.h
+c000000004BA3EA0A0000000000000C0A
+t1269033482
+s3082
+i<UIKit/UIKit.h>
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m
+c000000004BA3EA0A0000000000001821
+t1269033482
+s6177
+i"ElementsTableViewController.h"
+i"AtomicElement.h"
+i"AtomicElementTableViewCell.h"
+i"AtomicElementViewController.h"
+i"TheElementsAppDelegate.h"
+i"ElementsDataSourceProtocol.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.h
+c000000004BA3EA0A0000000000000DA8
+t1269033482
+s3496
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m
+c000000004BA3EA0A00000000000027AD
+t1269033482
+s10157
+i"PeriodicElements.h"
+i"AtomicElement.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.h
+c000000004BA3EA0A0000000000000AED
+t1269033482
+s2797
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m
+c000000004BA3EA0A000000000000216F
+t1269033482
+s8559
+i"TheElementsAppDelegate.h"
+i"PeriodicElements.h"
+i"AtomicElement.h"
+i"ElementsSortedByNameDataSource.h"
+i"ElementsSortedByAtomicNumberDataSource.h"
+i"ElementsSortedBySymbolDataSource.h"
+i"ElementsSortedByStateDataSource.h"
+i"ElementsTableViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Default.png
+c0000000048B655E00000000000004A4F
+t1219909088
+s19023
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Elements.plist
+c0000000048B655E0000000000000F622
+t1219909088
+s63010
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Icon.png
+c0000000048B655E00000000000000C93
+t1219909088
+s3219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_24.png
+c0000000048B655E000000000000003CD
+t1219909088
+s973
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_256.png
+c0000000048B655E00000000000009F7F
+t1219909088
+s40831
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_30.png
+c0000000048B655E000000000000006BB
+t1219909088
+s1723
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_37.png
+c0000000048B655E0000000000000134E
+t1219909088
+s4942
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_24.png
+c0000000048B655E000000000000003C9
+t1219909088
+s969
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_256.png
+c0000000048B655E0000000000000AA04
+t1219909088
+s43524
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_30.png
+c0000000048B655E0000000000000074E
+t1219909088
+s1870
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_37.png
+c0000000048B655E00000000000001442
+t1219909088
+s5186
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_24.png
+c0000000048B655E000000000000003C9
+t1219909088
+s969
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_256.png
+c0000000048B655E0000000000000A629
+t1219909088
+s42537
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_30.png
+c0000000048B655E0000000000000070B
+t1219909088
+s1803
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_37.png
+c0000000048B655E00000000000001407
+t1219909088
+s5127
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_24.png
+c0000000048B655E000000000000003C8
+t1219909088
+s968
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_256.png
+c0000000048B655E00000000000006D82
+t1219909088
+s28034
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_30.png
+c0000000048B655E00000000000000550
+t1219909088
+s1360
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_37.png
+c0000000048B655E000000000000010D4
+t1219909088
+s4308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/flipper_list_blue.png
+c0000000048B655E00000000000000611
+t1219909088
+s1553
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/name_gray.png
+c0000000048B655E00000000000000527
+t1219909088
+s1319
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/number_gray.png
+c0000000048B655E000000000000006CB
+t1219909088
+s1739
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/state_gray.png
+c0000000048B655E000000000000004D7
+t1219909088
+s1239
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/symbol_gray.png
+c0000000048B655E000000000000004F2
+t1219909088
+s1266
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/table_gray.png
+c0000000048B655E00000000000000416
+t1219909088
+s1046
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/TheElements_Prefix.pch
+c000000004A04AAD000000000000000BF
+t1241819856
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app
+t1272897353
+s1020
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app.dSYM
+t1272897353
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Artificial_24.png
+t1272897351
+s973
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Artificial_256.png
+t1272897351
+s40831
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Artificial_30.png
+t1272897351
+s1723
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Artificial_37.png
+t1272897351
+s4942
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Default.png
+t1272897351
+s19023
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Elements.plist
+t1272897351
+s10643
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Gas_24.png
+t1272897351
+s969
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Gas_256.png
+t1272897351
+s43524
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Gas_30.png
+t1272897351
+s1870
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Gas_37.png
+t1272897351
+s5186
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Icon.png
+t1272897351
+s3219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Info.plist
+t1272897351
+s605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Liquid_24.png
+t1272897351
+s969
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Liquid_256.png
+t1272897351
+s42537
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Liquid_30.png
+t1272897351
+s1803
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Liquid_37.png
+t1272897351
+s5127
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/PkgInfo
+t1272897351
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Solid_24.png
+t1272897351
+s968
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Solid_256.png
+t1272897351
+s28034
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Solid_30.png
+t1272897351
+s1360
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Solid_37.png
+t1272897351
+s4308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements
+t1272897353
+s93992
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/flipper_list_blue.png
+t1272897351
+s1553
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/name_gray.png
+t1272897351
+s1319
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/number_gray.png
+t1272897351
+s1739
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/state_gray.png
+t1272897351
+s1239
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/symbol_gray.png
+t1272897351
+s1266
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/table_gray.png
+t1272897351
+s1046
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElement.o
+t1272897352
+s26240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementFlippedView.o
+t1272897353
+s28096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTableViewCell.o
+t1272897352
+s24236
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTileView.o
+t1272897353
+s15304
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementView.o
+t1272897353
+s42656
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementViewController.o
+t1272897353
+s48896
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByAtomicNumberDataSource.o
+t1272897352
+s31624
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByNameDataSource.o
+t1272897352
+s33612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByStateDataSource.o
+t1272897352
+s32704
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedBySymbolDataSource.o
+t1272897352
+s31472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsTableViewController.o
+t1272897352
+s41012
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/PeriodicElements.o
+t1272897352
+s29800
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElements.LinkFileList
+c000000004BDEDF470000000000000936
+t1272897351
+s2358
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElementsAppDelegate.o
+t1272897352
+s46296
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/main.o
+t1272897352
+s6164
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m
+c000000004BA3EA0A0000000000000AC8
+t1269033482
+s2760
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch.gch
+t1272897352
+s12948848
+
+NInfo.plist
+c000000004A64B756000000000000034E
+t1248114518
+s846
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294590151#294590151#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElement.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.574646
+e294590152.742860
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElement.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m294590152#294590152#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m4300911832#2163"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElement.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElement.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementFlippedView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.929347
+e294590153.088936
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementFlippedView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m294590152#294590153#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m4300911832#2185"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementFlippedView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementFlippedView.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.575823
+e294590152.688805
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTableViewCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m294590152#294590152#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m4300911832#2189"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTableViewCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTableViewCell.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTileView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.917370
+e294590153.006842
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTileView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m294590152#294590153#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m4300911832#2179"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementTileView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementTileView.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.878169
+e294590153.020122
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m294590152#294590153#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m4300911832#2171"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementView.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.858498
+e294590153.007238
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m294590152#294590153#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m4300911832#2191"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/AtomicElementViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/AtomicElementViewController.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByAtomicNumberDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.634259
+e294590152.763099
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByAtomicNumberDataSource.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m294590152#294590152#0(0"0(0#0#106"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m4300911832#2213"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByAtomicNumberDataSource.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByAtomicNumberDataSource.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByNameDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.743017
+e294590152.878007
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByNameDataSource.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m294590152#294590152#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m4300911832#2197"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByNameDataSource.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByNameDataSource.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByStateDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.686995
+e294590152.858346
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByStateDataSource.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m294590152#294590152#0(0"0(0#0#99"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m4300911832#2199"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedByStateDataSource.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedByStateDataSource.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedBySymbolDataSource.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.688954
+e294590152.814440
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedBySymbolDataSource.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m294590152#294590152#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m4300911832#2201"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsSortedBySymbolDataSource.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsSortedBySymbolDataSource.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.814601
+e294590152.929191
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m294590152#294590152#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m4300911832#2191"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/ElementsTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/ElementsTableViewController.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/PeriodicElements.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.763271
+e294590152.917203
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/PeriodicElements.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m294590152#294590152#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m4300911832#2169"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/PeriodicElements.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/PeriodicElements.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElementsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.573659
+e294590152.686832
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElementsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m294590152#294590152#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m4300911832#2181"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Classes/TheElementsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElementsAppDelegate.o0#
+
+CCompileC build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590152.572618
+e294590152.634093
+r1
+xCompileC
+xbuild/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m294590152#294590152#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m4300911832#2137"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Elements.plist Elements.plist
+s294590151.671959
+e294590151.820003
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Elements.plist
+xElements.plist
+lSLF07#2@19"Copy Elements.plist294590151#294590151#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Elements.plist4300911832#431"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Elements.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_24.png Images/Artificial_24.png
+s294590151.673007
+e294590151.739456
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Artificial_24.png
+xImages/Artificial_24.png
+lSLF07#2@29"Copy Images/Artificial_24.png294590151#294590151#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_24.png4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_24.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_256.png Images/Artificial_256.png
+s294590151.681791
+e294590151.729318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Artificial_256.png
+xImages/Artificial_256.png
+lSLF07#2@30"Copy Images/Artificial_256.png294590151#294590151#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_256.png4300911832#530"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_256.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_30.png Images/Artificial_30.png
+s294590151.752480
+e294590151.765113
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Artificial_30.png
+xImages/Artificial_30.png
+lSLF07#2@29"Copy Images/Artificial_30.png294590151#294590151#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_30.png4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_30.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Artificial_37.png Images/Artificial_37.png
+s294590151.740150
+e294590151.775919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Artificial_37.png
+xImages/Artificial_37.png
+lSLF07#2@29"Copy Images/Artificial_37.png294590151#294590151#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_37.png4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Artificial_37.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Default.png Default.png
+s294590151.754965
+e294590151.776856
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294590151#294590151#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Default.png4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Gas_24.png Images/Gas_24.png
+s294590151.683205
+e294590151.734018
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Gas_24.png
+xImages/Gas_24.png
+lSLF07#2@22"Copy Images/Gas_24.png294590151#294590151#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_24.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_24.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Gas_256.png Images/Gas_256.png
+s294590151.685045
+e294590151.735344
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Gas_256.png
+xImages/Gas_256.png
+lSLF07#2@23"Copy Images/Gas_256.png294590151#294590151#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_256.png4300911832#523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_256.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Gas_30.png Images/Gas_30.png
+s294590151.745217
+e294590151.762193
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Gas_30.png
+xImages/Gas_30.png
+lSLF07#2@22"Copy Images/Gas_30.png294590151#294590151#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_30.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_30.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Gas_37.png Images/Gas_37.png
+s294590151.741095
+e294590151.750406
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Gas_37.png
+xImages/Gas_37.png
+lSLF07#2@22"Copy Images/Gas_37.png294590151#294590151#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_37.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Gas_37.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Icon.png Icon.png
+s294590151.670789
+e294590151.726202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294590151#294590151#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Icon.png4300911832#513"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_24.png Images/Liquid_24.png
+s294590151.685838
+e294590151.744161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Liquid_24.png
+xImages/Liquid_24.png
+lSLF07#2@25"Copy Images/Liquid_24.png294590151#294590151#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_24.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_24.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_256.png Images/Liquid_256.png
+s294590151.686616
+e294590151.739854
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Liquid_256.png
+xImages/Liquid_256.png
+lSLF07#2@26"Copy Images/Liquid_256.png294590151#294590151#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_256.png4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_256.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_30.png Images/Liquid_30.png
+s294590151.750541
+e294590151.766124
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Liquid_30.png
+xImages/Liquid_30.png
+lSLF07#2@25"Copy Images/Liquid_30.png294590151#294590151#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_30.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_30.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Liquid_37.png Images/Liquid_37.png
+s294590151.741946
+e294590151.754830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Liquid_37.png
+xImages/Liquid_37.png
+lSLF07#2@25"Copy Images/Liquid_37.png294590151#294590151#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_37.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Liquid_37.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Solid_24.png Images/Solid_24.png
+s294590151.687519
+e294590151.735536
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Solid_24.png
+xImages/Solid_24.png
+lSLF07#2@24"Copy Images/Solid_24.png294590151#294590151#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_24.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_24.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Solid_256.png Images/Solid_256.png
+s294590151.688499
+e294590151.740035
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Solid_256.png
+xImages/Solid_256.png
+lSLF07#2@25"Copy Images/Solid_256.png294590151#294590151#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_256.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_256.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Solid_30.png Images/Solid_30.png
+s294590151.747243
+e294590151.778073
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Solid_30.png
+xImages/Solid_30.png
+lSLF07#2@24"Copy Images/Solid_30.png294590151#294590151#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_30.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_30.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/Solid_37.png Images/Solid_37.png
+s294590151.742832
+e294590151.759163
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/Solid_37.png
+xImages/Solid_37.png
+lSLF07#2@24"Copy Images/Solid_37.png294590151#294590151#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_37.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/Solid_37.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/flipper_list_blue.png Images/flipper_list_blue.png
+s294590151.744265
+e294590151.759988
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/flipper_list_blue.png
+xImages/flipper_list_blue.png
+lSLF07#2@33"Copy Images/flipper_list_blue.png294590151#294590151#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/flipper_list_blue.png4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/flipper_list_blue.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/name_gray.png Images/name_gray.png
+s294590151.726342
+e294590151.743966
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/name_gray.png
+xImages/name_gray.png
+lSLF07#2@25"Copy Images/name_gray.png294590151#294590151#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/name_gray.png4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/name_gray.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/number_gray.png Images/number_gray.png
+s294590151.729446
+e294590151.739660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/number_gray.png
+xImages/number_gray.png
+lSLF07#2@27"Copy Images/number_gray.png294590151#294590151#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/number_gray.png4300911832#527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/number_gray.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/state_gray.png Images/state_gray.png
+s294590151.734164
+e294590151.747100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/state_gray.png
+xImages/state_gray.png
+lSLF07#2@26"Copy Images/state_gray.png294590151#294590151#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/state_gray.png4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/state_gray.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/symbol_gray.png Images/symbol_gray.png
+s294590151.735965
+e294590151.752349
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/symbol_gray.png
+xImages/symbol_gray.png
+lSLF07#2@27"Copy Images/symbol_gray.png294590151#294590151#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/symbol_gray.png4300911832#527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/symbol_gray.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CCpResource build/Debug-iphonesimulator/TheElements.app/table_gray.png Images/table_gray.png
+s294590151.738252
+e294590151.757819
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TheElements.app/table_gray.png
+xImages/table_gray.png
+lSLF07#2@26"Copy Images/table_gray.png294590151#294590151#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/table_gray.png4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Images/table_gray.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements
+s294590153.162425
+e294590153.231997
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TheElements.app.dSYM build/Debug-iphonesimulator/TheElements.app/TheElements294590153#294590153#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements4300911832#452"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements normal i386
+s294590153.089034
+e294590153.162291
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements294590153#294590153#0(0"0(0#0#0"4300911832#999"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/Objects-normal/i386/TheElements.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/TheElements0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Info.plist Info.plist
+s294590151.663360
+e294590151.670649
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294590151#294590151#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/Info.plist4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch.gch TheElements_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590151.820173
+e294590152.572482
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch.gch
+xTheElements_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TheElements_Prefix.pch294590151#294590152#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/TheElements_Prefix.pch4300911832#2006"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/TheElements-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/TheElements.build/Debug-iphonesimulator/TheElements.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/TheElements_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TheElements_Prefix-clgumttsfffbyccgrobdyxmbgxpb/TheElements_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app
+s294590153.232216
+e294590153.236058
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app
+lSLF07#2@107"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app294590153#294590153#0(0"0(0#0#0"4300911832#320"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TheElements/build/Debug-iphonesimulator/TheElements.app0#
+

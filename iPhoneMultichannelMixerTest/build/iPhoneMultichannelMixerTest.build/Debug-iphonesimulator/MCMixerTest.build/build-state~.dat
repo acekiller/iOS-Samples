@@ -1,0 +1,600 @@
+TMCMixerTest
+v7
+r0
+t294629316.224063
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/green_button.png Resources/green_button.png
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/red_button.png Resources/red_button.png
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/info.html Resources/info.html
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/DrumsMonoSTP.aif Resources/DrumsMonoSTP.aif
+cCpResource build/Debug-iphonesimulator/MCMixerTest.app/GuitarMonoSTP.aif Resources/GuitarMonoSTP.aif
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch.gch MultichannelMixerTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerTestDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004A0DADB3000000000000041D
+t1242410419
+s1053
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004A0BAA35000000000000F342
+t1242278453
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004A0BA8C00000000000001983
+t1242278080
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A0BA8C00000000000000A99
+t1242278080
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ConditionalMacros.h
+c000000004A0BAC5D0000000000006860
+t1242279005
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.h
+c000000004BA405200000000000000D27
+t1269040416
+s3367
+i<AudioToolbox/AudioToolbox.h>
+i<AudioUnit/AudioUnit.h>
+i"CAStreamBasicDescription.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm
+c000000004BA405200000000000003D5E
+t1269040416
+s15710
+i"MultiChannelMixerController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.h
+c000000004BA405200000000000000BF5
+t1269040416
+s3061
+i<UIKit/UIKit.h>
+i"MyViewController.h"
+i"CAXException.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m
+c000000004BA405200000000000001B14
+t1269040416
+s6932
+i"MultichannelMixerTestDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.h
+c000000004BA405200000000000001014
+t1269040416
+s4116
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"MultichannelMixerController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m
+c000000004BA405200000000000001E4B
+t1269040416
+s7755
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Icon.png
+c000000004A7215AE000000000000153F
+t1248990638
+s5439
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib
+c000000004A7215AE00000000000085B9
+t1248990638
+s34233
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MultichannelMixerTest_Prefix.pch
+c000000004A73503F0000000000000059
+t1249071167
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/DrumsMonoSTP.aif
+c000000004A7215AE000000000043568C
+t1248990638
+s4413068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/GuitarMonoSTP.aif
+c000000004A7215AE000000000043568C
+t1248990638
+s4413068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/green_button.png
+c000000004A7215AE00000000000002EE
+t1248990638
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/info.html
+c000000004A7215AE0000000000000850
+t1248990638
+s2128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/red_button.png
+c000000004A7215AE00000000000002F2
+t1248990638
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app
+t1272936516
+s408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app.dSYM
+t1272936516
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/DrumsMonoSTP.aif
+t1272936514
+s4413068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/GuitarMonoSTP.aif
+t1272936514
+s4413068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Icon.png
+t1272936514
+s5439
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Info.plist
+t1272936514
+s605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest
+t1272936516
+s61156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MainWindow.nib
+t1272936514
+s6655
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/PkgInfo
+t1272936514
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/green_button.png
+t1272936514
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/info.html
+t1272936514
+s2128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/red_button.png
+t1272936514
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+t1272936516
+s32796
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAXException.o
+t1272936516
+s5272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MCMixerTest.LinkFileList
+c000000004BDF78420000000000000496
+t1272936514
+s1174
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerController.o
+t1272936516
+s42264
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerTestDelegate.o
+t1272936516
+s59844
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MyViewController.o
+t1272936516
+s54384
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/main.o
+t1272936515
+s6600
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CADebugMacros.h
+c000000004A7215AE0000000000004C2C
+t1248990638
+s19500
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAMath.h
+c000000004A7215AE0000000000000C54
+t1248990638
+s3156
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp
+c000000004A7215AE0000000000004A29
+t1248990638
+s18985
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i<stddef.h>
+i"CALogMacros.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.h
+c000000004A7215AE0000000000002ED4
+t1248990638
+s11988
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp
+c000000004A96CF1A00000000000009EC
+t1251397402
+s2540
+i"CAXException.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.h
+c000000004A96CF1A0000000000001923
+t1251397402
+s6435
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m
+c000000004BA405200000000000000AA0
+t1269040416
+s2720
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch.gch
+t1272936515
+s13895024
+
+NInfo.plist
+c000000004A7215AE0000000000000384
+t1248990638
+s900
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629314#294629314#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.872570
+e294629316.053752
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp294629315#294629316#0(0"0(0#0#117"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp4300911832#2532"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAStreamBasicDescription.o0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629316.053996
+e294629316.116650
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAXException.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp294629316#294629316#0(0"0(0#0#105"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp4300911832#2508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/iPublicUtility/CAXException.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/CAXException.o0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.924864
+e294629316.097676
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController initializeAUGraph](MultichannelMixerController*, objc_selector*)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:175: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:175: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:200: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:200: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:203: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:203: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:212: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:212: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:225: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:225: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:232: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:232: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:240: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:240: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:247: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:247: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:255: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:255: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:261: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:261: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController loadFiles](MultichannelMixerController*, objc_selector*)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:274: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:274: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:281: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:281: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:290: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:290: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:296: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:296: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:319: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:319: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController enableInput:isOn:](MultichannelMixerController*, objc_selector*, UInt32, AudioUnitParameterValue)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:335: warning: format '%d' expects type 'int', but argument 2 has type 'UInt32'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:338: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:338: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController setInputVolume:value:](MultichannelMixerController*, objc_selector*, UInt32, AudioUnitParameterValue)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:346: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:346: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController setOutputVolume:](MultichannelMixerController*, objc_selector*, AudioUnitParameterValue)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:353: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:353: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController startAUGraph](MultichannelMixerController*, objc_selector*)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:362: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:362: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController stopAUGraph](MultichannelMixerController*, objc_selector*)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:374: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:374: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:378: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:378: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm294629315#294629316#0(10249"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController initializeAUGraph](MultichannelMixerController*, objc_selector*)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:175: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:175: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:200: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:200: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:203: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:203: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:212: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:212: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:225: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:225: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:232: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:232: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:240: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:240: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:247: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:247: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:255: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:255: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:261: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:261: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController loadFiles](MultichannelMixerController*, objc_selector*)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:274: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:274: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:281: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:281: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:290: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:290: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:296: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:296: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:319: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:319: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController enableInput:isOn:](MultichannelMixerController*, objc_selector*, UInt32, AudioUnitParameterValue)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:335: warning: format '%d' expects type 'int', but argument 2 has type 'UInt32'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:338: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:338: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController setInputVolume:value:](MultichannelMixerController*, objc_selector*, UInt32, AudioUnitParameterValue)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:346: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:346: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController setOutputVolume:](MultichannelMixerController*, objc_selector*, AudioUnitParameterValue)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:353: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:353: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController startAUGraph](MultichannelMixerController*, objc_selector*)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:362: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:362: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm: In function 'void -[MultichannelMixerController stopAUGraph](MultichannelMixerController*, objc_selector*)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:374: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:374: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:378: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm:378: warning: format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'43(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#229#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#175#0#175#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#423#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#175#0#175#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#628#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#200#0#200#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#822#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#200#0#200#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#1027#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#203#0#203#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#1221#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#203#0#203#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#1426#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#212#0#212#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#1620#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#212#0#212#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#1825#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#225#0#225#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#2019#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#225#0#225#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#2224#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#232#0#232#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#2418#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#232#0#232#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#2623#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#240#0#240#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#2817#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#240#0#240#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#3022#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#247#0#247#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#3216#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#247#0#247#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#3421#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#255#0#255#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#3615#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#255#0#255#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#3820#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#261#0#261#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#4014#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#261#0#261#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#4440#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#274#0#274#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#4634#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#274#0#274#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#4839#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#281#0#281#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#5033#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#281#0#281#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#5238#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#290#0#290#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#5432#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#290#0#290#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#5637#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#296#0#296#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#5831#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#296#0#296#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#6036#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#319#0#319#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#6230#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#319#0#319#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'UInt32'294629316#6697#192#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#335#0#335#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#6889#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#338#0#338#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#7083#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#338#0#338#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#7554#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#346#0#346#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#7748#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#346#0#346#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#8206#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#353#0#353#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#8400#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#353#0#353#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#8829#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#362#0#362#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#9023#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#362#0#362#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#9451#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#374#0#374#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#9645#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#374#0#374#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'294629316#9850#194#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#378#0#378#0#56"format '*' expects type '*', but argument * has type '*'0(22@77"Format '%08X' expects type 'unsigned int', but argument 3 has type 'OSStatus'294629316#10044#205#0(6@112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm290733216#378#0#378#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm4300911832#2530"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerController.mm -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerController.o0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerTestDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.875269
+e294629316.073557
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerTestDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m: In function 'void propertyListener(void*, AudioSessionPropertyID, UInt32, const void*)':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m:87: warning: format '%d' expects type 'int', but argument 2 has type 'UInt32'
+lSLF07#2@121"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m294629315#294629316#0(396"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m: In function 'void propertyListener(void*, AudioSessionPropertyID, UInt32, const void*)':/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m:87: warning: format '%d' expects type 'int', but argument 2 has type 'UInt32'1(22@64"Format '%d' expects type 'int', but argument 2 has type 'UInt32'294629316#204#192#0(6@113"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m290733216#87#0#87#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m4300911832#2533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MultichannelMixerTestDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MultichannelMixerTestDelegate.o0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.873690
+e294629316.073294
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m294629315#294629316#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m4300911832#2507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Classes/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.871195
+e294629315.924702
+r1
+xCompileC
+xbuild/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m294629315#294629315#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m4300911832#2475"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib
+s294629314.498454
+e294629315.020637
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294629314#294629315#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib4300911832#589"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/DrumsMonoSTP.aif Resources/DrumsMonoSTP.aif
+s294629314.502869
+e294629314.552841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/DrumsMonoSTP.aif
+xResources/DrumsMonoSTP.aif
+lSLF07#2@31"Copy Resources/DrumsMonoSTP.aif294629314#294629314#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/DrumsMonoSTP.aif4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/DrumsMonoSTP.aif /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/GuitarMonoSTP.aif Resources/GuitarMonoSTP.aif
+s294629314.503782
+e294629314.595980
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/GuitarMonoSTP.aif
+xResources/GuitarMonoSTP.aif
+lSLF07#2@32"Copy Resources/GuitarMonoSTP.aif294629314#294629314#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/GuitarMonoSTP.aif4300911832#580"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/GuitarMonoSTP.aif /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/Icon.png Icon.png
+s294629314.501971
+e294629314.518187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294629314#294629314#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Icon.png4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/green_button.png Resources/green_button.png
+s294629314.499257
+e294629314.511806
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/green_button.png
+xResources/green_button.png
+lSLF07#2@31"Copy Resources/green_button.png294629314#294629314#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/green_button.png4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/green_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/info.html Resources/info.html
+s294629314.501061
+e294629314.540739
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/info.html
+xResources/info.html
+lSLF07#2@24"Copy Resources/info.html294629314#294629314#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/info.html4300911832#572"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/info.html /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MCMixerTest.app/red_button.png Resources/red_button.png
+s294629314.500177
+e294629314.527695
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MCMixerTest.app/red_button.png
+xResources/red_button.png
+lSLF07#2@29"Copy Resources/red_button.png294629314#294629314#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/red_button.png4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Resources/red_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest
+s294629316.166620
+e294629316.219989
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MCMixerTest.app.dSYM build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest294629316#294629316#0(0"0(0#0#129"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest normal i386
+s294629316.116749
+e294629316.166519
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest
+xnormal
+xi386
+lSLF07#2@134"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest294629316#294629316#0(0"0(0#0#0"4300911832#1121"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/Objects-normal/i386/MCMixerTest.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/MCMixerTest0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Info.plist Info.plist
+s294629314.490905
+e294629314.498364
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294629314#294629314#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/Info.plist4300911832#584"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app/Info.plist0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch.gch MultichannelMixerTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294629315.020820
+e294629315.871085
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch.gch
+xMultichannelMixerTest_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile MultichannelMixerTest_Prefix.pch294629315#294629315#0(0"0(0#0#106"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MultichannelMixerTest_Prefix.pch4300911832#2322"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/MCMixerTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/iPhoneMultichannelMixerTest.build/Debug-iphonesimulator/MCMixerTest.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/MultichannelMixerTest_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultichannelMixerTest_Prefix-gnzctmhwyyglgjgxjuziwmjrixam/MultichannelMixerTest_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app
+s294629316.220093
+e294629316.223994
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app
+lSLF07#2@123"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app294629316#294629316#0(0"0(0#0#0"4300911832#352"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMultichannelMixerTest/build/Debug-iphonesimulator/MCMixerTest.app0#
+

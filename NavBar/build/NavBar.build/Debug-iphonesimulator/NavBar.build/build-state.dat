@@ -1,0 +1,759 @@
+TNavBar
+v7
+r0
+t294637593.008313
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/NavBar.app/down.png images/down.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/up.png images/up.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page2.png images/Page2.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page4.png images/Page4.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page3.png images/Page3.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Page1.png images/Page1.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Icon.png images/Icon.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib
+cCpResource build/Debug-iphonesimulator/NavBar.app/email.png images/email.png
+cCpResource build/Debug-iphonesimulator/NavBar.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004A0BA8D900000000001D7C70
+t1242278105
+s1932400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.h
+c000000004BA3E9100000000000000AFE
+t1269033232
+s2814
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m
+c000000004BA3E9100000000000000B5F
+t1269033232
+s2911
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Constants.h
+c000000004BA3E9100000000000000A74
+t1269033232
+s2676
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Default.png
+c0000000049FB55000000000000001D46
+t1241208064
+s7494
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.h
+c000000004BA3E9100000000000000BE8
+t1269033232
+s3048
+i<UIKit/UIKit.h>
+i"ModalViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m
+c000000004BA3E910000000000000244B
+t1269033232
+s9291
+i"MainViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"ModalViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.h
+c000000004BA3E9100000000000000A8F
+t1269033232
+s2703
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m
+c000000004BA3E9100000000000000E5E
+t1269033232
+s3678
+i"ModalViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.h
+c000000004BA3E9100000000000000A30
+t1269033232
+s2608
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m
+c000000004BA3E9100000000000001234
+t1269033232
+s4660
+i"PageFiveViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.h
+c000000004BA3E9100000000000000A30
+t1269033232
+s2608
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m
+c000000004BA3E91000000000000011E0
+t1269033232
+s4576
+i"PageFourViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.h
+c000000004BA3E9100000000000000A11
+t1269033232
+s2577
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m
+c000000004BA3E9100000000000000CFE
+t1269033232
+s3326
+i"PageOneViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.h
+c000000004BA3E9100000000000000A33
+t1269033232
+s2611
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m
+c000000004BA3E91000000000000011E7
+t1269033232
+s4583
+i"PageThreeViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.h
+c000000004BA3E9100000000000000A11
+t1269033232
+s2577
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m
+c000000004BA3E9100000000000000CDE
+t1269033232
+s3294
+i"PageTwoViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app
+t1272944793
+s510
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+t1272944792
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Default.png
+t1272944791
+s7494
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Icon.png
+t1272944791
+s4709
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist
+t1272944791
+s667
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+t1272944792
+s45772
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Page1.png
+t1272944791
+s3242
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Page2.png
+t1272944791
+s3857
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Page3.png
+t1272944791
+s5331
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Page4.png
+t1272944791
+s2813
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/PkgInfo
+t1272944791
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/down.png
+t1272944791
+s329
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/email.png
+t1272944791
+s404
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings
+t1272944791
+s209
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings
+t1272944791
+s597
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/MainWindow.nib
+t1272944791
+s3133
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/ModalViewController.nib
+t1272944791
+s3573
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFiveViewController.nib
+t1272944791
+s1494
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFourViewController.nib
+t1272944791
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageOneViewController.nib
+t1272944791
+s1500
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageThreeViewController.nib
+t1272944791
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageTwoViewController.nib
+t1272944791
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/up.png
+t1272944791
+s441
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+t1272944792
+s39052
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+t1272944792
+s60380
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+t1272944792
+s35000
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList
+c000000004BDF98960000000000000533
+t1272944790
+s1331
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+t1272944792
+s37456
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+t1272944792
+s37076
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+t1272944792
+s31316
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+t1272944792
+s36504
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+t1272944792
+s31296
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+t1272944792
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/Localizable.strings
+c0000000049FB5500000000000000022A
+t1241208064
+s554
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib
+c0000000049FB55000000000000003814
+t1241208064
+s14356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib
+c0000000049FB550000000000000033B0
+t1241208064
+s13232
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib
+c0000000049FB55000000000000001C2A
+t1241208064
+s7210
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib
+c0000000049FB55000000000000001C2A
+t1241208064
+s7210
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib
+c0000000049FB55000000000000001C27
+t1241208064
+s7207
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib
+c0000000049FB55000000000000001C2D
+t1241208064
+s7213
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib
+c0000000049FB55000000000000001C27
+t1241208064
+s7207
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Icon.png
+c0000000049FB55000000000000001265
+t1241208064
+s4709
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page1.png
+c0000000049FB55000000000000000CAA
+t1241208064
+s3242
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page2.png
+c0000000049FB55000000000000000F11
+t1241208064
+s3857
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page3.png
+c0000000049FB550000000000000014D3
+t1241208064
+s5331
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page4.png
+c0000000049FB55000000000000000AFD
+t1241208064
+s2813
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/down.png
+c0000000049FB55000000000000000149
+t1241208064
+s329
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/email.png
+c0000000049FB55000000000000000194
+t1241208064
+s404
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/up.png
+c0000000049FB550000000000000001B9
+t1241208064
+s441
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m
+c000000004BA3E9100000000000000A79
+t1269033232
+s2681
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch.gch
+t1272944792
+s12948848
+
+NInfo.plist
+c0000000049FB550000000000000003D0
+t1241208064
+s976
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294637590#294637591#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.680851
+e294637592.770100
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m294637592#294637592#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m4300911832#1990"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.756393
+e294637592.894320
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m294637592#294637592#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m4300911832#2004"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/MainViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.856606
+e294637592.924626
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m294637592#294637592#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m4300911832#2006"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/ModalViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/ModalViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.770266
+e294637592.875461
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m294637592#294637592#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m4300911832#2012"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFiveViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFiveViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.764956
+e294637592.868863
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m294637592#294637592#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m4300911832#2012"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageFourViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageFourViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.679480
+e294637592.764815
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m294637592#294637592#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m4300911832#2010"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageOneViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageOneViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.753807
+e294637592.856460
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m294637592#294637592#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m4300911832#2014"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageThreeViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageThreeViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.678431
+e294637592.756259
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m294637592#294637592#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m4300911832#2010"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/PageTwoViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/PageTwoViewController.o0#
+
+CCompileC build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637592.677401
+e294637592.753660
+r1
+xCompileC
+xbuild/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m294637592#294637592#0(0"0(0#0#59"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m4300911832#1976"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib
+s294637591.045617
+e294637591.534314
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294637591#294637591#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib4300911832#539"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib
+s294637591.553351
+e294637591.926842
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib
+lSLF07#2@43"CompileXIB en.lproj/ModalViewController.xib294637591#294637591#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/ModalViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/ModalViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib
+s294637591.040921
+e294637591.504617
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFiveViewController.xib294637591#294637591#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib4300911832#563"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFiveViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFiveViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib
+s294637591.043936
+e294637591.499385
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFourViewController.xib294637591#294637591#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib4300911832#563"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageFourViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageFourViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib
+s294637591.499723
+e294637591.833015
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageOneViewController.xib294637591#294637591#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageOneViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageOneViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib
+s294637591.028415
+e294637591.499602
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/PageThreeViewController.xib294637591#294637591#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageThreeViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageThreeViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib
+s294637591.500763
+e294637591.833185
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageTwoViewController.xib294637591#294637591#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/PageTwoViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/PageTwoViewController.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s294637591.534448
+e294637591.577719
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings294637591#294637591#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/InfoPlist.strings4300911832#510"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294637591.504761
+e294637591.553211
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294637591#294637591#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/en.lproj/Localizable.strings4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Default.png Default.png
+s294637591.579069
+e294637591.589557
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294637591#294637591#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Default.png4300911832#496"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Icon.png images/Icon.png
+s294637591.027580
+e294637591.038927
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png294637591#294637591#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Icon.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page1.png images/Page1.png
+s294637591.026623
+e294637591.045497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page1.png
+ximages/Page1.png
+lSLF07#2@21"Copy images/Page1.png294637591#294637591#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page1.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page1.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page2.png images/Page2.png
+s294637591.023118
+e294637591.033184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page2.png
+ximages/Page2.png
+lSLF07#2@21"Copy images/Page2.png294637591#294637591#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page2.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page2.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page3.png images/Page3.png
+s294637591.025705
+e294637591.040786
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page3.png
+ximages/Page3.png
+lSLF07#2@21"Copy images/Page3.png294637591#294637591#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page3.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page3.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/Page4.png images/Page4.png
+s294637591.024719
+e294637591.043805
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/Page4.png
+ximages/Page4.png
+lSLF07#2@21"Copy images/Page4.png294637591#294637591#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page4.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/Page4.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/down.png images/down.png
+s294637591.014176
+e294637591.029711
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/down.png
+ximages/down.png
+lSLF07#2@20"Copy images/down.png294637591#294637591#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/down.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/down.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/email.png images/email.png
+s294637591.577861
+e294637591.586096
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/email.png
+ximages/email.png
+lSLF07#2@21"Copy images/email.png294637591#294637591#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/email.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/email.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CCpResource build/Debug-iphonesimulator/NavBar.app/up.png images/up.png
+s294637591.021070
+e294637591.030753
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavBar.app/up.png
+ximages/up.png
+lSLF07#2@18"Copy images/up.png294637591#294637591#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/up.png4300911832#498"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/images/up.png /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+s294637592.974739
+e294637593.002997
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/NavBar.app.dSYM build/Debug-iphonesimulator/NavBar.app/NavBar294637592#294637593#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar4300911832#422"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar normal i386
+s294637592.924716
+e294637592.974643
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar
+xnormal
+xi386
+lSLF07#2@103"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar294637592#294637592#0(0"0(0#0#0"4300911832#953"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/Objects-normal/i386/NavBar.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework UIKit -framework CoreGraphics -framework Foundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/NavBar0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist Info.plist
+s294637591.009256
+e294637591.014085
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294637591#294637591#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Info.plist4300911832#511"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637591.926984
+e294637592.677147
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294637591#294637592#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Prefix.pch4300911832#1848"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/NavBar-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/NavBar.build/Debug-iphonesimulator/NavBar.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cpmcjlrihzgbfxbbaoiubfqwsquh/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app
+s294637593.003118
+e294637593.008240
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app
+lSLF07#2@97"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app294637593#294637593#0(0"0(0#0#0"4300911832#305"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/NavBar/build/Debug-iphonesimulator/NavBar.app0#
+

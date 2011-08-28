@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemChildren</key>
+	<array>
+	
+		<dict>
+			<key>itemTitle</key>
+			<string>Item I</string>
+			
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item A</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item B</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		
+		<dict>
+			<key>itemTitle</key>
+			<string>Item II</string>
+			
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item A</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		
+		<dict>
+			<key>itemTitle</key>
+			<string>Item III</string>
+			
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item A</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item B</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item C</string>
+					
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 3</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		
+	</array>
+</dict>
+
+</plist>

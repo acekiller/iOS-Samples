@@ -1,0 +1,395 @@
+TLazyTable
+v7
+r0
+t294583605.826062
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/LazyTable.app/Placeholder.png Placeholder.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/LazyTable.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch.gch LazyTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTableAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/AppRecord.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/ParseOperation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/IconDownloader.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.h
+c000000004BA3EE940000000000000BDA
+t1269034644
+s3034
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m
+c000000004BA3EE940000000000000B8B
+t1269034644
+s2955
+i"AppRecord.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.h
+c000000004BA3EE940000000000000E23
+t1269034644
+s3619
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m
+c000000004BA3EE9400000000000014C4
+t1269034644
+s5316
+i"IconDownloader.h"
+i"AppRecord.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.h
+c000000004BA3EE940000000000000EF3
+t1269034644
+s3827
+i<UIKit/UIKit.h>
+i"AppRecord.h"
+i"ParseOperation.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m
+c000000004BA3EE9400000000000026D3
+t1269034644
+s9939
+i"LazyTableAppDelegate.h"
+i"RootViewController.h"
+i"ParseOperation.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.h
+c000000004BA3EE940000000000000C3B
+t1269034644
+s3131
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m
+c000000004BA3EE940000000000001D8E
+t1269034644
+s7566
+i"ParseOperation.h"
+i"AppRecord.h"
+i"LazyTableAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.h
+c000000004BA3EE940000000000000E08
+t1269034644
+s3592
+i<UIKit/UIKit.h>
+i"IconDownloader.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m
+c000000004BA3EE940000000000002215
+t1269034644
+s8725
+i"RootViewController.h"
+i"AppRecord.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Default.png
+c000000004AC66104000000000000355C
+t1254514948
+s13660
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/LazyTable_Prefix.pch
+c00000000496FDFE000000000000000BB
+t1232068576
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Placeholder.png
+c00000000496FDFE000000000000002C7
+t1232068576
+s711
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app
+t1272890805
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app.dSYM
+t1272890805
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Default.png
+t1272890803
+s13660
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Info.plist
+t1272890803
+s630
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable
+t1272890805
+s45824
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/PkgInfo
+t1272890803
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Placeholder.png
+t1272890803
+s711
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/en.lproj/MainWindow.nib
+t1272890804
+s2084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/en.lproj/RootViewController.nib
+t1272890804
+s1496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/AppRecord.o
+t1272890805
+s11796
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/IconDownloader.o
+t1272890805
+s19392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTable.LinkFileList
+c000000004BDEC5B300000000000003D9
+t1272890803
+s985
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTableAppDelegate.o
+t1272890805
+s59864
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/ParseOperation.o
+t1272890805
+s22904
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/RootViewController.o
+t1272890805
+s44860
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/main.o
+t1272890805
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib
+c000000004AC661040000000000005C5F
+t1254514948
+s23647
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib
+c000000004A53AC100000000000001F65
+t1246997520
+s8037
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m
+c000000004BA3EE940000000000000A9F
+t1269034644
+s2719
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c00000000496FDFE000000000000003B2
+t1232068576
+s946
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294583603#294583603#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/AppRecord.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.547347
+e294583605.628537
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/AppRecord.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m294583605#294583605#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m4300911832#2210"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/AppRecord.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/AppRecord.o0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/IconDownloader.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.628697
+e294583605.717343
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/IconDownloader.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m294583605#294583605#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m4300911832#2220"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/IconDownloader.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/IconDownloader.o0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTableAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.545136
+e294583605.683772
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTableAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m294583605#294583605#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m4300911832#2232"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/LazyTableAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTableAppDelegate.o0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/ParseOperation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.612500
+e294583605.717061
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/ParseOperation.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m294583605#294583605#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m4300911832#2220"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/ParseOperation.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/ParseOperation.o0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.546219
+e294583605.676484
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m294583605#294583605#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m4300911832#2228"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583605.544077
+e294583605.612348
+r1
+xCompileC
+xbuild/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m294583605#294583605#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m4300911832#2192"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib
+s294583603.599093
+e294583604.921700
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294583603#294583604#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib
+s294583603.598011
+e294583604.897315
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib
+lSLF07#2@42"CompileXIB en.lproj/RootViewController.xib294583603#294583604#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib4300911832#585"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/en.lproj/RootViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/en.lproj/RootViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/LazyTable.app/Default.png Default.png
+s294583603.600035
+e294583603.706285
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LazyTable.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294583603#294583603#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Default.png4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app0#
+
+CCpResource build/Debug-iphonesimulator/LazyTable.app/Placeholder.png Placeholder.png
+s294583603.596976
+e294583603.702968
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LazyTable.app/Placeholder.png
+xPlaceholder.png
+lSLF07#2@20"Copy Placeholder.png294583603#294583603#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Placeholder.png4300911832#530"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Placeholder.png /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable
+s294583605.771534
+e294583605.822044
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/LazyTable.app.dSYM build/Debug-iphonesimulator/LazyTable.app/LazyTable294583605#294583605#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable normal i386
+s294583605.717406
+e294583605.771429
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable294583605#294583605#0(0"0(0#0#0"4300911832#993"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/Objects-normal/i386/LazyTable.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/LazyTable0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Info.plist Info.plist
+s294583603.591752
+e294583603.596840
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294583603#294583603#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/Info.plist4300911832#544"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch.gch LazyTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294583604.921836
+e294583605.543860
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch.gch
+xLazyTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile LazyTable_Prefix.pch294583604#294583605#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/LazyTable_Prefix.pch4300911832#2053"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/LazyTable-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/LazyTableImages.build/Debug-iphonesimulator/LazyTable.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/LazyTable_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LazyTable_Prefix-aebxkbeogswujagypeswdnkxpcmu/LazyTable_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app
+s294583605.822190
+e294583605.825984
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app294583605#294583605#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LazyTableImages/build/Debug-iphonesimulator/LazyTable.app0#
+

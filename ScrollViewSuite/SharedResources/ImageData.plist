@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>height</key>
+		<real>2075</real>
+		<key>name</key>
+		<string>GapInLine</string>
+		<key>width</key>
+		<real>1558</real>
+	</dict>
+	<dict>
+		<key>height</key>
+		<real>2219</real>
+		<key>name</key>
+		<string>FairShare</string>
+		<key>width</key>
+		<real>1751</real>
+	</dict>
+	<dict>
+		<key>height</key>
+		<real>2532</real>
+		<key>name</key>
+		<string>WorkToWin</string>
+		<key>width</key>
+		<real>1732</real>
+	</dict>
+	<dict>
+		<key>height</key>
+		<real>2430</real>
+		<key>name</key>
+		<string>WeCanDoIt</string>
+		<key>width</key>
+		<real>1730</real>
+	</dict>
+</array>
+</plist>

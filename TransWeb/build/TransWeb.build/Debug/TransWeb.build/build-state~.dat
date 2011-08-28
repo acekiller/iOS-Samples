@@ -1,0 +1,68 @@
+TTransWeb
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/Background.png
+c0000000049C7F4F70000000000046D05
+t1237841143
+s290053
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/Resources/Background.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/Resources/en.lproj/webViewContent.html
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/en.lproj/MainWindow.xib
+c0000000049C7F4F70000000000003A9F
+t1237841143
+s15007
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/en.lproj/webViewContent.html
+c0000000049C7F4F7000000000000033E
+t1237841143
+s830
+
+NInfo.plist
+c0000000049C7F4F70000000000000386
+t1237841143
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294638546#294638546#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294638546#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/TransWeb.app/Contents/Resources/Background.png Background.png
+r0
+
+CCpResource build/Debug/TransWeb.app/Contents/Resources/en.lproj/webViewContent.html en.lproj/webViewContent.html
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TransWeb/build/Debug/TransWeb.app
+r0
+

@@ -1,0 +1,457 @@
+TGKTank
+v7
+r0
+t294633946.308745
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Info.plist GKTank-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib
+cCpResource build/Debug-iphonesimulator/GKTank.app/redtank.png redtank.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/tankbackground.png tankbackground.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/bluemissile.png bluemissile.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/bluetank.png bluetank.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/redmissile.png redmissile.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/tank.png tank.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/blockh.png blockh.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/blockv.png blockv.png
+cCpResource build/Debug-iphonesimulator/GKTank.app/level1.xml level1.xml
+cCpResource build/Debug-iphonesimulator/GKTank.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch.gch GKTank_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004A0BCCA800000000000A3500
+t1242287272
+s668928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004A0BCCA00000000000000112
+t1242287264
+s274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.h
+c000000004A29B6650000000000000DF2
+t1244247653
+s3570
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m
+c000000004A29B6650000000000000EDE
+t1244247653
+s3806
+i"TankAppDelegate.h"
+i"TankViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.h
+c000000004A29B665000000000000172F
+t1244247653
+s5935
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m
+c000000004A29B6650000000000006C64
+t1244247653
+s27748
+i"TankViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Default.png
+c000000004A29B665000000000000CC97
+t1244247653
+s52375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/GKTank_Prefix.pch
+c000000004A29B66500000000000000B1
+t1244247653
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib
+c000000004A29B6650000000000002521
+t1244247653
+s9505
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockh.png
+c000000004A29B665000000000000125D
+t1244247653
+s4701
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockv.png
+c000000004A29B6650000000000001332
+t1244247653
+s4914
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluemissile.png
+c000000004A29B6650000000000000C10
+t1244247653
+s3088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluetank.png
+c000000004A29B6650000000000001497
+t1244247653
+s5271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app
+t1272941146
+s578
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app.dSYM
+t1272941146
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Default.png
+t1272941145
+s52375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank
+t1272941146
+s45028
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Info.plist
+t1272941144
+s649
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/MainWindow.nib
+t1272941145
+s1497
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/PkgInfo
+t1272941144
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/blockh.png
+t1272941145
+s4701
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/blockv.png
+t1272941145
+s4914
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/bluemissile.png
+t1272941145
+s3088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/bluetank.png
+t1272941144
+s5271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/level1.xml
+t1272941145
+s661
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/redmissile.png
+t1272941145
+s3087
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/redtank.png
+t1272941144
+s5153
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/tank.png
+t1272941145
+s4111
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/tankViewController.nib
+t1272941145
+s3725
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/tankbackground.png
+t1272941144
+s52375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/GKTank.LinkFileList
+c000000004BDF8A5800000000000001AB
+t1272941144
+s427
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankAppDelegate.o
+t1272941146
+s41284
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankViewController.o
+t1272941146
+s88932
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/main.o
+t1272941146
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/level1.xml
+c000000004A29B6650000000000000295
+t1244247653
+s661
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m
+c000000004A29B6650000000000000D8B
+t1244247653
+s3467
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redmissile.png
+c000000004A29B6650000000000000C0F
+t1244247653
+s3087
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redtank.png
+c000000004A29B6650000000000001421
+t1244247653
+s5153
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tank.png
+c000000004A29B665000000000000100F
+t1244247653
+s4111
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib
+c000000004A29B665000000000000473C
+t1244247653
+s18236
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankbackground.png
+c000000004A29B665000000000000CC97
+t1244247653
+s52375
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch.gch
+t1272941146
+s12952976
+
+NGKTank-Info.plist
+c000000004A29B66500000000000003A2
+t1244247653
+s930
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294633944#294633944#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633946.068963
+e294633946.143099
+r1
+xCompileC
+xbuild/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m294633946#294633946#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m4300911832#2021"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankAppDelegate.o0#
+
+CCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633946.069945
+e294633946.236970
+r1
+xCompileC
+xbuild/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m294633946#294633946#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m4300911832#2027"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Classes/TankViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/TankViewController.o0#
+
+CCompileC build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633946.067854
+e294633946.117586
+r1
+xCompileC
+xbuild/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m294633946#294633946#0(0"0(0#0#59"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m4300911832#1991"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib
+s294633944.974675
+e294633945.275776
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294633944#294633945#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib
+s294633944.975512
+e294633945.337189
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib
+lSLF07#2@33"CompileXIB tankViewController.xib294633944#294633945#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib4300911832#537"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/tankViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/Default.png Default.png
+s294633945.010555
+e294633945.021549
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294633945#294633945#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Default.png4300911832#496"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/blockh.png blockh.png
+s294633945.004440
+e294633945.013347
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/blockh.png
+xblockh.png
+lSLF07#2@15"Copy blockh.png294633945#294633945#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockh.png4300911832#495"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockh.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/blockv.png blockv.png
+s294633945.006133
+e294633945.016631
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/blockv.png
+xblockv.png
+lSLF07#2@15"Copy blockv.png294633945#294633945#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockv.png4300911832#495"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/blockv.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/bluemissile.png bluemissile.png
+s294633944.979436
+e294633945.009019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/bluemissile.png
+xbluemissile.png
+lSLF07#2@20"Copy bluemissile.png294633944#294633945#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluemissile.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluemissile.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/bluetank.png bluetank.png
+s294633944.983889
+e294633945.009191
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/bluetank.png
+xbluetank.png
+lSLF07#2@17"Copy bluetank.png294633944#294633945#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluetank.png4300911832#497"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/bluetank.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/level1.xml level1.xml
+s294633945.009468
+e294633945.021211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/level1.xml
+xlevel1.xml
+lSLF07#2@15"Copy level1.xml294633945#294633945#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/level1.xml4300911832#495"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/level1.xml /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/redmissile.png redmissile.png
+s294633944.999923
+e294633945.009362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/redmissile.png
+xredmissile.png
+lSLF07#2@19"Copy redmissile.png294633945#294633945#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redmissile.png4300911832#499"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redmissile.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/redtank.png redtank.png
+s294633944.976391
+e294633945.008624
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/redtank.png
+xredtank.png
+lSLF07#2@16"Copy redtank.png294633944#294633945#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redtank.png4300911832#496"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/redtank.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/tank.png tank.png
+s294633945.002137
+e294633945.012840
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/tank.png
+xtank.png
+lSLF07#2@13"Copy tank.png294633945#294633945#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tank.png4300911832#493"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tank.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CCpResource build/Debug-iphonesimulator/GKTank.app/tankbackground.png tankbackground.png
+s294633944.977231
+e294633945.008834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKTank.app/tankbackground.png
+xtankbackground.png
+lSLF07#2@23"Copy tankbackground.png294633944#294633945#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankbackground.png4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/tankbackground.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank
+s294633946.289069
+e294633946.305242
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/GKTank.app.dSYM build/Debug-iphonesimulator/GKTank.app/GKTank294633946#294633946#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank4300911832#422"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank normal i386
+s294633946.237071
+e294633946.288963
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank
+xnormal
+xi386
+lSLF07#2@103"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank294633946#294633946#0(0"0(0#0#0"4300911832#946"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/Objects-normal/i386/GKTank.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/GKTank0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Info.plist GKTank-Info.plist
+s294633944.970937
+e294633944.974591
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Info.plist
+xGKTank-Info.plist
+lSLF07#2@25"Process GKTank-Info.plist294633944#294633944#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/GKTank-Info.plist4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GKTank-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch.gch GKTank_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294633945.337324
+e294633946.067746
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch.gch
+xGKTank_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GKTank_Prefix.pch294633945#294633946#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/GKTank_Prefix.pch4300911832#1870"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/GKTank-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/GKTank.build/Debug-iphonesimulator/GKTank.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/GKTank_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKTank_Prefix-crlstwlyocylsmarxvkisalftgqy/GKTank_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app
+s294633946.305357
+e294633946.308658
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app
+lSLF07#2@97"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app294633946#294633946#0(0"0(0#0#0"4300911832#305"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKTank/build/Debug-iphonesimulator/GKTank.app0#
+

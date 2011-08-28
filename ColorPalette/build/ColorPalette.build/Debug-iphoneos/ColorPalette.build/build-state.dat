@@ -1,0 +1,515 @@
+TColorPalette
+v7
+r0
+t296923117.698935
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ColorPalette.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/Info.plist ColorPalette-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib
+cCpResource build/Debug-iphoneos/ColorPalette.app/MyMathLibrary.h Classes/MyMathLibrary.h
+cCopyPNGFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/icon.png icon.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch.gch ColorPalette_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPaletteAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/FirstViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/SecondViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorCircle.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/LEDLabelUIView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/RGBSelectedImage.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette normal armv6
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette
+cProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent
+cCodeSign /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/usr/include/math.h
+c000000004B2B3EDF00000000000004F1
+t1261125343
+s1265
+
+N/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision
+c000000004BF3FFF00000000000001BFE
+t1274281968
+s7166
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.h
+c000000004C012A900000000000000253
+t1275144848
+s595
+i<UIKit/UIKit.h>
+i"FirstViewController.h"
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m
+c000000004C012EC400000000000010C5
+t1275145924
+s4293
+i"ColorCircle.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.h
+c000000004C005CEB00000000000001EA
+t1275092203
+s490
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m
+c000000004C0060CC0000000000000491
+t1275093196
+s1169
+i"ColorPaletteAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/Constants.h
+c000000004C023E5200000000000002BB
+t1275215442
+s699
+i"MyMathLibrary.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.h
+c000000004C012D910000000000000574
+t1275145617
+s1396
+i<UIKit/UIKit.h>
+i"ColorCircle.h"
+i"LEDLabelUIView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m
+c000000004C012FA00000000000001453
+t1275146144
+s5203
+i"FirstViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.h
+c000000004C012A9000000000000001B2
+t1275144848
+s434
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m
+c000000004C012A900000000000000A85
+t1275144848
+s2693
+i"LEDLabelUIView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/MyMathLibrary.h
+c000000004C00A63700000000000000F2
+t1275110967
+s242
+i<math.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.h
+c000000004C025D66000000000000027F
+t1275223398
+s639
+i<UIKit/UIKit.h>
+i"Constants.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m
+c000000004C0267F500000000000008A2
+t1275226101
+s2210
+i"RGBSelectedImage.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.h
+c000000004C0270280000000000000D5C
+t1275228200
+s3420
+i<UIKit/UIKit.h>
+i"RGBSelectedImage.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m
+c000000004C027757000000000000212C
+t1275230039
+s8492
+i"SecondViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/ColorPalette_Prefix.pch
+c000000004C005CEB00000000000000C1
+t1275092203
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib
+c000000004C012F5D00000000000CAA19
+t1275146077
+s829977
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib
+c000000004C01316D000000000000713B
+t1275146605
+s28987
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib
+c000000004C0269F7000000000000F143
+t1275226615
+s61763
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent
+t1275129505
+s325
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorCircle.o
+t1275226982
+s43444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPalette.LinkFileList
+c000000004C026B64000000000000044D
+t1275226980
+s1101
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPaletteAppDelegate.o
+t1275128512
+s43120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/FirstViewController.o
+t1275226982
+s51268
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/LEDLabelUIView.o
+t1275145460
+s19244
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/RGBSelectedImage.o
+t1275226982
+s19088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/SecondViewController.o
+t1275230317
+s74800
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/main.o
+t1275128512
+s6488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+t1275230317
+s476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app.dSYM
+t1275230317
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette
+t1275230317
+s75452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/FirstView.nib
+t1275146148
+s4194
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/Info.plist
+t1275129503
+s768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/MainWindow.nib
+t1275146618
+s2425
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/MyMathLibrary.h
+t1275128511
+s242
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/PkgInfo
+t1275129503
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ResourceRules.plist
+t1275128511
+s485
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/SecondView.nib
+t1275226981
+s8435
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision
+t1275128513
+s7166
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/icon.png
+t1275129504
+s8189
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/icon.png
+c000000004C00EE390000000000002075
+t1275129401
+s8309
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m
+c000000004C005CEB000000000000016C
+t1275092203
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch.gch
+t1275128512
+s8388792
+
+NColorPalette-Info.plist
+c000000004C00EE9E00000000000003BC
+t1275129502
+s956
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296923117#296923117#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+s296923117.432800
+e296923117.698881
+r1
+xCodeSign
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/ColorPalette.app296923117#296923117#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app4300911832#773"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Koichi Ishida (AMDM8DK3NY)" --resource-rules=/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ResourceRules.plist --entitlements /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorCircle.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296919781.191786
+e296919782.205180
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorCircle.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m296919781#296919782#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m4300911832#2070"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorCircle.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorCircle.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPaletteAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296821312.795416
+e296821312.965619
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPaletteAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m296821312#296821312#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m4300911832#2094"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/ColorPaletteAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPaletteAppDelegate.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/FirstViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296919781.189617
+e296919782.204936
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/FirstViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m296919781#296919782#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m4300911832#2086"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/FirstViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/FirstViewController.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/LEDLabelUIView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296838259.842932
+e296838260.453339
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/LEDLabelUIView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m296838259#296838260#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m4300911832#2076"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/LEDLabelUIView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/LEDLabelUIView.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/RGBSelectedImage.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296919781.193010
+e296919782.203340
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/RGBSelectedImage.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m296919781#296919782#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m4300911832#2080"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/RGBSelectedImage.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/RGBSelectedImage.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/SecondViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296923117.129077
+e296923117.301353
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/SecondViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m296923117#296923117#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m4300911832#2088"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/SecondViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/SecondViewController.o0#
+
+CCompileC build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296821312.793810
+e296821312.942635
+r1
+xCompileC
+xbuild/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m296821312#296821312#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m4300911832#2048"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib
+s296838946.797724
+e296838948.665699
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib296838946#296838948#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/FirstView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/FirstView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib
+s296839416.952277
+e296839418.267217
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296839416#296839418#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib
+s296919780.630044
+e296919781.189162
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib296919780#296919781#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/SecondView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/SecondView.xib0#
+
+CCopyPNGFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/icon.png icon.png
+s296822304.009381
+e296822304.096744
+r1
+xCopyPNGFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/icon.png
+xicon.png
+lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/ColorPalette.app/icon.png icon.png296822304#296822304#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/icon.png4300911832#621"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/icon.png0#
+
+CCpResource build/Debug-iphoneos/ColorPalette.app/MyMathLibrary.h Classes/MyMathLibrary.h
+s296821311.684626
+e296821311.696700
+r1
+xCpResource
+xbuild/Debug-iphoneos/ColorPalette.app/MyMathLibrary.h
+xClasses/MyMathLibrary.h
+lSLF07#2@28"Copy Classes/MyMathLibrary.h296821311#296821311#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/MyMathLibrary.h4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/Classes/MyMathLibrary.h /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app0#
+
+CCpResource build/Debug-iphoneos/ColorPalette.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s296821311.642004
+e296821311.682085
+r1
+xCpResource
+xbuild/Debug-iphoneos/ColorPalette.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist296821311#296821311#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist8027754748485782528#527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette
+s296923117.403936
+e296923117.428539
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/ColorPalette.app.dSYM build/Debug-iphoneos/ColorPalette.app/ColorPalette296923117#296923117#0(0"0(0#0#109"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette4300911832#437"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette normal armv6
+s296923117.301491
+e296923117.403790
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette
+xnormal
+xarmv6
+lSLF07#2@114"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette296923117#296923117#0(0"0(0#0#0"4300911832#953"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/Objects-normal/armv6/ColorPalette.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ColorPalette0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/Info.plist ColorPalette-Info.plist
+s296822303.975992
+e296822303.980427
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/Info.plist
+xColorPalette-Info.plist
+lSLF07#2@31"Process ColorPalette-Info.plist296822303#296822303#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/ColorPalette-Info.plist4300911832#662"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ColorPalette-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/ResourceRules.plist -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch.gch ColorPalette_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s296821312.157557
+e296821312.793661
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch.gch
+xColorPalette_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile ColorPalette_Prefix.pch296821312#296821312#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/ColorPalette_Prefix.pch4300911832#1921"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources/armv6 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/ColorPalette_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorPalette_Prefix-fnmlttzboetnfqcqeicuuzwtyabq/ColorPalette_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision
+s296821313.441061
+e296821313.442312
+r1
+xProcessProductPackaging
+x/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision296821313#296821313#0(0"0(0#0#121"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision4300911832#467"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pika/Library/MobileDevice/Provisioning Profiles/D2FB86C7-9B03-404A-ACDC-2F5D72135C04.mobileprovision" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent
+s296822305.455438
+e296822305.475100
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent
+lSLF07#2@192"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent296822305#296822305#0(0"0(0#0#136"/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent4300911832#489"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/ColorPalette.build/Debug-iphoneos/ColorPalette.build/ColorPalette.xcent0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+s296923117.428822
+e296923117.432520
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app
+lSLF07#2@102"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app296923117#296923117#0(0"0(0#0#0"4300911832#309"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ColorPalette/build/Debug-iphoneos/ColorPalette.app0#
+

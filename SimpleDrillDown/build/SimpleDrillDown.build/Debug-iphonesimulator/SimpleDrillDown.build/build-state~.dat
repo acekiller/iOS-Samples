@@ -1,0 +1,387 @@
+TSimpleDrillDown
+v7
+r0
+t294637464.403501
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/SimpleDrillDown.app/Icon.png Icon.png
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/SimpleDrillDown.app/Default.png Default.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch.gch SimpleDrillDown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDownAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DataController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/Play.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.h
+c000000004BA3ECDB0000000000000B81
+t1269034203
+s2945
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m
+c000000004BA3ECDB0000000000001FEE
+t1269034203
+s8174
+i"DataController.h"
+i"Play.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.h
+c000000004BA3ECDB0000000000000A45
+t1269034203
+s2629
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m
+c000000004BA3ECDB00000000000016A9
+t1269034203
+s5801
+i"DetailViewController.h"
+i"Play.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.h
+c000000004BA3ECDB0000000000000AFD
+t1269034203
+s2813
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m
+c000000004BA3ECDB0000000000000A7D
+t1269034203
+s2685
+i"Play.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.h
+c000000004BA3ECDB0000000000000A7E
+t1269034203
+s2686
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m
+c000000004BA3ECDB00000000000012A1
+t1269034203
+s4769
+i"RootViewController.h"
+i"DataController.h"
+i"DetailViewController.h"
+i"Play.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.h
+c000000004BA3ECDB0000000000000BCA
+t1269034203
+s3018
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m
+c000000004BA3ECDB0000000000000D68
+t1269034203
+s3432
+i"SimpleDrillDownAppDelegate.h"
+i"RootViewController.h"
+i"DataController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Default.png
+c0000000049FB55130000000000001C58
+t1241208083
+s7256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Icon.png
+c0000000049FB551300000000000006A9
+t1241208083
+s1705
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/SimpleDrillDown_Prefix.pch
+c0000000049FB55130000000000000059
+t1241208083
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app
+t1272944664
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM
+t1272944664
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Default.png
+t1272944663
+s7256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Icon.png
+t1272944663
+s1705
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Info.plist
+t1272944663
+s658
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/PkgInfo
+t1272944663
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown
+t1272944664
+s39220
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/Localizable.strings
+t1272944663
+s89
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/MainWindow.nib
+t1272944663
+s2528
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DataController.o
+t1272944664
+s27412
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DetailViewController.o
+t1272944664
+s36508
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/Play.o
+t1272944664
+s10312
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/RootViewController.o
+t1272944664
+s35608
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDown.LinkFileList
+c000000004BDF98170000000000000404
+t1272944663
+s1028
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDownAppDelegate.o
+t1272944664
+s42080
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/main.o
+t1272944664
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/Localizable.strings
+c0000000049FB551300000000000001BC
+t1241208083
+s444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib
+c0000000049FB55130000000000003461
+t1241208083
+s13409
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m
+c000000004BA3ECDB0000000000000A79
+t1269034203
+s2681
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch.gch
+t1272944664
+s12952976
+
+NInfo.plist
+c0000000049FB55130000000000000389
+t1241208083
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294637463#294637463#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DataController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.255997
+e294637464.361585
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DataController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m294637464#294637464#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m4300911832#2298"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DataController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DataController.o0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.194182
+e294637464.294004
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m294637464#294637464#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m4300911832#2310"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/Play.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.292018
+e294637464.354944
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/Play.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m294637464#294637464#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m4300911832#2278"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/Play.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/Play.o0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.195414
+e294637464.294281
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m294637464#294637464#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m4300911832#2306"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDownAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.193176
+e294637464.291813
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDownAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m294637464#294637464#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m4300911832#2322"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Classes/SimpleDrillDownAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDownAppDelegate.o0#
+
+CCompileC build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637464.192040
+e294637464.255824
+r1
+xCompileC
+xbuild/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m294637464#294637464#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m4300911832#2270"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib
+s294637463.183579
+e294637463.511107
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294637463#294637463#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/MainWindow.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294637463.181632
+e294637463.225594
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294637463#294637463#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/en.lproj/Localizable.strings4300911832#540"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/SimpleDrillDown.app/Default.png Default.png
+s294637463.182702
+e294637463.200179
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleDrillDown.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294637463#294637463#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Default.png4300911832#532"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app0#
+
+CCpResource build/Debug-iphonesimulator/SimpleDrillDown.app/Icon.png Icon.png
+s294637463.180804
+e294637463.188416
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleDrillDown.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294637463#294637463#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Icon.png4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown
+s294637464.382923
+e294637464.400481
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown294637464#294637464#0(0"0(0#0#125"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown4300911832#476"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown normal i386
+s294637464.361681
+e294637464.382818
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown
+xnormal
+xi386
+lSLF07#2@130"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown294637464#294637464#0(0"0(0#0#0"4300911832#1017"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/Objects-normal/i386/SimpleDrillDown.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/SimpleDrillDown0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Info.plist Info.plist
+s294637463.176067
+e294637463.180667
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294637463#294637463#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/Info.plist4300911832#556"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch.gch SimpleDrillDown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637463.511298
+e294637464.191896
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch.gch
+xSimpleDrillDown_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleDrillDown_Prefix.pch294637463#294637464#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/SimpleDrillDown_Prefix.pch4300911832#2131"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/SimpleDrillDown-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/SimpleDrillDown.build/Debug-iphonesimulator/SimpleDrillDown.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/SimpleDrillDown_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDrillDown_Prefix-hjdowccaecxaladoziseybwvvjst/SimpleDrillDown_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app
+s294637464.400577
+e294637464.403447
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app
+lSLF07#2@115"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app294637464#294637464#0(0"0(0#0#0"4300911832#332"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleDrillDown/build/Debug-iphonesimulator/SimpleDrillDown.app0#
+

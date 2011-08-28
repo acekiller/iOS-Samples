@@ -1,0 +1,527 @@
+TExtAudioFileConvertTest
+v7
+r0
+t294628705.277000
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/green_button.png Resources/green_button.png
+cCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/red_button.png Resources/red_button.png
+cCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/info.html Resources/info.html
+cCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/sourceALAC.caf Resources/sourceALAC.caf
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch.gch iPhoneExtAudioFileConvertTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/iPhoneExtAudioFileConvertTest.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvert.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A76576C00000000000120D0
+t1249269612
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A76576A00000000000000EB
+t1249269610
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A7650200000000000193960
+t1249267744
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76500B0000000000000A22
+t1249267723
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004A764FD1000000000000F342
+t1249267665
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004A764ECF0000000000001983
+t1249267407
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A764ED10000000000000A99
+t1249267409
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/ConditionalMacros.h
+c000000004A7653D10000000000006860
+t1249268689
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/libkern/OSAtomic.h
+c000000004748A13100000000000024B9
+t1195942193
+s9401
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.h
+c000000004BA3FFA2000000000000112F
+t1269039010
+s4399
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CAXException.h"
+i"CAStreamBasicDescription.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m
+c000000004BA3FFA20000000000003E4D
+t1269039010
+s15949
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.h
+c000000004BA3FFA20000000000000C4E
+t1269039010
+s3150
+i<UIKit/UIKit.h>
+i<libkern/OSAtomic.h>
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m
+c000000004BA3FFA20000000000001891
+t1269039010
+s6289
+i"iPhoneExtAudioFileConvertTest.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp
+c000000004BA3FFA2000000000000500E
+t1269039010
+s20494
+i<AudioToolbox/AudioToolbox.h>
+i"CAXException.h"
+i"CAStreamBasicDescription.h"
+i<pthread.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Icon.png
+c000000004A95BBD70000000000001325
+t1251326935
+s4901
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib
+c000000004AA00AD40000000000008793
+t1252002516
+s34707
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/green_button.png
+c000000004A95BBD700000000000002EE
+t1251326935
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/info.html
+c000000004A95BBD70000000000000458
+t1251326935
+s1112
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/red_button.png
+c000000004A95BBD700000000000002F2
+t1251326935
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/sourceALAC.caf
+c000000004A95BBD7000000000032910B
+t1251326935
+s3313931
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app
+t1272935905
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM
+t1272935905
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest
+t1272935905
+s66728
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Icon.png
+t1272935902
+s4901
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Info.plist
+t1272935902
+s695
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/MainWindow.nib
+t1272935902
+s5290
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/PkgInfo
+t1272935902
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/green_button.png
+t1272935902
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/info.html
+t1272935902
+s1112
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/red_button.png
+t1272935902
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/sourceALAC.caf
+t1272935902
+s3313931
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+t1272935904
+s32796
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAXException.o
+t1272935904
+s5276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvert.o
+t1272935904
+s44240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvertTest.LinkFileList
+c000000004BDF75DE00000000000004EE
+t1272935902
+s1262
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/MyViewController.o
+t1272935904
+s79872
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/iPhoneExtAudioFileConvertTest.o
+t1272935904
+s58936
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/main.o
+t1272935904
+s6604
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPhoneExtAudioFileConvertTest_Prefix.pch
+c000000004A95BBD70000000000000059
+t1251326935
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CADebugMacros.h
+c000000004A95BBD70000000000004C2C
+t1251326935
+s19500
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAMath.h
+c000000004A95BBD70000000000000C54
+t1251326935
+s3156
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp
+c000000004A95BBD70000000000004A29
+t1251326935
+s18985
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i<stddef.h>
+i"CALogMacros.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.h
+c000000004A95BBD70000000000002ED4
+t1251326935
+s11988
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp
+c000000004A95BBD700000000000009EC
+t1251326935
+s2540
+i"CAXException.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.h
+c000000004A95BBD70000000000001923
+t1251326935
+s6435
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m
+c000000004BA3FFA20000000000000AE6
+t1269039010
+s2790
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch.gch
+t1272935904
+s13968816
+
+NInfo.plist
+c000000004A95CBDD000000000000038E
+t1251331037
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294628702#294628702#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.332169
+e294628704.573864
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp294628704#294628704#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp4300911832#2716"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAStreamBasicDescription.o0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.574017
+e294628704.650187
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAXException.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp294628704#294628704#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp4300911832#2692"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPublicUtility/CAXException.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/CAXException.o0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvert.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.532123
+e294628704.725521
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvert.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp294628704#294628704#0(0"0(0#0#99"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp4300911832#2691"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/ExtAudioFileConvert.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvert.o0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.333643
+e294628704.641922
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m294628704#294628704#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m4300911832#2691"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/iPhoneExtAudioFileConvertTest.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.335755
+e294628704.607133
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/iPhoneExtAudioFileConvertTest.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m294628704#294628704#0(0"0(0#0#115"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m4300911832#2717"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Classes/iPhoneExtAudioFileConvertTest.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/iPhoneExtAudioFileConvertTest.o0#
+
+CCompileC build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628704.330654
+e294628704.531967
+r1
+xCompileC
+xbuild/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m294628704#294628704#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m4300911832#2659"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib
+s294628702.334757
+e294628703.013171
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294628702#294628703#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib4300911832#607"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Icon.png Icon.png
+s294628702.377483
+e294628702.390728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294628702#294628702#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Icon.png4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/green_button.png Resources/green_button.png
+s294628702.374802
+e294628702.392074
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExtAudioFileConvertTest.app/green_button.png
+xResources/green_button.png
+lSLF07#2@31"Copy Resources/green_button.png294628702#294628702#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/green_button.png4300911832#597"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/green_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/info.html Resources/info.html
+s294628702.376555
+e294628702.390021
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExtAudioFileConvertTest.app/info.html
+xResources/info.html
+lSLF07#2@24"Copy Resources/info.html294628702#294628702#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/info.html4300911832#590"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/info.html /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/red_button.png Resources/red_button.png
+s294628702.375669
+e294628702.391536
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExtAudioFileConvertTest.app/red_button.png
+xResources/red_button.png
+lSLF07#2@29"Copy Resources/red_button.png294628702#294628702#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/red_button.png4300911832#595"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/red_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+
+CCpResource build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/sourceALAC.caf Resources/sourceALAC.caf
+s294628702.378355
+e294628702.473936
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExtAudioFileConvertTest.app/sourceALAC.caf
+xResources/sourceALAC.caf
+lSLF07#2@29"Copy Resources/sourceALAC.caf294628702#294628702#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/sourceALAC.caf4300911832#595"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Resources/sourceALAC.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest
+s294628705.189582
+e294628705.231815
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest
+lSLF07#2@157"GenerateDSYMFile build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest294628705#294628705#0(0"0(0#0#155"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest4300911832#542"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest normal i386
+s294628704.725656
+e294628705.189480
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest
+xnormal
+xi386
+lSLF07#2@160"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest294628704#294628705#0(0"0(0#0#0"4300911832#1157"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/Objects-normal/i386/ExtAudioFileConvertTest.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework AVFoundation -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/ExtAudioFileConvertTest0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Info.plist Info.plist
+s294628702.330604
+e294628702.334625
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294628702#294628702#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/Info.plist4300911832#614"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app/Info.plist0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch.gch iPhoneExtAudioFileConvertTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294628703.013363
+e294628704.330347
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch.gch
+xiPhoneExtAudioFileConvertTest_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile iPhoneExtAudioFileConvertTest_Prefix.pch294628703#294628704#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPhoneExtAudioFileConvertTest_Prefix.pch4300911832#2498"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/ExtAudioFileConvertTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/iPhoneExtAudioFileConvertTest.build/Debug-iphonesimulator/ExtAudioFileConvertTest.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/iPhoneExtAudioFileConvertTest_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneExtAudioFileConvertTest_Prefix-fxqgrrmvxudevkehulyjvptmlehf/iPhoneExtAudioFileConvertTest_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app
+s294628705.231926
+e294628705.276928
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app
+lSLF07#2@137"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app294628705#294628705#0(0"0(0#0#0"4300911832#368"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneExtAudioFileConvertTest/build/Debug-iphonesimulator/ExtAudioFileConvertTest.app0#
+

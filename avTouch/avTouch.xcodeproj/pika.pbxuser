@@ -1,0 +1,131 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* avTouch */ = {
+		activeExec = 0;
+		executables = (
+			2637944E118ED5F700FC4178 /* avTouch */,
+		);
+	};
+	2637944E118ED5F700FC4178 /* avTouch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = avTouch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2637946E118ED60200FC4178 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2637946F118ED60200FC4178 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2637947B118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F70B2C360F67152500808913 /* pause.png */;
+	};
+	2637947C118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A0E0F2E4BC60063DC01 /* play.png */;
+	};
+	2637947D118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A110F2E4BC60063DC01 /* sound_meter_glare.png */;
+	};
+	2637947E118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A120F2E4BC60063DC01 /* volume_down.png */;
+	};
+	2637947F118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A130F2E4BC60063DC01 /* volume_up.png */;
+	};
+	26379480118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A100F2E4BC60063DC01 /* sound_meter_background.png */;
+	};
+	26379481118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A0F0F2E4BC60063DC01 /* rewind.png */;
+	};
+	26379482118ED82000FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F72E6A0F0F2E4BC60063DC01 /* rewind.png */;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2637944E118ED5F700FC4178 /* avTouch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* avTouch */;
+		codeSenseManager = 2637946F118ED60200FC4178 /* Code sense */;
+		executables = (
+			2637944E118ED5F700FC4178 /* avTouch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294573559;
+			PBXWorkspaceStateSaveDate = 294573559;
+		};
+		perUserProjectItems = {
+			2637947B118ED82000FC4178 /* PBXBookmark */ = 2637947B118ED82000FC4178 /* PBXBookmark */;
+			2637947C118ED82000FC4178 /* PBXBookmark */ = 2637947C118ED82000FC4178 /* PBXBookmark */;
+			2637947D118ED82000FC4178 /* PBXBookmark */ = 2637947D118ED82000FC4178 /* PBXBookmark */;
+			2637947E118ED82000FC4178 /* PBXBookmark */ = 2637947E118ED82000FC4178 /* PBXBookmark */;
+			2637947F118ED82000FC4178 /* PBXBookmark */ = 2637947F118ED82000FC4178 /* PBXBookmark */;
+			26379480118ED82000FC4178 /* PBXBookmark */ = 26379480118ED82000FC4178 /* PBXBookmark */;
+			26379481118ED82000FC4178 /* PBXBookmark */ = 26379481118ED82000FC4178 /* PBXBookmark */;
+			26379482118ED82000FC4178 /* PBXBookmark */ = 26379482118ED82000FC4178 /* PBXBookmark */;
+		};
+		sourceControlManager = 2637946E118ED60200FC4178 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

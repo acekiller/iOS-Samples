@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MemoryLeak */ = {
+		activeExec = 0;
+		executables = (
+			26B68E9811A42A5300B2BAE5 /* MemoryLeak */,
+		);
+	};
+	26B68E9811A42A5300B2BAE5 /* MemoryLeak */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MemoryLeak;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	26B68EA711A42A7200B2BAE5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	26B68EA811A42A7200B2BAE5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	26B68EF111A4382400B2BAE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MemoryLeakViewController.m */;
+		name = "MemoryLeakViewController.m: 77";
+		rLen = 0;
+		rLoc = 1397;
+		rType = 0;
+		vrLen = 1176;
+		vrLoc = 677;
+	};
+	26B68EF211A4382400B2BAE5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MemoryLeak-Info.plist */;
+	};
+	26B68F0911A43BA800B2BAE5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MemoryLeak-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pika/iPhoneDev/SamplePrograms/Programs/MemoryLeak/MemoryLeak-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	28D7ACF60DDB3853001CB0EB /* MemoryLeakViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 692}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 241}";
+			sepNavWindowFrame = "{{61, 26}, {1066, 805}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MemoryLeakViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 1369}}";
+			sepNavSelRange = "{1397, 0}";
+			sepNavVisRange = "{677, 1176}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 26B68E9811A42A5300B2BAE5 /* MemoryLeak */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MemoryLeak */;
+		codeSenseManager = 26B68EA811A42A7200B2BAE5 /* Code sense */;
+		executables = (
+			26B68E9811A42A5300B2BAE5 /* MemoryLeak */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					820,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295971411;
+			PBXWorkspaceStateSaveDate = 295971411;
+		};
+		perUserProjectItems = {
+			26B68EF111A4382400B2BAE5 /* PBXTextBookmark */ = 26B68EF111A4382400B2BAE5 /* PBXTextBookmark */;
+			26B68EF211A4382400B2BAE5 /* PBXBookmark */ = 26B68EF211A4382400B2BAE5 /* PBXBookmark */;
+			26B68F0911A43BA800B2BAE5 /* PlistBookmark */ = 26B68F0911A43BA800B2BAE5 /* PlistBookmark */;
+		};
+		sourceControlManager = 26B68EA711A42A7200B2BAE5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* MemoryLeak-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 5}, {1066, 805}}";
+		};
+	};
+}

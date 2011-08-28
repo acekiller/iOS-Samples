@@ -1,0 +1,664 @@
+TAdvancedTableViewCells
+v7
+r0
+t294629876.341342
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Info.plist AdvancedTableViewCells-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/DarkBackground.png Resources/DarkBackground.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/LightBackground.png Resources/LightBackground.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Data.plist Data.plist
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Baseball.png Resources/Baseball.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Blocks.png Resources/Blocks.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Checkers.png Resources/Checkers.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Dinner.png Resources/Dinner.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Football.png Resources/Football.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/MathGraph.png Resources/MathGraph.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsBackground.png Resources/StarsBackground.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsForeground.png Resources/StarsForeground.png
+cCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch.gch AdvancedTableViewCells_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCellsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/ApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RatingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/AdvancedTableViewCells_Prefix.pch
+c000000004BA3FFC40000000000000AAA
+t1269039044
+s2730
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.h
+c000000004BA3FFC40000000000000B08
+t1269039044
+s2824
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m
+c000000004BA3FFC40000000000000BF9
+t1269039044
+s3065
+i"AdvancedTableViewCellsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.h
+c000000004BA3FFC40000000000000BCB
+t1269039044
+s3019
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m
+c000000004BA3FFC40000000000000DB0
+t1269039044
+s3504
+i"ApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.h
+c000000004BA3FFC40000000000000A8D
+t1269039044
+s2701
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m
+c000000004BA3FFC400000000000016A5
+t1269039044
+s5797
+i"CompositeSubviewBasedApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.h
+c000000004BA3FFC40000000000000ABE
+t1269039044
+s2750
+i"ApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m
+c000000004BA3FFC4000000000000175B
+t1269039044
+s5979
+i"HybridSubviewBasedApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.h
+c000000004BA3FFC40000000000000B6D
+t1269039044
+s2925
+i<Foundation/Foundation.h>
+i"ApplicationCell.h"
+i"RatingView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m
+c000000004BA3FFC40000000000000F9E
+t1269039044
+s3998
+i"IndividualSubviewsBasedApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.h
+c000000004BA3FFC40000000000000A8A
+t1269039044
+s2698
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m
+c000000004BA3FFC40000000000000E9F
+t1269039044
+s3743
+i"RatingView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.h
+c000000004BA3FFC40000000000000ABA
+t1269039044
+s2746
+i<UIKit/UIKit.h>
+i"ApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m
+c000000004BA3FFC4000000000000191E
+t1269039044
+s6430
+i"RootViewController.h"
+i"CompositeSubviewBasedApplicationCell.h"
+i"HybridSubviewBasedApplicationCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Data.plist
+c000000004A36DAE400000000000007D4
+t1245108964
+s2004
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib
+c000000004A37DDF300000000000047AF
+t1245175283
+s18351
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib
+c000000004A89B5120000000000005EF2
+t1250538770
+s24306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/ReadMe.txt
+c000000004A89B512000000000000071F
+t1250538770
+s1823
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Baseball.png
+c000000004A36DAE4000000000000192C
+t1245108964
+s6444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Blocks.png
+c000000004A36DAE40000000000000A4B
+t1245108964
+s2635
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Checkers.png
+c000000004A36DAE400000000000014F1
+t1245108964
+s5361
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/DarkBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Dinner.png
+c000000004A36DAE40000000000001438
+t1245108964
+s5176
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Football.png
+c000000004A36DAE40000000000000C55
+t1245108964
+s3157
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/LightBackground.png
+c000000004A36DAE4000000000000004E
+t1245108964
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/MathGraph.png
+c000000004A36DAE40000000000001960
+t1245108964
+s6496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsBackground.png
+c000000004A36DAE400000000000002EC
+t1245108964
+s748
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsForeground.png
+c000000004A36DAE400000000000004D9
+t1245108964
+s1241
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib
+c000000004A36DAE40000000000001F60
+t1245108964
+s8032
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCells.LinkFileList
+c000000004BDF7A72000000000000064B
+t1272937074
+s1611
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCellsAppDelegate.o
+t1272937076
+s39540
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/ApplicationCell.o
+t1272937076
+s24284
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+t1272937076
+s28472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+t1272937076
+s28800
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+t1272937076
+s22052
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RatingView.o
+t1272937076
+s14888
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RootViewController.o
+t1272937076
+s39348
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/main.o
+t1272937076
+s6004
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app
+t1272937076
+s680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM
+t1272937076
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells
+t1272937076
+s44272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Baseball.png
+t1272937075
+s6444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Blocks.png
+t1272937075
+s2635
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Checkers.png
+t1272937075
+s5361
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/DarkBackground.png
+t1272937074
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Data.plist
+t1272937075
+s568
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Dinner.png
+t1272937075
+s5176
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Football.png
+t1272937075
+s3157
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/IndividualSubviewsBasedApplicationCell.nib
+t1272937075
+s4007
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Info.plist
+t1272937074
+s657
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/LightBackground.png
+t1272937074
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/MainWindow.nib
+t1272937075
+s2075
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/MathGraph.png
+t1272937075
+s6496
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/PkgInfo
+t1272937074
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/ReadMe.txt
+t1272937075
+s1823
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/RootViewController.nib
+t1272937075
+s1433
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsBackground.png
+t1272937075
+s748
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsForeground.png
+t1272937075
+s1241
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m
+c000000004BA3FFC40000000000000A8A
+t1269039044
+s2698
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch.gch
+t1272937075
+s12952976
+
+NAdvancedTableViewCells-Info.plist
+c000000004A85DA85000000000000038D
+t1250286213
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629874#294629874#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCellsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.009268
+e294629876.117922
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCellsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m294629876#294629876#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m4300911832#2553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/AdvancedTableViewCellsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCellsAppDelegate.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/ApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.011570
+e294629876.129533
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/ApplicationCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m294629876#294629876#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m4300911832#2517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/ApplicationCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/ApplicationCell.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.118080
+e294629876.261884
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m294629876#294629876#0(0"0(0#0#115"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m4300911832#2559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/CompositeSubviewBasedApplicationCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/CompositeSubviewBasedApplicationCell.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.151295
+e294629876.269657
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m294629876#294629876#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m4300911832#2553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/HybridSubviewBasedApplicationCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/HybridSubviewBasedApplicationCell.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.076509
+e294629876.209782
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m294629876#294629876#0(0"0(0#0#117"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m4300911832#2563"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/IndividualSubviewsBasedApplicationCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/IndividualSubviewsBasedApplicationCell.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RatingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.129698
+e294629876.237789
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RatingView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m294629876#294629876#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m4300911832#2507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RatingView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RatingView.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.010211
+e294629876.151057
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m294629876#294629876#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m4300911832#2523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629876.008173
+e294629876.076349
+r1
+xCompileC
+xbuild/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m294629876#294629876#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m4300911832#2487"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib
+s294629874.645467
+e294629875.228102
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib
+lSLF07#2@53"CompileXIB IndividualSubviewsBasedApplicationCell.xib294629874#294629875#0(0"0(0#0#111"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib4300911832#641"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/IndividualSubviewsBasedApplicationCell.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/IndividualSubviewsBasedApplicationCell.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib
+s294629874.643722
+e294629875.149221
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294629874#294629875#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib4300911832#585"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib
+s294629874.644647
+e294629875.192702
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib294629874#294629875#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib4300911832#601"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/RootViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/RootViewController.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Data.plist Data.plist
+s294629874.647973
+e294629875.134425
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Data.plist
+xData.plist
+lSLF07#2@15"Copy Data.plist294629874#294629875#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Data.plist4300911832#460"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Data.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Baseball.png Resources/Baseball.png
+s294629875.134587
+e294629875.149677
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/Baseball.png
+xResources/Baseball.png
+lSLF07#2@27"Copy Resources/Baseball.png294629875#294629875#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Baseball.png4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Baseball.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Blocks.png Resources/Blocks.png
+s294629875.136900
+e294629875.150053
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/Blocks.png
+xResources/Blocks.png
+lSLF07#2@25"Copy Resources/Blocks.png294629875#294629875#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Blocks.png4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Blocks.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Checkers.png Resources/Checkers.png
+s294629875.139090
+e294629875.157689
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/Checkers.png
+xResources/Checkers.png
+lSLF07#2@27"Copy Resources/Checkers.png294629875#294629875#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Checkers.png4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Checkers.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/DarkBackground.png Resources/DarkBackground.png
+s294629874.646312
+e294629874.664005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/DarkBackground.png
+xResources/DarkBackground.png
+lSLF07#2@33"Copy Resources/DarkBackground.png294629874#294629874#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/DarkBackground.png4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/DarkBackground.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Dinner.png Resources/Dinner.png
+s294629875.141329
+e294629875.155507
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/Dinner.png
+xResources/Dinner.png
+lSLF07#2@25"Copy Resources/Dinner.png294629875#294629875#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Dinner.png4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Dinner.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/Football.png Resources/Football.png
+s294629875.142428
+e294629875.155726
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/Football.png
+xResources/Football.png
+lSLF07#2@27"Copy Resources/Football.png294629875#294629875#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Football.png4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/Football.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/LightBackground.png Resources/LightBackground.png
+s294629874.647140
+e294629874.664343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/LightBackground.png
+xResources/LightBackground.png
+lSLF07#2@34"Copy Resources/LightBackground.png294629874#294629874#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/LightBackground.png4300911832#578"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/LightBackground.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/MathGraph.png Resources/MathGraph.png
+s294629875.143367
+e294629875.180745
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/MathGraph.png
+xResources/MathGraph.png
+lSLF07#2@28"Copy Resources/MathGraph.png294629875#294629875#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/MathGraph.png4300911832#572"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/MathGraph.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/ReadMe.txt ReadMe.txt
+s294629875.153034
+e294629875.185435
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294629875#294629875#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/ReadMe.txt4300911832#559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsBackground.png Resources/StarsBackground.png
+s294629875.145486
+e294629875.182951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsBackground.png
+xResources/StarsBackground.png
+lSLF07#2@34"Copy Resources/StarsBackground.png294629875#294629875#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsBackground.png4300911832#578"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsBackground.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CCpResource build/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsForeground.png Resources/StarsForeground.png
+s294629875.150291
+e294629875.180376
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AdvancedTableViewCells.app/StarsForeground.png
+xResources/StarsForeground.png
+lSLF07#2@34"Copy Resources/StarsForeground.png294629875#294629875#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsForeground.png4300911832#578"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/Resources/StarsForeground.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells
+s294629876.292609
+e294629876.336027
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells
+lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells294629876#294629876#0(0"0(0#0#146"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells normal i386
+s294629876.269805
+e294629876.292209
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells
+xnormal
+xi386
+lSLF07#2@151"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells294629876#294629876#0(0"0(0#0#0"4300911832#1087"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/Objects-normal/i386/AdvancedTableViewCells.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/AdvancedTableViewCells0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Info.plist AdvancedTableViewCells-Info.plist
+s294629874.640041
+e294629874.643617
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Info.plist
+xAdvancedTableViewCells-Info.plist
+lSLF07#2@41"Process AdvancedTableViewCells-Info.plist294629874#294629874#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/AdvancedTableViewCells-Info.plist4300911832#614"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AdvancedTableViewCells-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch.gch AdvancedTableViewCells_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629875.228278
+e294629876.008055
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch.gch
+xAdvancedTableViewCells_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile AdvancedTableViewCells_Prefix.pch294629875#294629876#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/AdvancedTableViewCells_Prefix.pch4300911832#2334"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/AdvancedTableViewCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/AdvancedTableViewCells.build/Debug-iphonesimulator/AdvancedTableViewCells.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/AdvancedTableViewCells_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AdvancedTableViewCells_Prefix-gtnbwlovigxylxgphzpwxhfamtmj/AdvancedTableViewCells_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app
+s294629876.336180
+e294629876.341288
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app
+lSLF07#2@129"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app294629876#294629876#0(0"0(0#0#0"4300911832#353"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AdvancedTableViewCells/build/Debug-iphonesimulator/AdvancedTableViewCells.app0#
+

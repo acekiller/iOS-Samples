@@ -1,0 +1,94 @@
+TFastEnumerationSample
+v7
+r0
+t294583586.966012
+cCheck dependencies
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch.gch FastEnumerationSample_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.o /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7480B00000000000B37440
+t1265926320
+s11760704
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm
+c000000004BA3F2A000000000000016B3
+t1269035680
+s5811
+i<Foundation/Foundation.h>
+i<vector>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample_Prefix.pch
+c0000000049ECF26A00000000000000B8
+t1240265322
+s184
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample
+t1272890786
+s34692
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.LinkFileList
+c000000004BDEC59B00000000000000B4
+t1272890779
+s180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.o
+t1272890786
+s66464
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch.gch
+t1272890785
+s46770128
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294583579#294583579#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.o /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294583586.115975
+e294583586.420734
+r1
+xCompileC
+xbuild/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm294583586#294583586#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm4300911832#2097"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample.mm -o /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.o0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample normal i386
+s294583586.420823
+e294583586.965931
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample
+xnormal
+xi386
+lSLF07#2@106"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample294583586#294583586#0(0"0(0#0#0"4300911832#717"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug -F/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/Objects-normal/i386/FastEnumerationSample.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/FastEnumerationSample0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch.gch FastEnumerationSample_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294583579.333177
+e294583586.115824
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch.gch
+xFastEnumerationSample_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile FastEnumerationSample_Prefix.pch294583579#294583586#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample_Prefix.pch4300911832#1927"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/FastEnumerationSample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/Debug/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/build/FastEnumerationSample.build/Debug/FastEnumerationSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/FastEnumerationSample/FastEnumerationSample_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FastEnumerationSample_Prefix-bbbxqfewpubahydzwsitbmlvjbru/FastEnumerationSample_Prefix.pch.gch0#
+

@@ -1,0 +1,392 @@
+TDrillDownSave
+v7
+r0
+t294636628.950840
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist Info.plist
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist outline.plist
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/DrillDownSave.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.h
+c000000004BA3EA720000000000000E4C
+t1269033586
+s3660
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m
+c000000004BA3EA720000000000001736
+t1269033586
+s5942
+i"AppDelegate.h"
+i"Level1ViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Default.png
+c000000004A11CE0C0000000000000848
+t1242680844
+s2120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.h
+c000000004BA3EA720000000000000A12
+t1269033586
+s2578
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m
+c000000004BA3EA720000000000000A67
+t1269033586
+s2663
+i"LeafViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.h
+c000000004BA3EA720000000000000BF0
+t1269033586
+s3056
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m
+c000000004BA3EA72000000000000183B
+t1269033586
+s6203
+i"AppDelegate.h"
+i"Level1ViewController.h"
+i"Level2ViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.h
+c000000004BA3EA720000000000000BF0
+t1269033586
+s3056
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m
+c000000004BA3EA720000000000001812
+t1269033586
+s6162
+i"AppDelegate.h"
+i"Level2ViewController.h"
+i"Level3ViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.h
+c000000004BA3EA720000000000000C07
+t1269033586
+s3079
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m
+c000000004BA3EA720000000000001674
+t1269033586
+s5748
+i"AppDelegate.h"
+i"Level3ViewController.h"
+i"LeafViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Prefix.pch
+c000000004A11CE0C0000000000000058
+t1242680844
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+t1272943813
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM
+t1272943813
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Default.png
+t1272943812
+s2120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+t1272943813
+s41008
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist
+t1272943812
+s640
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/PkgInfo
+t1272943812
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings
+t1272943812
+s194
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/MainWindow.nib
+t1272943812
+s4231
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist
+t1272943812
+s282
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o
+t1272943813
+s45808
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/DrillDownSave.LinkFileList
+c000000004BDF94C400000000000003E7
+t1272943812
+s999
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o
+t1272943813
+s28408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o
+t1272943813
+s50284
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o
+t1272943813
+s50128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o
+t1272943813
+s49292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o
+t1272943813
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/InfoPlist.strings
+c000000004A11CE0C0000000000000146
+t1242680844
+s326
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib
+c000000004A11CE0C0000000000006C17
+t1242680844
+s27671
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m
+c000000004BA3EA720000000000000A79
+t1269033586
+s2681
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/outline.plist
+c000000004A11CE0C000000000000096E
+t1242680844
+s2414
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch.gch
+t1272943813
+s12948848
+
+NInfo.plist
+c000000004A11CE0C0000000000000385
+t1242680844
+s901
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636628#294636628#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.466182
+e294636613.572744
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m294636613#294636613#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m4300911832#2185"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.464815
+e294636613.535247
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m294636613#294636613#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m4300911832#2199"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/LeafViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.468002
+e294636613.589481
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m294636613#294636613#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m4300911832#2203"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level1ViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.528696
+e294636613.636070
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m294636613#294636613#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m4300911832#2203"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level2ViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.535404
+e294636613.631224
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m294636613#294636613#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m4300911832#2203"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Level3ViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636613.463015
+e294636613.528556
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m294636613#294636613#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m4300911832#2171"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib
+s294636612.552090
+e294636612.860953
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636612#294636612#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib4300911832#567"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist outline.plist
+s294636612.550553
+e294636612.577457
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist
+xoutline.plist
+lSLF07#2@18"Copy outline.plist294636612#294636612#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/outline.plist4300911832#436"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 outline.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s294636612.551299
+e294636612.586731
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings294636612#294636612#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/en.lproj/InfoPlist.strings4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/DrillDownSave.app/Default.png Default.png
+s294636612.552921
+e294636612.559669
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DrillDownSave.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294636612#294636612#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Default.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+s294636613.655273
+e294636613.673802
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/DrillDownSave.app.dSYM build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave294636613#294636613#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave4300911832#464"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave normal i386
+s294636613.636167
+e294636613.655135
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+xnormal
+xi386
+lSLF07#2@124"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave294636613#294636613#0(0"0(0#0#0"4300911832#997"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/DrillDownSave.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist Info.plist
+s294636612.539534
+e294636612.550432
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636612#294636612#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Info.plist4300911832#546"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636612.861092
+e294636613.462813
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294636612#294636613#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Prefix.pch4300911832#2022"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gruzblutiljsjieyqyfuhkspnkyu/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+s294636613.673913
+e294636613.676682
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+lSLF07#2@111"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app294636613#294636613#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+

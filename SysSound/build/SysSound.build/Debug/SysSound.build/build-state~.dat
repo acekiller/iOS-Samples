@@ -1,0 +1,104 @@
+TSysSound
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/Background.png
+c0000000048D05F5400000000000014D9
+t1221615444
+s5337
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/Default.png
+c0000000048D05F540000000000002610
+t1221615444
+s9744
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/Icon.png
+c0000000048D05F5400000000000015DC
+t1221615444
+s5596
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/MainWindow.xib
+c0000000048D05F540000000000002349
+t1221615444
+s9033
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/SysSoundViewController.xib
+c0000000048D05F54000000000000396D
+t1221615444
+s14701
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/Background.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/SysSoundViewController.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Resources/tap.aif
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/tap.aif
+c0000000048D05F540000000000005760
+t1221615444
+s22368
+
+NInfo.plist
+c0000000048D05F540000000000000381
+t1221615444
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639022#294639022#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639022#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/MainWindow.xib
+r0
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/SysSoundViewController.xib
+r0
+
+CCpResource build/Debug/SysSound.app/Contents/Resources/Background.png Background.png
+r0
+
+CCpResource build/Debug/SysSound.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/SysSound.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CCpResource build/Debug/SysSound.app/Contents/Resources/tap.aif tap.aif
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SysSound/build/Debug/SysSound.app
+r0
+

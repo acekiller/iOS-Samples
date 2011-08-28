@@ -1,0 +1,115 @@
+// !$*UTF8*$!
+{
+	0AB9044A0FB4E0CB004C88C3 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 822}";
+			sepNavWindowFrame = "{{107, 231}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AddMusic */ = {
+		activeExec = 0;
+		executables = (
+			26379740118F15D700FC4178 /* AddMusic */,
+		);
+	};
+	26379740118F15D700FC4178 /* AddMusic */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AddMusic;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2637975B118F15EC00FC4178 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2637975C118F15EC00FC4178 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2637975E118F16BD00FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0AB9044A0FB4E0CB004C88C3 /* ReadMe.txt */;
+	};
+	2637975F118F16BD00FC4178 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0AB9044A0FB4E0CB004C88C3 /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 822;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 26379740118F15D700FC4178 /* AddMusic */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AddMusic */;
+		codeSenseManager = 2637975C118F15EC00FC4178 /* Code sense */;
+		executables = (
+			26379740118F15D700FC4178 /* AddMusic */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294589911;
+			PBXWorkspaceStateSaveDate = 294589911;
+		};
+		perUserProjectItems = {
+			2637975E118F16BD00FC4178 /* PBXBookmark */ = 2637975E118F16BD00FC4178 /* PBXBookmark */;
+			2637975F118F16BD00FC4178 /* PBXTextBookmark */ = 2637975F118F16BD00FC4178 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2637975B118F15EC00FC4178 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

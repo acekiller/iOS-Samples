@@ -1,0 +1,80 @@
+TWhichWayIsUp
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/Default.png
+c0000000048B655A40000000000010E76
+t1219909028
+s69238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/Icon.png
+c0000000048B655A40000000000000776
+t1219909028
+s1910
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Resources/crate.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/crate.png
+c0000000048B655A4000000000000EBA6
+t1219909028
+s60326
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/en.lproj/MainWindow.xib
+c0000000048B655A40000000000002A01
+t1219909028
+s10753
+
+NInfo.plist
+c0000000048B655A400000000000003A8
+t1219909028
+s936
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639042#294639042#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639042#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/WhichWayIsUp.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/WhichWayIsUp.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CCpResource build/Debug/WhichWayIsUp.app/Contents/Resources/crate.png crate.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/WhichWayIsUp/build/Debug/WhichWayIsUp.app
+r0
+

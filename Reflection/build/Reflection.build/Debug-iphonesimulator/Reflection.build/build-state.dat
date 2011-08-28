@@ -1,0 +1,287 @@
+TReflection
+v7
+r0
+t294585684.195255
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/Reflection.app/scene.jpg images/scene.jpg
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Reflection.app/Default.png images/Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.h
+c000000004BA3ED1C0000000000000AE5
+t1269034268
+s2789
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m
+c000000004BA3ED1C0000000000000B6D
+t1269034268
+s2925
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.h
+c000000004BA3ED1C0000000000000B0C
+t1269034268
+s2828
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m
+c000000004BA3ED1C0000000000002F82
+t1269034268
+s12162
+i"MyViewController.h"
+i"QuartzCore/QuartzCore.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/Prefix.pch
+c0000000049FA50D40000000000000059
+t1241141460
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app
+t1272892884
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app.dSYM
+t1272892884
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Default.png
+t1272892882
+s121962
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Info.plist
+t1272892882
+s653
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/PkgInfo
+t1272892882
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection
+t1272892884
+s31780
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/en.lproj/MainWindow.nib
+t1272892883
+s3007
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/scene.jpg
+t1272892882
+s47088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/AppDelegate.o
+t1272892883
+s35452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/MyViewController.o
+t1272892883
+s55208
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/Reflection.LinkFileList
+c000000004BDECDD200000000000001C9
+t1272892882
+s457
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/main.o
+t1272892883
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib
+c0000000049FA50D40000000000003A7E
+t1241141460
+s14974
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/Default.png
+c0000000049FA50D4000000000001DC6A
+t1241141460
+s121962
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/scene.jpg
+c0000000049FA50D4000000000000B7F0
+t1241141460
+s47088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m
+c000000004BA3ED1C0000000000000A7F
+t1269034268
+s2687
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch.gch
+t1272892883
+s12952976
+
+NInfo.plist
+c0000000049FA50D4000000000000039C
+t1241141460
+s924
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294585682#294585682#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294585683.842283
+e294585683.912258
+r1
+xCompileC
+xbuild/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m294585683#294585683#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m4300911832#2115"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294585683.841285
+e294585683.976219
+r1
+xCompileC
+xbuild/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m294585683#294585683#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m4300911832#2125"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294585683.840261
+e294585683.893724
+r1
+xCompileC
+xbuild/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m294585683#294585683#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m4300911832#2101"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib
+s294585682.718745
+e294585683.108036
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294585682#294585683#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib4300911832#555"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/en.lproj/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Reflection.app/Default.png images/Default.png
+s294585682.719772
+e294585682.765881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reflection.app/Default.png
+ximages/Default.png
+lSLF07#2@23"Copy images/Default.png294585682#294585682#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/Default.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app0#
+
+CCpResource build/Debug-iphonesimulator/Reflection.app/scene.jpg images/scene.jpg
+s294585682.717840
+e294585682.763664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reflection.app/scene.jpg
+ximages/scene.jpg
+lSLF07#2@21"Copy images/scene.jpg294585682#294585682#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/scene.jpg4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/images/scene.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection
+s294585684.177784
+e294585684.192128
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Reflection.app.dSYM build/Debug-iphonesimulator/Reflection.app/Reflection294585684#294585684#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection normal i386
+s294585683.976345
+e294585684.177653
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection
+xnormal
+xi386
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection294585683#294585684#0(0"0(0#0#0"4300911832#989"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Objects-normal/i386/Reflection.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Reflection0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Info.plist Info.plist
+s294585682.713773
+e294585682.717717
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294585682#294585682#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/Info.plist4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294585683.108169
+e294585683.840152
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294585683#294585683#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/Prefix.pch4300911832#1961"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/Reflection-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Reflection.build/Debug-iphonesimulator/Reflection.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cmbbjttqistpzxhggwxlrwbtimkx/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app
+s294585684.192220
+e294585684.195197
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app294585684#294585684#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reflection/build/Debug-iphonesimulator/Reflection.app0#
+

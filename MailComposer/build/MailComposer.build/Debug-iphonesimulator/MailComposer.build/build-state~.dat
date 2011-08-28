@@ -1,0 +1,311 @@
+TMailComposer
+v7
+r0
+t294634902.327842
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist MailComposer-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib
+cCpResource build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt ReadMe.txt
+cCpResource build/Debug-iphonesimulator/MailComposer.app/rainy.png rainy.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch.gch MailComposer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004A0BC1CE00000000000028E4
+t1242284494
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004A0BC1CE0000000000000092
+t1242284494
+s146
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004A0BC1D70000000000067A80
+t1242284503
+s424576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.h
+c000000004A21E52F0000000000000B43
+t1243735343
+s2883
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m
+c000000004A21E52F0000000000000BAA
+t1243735343
+s2986
+i"MailComposerAppDelegate.h"
+i"MailComposerViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.h
+c000000004A21E52F0000000000000B5E
+t1243735343
+s2910
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m
+c000000004A21E52F0000000000001986
+t1243735343
+s6534
+i"MailComposerViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib
+c000000004A21E52F0000000000002847
+t1243735343
+s10311
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposer_Prefix.pch
+c000000004A21E52F0000000000000A41
+t1243735343
+s2625
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib
+c000000004A21E52F000000000000244C
+t1243735343
+s9292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/ReadMe.txt
+c000000004A21E52F0000000000000E9C
+t1243735343
+s3740
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+t1272942102
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+t1272942102
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist
+t1272942101
+s611
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+t1272942102
+s21048
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposerViewController.nib
+t1272942101
+s3019
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MainWindow.nib
+t1272942101
+s1489
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/PkgInfo
+t1272942101
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt
+t1272942101
+s3740
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/rainy.png
+t1272942101
+s18948
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList
+c000000004BDF8E1500000000000001F1
+t1272942101
+s497
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+t1272942102
+s37932
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+t1272942102
+s43724
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+t1272942102
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m
+c000000004A21E52F0000000000000A97
+t1243735343
+s2711
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/rainy.png
+c000000004A21E52F0000000000004A04
+t1243735343
+s18948
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch.gch
+t1272942102
+s12952976
+
+NMailComposer-Info.plist
+c000000004A21E52F000000000000038D
+t1243735343
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294634901#294634901#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634902.210556
+e294634902.279751
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m294634902#294634902#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m4300911832#2223"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerAppDelegate.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634902.211593
+e294634902.291982
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m294634902#294634902#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m4300911832#2229"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/Classes/MailComposerViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposerViewController.o0#
+
+CCompileC build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634902.209491
+e294634902.262264
+r1
+xCompileC
+xbuild/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m294634902#294634902#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m4300911832#2177"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib
+s294634901.265684
+e294634901.602205
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib
+lSLF07#2@41"CompileXIB MailComposerViewController.xib294634901#294634901#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 2.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposerViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposerViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib
+s294634901.264915
+e294634901.555360
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294634901#294634901#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib4300911832#545"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 2.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/ReadMe.txt ReadMe.txt
+s294634901.266404
+e294634901.276363
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294634901#294634901#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/ReadMe.txt4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CCpResource build/Debug-iphonesimulator/MailComposer.app/rainy.png rainy.png
+s294634901.270095
+e294634901.279354
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MailComposer.app/rainy.png
+xrainy.png
+lSLF07#2@14"Copy rainy.png294634901#294634901#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/rainy.png4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/rainy.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+s294634902.310883
+e294634902.324848
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/MailComposer.app.dSYM build/Debug-iphonesimulator/MailComposer.app/MailComposer294634902#294634902#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer normal i386
+s294634902.292082
+e294634902.310761
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer
+xnormal
+xi386
+lSLF07#2@121"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer294634902#294634902#0(0"0(0#0#0"4300911832#1013"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/Objects-normal/i386/MailComposer.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -weak_framework MessageUI -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/MailComposer0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist MailComposer-Info.plist
+s294634901.250963
+e294634901.264820
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist
+xMailComposer-Info.plist
+lSLF07#2@31"Process MailComposer-Info.plist294634901#294634901#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposer-Info.plist4300911832#554"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MailComposer-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch.gch MailComposer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634901.602345
+e294634902.209388
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch.gch
+xMailComposer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile MailComposer_Prefix.pch294634901#294634902#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposer_Prefix.pch4300911832#2044"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/MailComposer-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/MailComposer.build/Debug-iphonesimulator/MailComposer.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/MailComposer_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MailComposer_Prefix-eohpknuqquivovbcevygclmxgibx/MailComposer_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+s294634902.324945
+e294634902.327803
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app294634902#294634902#0(0"0(0#0#0"4300911832#323"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MailComposer/build/Debug-iphonesimulator/MailComposer.app0#
+

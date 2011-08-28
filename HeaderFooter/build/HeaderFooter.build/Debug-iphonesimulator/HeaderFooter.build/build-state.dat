@@ -1,0 +1,281 @@
+THeaderFooter
+v7
+r0
+t294636502.510734
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/HeaderFooter.app/GenericContact.png GenericContact.png
+cCpResource build/Debug-iphonesimulator/HeaderFooter.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.h
+c000000004BA3EBD70000000000000B10
+t1269033943
+s2832
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m
+c000000004BA3EBD70000000000000B74
+t1269033943
+s2932
+i"AppDelegate.h"
+i"MyTableViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Default.png
+c000000004A11CDE30000000000006F06
+t1242680803
+s28422
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/GenericContact.png
+c000000004A11CDE30000000000000E7A
+t1242680803
+s3706
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.h
+c000000004BA3EBD70000000000000B4C
+t1269033943
+s2892
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m
+c000000004BA3EBD7000000000000140A
+t1269033943
+s5130
+i"MyTableViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Prefix.pch
+c000000004A11CDE30000000000000059
+t1242680803
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app
+t1272943702
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app.dSYM
+t1272943702
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Default.png
+t1272943701
+s28422
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/GenericContact.png
+t1272943701
+s3706
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter
+t1272943702
+s21672
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Info.plist
+t1272943701
+s606
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/PkgInfo
+t1272943701
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/en.lproj/MainWindow.nib
+t1272943701
+s5590
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/AppDelegate.o
+t1272943702
+s39016
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/HeaderFooter.LinkFileList
+c000000004BDF945500000000000001E0
+t1272943701
+s480
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/MyTableViewController.o
+t1272943702
+s39600
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/main.o
+t1272943702
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib
+c000000004A11CDE300000000000059E0
+t1242680803
+s23008
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m
+c000000004BA3EBD70000000000000A84
+t1269033943
+s2692
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch.gch
+t1272943702
+s12952976
+
+NInfo.plist
+c000000004A11CDE30000000000000351
+t1242680803
+s849
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636501#294636501#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636502.386083
+e294636502.456423
+r1
+xCompileC
+xbuild/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m294636502#294636502#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m4300911832#2165"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636502.387530
+e294636502.472639
+r1
+xCompileC
+xbuild/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/MyTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m294636502#294636502#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m4300911832#2185"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/MyTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636502.384481
+e294636502.439745
+r1
+xCompileC
+xbuild/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m294636502#294636502#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m4300911832#2151"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib
+s294636501.398132
+e294636501.762489
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636501#294636501#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib4300911832#563"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/en.lproj/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/HeaderFooter.app/Default.png Default.png
+s294636501.399739
+e294636501.405181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HeaderFooter.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294636501#294636501#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Default.png4300911832#520"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app0#
+
+CCpResource build/Debug-iphonesimulator/HeaderFooter.app/GenericContact.png GenericContact.png
+s294636501.399122
+e294636501.405525
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HeaderFooter.app/GenericContact.png
+xGenericContact.png
+lSLF07#2@23"Copy GenericContact.png294636501#294636501#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/GenericContact.png4300911832#527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/GenericContact.png /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter
+s294636502.491675
+e294636502.507444
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/HeaderFooter.app.dSYM build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter294636502#294636502#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter normal i386
+s294636502.472739
+e294636502.491544
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter
+xnormal
+xi386
+lSLF07#2@121"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter294636502#294636502#0(0"0(0#0#0"4300911832#1009"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/Objects-normal/i386/HeaderFooter.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/HeaderFooter0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Info.plist Info.plist
+s294636501.388752
+e294636501.398017
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636501#294636501#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Info.plist4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636501.762619
+e294636502.384320
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294636501#294636502#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Prefix.pch4300911832#2005"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/HeaderFooter-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/HeaderFooter.build/Debug-iphonesimulator/HeaderFooter.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-ajrtortlcmgyifbsfcyrfharjgvu/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app
+s294636502.507569
+e294636502.510669
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app294636502#294636502#0(0"0(0#0#0"4300911832#323"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/HeaderFooter/build/Debug-iphonesimulator/HeaderFooter.app0#
+

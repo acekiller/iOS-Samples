@@ -1,0 +1,435 @@
+TMapCallouts
+v7
+r0
+t294369324.590258
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png GoldenGate.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png SFIcon.png
+cCpResource build/Debug-iphonesimulator/MapCallouts.app/flag.png flag.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC0FF000000000000017D
+t1242284287
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A0BC11200000000000F36E0
+t1242284306
+s997088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.h
+c000000004BA4144E0000000000000B22
+t1269044302
+s2850
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m
+c000000004BA4144E0000000000000BA4
+t1269044302
+s2980
+i"AppDelegate.h"
+i"MapViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.h
+c000000004BA4144E0000000000000A4F
+t1269044302
+s2639
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m
+c000000004BA4144E0000000000000BFE
+t1269044302
+s3070
+i"BridgeAnnotation.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.h
+c000000004BA4144E0000000000000A52
+t1269044302
+s2642
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m
+c000000004BA4144E0000000000000B6F
+t1269044302
+s2927
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/GoldenGate.png
+c000000004B96E7580000000000036755
+t1268180824
+s223061
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.h
+c000000004BA4144E0000000000000CA7
+t1269044302
+s3239
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m
+c000000004BA4144E000000000000288E
+t1269044302
+s10382
+i"MapViewController.h"
+i"DetailViewController.h"
+i"SFAnnotation.h"
+i"BridgeAnnotation.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/Prefix.pch
+c000000004B96E7580000000000000059
+t1268180824
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.h
+c000000004BA4144E0000000000000B25
+t1269044302
+s2853
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m
+c000000004BA4144E0000000000000BF9
+t1269044302
+s3065
+i"SFAnnotation.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFIcon.png
+c000000004B96E7580000000000000107
+t1268180824
+s263
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+t1272676524
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM
+t1272676524
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png
+t1272676522
+s223061
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist
+t1272676522
+s577
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+t1272676524
+s33984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/PkgInfo
+t1272676522
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png
+t1272676522
+s263
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/DetailViewController.nib
+t1272676522
+s1483
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MainWindow.nib
+t1272676522
+s3119
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MapViewController.nib
+t1272676523
+s2355
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/flag.png
+t1272676522
+s995
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o
+t1272676524
+s39012
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o
+t1272676524
+s10264
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o
+t1272676524
+s29712
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapCallouts.LinkFileList
+c000000004BDB80AA00000000000003B6
+t1272676522
+s950
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o
+t1272676524
+s50364
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o
+t1272676524
+s13264
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o
+t1272676524
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib
+c000000004B96E7580000000000004160
+t1268180824
+s16736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib
+c000000004B96E75800000000000072B4
+t1268180824
+s29364
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib
+c000000004B96E7580000000000005A61
+t1268180824
+s23137
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/flag.png
+c000000004B96E75800000000000003E3
+t1268180824
+s995
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m
+c000000004BA4144E0000000000000AB0
+t1269044302
+s2736
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch.gch
+t1272676524
+s12952976
+
+NInfo.plist
+c000000004B96E758000000000000035E
+t1268180824
+s862
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294369322#294369322#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.074823
+e294369324.238314
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m294369324#294369324#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m4300911832#2136"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.236451
+e294369324.300734
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m294369324#294369324#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m4300911832#2146"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/BridgeAnnotation.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/BridgeAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.238689
+e294369324.299593
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m294369324#294369324#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m4300911832#2154"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.077707
+e294369324.241957
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m294369324#294369324#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m4300911832#2148"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/MapViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.076154
+e294369324.238566
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m294369324#294369324#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m4300911832#2138"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFAnnotation.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/SFAnnotation.o0#
+
+CCompileC build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369324.073656
+e294369324.236296
+r1
+xCompileC
+xbuild/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m294369324#294369324#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m4300911832#2122"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib
+s294369322.536790
+e294369322.983410
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib294369322#294369322#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/DetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib
+s294369322.535153
+e294369322.968437
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294369322#294369322#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib4300911832#559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib
+s294369322.535994
+e294369323.048625
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib294369322#294369323#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/en.lproj/MapViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/en.lproj/MapViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png GoldenGate.png
+s294369322.537675
+e294369322.551730
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/GoldenGate.png
+xGoldenGate.png
+lSLF07#2@19"Copy GoldenGate.png294369322#294369322#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/GoldenGate.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/GoldenGate.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/SFIcon.png SFIcon.png
+s294369322.538581
+e294369322.547751
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/SFIcon.png
+xSFIcon.png
+lSLF07#2@15"Copy SFIcon.png294369322#294369322#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFIcon.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/SFIcon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CCpResource build/Debug-iphonesimulator/MapCallouts.app/flag.png flag.png
+s294369322.539493
+e294369322.555797
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapCallouts.app/flag.png
+xflag.png
+lSLF07#2@13"Copy flag.png294369322#294369322#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/flag.png4300911832#513"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/flag.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+s294369324.569485
+e294369324.587235
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MapCallouts.app.dSYM build/Debug-iphonesimulator/MapCallouts.app/MapCallouts294369324#294369324#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts4300911832#452"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts normal i386
+s294369324.300810
+e294369324.569350
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts294369324#294369324#0(0"0(0#0#0"4300911832#995"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/Objects-normal/i386/MapCallouts.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/MapCallouts0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist Info.plist
+s294369322.531303
+e294369322.535072
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294369322#294369322#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/Info.plist4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294369323.048796
+e294369324.073440
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294369323#294369324#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/Prefix.pch4300911832#1979"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/MapCallouts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/MapCallouts.build/Debug-iphonesimulator/MapCallouts.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aykljlheedqjpeadvbhyjfjcwazp/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+s294369324.587360
+e294369324.590219
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app
+lSLF07#2@107"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app294369324#294369324#0(0"0(0#0#0"4300911832#320"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MapCallouts/build/Debug-iphonesimulator/MapCallouts.app0#
+

@@ -1,0 +1,8 @@
+aqTouch
+
+This sample application demonstrates usage of the AudioQueue for audio file playback and recording. It also demonstrates implementation of the AudioSession technologies for handling system interruptions and notifcations.
+
+This application uses the AudioFile API for reading and writing audio files. It also uses the AudioQueue API for audio input and output. These two are wrapped into the AQPlayer and AQRecorder class, which provide a simplified interface for playback and recording, respectively, of audio files. This application also makes us of the AudioSession API to handle system routing and notifications.
+
+UI Flow:
+UI for this app is kept very simple. There are two primary paths from the main screen: File playback and file recording. For playback, the user selects the desired file, and hits the Play button. Successful intiatiation of playback changes the play button to Stop, and disables the Record button. For recording, the user selects Record, and audio capture begins. On successful initiation of recording, the Record button label changes to Stop, and the Play button is disabled. Upon completion of the recording, the user hits the stop button, which ends recording, and adds the newly recorded file to the file list in the table view. The bottom of the screen is a metering view, which provides audio level information for input (during recording) or output (for playback).

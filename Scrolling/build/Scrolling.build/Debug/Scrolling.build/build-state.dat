@@ -1,0 +1,116 @@
+TScrolling
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image0.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image1.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image2.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image3.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image4.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Resources/image5.jpg
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/en.lproj/MainWindow.xib
+c0000000048C594F400000000000032ED
+t1220908276
+s13037
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image0.jpg
+c0000000048C594F40000000000036F79
+t1220908276
+s225145
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image1.jpg
+c0000000048C594F40000000000006541
+t1220908276
+s25921
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image2.jpg
+c0000000048C594F4000000000000277B
+t1220908276
+s10107
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image3.jpg
+c0000000048C594F4000000000000413F
+t1220908276
+s16703
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image4.jpg
+c0000000048C594F40000000000003091
+t1220908276
+s12433
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/images/image5.jpg
+c0000000048C594F400000000000021CF
+t1220908276
+s8655
+
+NInfo.plist
+c0000000048C81598000000000000039C
+t1221072280
+s924
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639010#294639010#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639010#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image0.jpg images/image0.jpg
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image1.jpg images/image1.jpg
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image2.jpg images/image2.jpg
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image3.jpg images/image3.jpg
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image4.jpg images/image4.jpg
+r0
+
+CCpResource build/Debug/Scrolling.app/Contents/Resources/image5.jpg images/image5.jpg
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Scrolling/build/Debug/Scrolling.app
+r0
+

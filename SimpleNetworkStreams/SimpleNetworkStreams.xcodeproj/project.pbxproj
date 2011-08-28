@@ -1,0 +1,359 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		E40F65B10FB1CA8D00D92710 /* TestImage4.png in Resources */ = {isa = PBXBuildFile; fileRef = E40F65AD0FB1CA8D00D92710 /* TestImage4.png */; };
+		E40F65B20FB1CA8D00D92710 /* TestImage3.png in Resources */ = {isa = PBXBuildFile; fileRef = E40F65AE0FB1CA8D00D92710 /* TestImage3.png */; };
+		E40F65B30FB1CA8D00D92710 /* TestImage2.png in Resources */ = {isa = PBXBuildFile; fileRef = E40F65AF0FB1CA8D00D92710 /* TestImage2.png */; };
+		E40F65B40FB1CA8D00D92710 /* TestImage1.png in Resources */ = {isa = PBXBuildFile; fileRef = E40F65B00FB1CA8D00D92710 /* TestImage1.png */; };
+		E40F66010FB1E38600D92710 /* ReceiveServerController.m in Sources */ = {isa = PBXBuildFile; fileRef = E40F65FF0FB1E38600D92710 /* ReceiveServerController.m */; };
+		E40F66910FB2313E00D92710 /* SendServerController.m in Sources */ = {isa = PBXBuildFile; fileRef = E40F668F0FB2313E00D92710 /* SendServerController.m */; };
+		E40F66BA0FB3029A00D92710 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E40F66B90FB3029A00D92710 /* CFNetwork.framework */; };
+		E4CE58CC0FCD595A00F80C27 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = E4CE58CB0FCD595A00F80C27 /* info.png */; };
+		E4D542D50FAB197600630176 /* SendController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4D542D40FAB197600630176 /* SendController.m */; };
+		E4D542DA0FAB199000630176 /* ReceiveController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4D542D90FAB199000630176 /* ReceiveController.m */; };
+		E4D544060FAB45DC00630176 /* download.png in Resources */ = {isa = PBXBuildFile; fileRef = E4D543FF0FAB45DC00630176 /* download.png */; };
+		E4D544090FAB45DC00630176 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4D544020FAB45DC00630176 /* MainWindow.xib */; };
+		E4D5440A0FAB45DC00630176 /* NoImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E4D544030FAB45DC00630176 /* NoImage.png */; };
+		E4D5440C0FAB45DC00630176 /* upload.png in Resources */ = {isa = PBXBuildFile; fileRef = E4D544050FAB45DC00630176 /* upload.png */; };
+		E4D544110FAB45E000630176 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4D5440F0FAB45E000630176 /* AppDelegate.m */; };
+		E4D544120FAB45E000630176 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4D544100FAB45E000630176 /* main.m */; };
+		E4D5443B0FAB4B1600630176 /* Info.html in Resources */ = {isa = PBXBuildFile; fileRef = E4D5443A0FAB4B1600630176 /* Info.html */; };
+		E4D544660FAB4EF500630176 /* InfoController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4D544640FAB4EF500630176 /* InfoController.m */; };
+		E4D544680FAB4F1A00630176 /* InfoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4D544670FAB4F1A00630176 /* InfoView.xib */; };
+		E4E97FC50FB453CE00516113 /* receiveserverOn.png in Resources */ = {isa = PBXBuildFile; fileRef = E4E97FC10FB453CE00516113 /* receiveserverOn.png */; };
+		E4E97FC60FB453CE00516113 /* sendserverOn.png in Resources */ = {isa = PBXBuildFile; fileRef = E4E97FC20FB453CE00516113 /* sendserverOn.png */; };
+		E4E97FC70FB453CE00516113 /* sendserverOff.png in Resources */ = {isa = PBXBuildFile; fileRef = E4E97FC30FB453CE00516113 /* sendserverOff.png */; };
+		E4E97FC80FB453CE00516113 /* receiveserverOff.png in Resources */ = {isa = PBXBuildFile; fileRef = E4E97FC40FB453CE00516113 /* receiveserverOff.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* NetStreams.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetStreams.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E40F65AD0FB1CA8D00D92710 /* TestImage4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestImage4.png; sourceTree = "<group>"; };
+		E40F65AE0FB1CA8D00D92710 /* TestImage3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestImage3.png; sourceTree = "<group>"; };
+		E40F65AF0FB1CA8D00D92710 /* TestImage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestImage2.png; sourceTree = "<group>"; };
+		E40F65B00FB1CA8D00D92710 /* TestImage1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestImage1.png; sourceTree = "<group>"; };
+		E40F65FF0FB1E38600D92710 /* ReceiveServerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReceiveServerController.m; sourceTree = "<group>"; };
+		E40F66000FB1E38600D92710 /* ReceiveServerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReceiveServerController.h; sourceTree = "<group>"; };
+		E40F668F0FB2313E00D92710 /* SendServerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SendServerController.m; sourceTree = "<group>"; };
+		E40F66900FB2313E00D92710 /* SendServerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SendServerController.h; sourceTree = "<group>"; };
+		E40F66B90FB3029A00D92710 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		E40F670E0FB30F0C00D92710 /* Read Me About SimpleNetworkStreams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Read Me About SimpleNetworkStreams.txt"; sourceTree = "<group>"; wrapsLines = 1; };
+		E4CE58CB0FCD595A00F80C27 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
+		E4D542D30FAB197600630176 /* SendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SendController.h; sourceTree = "<group>"; };
+		E4D542D40FAB197600630176 /* SendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SendController.m; sourceTree = "<group>"; };
+		E4D542D80FAB199000630176 /* ReceiveController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReceiveController.h; sourceTree = "<group>"; };
+		E4D542D90FAB199000630176 /* ReceiveController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReceiveController.m; sourceTree = "<group>"; };
+		E4D543FF0FAB45DC00630176 /* download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = download.png; sourceTree = "<group>"; };
+		E4D544010FAB45DC00630176 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4D544020FAB45DC00630176 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		E4D544030FAB45DC00630176 /* NoImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NoImage.png; sourceTree = "<group>"; };
+		E4D544050FAB45DC00630176 /* upload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = upload.png; sourceTree = "<group>"; };
+		E4D5440E0FAB45E000630176 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E4D5440F0FAB45E000630176 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E4D544100FAB45E000630176 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E4D5443A0FAB4B1600630176 /* Info.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Info.html; sourceTree = "<group>"; wrapsLines = 1; };
+		E4D544640FAB4EF500630176 /* InfoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoController.m; sourceTree = "<group>"; };
+		E4D544650FAB4EF500630176 /* InfoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoController.h; sourceTree = "<group>"; };
+		E4D544670FAB4F1A00630176 /* InfoView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoView.xib; sourceTree = "<group>"; };
+		E4E97FC10FB453CE00516113 /* receiveserverOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = receiveserverOn.png; sourceTree = "<group>"; };
+		E4E97FC20FB453CE00516113 /* sendserverOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sendserverOn.png; sourceTree = "<group>"; };
+		E4E97FC30FB453CE00516113 /* sendserverOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sendserverOff.png; sourceTree = "<group>"; };
+		E4E97FC40FB453CE00516113 /* receiveserverOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = receiveserverOff.png; sourceTree = "<group>"; };
+		E4E9806B0FB46F3400516113 /* Simplifying Assumptions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Simplifying Assumptions.txt"; sourceTree = "<group>"; wrapsLines = 1; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
+				E40F66BA0FB3029A00D92710 /* CFNetwork.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* NetStreams.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				E40F670E0FB30F0C00D92710 /* Read Me About SimpleNetworkStreams.txt */,
+				E4E9806B0FB46F3400516113 /* Simplifying Assumptions.txt */,
+				E4D542D30FAB197600630176 /* SendController.h */,
+				E4D542D40FAB197600630176 /* SendController.m */,
+				E4D542D80FAB199000630176 /* ReceiveController.h */,
+				E4D542D90FAB199000630176 /* ReceiveController.m */,
+				E40F66000FB1E38600D92710 /* ReceiveServerController.h */,
+				E40F65FF0FB1E38600D92710 /* ReceiveServerController.m */,
+				E40F66900FB2313E00D92710 /* SendServerController.h */,
+				E40F668F0FB2313E00D92710 /* SendServerController.m */,
+				E4D5440D0FAB45E000630176 /* Ancillary Code */,
+				E4D543FE0FAB45DC00630176 /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E40F66B90FB3029A00D92710 /* CFNetwork.framework */,
+				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E4D543FE0FAB45DC00630176 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E4D544010FAB45DC00630176 /* Info.plist */,
+				E4D544020FAB45DC00630176 /* MainWindow.xib */,
+				E4D543FF0FAB45DC00630176 /* download.png */,
+				E4D544050FAB45DC00630176 /* upload.png */,
+				E4E97FC20FB453CE00516113 /* sendserverOn.png */,
+				E4E97FC30FB453CE00516113 /* sendserverOff.png */,
+				E4E97FC10FB453CE00516113 /* receiveserverOn.png */,
+				E4E97FC40FB453CE00516113 /* receiveserverOff.png */,
+				E4CE58CB0FCD595A00F80C27 /* info.png */,
+				E4D544030FAB45DC00630176 /* NoImage.png */,
+				E40F65B00FB1CA8D00D92710 /* TestImage1.png */,
+				E40F65AF0FB1CA8D00D92710 /* TestImage2.png */,
+				E40F65AE0FB1CA8D00D92710 /* TestImage3.png */,
+				E40F65AD0FB1CA8D00D92710 /* TestImage4.png */,
+				E4D544670FAB4F1A00630176 /* InfoView.xib */,
+				E4D5443A0FAB4B1600630176 /* Info.html */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E4D5440D0FAB45E000630176 /* Ancillary Code */ = {
+			isa = PBXGroup;
+			children = (
+				E4D5440E0FAB45E000630176 /* AppDelegate.h */,
+				E4D5440F0FAB45E000630176 /* AppDelegate.m */,
+				E4D544650FAB4EF500630176 /* InfoController.h */,
+				E4D544640FAB4EF500630176 /* InfoController.m */,
+				E4D544100FAB45E000630176 /* main.m */,
+			);
+			path = "Ancillary Code";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SimpleNetworkStreams */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SimpleNetworkStreams" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleNetworkStreams;
+			productName = TrivialStreamTransfer;
+			productReference = 1D6058910D05DD3D006BFB54 /* NetStreams.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SimpleNetworkStreams" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SimpleNetworkStreams */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4D544060FAB45DC00630176 /* download.png in Resources */,
+				E4D544090FAB45DC00630176 /* MainWindow.xib in Resources */,
+				E4D5440A0FAB45DC00630176 /* NoImage.png in Resources */,
+				E4D5440C0FAB45DC00630176 /* upload.png in Resources */,
+				E4D5443B0FAB4B1600630176 /* Info.html in Resources */,
+				E4D544680FAB4F1A00630176 /* InfoView.xib in Resources */,
+				E40F65B10FB1CA8D00D92710 /* TestImage4.png in Resources */,
+				E40F65B20FB1CA8D00D92710 /* TestImage3.png in Resources */,
+				E40F65B30FB1CA8D00D92710 /* TestImage2.png in Resources */,
+				E40F65B40FB1CA8D00D92710 /* TestImage1.png in Resources */,
+				E4E97FC50FB453CE00516113 /* receiveserverOn.png in Resources */,
+				E4E97FC60FB453CE00516113 /* sendserverOn.png in Resources */,
+				E4E97FC70FB453CE00516113 /* sendserverOff.png in Resources */,
+				E4E97FC80FB453CE00516113 /* receiveserverOff.png in Resources */,
+				E4CE58CC0FCD595A00F80C27 /* info.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4D542D50FAB197600630176 /* SendController.m in Sources */,
+				E4D542DA0FAB199000630176 /* ReceiveController.m in Sources */,
+				E4D544110FAB45E000630176 /* AppDelegate.m in Sources */,
+				E4D544120FAB45E000630176 /* main.m in Sources */,
+				E4D544660FAB4EF500630176 /* InfoController.m in Sources */,
+				E40F66010FB1E38600D92710 /* ReceiveServerController.m in Sources */,
+				E40F66910FB2313E00D92710 /* SendServerController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = Resources/Info.plist;
+				PRODUCT_NAME = NetStreams;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = Resources/Info.plist;
+				PRODUCT_NAME = NetStreams;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEPLOYMENT_POSTPROCESSING = NO;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_PROTOTYPE_CONVERSION = NO;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_PARAMETER = YES;
+				GCC_WARN_UNUSED_VALUE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Wextra",
+					"-Wfloat-equal",
+					"-Wpointer-arith",
+					"-Wstrict-prototypes",
+					"-Wold-style-definition",
+				);
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEPLOYMENT_POSTPROCESSING = YES;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_DYNAMIC_NO_PIC = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_PREPROCESSOR_DEFINITIONS = NDEBUG;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_PROTOTYPE_CONVERSION = NO;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_PARAMETER = YES;
+				GCC_WARN_UNUSED_VALUE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = NO;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Wextra",
+					"-Wfloat-equal",
+					"-Wpointer-arith",
+					"-Wstrict-prototypes",
+					"-Wold-style-definition",
+				);
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SimpleNetworkStreams" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SimpleNetworkStreams" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,867 @@
+TQuartzDemo
+v7
+r0
+t294579671.076362
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/QuartzDemo.app/Demo.png Resources/Demo.png
+cCpResource build/Debug-iphonesimulator/QuartzDemo.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/Quartz.pdf Resources/en.lproj/Quartz.pdf
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib
+cCpResource build/Debug-iphonesimulator/QuartzDemo.app/Ship.png Resources/Ship.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlendingViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlending.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzClipping.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzGradientViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLineViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDashViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzCurves.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzImages.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLines.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolygons.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzRendering.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.h
+c000000004BA3EA550000000000000A9A
+t1269033557
+s2714
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m
+c000000004BA3EA550000000000000C31
+t1269033557
+s3121
+i"AppDelegate.h"
+i"MainViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.h
+c000000004BA3EA550000000000000AA5
+t1269033557
+s2725
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m
+c000000004BA3EA550000000000002C5C
+t1269033557
+s11356
+i"MainViewController.h"
+i"QuartzViewController.h"
+i"QuartzLines.h"
+i"QuartzPolygons.h"
+i"QuartzCurves.h"
+i"QuartzImages.h"
+i"QuartzRendering.h"
+i"QuartzBlending.h"
+i"QuartzClipping.h"
+i"QuartzBlendingViewController.h"
+i"QuartzPolyViewController.h"
+i"QuartzGradientViewController.h"
+i"QuartzLineViewController.h"
+i"QuartzDashViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.h
+c000000004BA3EA550000000000000B1A
+t1269033557
+s2842
+i<UIKit/UIKit.h>
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m
+c000000004BA3EA55000000000000227C
+t1269033557
+s8828
+i"QuartzBlendingViewController.h"
+i"QuartzBlending.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.h
+c000000004BA3EA550000000000000B2D
+t1269033557
+s2861
+i<UIKit/UIKit.h>
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m
+c000000004BA3EA5500000000000012E4
+t1269033557
+s4836
+i"QuartzDashViewController.h"
+i"QuartzLines.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.h
+c000000004BA3EA550000000000000B3F
+t1269033557
+s2879
+i<UIKit/UIKit.h>
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m
+c000000004BA3EA550000000000000D05
+t1269033557
+s3333
+i"QuartzGradientViewController.h"
+i"QuartzRendering.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.h
+c000000004BA3EA550000000000000B1A
+t1269033557
+s2842
+i<UIKit/UIKit.h>
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m
+c000000004BA3EA550000000000000CF1
+t1269033557
+s3313
+i"QuartzLineViewController.h"
+i"QuartzLines.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.h
+c000000004BA3EA550000000000000AF5
+t1269033557
+s2805
+i<UIKit/UIKit.h>
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m
+c000000004BA3EA55000000000000107B
+t1269033557
+s4219
+i"QuartzPolyViewController.h"
+i"QuartzPolygons.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.h
+c000000004BA3EA550000000000000AA2
+t1269033557
+s2722
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m
+c000000004BA3EA550000000000000CA4
+t1269033557
+s3236
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.h
+c000000004BA3EA550000000000000C40
+t1269033557
+s3136
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m
+c000000004BA3EA5500000000000011C6
+t1269033557
+s4550
+i"QuartzViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Icon.png
+c0000000048B6563000000000000009D3
+t1219909168
+s2515
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Prefix.pch
+c0000000048B656300000000000000033
+t1219909168
+s51
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.h
+c000000004BA3EA550000000000000B4C
+t1269033557
+s2892
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m
+c000000004BA3EA5500000000000010D0
+t1269033557
+s4304
+i"QuartzBlending.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.h
+c000000004BA3EA550000000000000ACC
+t1269033557
+s2764
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m
+c000000004BA3EA550000000000002AAF
+t1269033557
+s10927
+i"QuartzClipping.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.h
+c000000004BA3EA550000000000000AEF
+t1269033557
+s2799
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m
+c000000004BA3EA55000000000000217D
+t1269033557
+s8573
+i"QuartzCurves.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.h
+c000000004BA3EA550000000000000B6A
+t1269033557
+s2922
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m
+c000000004BA3EA550000000000002323
+t1269033557
+s8995
+i"QuartzImages.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.h
+c000000004BA3EA550000000000000CDE
+t1269033557
+s3294
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m
+c000000004BA3EA550000000000002130
+t1269033557
+s8496
+i"QuartzLines.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.h
+c000000004BA3EA550000000000000B38
+t1269033557
+s2872
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m
+c000000004BA3EA550000000000001616
+t1269033557
+s5654
+i"QuartzPolygons.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.h
+c000000004BA3EA550000000000000C64
+t1269033557
+s3172
+i<UIKit/UIKit.h>
+i"QuartzView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m
+c000000004BA3EA550000000000003293
+t1269033557
+s12947
+i"QuartzRendering.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Demo.png
+c000000004B47C1F4000000000000243E
+t1262993908
+s9278
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Ship.png
+c000000004B47C1F4000000000000474E
+t1262993908
+s18254
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib
+c000000004B422AC50000000000004E4E
+t1262627525
+s20046
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib
+c000000004B43D7AA0000000000006AA6
+t1262737322
+s27302
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib
+c000000004B43D7AA000000000000444F
+t1262737322
+s17487
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib
+c000000004B422AC50000000000006D04
+t1262627525
+s27908
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib
+c000000004B43D7AA0000000000007207
+t1262737322
+s29191
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib
+c000000004B4290230000000000006501
+t1262653475
+s25857
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib
+c000000004B422AC50000000000004E45
+t1262627525
+s20037
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/Quartz.pdf
+c000000004B4CC637000000000008D2E4
+t1263322679
+s578276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app
+t1272886871
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app.dSYM
+t1272886871
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Demo.png
+t1272886866
+s9278
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Icon.png
+t1272886866
+s2515
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Info.plist
+t1272886866
+s634
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/PkgInfo
+t1272886866
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo
+t1272886871
+s98576
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Ship.png
+t1272886868
+s18254
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/BlendView.nib
+t1272886868
+s1797
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/DashView.nib
+t1272886868
+s3791
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/DemoView.nib
+t1272886868
+s1439
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/GradientView.nib
+t1272886868
+s3878
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/LineView.nib
+t1272886868
+s4219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/MainWindow.nib
+t1272886868
+s2460
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/PolyView.nib
+t1272886868
+s1797
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/Quartz.pdf
+t1272886866
+s578276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/AppDelegate.o
+t1272886870
+s39332
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/MainViewController.o
+t1272886870
+s55452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlending.o
+t1272886870
+s15860
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlendingViewController.o
+t1272886870
+s48796
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzClipping.o
+t1272886870
+s24256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzCurves.o
+t1272886870
+s16000
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDashViewController.o
+t1272886870
+s40156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDemo.LinkFileList
+c000000004BDEB6520000000000000A89
+t1272886866
+s2697
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzGradientViewController.o
+t1272886870
+s32384
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzImages.o
+t1272886870
+s20612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLineViewController.o
+t1272886870
+s32912
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLines.o
+t1272886870
+s21544
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolyViewController.o
+t1272886870
+s37752
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolygons.o
+t1272886870
+s15584
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzRendering.o
+t1272886870
+s26876
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzView.o
+t1272886870
+s10492
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzViewController.o
+t1272886870
+s41372
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/main.o
+t1272886870
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m
+c000000004BA3EA550000000000000A4E
+t1269033557
+s2638
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch.gch
+t1272886870
+s13026768
+
+NInfo.plist
+c000000004B422AC50000000000000390
+t1262627525
+s912
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294579666#294579666#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.278156
+e294579670.374557
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m294579670#294579670#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m4300911832#2117"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.279345
+e294579670.421800
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/MainViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m294579670#294579670#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m4300911832#2131"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/MainViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlending.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.384164
+e294579670.466424
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlending.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m294579670#294579670#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m4300911832#2122"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzBlending.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlending.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlendingViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.374707
+e294579670.522316
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlendingViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m294579670#294579670#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m4300911832#2151"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzBlendingViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzBlendingViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzClipping.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.421956
+e294579670.560826
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzClipping.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m294579670#294579670#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m4300911832#2122"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzClipping.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzClipping.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzCurves.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.561406
+e294579670.656287
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzCurves.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m294579670#294579670#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m4300911832#2118"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzCurves.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzCurves.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDashViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.522467
+e294579670.629031
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDashViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m294579670#294579670#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m4300911832#2143"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzDashViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDashViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzGradientViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.466588
+e294579670.571445
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzGradientViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m294579670#294579670#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m4300911832#2151"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzGradientViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzGradientViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzImages.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.571602
+e294579670.675856
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzImages.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m294579670#294579670#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m4300911832#2118"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzImages.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzImages.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLineViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.520150
+e294579670.626732
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLineViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m294579670#294579670#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m4300911832#2143"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzLineViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLineViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLines.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.626980
+e294579670.728115
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLines.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m294579670#294579670#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m4300911832#2116"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzLines.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzLines.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.425474
+e294579670.519986
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m294579670#294579670#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m4300911832#2143"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzPolyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolyViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolygons.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.629182
+e294579670.719737
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolygons.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m294579670#294579670#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m4300911832#2122"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzPolygons.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzPolygons.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzRendering.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.656441
+e294579670.781467
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzRendering.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m294579670#294579670#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m4300911832#2124"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Quartz/QuartzRendering.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzRendering.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.345922
+e294579670.425311
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m294579670#294579670#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m4300911832#2115"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzView.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.280821
+e294579670.384005
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m294579670#294579670#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m4300911832#2135"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Classes/QuartzViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzViewController.o0#
+
+CCompileC build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579670.276712
+e294579670.345756
+r1
+xCompileC
+xbuild/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m294579670#294579670#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m4300911832#2095"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib
+s294579666.984476
+e294579668.456775
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib
+lSLF07#2@43"CompileXIB Resources/en.lproj/BlendView.xib294579666#294579668#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib4300911832#563"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/BlendView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/BlendView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib
+s294579668.458198
+e294579668.933418
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib
+lSLF07#2@42"CompileXIB Resources/en.lproj/DashView.xib294579668#294579668#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/DashView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DashView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib
+s294579666.981303
+e294579668.441526
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib
+lSLF07#2@42"CompileXIB Resources/en.lproj/DemoView.xib294579666#294579668#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/DemoView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/DemoView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib
+s294579668.441668
+e294579668.945475
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib
+lSLF07#2@46"CompileXIB Resources/en.lproj/GradientView.xib294579668#294579668#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/GradientView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/GradientView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib
+s294579668.457002
+e294579668.962564
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib
+lSLF07#2@42"CompileXIB Resources/en.lproj/LineView.xib294579668#294579668#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/LineView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/LineView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib
+s294579666.962759
+e294579668.496834
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib
+lSLF07#2@44"CompileXIB Resources/en.lproj/MainWindow.xib294579666#294579668#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib
+s294579667.003230
+e294579668.458098
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib
+lSLF07#2@42"CompileXIB Resources/en.lproj/PolyView.xib294579667#294579668#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/PolyView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/PolyView.xib0#
+
+CCpResource build/Debug-iphonesimulator/QuartzDemo.app/Demo.png Resources/Demo.png
+s294579666.958951
+e294579666.981133
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QuartzDemo.app/Demo.png
+xResources/Demo.png
+lSLF07#2@23"Copy Resources/Demo.png294579666#294579666#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Demo.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Demo.png /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/QuartzDemo.app/Icon.png Icon.png
+s294579666.959705
+e294579666.984336
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QuartzDemo.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294579666#294579666#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Icon.png4300911832#509"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/QuartzDemo.app/Ship.png Resources/Ship.png
+s294579668.496964
+e294579668.505186
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QuartzDemo.app/Ship.png
+xResources/Ship.png
+lSLF07#2@23"Copy Resources/Ship.png294579668#294579668#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Ship.png4300911832#519"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/Ship.png /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/QuartzDemo.app/en.lproj/Quartz.pdf Resources/en.lproj/Quartz.pdf
+s294579666.960604
+e294579667.003097
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QuartzDemo.app/en.lproj/Quartz.pdf
+xResources/en.lproj/Quartz.pdf
+lSLF07#2@34"Copy Resources/en.lproj/Quartz.pdf294579666#294579667#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/Quartz.pdf4300911832#539"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Resources/en.lproj/Quartz.pdf /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/en.lproj0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo
+s294579671.042668
+e294579671.072687
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/QuartzDemo.app.dSYM build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo294579671#294579671#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo normal i386
+s294579670.781604
+e294579671.042564
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo
+xnormal
+xi386
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo294579670#294579671#0(0"0(0#0#0"4300911832#969"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/Objects-normal/i386/QuartzDemo.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/QuartzDemo0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Info.plist Info.plist
+s294579666.947242
+e294579666.958835
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294579666#294579666#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Info.plist4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294579668.962690
+e294579670.276437
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294579668#294579670#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Prefix.pch4300911832#1955"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/QuartzDemo-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/QuartzDemo.build/Debug-iphonesimulator/QuartzDemo.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-adyggnkbmgmjtefmszaaxplrygtz/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app
+s294579671.072794
+e294579671.076315
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app294579671#294579671#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuartzDemo/build/Debug-iphonesimulator/QuartzDemo.app0#
+

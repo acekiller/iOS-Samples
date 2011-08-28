@@ -1,0 +1,104 @@
+TAQOffilineRenderTest
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/Icon.png
+c0000000049AD7EEA0000000000001534
+t1236106986
+s5428
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/MainWindow.xib
+c000000004A96D2C4000000000000576F
+t1251398340
+s22383
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/Resources/green_button.png
+c0000000049AD7EEA00000000000002EE
+t1236106986
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/Resources/info.html
+c0000000049AD7EEA000000000000083B
+t1236106986
+s2107
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/Resources/red_button.png
+c0000000049AD7EEA00000000000002F2
+t1236106986
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/Resources/soundalac.caf
+c0000000049AD7EEA000000000011B20B
+t1236106986
+s1159691
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/green_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/info.html
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/red_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Resources/soundalac.caf
+t2
+s0
+
+NInfo.plist
+c000000004A14A4BF0000000000000384
+t1242866879
+s900
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629590#294629590#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'1(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'294629590#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/MainWindow.xib
+r0
+
+CCpResource build/Debug/AQOffilineRenderTest.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CCpResource build/Debug/AQOffilineRenderTest.app/Contents/Resources/green_button.png Resources/green_button.png
+r0
+
+CCpResource build/Debug/AQOffilineRenderTest.app/Contents/Resources/info.html Resources/info.html
+r0
+
+CCpResource build/Debug/AQOffilineRenderTest.app/Contents/Resources/red_button.png Resources/red_button.png
+r0
+
+CCpResource build/Debug/AQOffilineRenderTest.app/Contents/Resources/soundalac.caf Resources/soundalac.caf
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AQOfflineRenderTest/build/Debug/AQOffilineRenderTest.app
+r0
+

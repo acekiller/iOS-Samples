@@ -1,0 +1,387 @@
+TReachability
+v7
+r0
+t294630089.694468
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/Reachability.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/Reachability.app/WWAN5.png WWAN5.png
+cCpResource build/Debug-iphonesimulator/Reachability.app/Airport.png Airport.png
+cCpResource build/Debug-iphonesimulator/Reachability.app/stop-32.png stop-32.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Reachability.app/icon.png icon.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch.gch Reachability_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/ReachabilityAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A0BA8C00000000000000A99
+t1242278080
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004A0BA9330000000000001A78
+t1242278195
+s6776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004A0BA939000000000004D0D0
+t1242278201
+s315600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ifaddrs.h
+c00000000464386E00000000000000782
+t1178830560
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netinet6/in6.h
+c00000000476344BA0000000000004970
+t1197687994
+s18800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Airport.png
+c0000000048B6553200000000000007DE
+t1219908914
+s2014
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.h
+c000000004A7B0B620000000000000F19
+t1249577826
+s3865
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m
+c000000004A7B0B6200000000000023A7
+t1249577826
+s9127
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.h
+c000000004A737F8C0000000000000C0B
+t1249083276
+s3083
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m
+c000000004A7B0B6200000000000018C6
+t1249577826
+s6342
+i"ReachabilityAppDelegate.h"
+i"Reachability.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Default.png
+c0000000048B6553200000000000013C3
+t1219908914
+s5059
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib
+c000000004A78BF420000000000006104
+t1249427266
+s24836
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Reachability_Prefix.pch
+c000000004A7B0B620000000000000A10
+t1249577826
+s2576
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/WWAN5.png
+c0000000048B65532000000000000051D
+t1219908914
+s1309
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app
+t1272937289
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app.dSYM
+t1272937289
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Airport.png
+t1272937288
+s2014
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Default.png
+t1272937288
+s5059
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Info.plist
+t1272937288
+s667
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/MainWindow.nib
+t1272937288
+s4612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/PkgInfo
+t1272937288
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability
+t1272937289
+s26272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/WWAN5.png
+t1272937288
+s1309
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/icon.png
+t1272937288
+s5957
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/stop-32.png
+t1272937288
+s1424
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.LinkFileList
+c000000004BDF7B4800000000000001E3
+t1272937288
+s483
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.o
+t1272937289
+s20060
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/ReachabilityAppDelegate.o
+t1272937289
+s25144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/main.o
+t1272937289
+s5920
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/icon.png
+c0000000048B655320000000000001745
+t1219908914
+s5957
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m
+c000000004A7B0B620000000000000A3A
+t1249577826
+s2618
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/stop-32.png
+c0000000048B655320000000000000590
+t1219908914
+s1424
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch.gch
+t1272937289
+s12948848
+
+NInfo.plist
+c0000000048B6553200000000000003AE
+t1219908914
+s942
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294630088#294630088#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630089.466249
+e294630089.602462
+r1
+xCompileC
+xbuild/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m294630089#294630089#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m4300911832#2025"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-field-initializers -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value -Wunknown-pragmas -Wshadow -Wfour-char-constants -Wsign-compare -Wnewline-eof -Wconversion -Wshorten-64-to-32 -Wstrict-selector-match -Wundeclared-selector -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Reachability.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/Reachability.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/ReachabilityAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630089.464886
+e294630089.558629
+r1
+xCompileC
+xbuild/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/ReachabilityAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: In function '-[ReachabilityAppDelegate updateInterfaceWithReachability:]':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:97: warning: passing argument 1 of 'setHidden:' with different width due to prototype
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: In function '-[ReachabilityAppDelegate applicationDidFinishLaunching:]':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:133: warning: passing argument 1 of 'setHidden:' with different width due to prototype
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: At top level:
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:130: warning: unused parameter 'application'
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m294630089#294630089#0(941"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: In function '-[ReachabilityAppDelegate updateInterfaceWithReachability:]':/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:97: warning: passing argument 1 of 'setHidden:' with different width due to prototype/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: In function '-[ReachabilityAppDelegate applicationDidFinishLaunching:]':/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:133: warning: passing argument 1 of 'setHidden:' with different width due to prototype/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m: At top level:/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m:130: warning: unused parameter 'application'4(22@72"Passing argument 1 of 'setHidden:' with different width due to prototype294630089#169#179#0(6@92"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m271270626#97#0#97#0#0"0(22@72"Passing argument 1 of 'setHidden:' with different width due to prototype294630089#515#180#0(6@92"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m271270626#133#0#133#0#0"0(23@13"At top level:294630089#695#108#0(6@92"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m271270626#0#0#0#0#0"0(22@30"Unused parameter 'application'294630089#803#138#0(6@92"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m271270626#130#0#130#0#20"unused parameter '*'0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m4300911832#2047"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-field-initializers -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value -Wunknown-pragmas -Wshadow -Wfour-char-constants -Wsign-compare -Wnewline-eof -Wconversion -Wshorten-64-to-32 -Wstrict-selector-match -Wundeclared-selector -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Reachability.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Classes/ReachabilityAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/ReachabilityAppDelegate.o0#
+
+CCompileC build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630089.463528
+e294630089.544844
+r1
+xCompileC
+xbuild/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m294630089#294630089#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m4300911832#2001"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-field-initializers -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value -Wunknown-pragmas -Wshadow -Wfour-char-constants -Wsign-compare -Wnewline-eof -Wconversion -Wshorten-64-to-32 -Wstrict-selector-match -Wundeclared-selector -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Reachability.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib
+s294630088.269420
+e294630088.666247
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294630088#294630088#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib4300911832#545"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Reachability.app/Airport.png Airport.png
+s294630088.267287
+e294630088.316042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reachability.app/Airport.png
+xAirport.png
+lSLF07#2@16"Copy Airport.png294630088#294630088#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Airport.png4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Airport.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+
+CCpResource build/Debug-iphonesimulator/Reachability.app/Default.png Default.png
+s294630088.265514
+e294630088.313162
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reachability.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294630088#294630088#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Default.png4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+
+CCpResource build/Debug-iphonesimulator/Reachability.app/WWAN5.png WWAN5.png
+s294630088.266301
+e294630088.313497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reachability.app/WWAN5.png
+xWWAN5.png
+lSLF07#2@14"Copy WWAN5.png294630088#294630088#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/WWAN5.png4300911832#539"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/WWAN5.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+
+CCpResource build/Debug-iphonesimulator/Reachability.app/icon.png icon.png
+s294630088.313651
+e294630088.321190
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reachability.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png294630088#294630088#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/icon.png4300911832#538"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+
+CCpResource build/Debug-iphonesimulator/Reachability.app/stop-32.png stop-32.png
+s294630088.268362
+e294630088.316747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Reachability.app/stop-32.png
+xstop-32.png
+lSLF07#2@16"Copy stop-32.png294630088#294630088#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/stop-32.png4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/stop-32.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability
+s294630089.640243
+e294630089.652059
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Reachability.app.dSYM build/Debug-iphonesimulator/Reachability.app/Reachability294630089#294630089#0(0"0(0#0#116"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability normal i386
+s294630089.602612
+e294630089.640139
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability
+xnormal
+xi386
+lSLF07#2@121"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability294630089#294630089#0(0"0(0#0#0"4300911832#994"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Objects-normal/i386/Reachability.LinkFileList -mmacosx-version-min=10.5 -framework UIKit -framework SystemConfiguration -framework Foundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Reachability0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Info.plist Info.plist
+s294630088.261489
+e294630088.265427
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294630088#294630088#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Info.plist4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch.gch Reachability_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630088.666425
+e294630089.463384
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch.gch
+xReachability_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Reachability_Prefix.pch294630088#294630089#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Reachability_Prefix.pch4300911832#1868"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-field-initializers -Wmissing-prototypes -Werror-implicit-function-declaration -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value -Wunknown-pragmas -Wshadow -Wfour-char-constants -Wsign-compare -Wnewline-eof -Wconversion -Wshorten-64-to-32 -Wstrict-selector-match -Wundeclared-selector -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/Reachability.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Reachability.build/Debug-iphonesimulator/Reachability.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/Reachability_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reachability_Prefix-awvhnhucgnpmyhbxoxvfuycknwdw/Reachability_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app
+s294630089.652170
+e294630089.694399
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app294630089#294630089#0(0"0(0#0#0"4300911832#323"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Reachability/build/Debug-iphonesimulator/Reachability.app0#
+

@@ -1,0 +1,336 @@
+TCurAddress
+v7
+r0
+t294582675.267650
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Info.plist CurrentAddress-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib
+cCpResource build/Debug-iphonesimulator/CurAddress.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch.gch CurrentAddress_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/PlacemarkViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC0FF000000000000017D
+t1242284287
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A0BC11200000000000F36E0
+t1242284306
+s997088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m
+c000000004BA3F4230000000000000AAC
+t1269036067
+s2732
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.h
+c000000004BA3F4220000000000000B08
+t1269036066
+s2824
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m
+c000000004BA3F4220000000000000B18
+t1269036066
+s2840
+i"AppDelegate.h"
+i"MapViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.h
+c000000004BA3F4220000000000000BD5
+t1269036066
+s3029
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m
+c000000004BA3F4220000000000000F7E
+t1269036066
+s3966
+i"MapViewController.h"
+i"PlacemarkViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.h
+c000000004BA3F4220000000000000B3B
+t1269036066
+s2875
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m
+c000000004BA3F4220000000000001506
+t1269036066
+s5382
+i"PlacemarkViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/CurrentAddress_Prefix.pch
+c000000004BA3F4230000000000000A75
+t1269036067
+s2677
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Default.png
+c000000004B3285230000000000011BB1
+t1261602083
+s72625
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/AppDelegate.o
+t1272889875
+s38096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/CurAddress.LinkFileList
+c000000004BDEC211000000000000028F
+t1272889873
+s655
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/MapViewController.o
+t1272889875
+s38836
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/PlacemarkViewController.o
+t1272889875
+s42764
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/main.o
+t1272889875
+s6008
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app
+t1272889875
+s238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app.dSYM
+t1272889875
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress
+t1272889875
+s27280
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Default.png
+t1272889873
+s72625
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Info.plist
+t1272889873
+s603
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/PkgInfo
+t1272889873
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/MainWindow.nib
+t1272889873
+s1466
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/MapViewController.nib
+t1272889874
+s2297
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/PlacemarkViewController.nib
+t1272889874
+s2135
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib
+c000000004B3285230000000000004DA3
+t1261602083
+s19875
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib
+c000000004B3285230000000000005815
+t1261602083
+s22549
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib
+c000000004B32852300000000000055E5
+t1261602083
+s21989
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch.gch
+t1272889874
+s12952976
+
+NCurrentAddress-Info.plist
+c000000004B328523000000000000038D
+t1261602083
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294582673#294582673#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582674.973334
+e294582675.063712
+r1
+xCompileC
+xbuild/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m294582674#294582675#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m4300911832#2217"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582674.974644
+e294582675.081084
+r1
+xCompileC
+xbuild/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/MapViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m294582674#294582675#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m4300911832#2229"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/MapViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/PlacemarkViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582674.975970
+e294582675.121891
+r1
+xCompileC
+xbuild/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/PlacemarkViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m294582674#294582675#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m4300911832#2241"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/PlacemarkViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/PlacemarkViewController.o0#
+
+CCompileC build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582674.971869
+e294582675.063200
+r1
+xCompileC
+xbuild/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m294582674#294582675#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m4300911832#2206"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Classes/../main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib
+s294582673.561886
+e294582673.960564
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294582673#294582673#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib4300911832#567"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib
+s294582673.575639
+e294582674.110205
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib294582673#294582674#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib4300911832#581"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/MapViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/MapViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib
+s294582673.607198
+e294582674.066878
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/PlacemarkViewController.xib294582673#294582674#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib4300911832#593"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/en.lproj/PlacemarkViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/en.lproj/PlacemarkViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/CurAddress.app/Default.png Default.png
+s294582673.618931
+e294582673.659404
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CurAddress.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294582673#294582673#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Default.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress
+s294582675.204079
+e294582675.264558
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/CurAddress.app.dSYM build/Debug-iphonesimulator/CurAddress.app/CurAddress294582675#294582675#0(0"0(0#0#114"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress normal i386
+s294582675.121986
+e294582675.203974
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress
+xnormal
+xi386
+lSLF07#2@119"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress294582675#294582675#0(0"0(0#0#0"4300911832#1009"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/Objects-normal/i386/CurAddress.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/CurAddress0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Info.plist CurrentAddress-Info.plist
+s294582673.557834
+e294582673.561747
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Info.plist
+xCurrentAddress-Info.plist
+lSLF07#2@33"Process CurrentAddress-Info.plist294582673#294582673#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/CurrentAddress-Info.plist4300911832#558"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CurrentAddress-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch.gch CurrentAddress_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582674.110364
+e294582674.971719
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch.gch
+xCurrentAddress_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile CurrentAddress_Prefix.pch294582674#294582674#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/CurrentAddress_Prefix.pch4300911832#2062"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/CurAddress-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/CurrentAddress.build/Debug-iphonesimulator/CurAddress.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/CurrentAddress_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurrentAddress_Prefix-gxibqccaageprhgrjskknlbcdesf/CurrentAddress_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app
+s294582675.264645
+e294582675.267600
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app294582675#294582675#0(0"0(0#0#0"4300911832#325"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CurrentAddress/build/Debug-iphonesimulator/CurAddress.app0#
+

@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	1715D3DC0FA6B69F00A7D3F3 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3099, 2054}}";
+			sepNavSelRange = "{17, 442}";
+			sepNavVisRange = "{0, 989}";
+		};
+	};
+	17AA84020F99894F00167681 /* CalculatorTests */ = {
+		activeExec = 0;
+	};
+	17AA844D0F99902200167681 /* CalcTests */ = {
+		activeExec = 0;
+	};
+	17AA84650F9990FC00167681 /* CalcTesting */ = {
+		activeExec = 0;
+		executables = (
+			26379B1F118FC4B100FC4178 /* CalcTesting */,
+		);
+	};
+	1D6058900D05DD3D006BFB54 /* Calc */ = {
+		activeExec = 0;
+		executables = (
+			26379B1E118FC4B100FC4178 /* Calc */,
+		);
+	};
+	26379B1E118FC4B100FC4178 /* Calc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Calc;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	26379B1F118FC4B100FC4178 /* CalcTesting */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CalcTesting;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	26379B3A118FC4B500FC4178 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	26379B3B118FC4B500FC4178 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	26379B3D118FC58D00FC4178 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1715D3DC0FA6B69F00A7D3F3 /* ReadMe.txt */;
+		name = "ReadMe.txt: 3";
+		rLen = 443;
+		rLoc = 17;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 1556;
+	};
+	26379B3E118FC58D00FC4178 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1715D3DC0FA6B69F00A7D3F3 /* ReadMe.txt */;
+		name = "ReadMe.txt: 3";
+		rLen = 442;
+		rLoc = 17;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 26379B1E118FC4B100FC4178 /* Calc */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Calc */;
+		codeSenseManager = 26379B3B118FC4B500FC4178 /* Code sense */;
+		executables = (
+			26379B1E118FC4B100FC4178 /* Calc */,
+			26379B1F118FC4B100FC4178 /* CalcTesting */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294634673;
+			PBXWorkspaceStateSaveDate = 294634673;
+		};
+		perUserProjectItems = {
+			26379B3D118FC58D00FC4178 /* PBXTextBookmark */ = 26379B3D118FC58D00FC4178 /* PBXTextBookmark */;
+			26379B3E118FC58D00FC4178 /* PBXTextBookmark */ = 26379B3E118FC58D00FC4178 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 26379B3A118FC4B500FC4178 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

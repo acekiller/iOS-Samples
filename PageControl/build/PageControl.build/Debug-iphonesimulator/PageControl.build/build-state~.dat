@@ -1,0 +1,270 @@
+TPageControl
+v7
+r0
+t294580650.660644
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/PageControl.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.h
+c000000004BA3EA880000000000000C56
+t1269033608
+s3158
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m
+c000000004BA3EA880000000000001BB3
+t1269033608
+s7091
+i"AppDelegate.h"
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.h
+c000000004BA3EA880000000000000B16
+t1269033608
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m
+c000000004BA3EA880000000000000F67
+t1269033608
+s3943
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Default.png
+c000000004B58DE2A00000000000011E9
+t1264115242
+s4585
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Prefix.pch
+c000000004BA3EA880000000000000A2B
+t1269033608
+s2603
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app
+t1272887850
+s238
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+t1272887850
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Default.png
+t1272887849
+s4585
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+t1272887849
+s602
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+t1272887850
+s25816
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo
+t1272887849
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib
+t1272887849
+s1841
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib
+t1272887849
+s1719
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+t1272887850
+s46736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+t1272887850
+s33680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList
+c000000004BDEBA2900000000000001D2
+t1272887849
+s466
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+t1272887850
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib
+c000000004B58DE2A0000000000004E96
+t1264115242
+s20118
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib
+c000000004B58DE2A0000000000004450
+t1264115242
+s17488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m
+c000000004BA3EA880000000000000ADF
+t1269033608
+s2783
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch.gch
+t1272887850
+s12952976
+
+NInfo.plist
+c000000004B58DE2A0000000000000381
+t1264115242
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294580649#294580649#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294580650.400143
+e294580650.525576
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m294580650#294580650#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m4300911832#2144"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294580650.399171
+e294580650.470248
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m294580650#294580650#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m4300911832#2154"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Classes/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294580650.398132
+e294580650.450404
+r1
+xCompileC
+xbuild/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m294580650#294580650#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m4300911832#2122"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib
+s294580649.256853
+e294580649.585678
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294580649#294580649#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib4300911832#559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib
+s294580649.255652
+e294580649.596878
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib
+lSLF07#2@30"CompileXIB en.lproj/MyView.xib294580649#294580649#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/en.lproj/MyView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/en.lproj/MyView.xib0#
+
+CCpResource build/Debug-iphonesimulator/PageControl.app/Default.png Default.png
+s294580649.257833
+e294580649.304640
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PageControl.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294580649#294580649#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Default.png4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+s294580650.619360
+e294580650.657049
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PageControl.app.dSYM build/Debug-iphonesimulator/PageControl.app/PageControl294580650#294580650#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl4300911832#452"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl normal i386
+s294580650.525670
+e294580650.619252
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl294580650#294580650#0(0"0(0#0#0"4300911832#953"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/Objects-normal/i386/PageControl.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PageControl0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist Info.plist
+s294580649.251176
+e294580649.255517
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294580649#294580649#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Info.plist4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294580649.597016
+e294580650.398025
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294580649#294580650#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Prefix.pch4300911832#1979"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/PageControl-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/PageControl.build/Debug-iphonesimulator/PageControl.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-aufqvdtjsxlpkadifhyzemhjusry/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app
+s294580650.657142
+e294580650.660584
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app
+lSLF07#2@107"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app294580650#294580650#0(0"0(0#0#0"4300911832#320"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PageControl/build/Debug-iphonesimulator/PageControl.app0#
+

@@ -1,0 +1,547 @@
+TLocateMe
+v7
+r0
+t294586009.116085
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Info.plist Info.plist
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/LocateMe.app/pin.png pin.png
+cCpResource build/Debug-iphonesimulator/LocateMe.app/bullseye.png bullseye.png
+cCpResource build/Debug-iphonesimulator/LocateMe.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/LocateMe.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/GetLocationViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/TrackLocationViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/SetupViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocationDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/CLLocation (Strings).o" "/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B00000000000423F0
+t1242354571
+s271344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.h
+c000000004BA3EB720000000000000BA3
+t1269033842
+s2979
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m
+c000000004BA3EB720000000000000EE1
+t1269033842
+s3809
+i"AppDelegate.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).h
+c000000004BA3EB720000000000000B90
+t1269033842
+s2960
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m
+c000000004BA3EB720000000000001301
+t1269033842
+s4865
+i"CLLocation (Strings).h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.h
+c000000004BA3EB720000000000001113
+t1269033842
+s4371
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"SetupViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m
+c000000004BA3EB720000000000004463
+t1269033842
+s17507
+i"GetLocationViewController.h"
+i"LocationDetailViewController.h"
+i"CLLocation (Strings).h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.h
+c000000004BA3EB720000000000000B1E
+t1269033842
+s2846
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m
+c000000004BA3EB72000000000000188E
+t1269033842
+s6286
+i"LocationDetailViewController.h"
+i"CLLocation (Strings).h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.h
+c000000004BA3EB720000000000001107
+t1269033842
+s4359
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m
+c000000004BA3EB720000000000001BA7
+t1269033842
+s7079
+i"SetupViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.h
+c000000004BA3EB7200000000000010C0
+t1269033842
+s4288
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"SetupViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m
+c000000004BA3EB7200000000000038EE
+t1269033842
+s14574
+i"TrackLocationViewController.h"
+i"LocationDetailViewController.h"
+i"CLLocation (Strings).h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Default.png
+c000000004AE63A0600000000000035AF
+t1256602118
+s13743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Prefix.pch
+c000000004AE63A0600000000000000B9
+t1256602118
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/ReadMe.txt
+c000000004AE63A0600000000000016C9
+t1256602118
+s5833
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app
+t1272893209
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app.dSYM
+t1272893209
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Default.png
+t1272893207
+s13743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Info.plist
+t1272893206
+s650
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe
+t1272893209
+s68196
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/PkgInfo
+t1272893206
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/ReadMe.txt
+t1272893207
+s5833
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/bullseye.png
+t1272893207
+s4363
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/GetLocationSetupView.nib
+t1272893207
+s4128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/GetLocationView.nib
+t1272893207
+s3688
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/Localizable.strings
+t1272893207
+s1110
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/MainWindow.nib
+t1272893207
+s3582
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/TrackLocationSetupView.nib
+t1272893207
+s4182
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/TrackLocationView.nib
+t1272893207
+s3591
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/pin.png
+t1272893207
+s3989
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/AppDelegate.o
+t1272893208
+s43308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/CLLocation (Strings).o
+t1272893208
+s14848
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/GetLocationViewController.o
+t1272893208
+s64620
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocateMe.LinkFileList
+c000000004BDECF16000000000000043E
+t1272893206
+s1086
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocationDetailViewController.o
+t1272893208
+s41300
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/SetupViewController.o
+t1272893208
+s48576
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/TrackLocationViewController.o
+t1272893208
+s61356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/main.o
+t1272893208
+s5972
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/bullseye.png
+c000000004AE63A06000000000000110B
+t1256602118
+s4363
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib
+c000000004AE63A06000000000000508A
+t1256602118
+s20618
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib
+c000000004AE63A060000000000004E82
+t1256602118
+s20098
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/Localizable.strings
+c000000004AE63A060000000000000BAA
+t1256602118
+s2986
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib
+c000000004AE63A060000000000004C97
+t1256602118
+s19607
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib
+c000000004AE63A06000000000000505D
+t1256602118
+s20573
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib
+c000000004AE63A060000000000004E53
+t1256602118
+s20051
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m
+c000000004AE63A0600000000000000E1
+t1256602118
+s225
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/pin.png
+c000000004AE63A060000000000000F95
+t1256602118
+s3989
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch.gch
+t1272893208
+s12952976
+
+NInfo.plist
+c000000004AE63A0600000000000003D8
+t1256602118
+s984
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294586006#294586006#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/CLLocation (Strings).o" "/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.735190
+e294586008.858502
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/CLLocation (Strings).o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m294586008#294586008#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m4300911832#2079"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/CLLocation (Strings).m" -o "/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/CLLocation (Strings).o"0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.563506
+e294586008.662141
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m294586008#294586008#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m4300911832#2057"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/GetLocationViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.564579
+e294586008.735026
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/GetLocationViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m294586008#294586008#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m4300911832#2085"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/GetLocationViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/GetLocationViewController.o0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocationDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.662294
+e294586008.816162
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocationDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m294586008#294586008#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m4300911832#2091"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/LocationDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocationDetailViewController.o0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/SetupViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.625079
+e294586008.795940
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/SetupViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m294586008#294586008#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/SetupViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/SetupViewController.o0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/TrackLocationViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.565784
+e294586008.785579
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/TrackLocationViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m294586008#294586008#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Classes/TrackLocationViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/TrackLocationViewController.o0#
+
+CCompileC build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586008.562391
+e294586008.624924
+r1
+xCompileC
+xbuild/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m294586008#294586008#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m4300911832#2035"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib
+s294586006.915494
+e294586007.599353
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib
+lSLF07#2@44"CompileXIB en.lproj/GetLocationSetupView.xib294586006#294586007#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib4300911832#567"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/GetLocationSetupView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationSetupView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib
+s294586007.134265
+e294586007.580332
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib
+lSLF07#2@39"CompileXIB en.lproj/GetLocationView.xib294586007#294586007#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/GetLocationView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/GetLocationView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib
+s294586007.412616
+e294586007.811492
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294586007#294586007#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib
+s294586006.914455
+e294586007.507530
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib
+lSLF07#2@46"CompileXIB en.lproj/TrackLocationSetupView.xib294586006#294586007#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/TrackLocationSetupView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationSetupView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib
+s294586006.913125
+e294586007.412498
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib
+lSLF07#2@41"CompileXIB en.lproj/TrackLocationView.xib294586006#294586007#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/TrackLocationView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/TrackLocationView.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294586006.912139
+e294586007.134133
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+oen.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy en.lproj/Localizable.strings294586006#294586007#0(130"en.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/en.lproj/Localizable.strings4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/LocateMe.app/Default.png Default.png
+s294586007.510836
+e294586007.525273
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocateMe.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294586007#294586007#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Default.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app0#
+
+CCpResource build/Debug-iphonesimulator/LocateMe.app/ReadMe.txt ReadMe.txt
+s294586007.513859
+e294586007.522135
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocateMe.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294586007#294586007#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/ReadMe.txt4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app0#
+
+CCpResource build/Debug-iphonesimulator/LocateMe.app/bullseye.png bullseye.png
+s294586007.508730
+e294586007.521551
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocateMe.app/bullseye.png
+xbullseye.png
+lSLF07#2@17"Copy bullseye.png294586007#294586007#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/bullseye.png4300911832#505"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/bullseye.png /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app0#
+
+CCpResource build/Debug-iphonesimulator/LocateMe.app/pin.png pin.png
+s294586007.507661
+e294586007.516385
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocateMe.app/pin.png
+xpin.png
+lSLF07#2@12"Copy pin.png294586007#294586007#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/pin.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/pin.png /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe
+s294586009.063266
+e294586009.112473
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/LocateMe.app.dSYM build/Debug-iphonesimulator/LocateMe.app/LocateMe294586009#294586009#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe normal i386
+s294586008.858615
+e294586009.063162
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe294586008#294586009#0(0"0(0#0#0"4300911832#971"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/Objects-normal/i386/LocateMe.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/LocateMe0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Info.plist Info.plist
+s294586006.905349
+e294586006.912036
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294586006#294586006#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Info.plist4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586007.811670
+e294586008.562154
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294586007#294586008#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Prefix.pch4300911832#1901"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/LocateMe-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/LocateMe.build/Debug-iphonesimulator/LocateMe.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-groeugeqptydspekzesbcbxtfzua/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app
+s294586009.112589
+e294586009.116036
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app294586009#294586009#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/LocateMe/build/Debug-iphonesimulator/LocateMe.app0#
+

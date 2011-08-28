@@ -1,0 +1,297 @@
+TQuickContacts
+v7
+r0
+t294582145.475765
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Info.plist QuickContacts-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Menu.plist Menu.plist
+cCpResource build/Debug-iphonesimulator/QuickContacts.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch.gch QuickContacts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A0BB46C0000000000033670
+t1242281068
+s210544
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004A0BB4680000000000000425
+t1242281064
+s1061
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004A0BC0CB00000000000CC1C0
+t1242284235
+s836032
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004A0BC0C000000000000001D0
+t1242284224
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.h
+c000000004BA3FDD60000000000000B19
+t1269038550
+s2841
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m
+c000000004BA3FDD60000000000000BA4
+t1269038550
+s2980
+i"QuickContactsAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.h
+c000000004BA3FDD60000000000000C32
+t1269038550
+s3122
+i<UIKit/UIKit.h>
+i<AddressBook/AddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m
+c000000004BA3FDD600000000000030E0
+t1269038550
+s12512
+i"QuickContactsViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Default.png
+c000000004B5777690000000000004163
+t1264023401
+s16739
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib
+c000000004B4E52C200000000000034C7
+t1263424194
+s13511
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Menu.plist
+c000000004A382D730000000000000328
+t1245195635
+s808
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/QuickContacts_Prefix.pch
+c000000004A245DDA00000000000000C3
+t1243897306
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app
+t1272889345
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app.dSYM
+t1272889345
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Default.png
+t1272889343
+s16739
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/English.lproj/MainWindow.nib
+t1272889344
+s2544
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Info.plist
+t1272889343
+s615
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Menu.plist
+t1272889343
+s349
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/PkgInfo
+t1272889343
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts
+t1272889345
+s29276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContacts.LinkFileList
+c000000004BDEBFFF00000000000001FC
+t1272889343
+s508
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsAppDelegate.o
+t1272889344
+s39344
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsViewController.o
+t1272889344
+s58880
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/main.o
+t1272889344
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m
+c000000004BA3FDD60000000000000A7E
+t1269038550
+s2686
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch.gch
+t1272889344
+s12952976
+
+NQuickContacts-Info.plist
+c000000004A245DDA000000000000038D
+t1243897306
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294582143#294582143#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582144.881054
+e294582144.962993
+r1
+xCompileC
+xbuild/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m294582144#294582144#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m4300911832#2256"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsAppDelegate.o0#
+
+CCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582144.882401
+e294582145.018715
+r1
+xCompileC
+xbuild/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m294582144#294582145#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m4300911832#2262"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Classes/QuickContactsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContactsViewController.o0#
+
+CCompileC build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582144.879739
+e294582144.946807
+r1
+xCompileC
+xbuild/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m294582144#294582144#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m4300911832#2208"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib
+s294582143.804851
+e294582144.124501
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib
+lSLF07#2@39"CompileXIB English.lproj/MainWindow.xib294582143#294582144#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/English.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/English.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Menu.plist Menu.plist
+s294582143.806099
+e294582143.949777
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Menu.plist
+xMenu.plist
+lSLF07#2@15"Copy Menu.plist294582143#294582143#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Menu.plist4300911832#433"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Menu.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app0#
+
+CCpResource build/Debug-iphonesimulator/QuickContacts.app/Default.png Default.png
+s294582143.807014
+e294582143.871322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/QuickContacts.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294582143#294582143#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Default.png4300911832#524"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts
+s294582145.252268
+e294582145.472583
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/QuickContacts.app.dSYM build/Debug-iphonesimulator/QuickContacts.app/QuickContacts294582145#294582145#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts4300911832#464"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts normal i386
+s294582145.018810
+e294582145.252110
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts
+xnormal
+xi386
+lSLF07#2@124"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts294582145#294582145#0(0"0(0#0#0"4300911832#1045"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/Objects-normal/i386/QuickContacts.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/QuickContacts0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Info.plist QuickContacts-Info.plist
+s294582143.799254
+e294582143.804714
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Info.plist
+xQuickContacts-Info.plist
+lSLF07#2@32"Process QuickContacts-Info.plist294582143#294582143#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/QuickContacts-Info.plist4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QuickContacts-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch.gch QuickContacts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294582144.124631
+e294582144.879597
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch.gch
+xQuickContacts_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile QuickContacts_Prefix.pch294582144#294582144#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/QuickContacts_Prefix.pch4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/QuickContacts-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/QuickContacts.build/Debug-iphonesimulator/QuickContacts.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/QuickContacts_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/QuickContacts_Prefix-gswkgolighkgiqguilbkquzhxppj/QuickContacts_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app
+s294582145.472778
+e294582145.475720
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app
+lSLF07#2@111"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app294582145#294582145#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/QuickContacts/build/Debug-iphonesimulator/QuickContacts.app0#
+

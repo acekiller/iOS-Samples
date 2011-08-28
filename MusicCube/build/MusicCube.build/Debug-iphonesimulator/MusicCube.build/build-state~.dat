@@ -1,0 +1,484 @@
+TMusicCube
+v7
+r0
+t294586612.345593
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist MusicCube-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/sound.wav Resources/sound.wav
+cCpResource build/Debug-iphonesimulator/MusicCube.app/speaker.png Resources/speaker.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/nums.png Resources/nums.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/instr.png Resources/instr.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/info.png Resources/info.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/description.png Resources/description.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch.gch MusicCube_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A7650200000000000193960
+t1249267744
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76500B0000000000000A22
+t1249267723
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004A7656D300000000000064FD
+t1249269459
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004A7656D30000000000001F45
+t1249269459
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004A7656D5000000000001EEA0
+t1249269461
+s126624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A76554E000000000000094F
+t1249269070
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A76554E0000000000000A61
+t1249269070
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A76554E0000000000009369
+t1249269070
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A76554E0000000000002A42
+t1249269070
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A765556000000000001F8E0
+t1249269078
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7655B1000000000000007D
+t1249269169
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E5890
+t1249269258
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.h
+c000000004AB17DEC00000000000010F2
+t1253146092
+s4338
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"MusicCubePlayback.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m
+c000000004AB17DEC0000000000005D3C
+t1253146092
+s23868
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+i"teapot.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.h
+c000000004AB17DEC0000000000000B49
+t1253146092
+s2889
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m
+c000000004AB17DEC0000000000000C3C
+t1253146092
+s3132
+i"MusicCubeAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.h
+c000000004AB17DEC0000000000000D3D
+t1253146092
+s3389
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m
+c000000004AB17DEC00000000000021F1
+t1253146092
+s8689
+i"MusicCubePlayback.h"
+i"MyOpenALSupport.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MyOpenALSupport.h
+c000000004AB17DEC000000000000171A
+t1253146092
+s5914
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/teapot.h
+c000000004BA3F2B2000000000002D3A8
+t1269035698
+s185256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib
+c0000000049F73E490000000000002B94
+t1240940105
+s11156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MusicCube_Prefix.pch
+c000000004AB17DEC00000000000009E4
+t1253146092
+s2532
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/Icon.png
+c0000000049F73E490000000000001C63
+t1240940105
+s7267
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/description.png
+c000000004A09FD54000000000000589A
+t1242168660
+s22682
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/info.png
+c000000004A14904C0000000000001139
+t1242861644
+s4409
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/instr.png
+c0000000049F73E490000000000001103
+t1240940105
+s4355
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/nums.png
+c0000000049F73E490000000000001245
+t1240940105
+s4677
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/sound.wav
+c0000000049F73E49000000000006C89C
+t1240940105
+s444572
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/speaker.png
+c0000000049F73E490000000000001707
+t1240940105
+s5895
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+t1272893812
+s442
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM
+t1272893812
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon.png
+t1272893810
+s7267
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist
+t1272893810
+s696
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MainWindow.nib
+t1272893811
+s1285
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+t1272893812
+s86236
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/PkgInfo
+t1272893810
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/description.png
+t1272893810
+s22682
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/info.png
+t1272893810
+s4409
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/instr.png
+t1272893810
+s4355
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/nums.png
+t1272893810
+s4677
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/sound.wav
+t1272893810
+s444572
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/speaker.png
+t1272893810
+s5895
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o
+t1272893812
+s86928
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCube.LinkFileList
+c000000004BDED172000000000000025D
+t1272893810
+s605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o
+t1272893812
+s21824
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o
+t1272893812
+s29080
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o
+t1272893812
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m
+c000000004AB17DEC0000000000000A68
+t1253146092
+s2664
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch.gch
+t1272893811
+s13026768
+
+NMusicCube-Info.plist
+c000000004AC28C59000000000000040E
+t1254263897
+s1038
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294586610#294586610#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586611.930807
+e294586612.210292
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m294586611#294586612#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m4300911832#2100"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/EAGLView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586611.928585
+e294586612.070445
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m294586611#294586612#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m4300911832#2124"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubeAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586611.932522
+e294586612.111881
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m294586611#294586612#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m4300911832#2118"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Classes/MusicCubePlayback.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586611.880311
+e294586612.041998
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m294586611#294586612#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m4300911832#2084"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib
+s294586610.830281
+e294586611.093627
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294586610#294586611#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon.png Resources/Icon.png
+s294586610.831115
+e294586610.852404
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png294586610#294586610#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/Icon.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/description.png Resources/description.png
+s294586610.836611
+e294586610.861378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/description.png
+xResources/description.png
+lSLF07#2@30"Copy Resources/description.png294586610#294586610#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/description.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/description.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/info.png Resources/info.png
+s294586610.835656
+e294586610.856416
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/info.png
+xResources/info.png
+lSLF07#2@23"Copy Resources/info.png294586610#294586610#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/info.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/info.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/instr.png Resources/instr.png
+s294586610.834755
+e294586610.862563
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/instr.png
+xResources/instr.png
+lSLF07#2@24"Copy Resources/instr.png294586610#294586610#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/instr.png4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/instr.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/nums.png Resources/nums.png
+s294586610.833859
+e294586610.858742
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/nums.png
+xResources/nums.png
+lSLF07#2@23"Copy Resources/nums.png294586610#294586610#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/nums.png4300911832#515"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/nums.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/sound.wav Resources/sound.wav
+s294586610.831966
+e294586610.867356
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/sound.wav
+xResources/sound.wav
+lSLF07#2@24"Copy Resources/sound.wav294586610#294586610#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/sound.wav4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/sound.wav /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/speaker.png Resources/speaker.png
+s294586610.832861
+e294586610.857975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/speaker.png
+xResources/speaker.png
+lSLF07#2@26"Copy Resources/speaker.png294586610#294586610#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/speaker.png4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/Resources/speaker.png /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+s294586612.261421
+e294586612.339157
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/MusicCube.app.dSYM build/Debug-iphonesimulator/MusicCube.app/MusicCube294586612#294586612#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube normal i386
+s294586612.210419
+e294586612.261280
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube294586612#294586612#0(0"0(0#0#0"4300911832#1041"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCube.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework CoreGraphics -framework OpenAL -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist MusicCube-Info.plist
+s294586610.784783
+e294586610.830183
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist
+xMusicCube-Info.plist
+lSLF07#2@28"Process MusicCube-Info.plist294586610#294586610#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MusicCube-Info.plist4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MusicCube-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch.gch MusicCube_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586611.093774
+e294586611.880204
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch.gch
+xMusicCube_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MusicCube_Prefix.pch294586611#294586611#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MusicCube_Prefix.pch4300911832#1957"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/MusicCube_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MusicCube_Prefix-aulsjfscklvpybgyepnplgtdneun/MusicCube_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+s294586612.339434
+e294586612.345522
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app294586612#294586612#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'MoveMe' target in the 'MoveMe' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

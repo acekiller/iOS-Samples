@@ -1,0 +1,547 @@
+TInternationalMountains
+v7
+r0
+t294637933.792627
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Mountains.plist en.lproj/Mountains.plist
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Mountains.plist fr.lproj/Mountains.plist
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Mountains.plist zh.lproj/Mountains.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Localizable.strings zh.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/InfoPlist.strings fr.lproj/InfoPlist.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/InfoPlist.strings zh.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/InternationalMountains.app/Settings.bundle Settings.bundle
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch.gch InternationalMountains_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountainsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.h
+c000000004BA3F3EE0000000000000CD4
+t1269036014
+s3284
+i<UIKit/UIkit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m
+c000000004BA3F3EE0000000000001F00
+t1269036014
+s7936
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.h
+c000000004BA3F3EE0000000000000CB1
+t1269036014
+s3249
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m
+c000000004BA3F3EE0000000000001432
+t1269036014
+s5170
+i"InternationalMountainsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.h
+c000000004BA3F3EE0000000000000C48
+t1269036014
+s3144
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m
+c000000004BA3F3EE0000000000002203
+t1269036014
+s8707
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/InternationalMountains_Prefix.pch
+c0000000049FA56E30000000000000051
+t1241143011
+s81
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Settings.bundle
+c000000004BA3F3ED00000000000000CC
+t1269036013
+s204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app
+t1272945133
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app.dSYM
+t1272945133
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Info.plist
+t1272945132
+s597
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains
+t1272945133
+s27736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/PkgInfo
+t1272945132
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Settings.bundle
+t1272945132
+s204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/DetailViewController.nib
+t1272945132
+s1762
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/InfoPlist.strings
+t1272945132
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Localizable.strings
+t1272945132
+s300
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/MainWindow.nib
+t1272945132
+s2525
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Mountains.plist
+t1272945132
+s415
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/DetailViewController.nib
+t1272945132
+s1844
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/InfoPlist.strings
+t1272945132
+s78
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Localizable.strings
+t1272945132
+s426
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/MainWindow.nib
+t1272945132
+s2503
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Mountains.plist
+t1272945132
+s428
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/DetailViewController.nib
+t1272945132
+s1760
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/InfoPlist.strings
+t1272945132
+s71
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Localizable.strings
+t1272945132
+s282
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/MainWindow.nib
+t1272945132
+s2525
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Mountains.plist
+t1272945132
+s371
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/DetailViewController.o
+t1272945133
+s37208
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountains.LinkFileList
+c000000004BDF99EC0000000000000313
+t1272945132
+s787
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountainsAppDelegate.o
+t1272945133
+s44628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/RootViewController.o
+t1272945133
+s39904
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/main.o
+t1272945133
+s6004
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib
+c0000000049FA56E30000000000001EE0
+t1241143011
+s7904
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/InfoPlist.strings
+c0000000049FA56E300000000000000B0
+t1241143011
+s176
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/Localizable.strings
+c0000000049FA56E300000000000005A2
+t1241143011
+s1442
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib
+c0000000049FA56E300000000000035B6
+t1241143011
+s13750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/Mountains.plist
+c0000000049FA56E30000000000000691
+t1241143011
+s1681
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib
+c0000000049FA56E30000000000001F1F
+t1241143011
+s7967
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/InfoPlist.strings
+c0000000049FA56E3000000000000005A
+t1241143011
+s90
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/Localizable.strings
+c0000000049FA56E300000000000005C6
+t1241143011
+s1478
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib
+c0000000049FA56E300000000000035B6
+t1241143011
+s13750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/Mountains.plist
+c0000000049FA56E3000000000000069A
+t1241143011
+s1690
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m
+c000000004BA3F3EE0000000000000A7A
+t1269036014
+s2682
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib
+c0000000049FA56E30000000000001F00
+t1241143011
+s7936
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/InfoPlist.strings
+c0000000049FA56E30000000000000054
+t1241143011
+s84
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/Localizable.strings
+c0000000049FA56E3000000000000051C
+t1241143011
+s1308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib
+c0000000049FA56E300000000000035B6
+t1241143011
+s13750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/Mountains.plist
+c0000000049FA56E30000000000000662
+t1241143011
+s1634
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch.gch
+t1272945133
+s12952976
+
+NInfo.plist
+c0000000049FA56E3000000000000033F
+t1241143011
+s831
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294637932#294637932#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637933.650916
+e294637933.744715
+r1
+xCompileC
+xbuild/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m294637933#294637933#0(0"0(0#0#99"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m4300911832#2527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountainsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637933.648213
+e294637933.743462
+r1
+xCompileC
+xbuild/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountainsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m294637933#294637933#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m4300911832#2553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/InternationalMountainsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountainsAppDelegate.o0#
+
+CCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637933.649519
+e294637933.753100
+r1
+xCompileC
+xbuild/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m:131: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m294637933#294637933#0(476"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m:131: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)294637933#169#307#0(6@97"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m290728814#131#0#131#0#33"'*' is deprecated (declared at *)0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m4300911832#2523"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637933.647048
+e294637933.709428
+r1
+xCompileC
+xbuild/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m294637933#294637933#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m4300911832#2487"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib
+s294637932.269890
+e294637932.653176
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib294637932#294637932#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib4300911832#623"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/DetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib
+s294637932.162206
+e294637932.600092
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294637932#294637932#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib4300911832#603"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib
+s294637932.571611
+e294637932.960078
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB fr.lproj/DetailViewController.xib294637932#294637932#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib4300911832#623"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/DetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib
+s294637932.163296
+e294637932.571476
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB fr.lproj/MainWindow.xib294637932#294637932#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib4300911832#603"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib
+s294637932.600226
+e294637932.995607
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB zh.lproj/DetailViewController.xib294637932#294637932#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib4300911832#623"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/DetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib
+s294637932.164337
+e294637932.614632
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB zh.lproj/MainWindow.xib294637932#294637932#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib4300911832#603"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Mountains.plist en.lproj/Mountains.plist
+s294637932.165333
+e294637932.208933
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Mountains.plist
+xen.lproj/Mountains.plist
+lSLF07#2@29"Copy en.lproj/Mountains.plist294637932#294637932#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/Mountains.plist4300911832#483"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 en.lproj/Mountains.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Mountains.plist fr.lproj/Mountains.plist
+s294637932.209068
+e294637932.238820
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Mountains.plist
+xfr.lproj/Mountains.plist
+lSLF07#2@29"Copy fr.lproj/Mountains.plist294637932#294637932#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/Mountains.plist4300911832#483"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 fr.lproj/Mountains.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Mountains.plist zh.lproj/Mountains.plist
+s294637932.238960
+e294637932.269747
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Mountains.plist
+xzh.lproj/Mountains.plist
+lSLF07#2@29"Copy zh.lproj/Mountains.plist294637932#294637932#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/Mountains.plist4300911832#483"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 zh.lproj/Mountains.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s294637932.701807
+e294637932.753476
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings294637932#294637932#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/InfoPlist.strings4300911832#559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294637932.614771
+e294637932.659713
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294637932#294637932#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/en.lproj/Localizable.strings4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/en.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/InfoPlist.strings fr.lproj/InfoPlist.strings
+s294637932.705140
+e294637932.773095
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/InfoPlist.strings
+xfr.lproj/InfoPlist.strings
+lSLF07#2@31"Copy fr.lproj/InfoPlist.strings294637932#294637932#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/InfoPlist.strings4300911832#558"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/InfoPlist.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+s294637932.653434
+e294637932.701656
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings294637932#294637932#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/fr.lproj/Localizable.strings4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary fr.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/fr.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/InfoPlist.strings zh.lproj/InfoPlist.strings
+s294637932.753603
+e294637932.800581
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/InfoPlist.strings
+xzh.lproj/InfoPlist.strings
+lSLF07#2@31"Copy zh.lproj/InfoPlist.strings294637932#294637932#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/InfoPlist.strings4300911832#558"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary zh.lproj/InfoPlist.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Localizable.strings zh.lproj/Localizable.strings
+s294637932.659864
+e294637932.704996
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj/Localizable.strings
+xzh.lproj/Localizable.strings
+ozh.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy zh.lproj/Localizable.strings294637932#294637932#0(130"zh.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/zh.lproj/Localizable.strings4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary zh.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/zh.lproj0#
+
+CCpResource build/Debug-iphonesimulator/InternationalMountains.app/Settings.bundle Settings.bundle
+s294637932.773224
+e294637932.781677
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/InternationalMountains.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle294637932#294637932#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Settings.bundle4300911832#564"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Settings.bundle /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains
+s294637933.770406
+e294637933.788867
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains
+lSLF07#2@154"GenerateDSYMFile build/Debug-iphonesimulator/InternationalMountains.app.dSYM build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains294637933#294637933#0(0"0(0#0#146"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains normal i386
+s294637933.753256
+e294637933.770242
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains
+xnormal
+xi386
+lSLF07#2@151"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains294637933#294637933#0(0"0(0#0#0"4300911832#1063"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/Objects-normal/i386/InternationalMountains.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/InternationalMountains0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Info.plist Info.plist
+s294637932.153673
+e294637932.162076
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294637932#294637932#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/Info.plist4300911832#591"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch.gch InternationalMountains_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294637932.995755
+e294637933.646902
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch.gch
+xInternationalMountains_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile InternationalMountains_Prefix.pch294637932#294637933#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/InternationalMountains_Prefix.pch4300911832#2334"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/InternationalMountains-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/InternationalMountains.build/Debug-iphonesimulator/InternationalMountains.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/InternationalMountains_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InternationalMountains_Prefix-fnsvjldxkbnbffbmcfkneucjamsr/InternationalMountains_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app
+s294637933.789122
+e294637933.792587
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app
+lSLF07#2@129"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app294637933#294637933#0(0"0(0#0#0"4300911832#353"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/InternationalMountains/build/Debug-iphonesimulator/InternationalMountains.app0#
+

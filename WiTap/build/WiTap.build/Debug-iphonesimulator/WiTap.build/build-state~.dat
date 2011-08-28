@@ -1,0 +1,405 @@
+TWiTap
+v7
+r0
+t294634123.153859
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/WiTap.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/WiTap.app/bg.png bg.png
+cCpResource build/Debug-iphonesimulator/WiTap.app/Default.png Default.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/AppController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TCPServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TapView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/BrowserViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/Picker.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h
+c000000004A0BAA3600000000000060BB
+t1242278454
+s24763
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h
+c000000004A0BAB29000000000000445B
+t1242278697
+s17499
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004A0BA939000000000004D0D0
+t1242278201
+s315600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/unistd.h
+c000000004748A13300000000000053FF
+t1195942195
+s21503
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.h
+c000000004BA3DC540000000000000BB7
+t1269029972
+s2999
+i"TapView.h"
+i"BrowserViewController.h"
+i"Picker.h"
+i"TCPServer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m
+c000000004BA3DC54000000000000278E
+t1269029972
+s10126
+i"AppController.h"
+i"Picker.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Default.png
+c0000000048EBF0E20000000000003282
+t1223422178
+s12930
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.h
+c000000004BA3DC5400000000000010F8
+t1269029972
+s4344
+i<UIKit/UIKit.h>
+i<Foundation/NSNetServices.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m
+c000000004BA3DC540000000000003E00
+t1269029972
+s15872
+i"BrowserViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.h
+c000000004BA3DC540000000000000E2E
+t1269029972
+s3630
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m
+c000000004BA3DC5400000000000024D0
+t1269029972
+s9424
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i<CFNetwork/CFSocketStream.h>
+i"TCPServer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.h
+c000000004BA3DC540000000000000B7B
+t1269029972
+s2939
+i<UIKit/UIKit.h>
+i"BrowserViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m
+c000000004BA3DC540000000000001877
+t1269029972
+s6263
+i"Picker.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Prefix.pch
+c000000004A03577D0000000000000030
+t1241732989
+s48
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.h
+c000000004BA3DC540000000000000A6B
+t1269029972
+s2667
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m
+c000000004BA3DC540000000000000EC3
+t1269029972
+s3779
+i"AppController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/bg.png
+c0000000048EBF0E200000000000001BB
+t1223422178
+s443
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app
+t1272941323
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app.dSYM
+t1272941323
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Default.png
+t1272941322
+s12930
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Info.plist
+t1272941322
+s562
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/PkgInfo
+t1272941322
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap
+t1272941323
+s60480
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/bg.png
+t1272941322
+s443
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/icon.png
+t1272941322
+s3068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/AppController.o
+t1272941323
+s58896
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/BrowserViewController.o
+t1272941323
+s63240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/Picker.o
+t1272941323
+s44000
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TCPServer.o
+t1272941323
+s25520
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TapView.o
+t1272941322
+s37636
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/WiTap.LinkFileList
+c000000004BDF8B0A0000000000000336
+t1272941322
+s822
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/main.o
+t1272941322
+s6060
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/icon.png
+c0000000048EBF0E20000000000000BFC
+t1223422178
+s3068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m
+c000000004BA3DC540000000000000A9A
+t1269029972
+s2714
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch.gch
+t1272941322
+s12948848
+
+NInfo.plist
+c000000004A287F360000000000000315
+t1244167990
+s789
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294634122#294634122#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/AppController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.891765
+e294634123.039252
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/AppController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m294634122#294634123#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m4300911832#1931"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/AppController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/BrowserViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.967913
+e294634123.110823
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/BrowserViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m294634122#294634123#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m4300911832#1958"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/BrowserViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/BrowserViewController.o0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/Picker.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.995760
+e294634123.095793
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/Picker.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m294634122#294634123#0(0"0(0#0#60"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m4300911832#1917"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Picker.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/Picker.o0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TCPServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.892717
+e294634123.029255
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TCPServer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m294634122#294634123#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m4300911832#1934"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Networking/TCPServer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TCPServer.o0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TapView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.894034
+e294634122.995599
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TapView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m294634122#294634122#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m4300911832#1919"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/TapView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/TapView.o0#
+
+CCompileC build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.890739
+e294634122.967746
+r1
+xCompileC
+xbuild/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m294634122#294634122#0(0"0(0#0#58"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m4300911832#1913"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/WiTap.app/Default.png Default.png
+s294634122.271604
+e294634122.279716
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WiTap.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294634122#294634122#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Default.png4300911832#492"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app0#
+
+CCpResource build/Debug-iphonesimulator/WiTap.app/bg.png bg.png
+s294634122.270680
+e294634122.277486
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WiTap.app/bg.png
+xbg.png
+lSLF07#2@11"Copy bg.png294634122#294634122#0(0"0(0#0#58"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/bg.png4300911832#487"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/bg.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app0#
+
+CCpResource build/Debug-iphonesimulator/WiTap.app/icon.png icon.png
+s294634122.262832
+e294634122.276861
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WiTap.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png294634122#294634122#0(0"0(0#0#60"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/icon.png4300911832#489"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap
+s294634123.132633
+e294634123.150256
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/WiTap.app.dSYM build/Debug-iphonesimulator/WiTap.app/WiTap294634123#294634123#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap4300911832#416"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap normal i386
+s294634123.110939
+e294634123.132526
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap
+xnormal
+xi386
+lSLF07#2@100"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap294634123#294634123#0(0"0(0#0#0"4300911832#948"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/Objects-normal/i386/WiTap.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/WiTap0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Info.plist Info.plist
+s294634122.258547
+e294634122.262713
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294634122#294634122#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Info.plist4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634122.279897
+e294634122.890631
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294634122#294634122#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Prefix.pch4300911832#1788"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/WiTap-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/WiTap.build/Debug-iphonesimulator/WiTap.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-baduobtxzdecpheexsxtbqgjovli/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app
+s294634123.150374
+e294634123.153795
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app
+lSLF07#2@95"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app294634123#294634123#0(0"0(0#0#0"4300911832#302"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WiTap/build/Debug-iphonesimulator/WiTap.app0#
+

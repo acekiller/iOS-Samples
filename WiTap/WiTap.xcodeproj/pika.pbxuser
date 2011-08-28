@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	1BFA8F9A0DA6BA0400E6B5C8 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2287, 923}}";
+			sepNavSelRange = "{102, 923}";
+			sepNavVisRange = "{0, 1214}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WiTap */ = {
+		activeExec = 0;
+		executables = (
+			26379AB2118FC28800FC4178 /* WiTap */,
+		);
+	};
+	26379AB2118FC28800FC4178 /* WiTap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WiTap;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	26379AC7118FC28B00FC4178 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	26379AC8118FC28B00FC4178 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	26379AC9118FC30500FC4178 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1BFA8F9A0DA6BA0400E6B5C8 /* ReadMe.txt */;
+	};
+	26379ACA118FC30500FC4178 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1BFA8F9A0DA6BA0400E6B5C8 /* ReadMe.txt */;
+		name = "ReadMe.txt: 6";
+		rLen = 923;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 26379AB2118FC28800FC4178 /* WiTap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WiTap */;
+		codeSenseManager = 26379AC8118FC28B00FC4178 /* Code sense */;
+		executables = (
+			26379AB2118FC28800FC4178 /* WiTap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294634120;
+			PBXWorkspaceStateSaveDate = 294634120;
+		};
+		perUserProjectItems = {
+			26379AC9118FC30500FC4178 /* PBXBookmark */ = 26379AC9118FC30500FC4178 /* PBXBookmark */;
+			26379ACA118FC30500FC4178 /* PBXTextBookmark */ = 26379ACA118FC30500FC4178 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 26379AC7118FC28B00FC4178 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

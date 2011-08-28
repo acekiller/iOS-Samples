@@ -1,0 +1,412 @@
+TGLImageProcessing
+v7
+r0
+t294631443.171371
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Info.plist GLImageProcessing-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/GLImageProcessing.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/GLImageProcessing.app/Image.png Resources/Image.png
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Imaging.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Texture.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Debug.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/assert.h
+c000000004748A1310000000000000DCB
+t1195942193
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/time.h
+c00000000476344C00000000000001E18
+t1197688000
+s7704
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.h
+c000000004A5CC6520000000000000C7C
+t1247594066
+s3196
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m
+c000000004A456C0E00000000000016AB
+t1246063630
+s5803
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+i"Imaging.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.h
+c000000004A456C0E0000000000000B16
+t1246063630
+s2838
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m
+c000000004A456C0E00000000000021F5
+t1246063630
+s8693
+i"ViewController.h"
+i"EAGLView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c
+c000000004A5CC65200000000000021FB
+t1247594066
+s8699
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Debug.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.h
+c000000004A456C0E0000000000000D2B
+t1246063630
+s3371
+i<assert.h>
+i<stdio.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c
+c000000004A5F2F520000000000006E33
+t1247752018
+s28211
+i<sys/time.h>
+i<math.h>
+i<stdio.h>
+i<string.h>
+i"Texture.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.h
+c000000004A5CC6520000000000000C99
+t1247594066
+s3225
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Debug.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Icon.png
+c000000004A456C0E0000000000000D90
+t1246063630
+s3472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Image.png
+c000000004A456C0E000000000004E286
+t1246063630
+s320134
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib
+c000000004A456C0E00000000000041A5
+t1246063630
+s16805
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.h
+c000000004A5CC6520000000000000A53
+t1247594066
+s2643
+i"Imaging.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m
+c000000004A5F2F520000000000002475
+t1247752018
+s9333
+i<UIKit/UIKit.h>
+i"Texture.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app
+t1272938643
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app.dSYM
+t1272938643
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing
+t1272938643
+s54596
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Icon.png
+t1272938642
+s3472
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Image.png
+t1272938642
+s320134
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Info.plist
+t1272938642
+s697
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/MainWindow.nib
+t1272938642
+s2890
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/PkgInfo
+t1272938642
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Debug.o
+t1272938643
+s10420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/EAGLView.o
+t1272938643
+s23188
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/GLImageProcessing.LinkFileList
+c000000004BDF809200000000000003FF
+t1272938642
+s1023
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Imaging.o
+t1272938642
+s29612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Texture.o
+t1272938643
+s13040
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/ViewController.o
+t1272938643
+s44996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/main.o
+t1272938642
+s5992
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m
+c000000004A456C0E0000000000000A97
+t1246063630
+s2711
+i<UIKit/UIKit.h>
+
+NGLImageProcessing-Info.plist
+c000000004A456C0E00000000000003DD
+t1246063630
+s989
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294631442#294631442#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Debug.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c normal i386 c com.apple.compilers.gcc.4_2
+s294631442.993020
+e294631443.074303
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Debug.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c294631442#294631443#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c4300911832#2151"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Debug.c -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Debug.o0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631442.744550
+e294631443.062340
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/EAGLView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m294631442#294631443#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m4300911832#2175"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/EAGLView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Imaging.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c normal i386 c com.apple.compilers.gcc.4_2
+s294631442.746982
+e294631442.904321
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Imaging.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c294631442#294631442#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c4300911832#2155"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Imaging.c -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Imaging.o0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Texture.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631442.904523
+e294631443.133269
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Texture.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m294631442#294631443#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m4300911832#2165"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Texture.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/Texture.o0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631442.745700
+e294631443.070089
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/ViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m294631442#294631443#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m4300911832#2187"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Classes/ViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/ViewController.o0#
+
+CCompileC build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631442.743439
+e294631442.992866
+r1
+xCompileC
+xbuild/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m294631442#294631442#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m4300911832#2159"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DASSERT -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/GLImageProcessing-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib
+s294631442.458329
+e294631442.743314
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294631442#294631442#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GLImageProcessing.app/Icon.png Resources/Icon.png
+s294631442.459031
+e294631442.465358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLImageProcessing.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png294631442#294631442#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Icon.png4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app0#
+
+CCpResource build/Debug-iphonesimulator/GLImageProcessing.app/Image.png Resources/Image.png
+s294631442.459628
+e294631442.465694
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLImageProcessing.app/Image.png
+xResources/Image.png
+lSLF07#2@24"Copy Resources/Image.png294631442#294631442#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Image.png4300911832#548"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/Resources/Image.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing
+s294631443.154707
+e294631443.168573
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/GLImageProcessing.app.dSYM build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing294631443#294631443#0(0"0(0#0#131"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing4300911832#488"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing normal i386
+s294631443.133380
+e294631443.154595
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing
+xnormal
+xi386
+lSLF07#2@136"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing294631443#294631443#0(0"0(0#0#0"4300911832#1079"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/GLImageProcessing.build/Debug-iphonesimulator/GLImageProcessing.build/Objects-normal/i386/GLImageProcessing.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/GLImageProcessing0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Info.plist GLImageProcessing-Info.plist
+s294631442.454485
+e294631442.458248
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Info.plist
+xGLImageProcessing-Info.plist
+lSLF07#2@36"Process GLImageProcessing-Info.plist294631442#294631442#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/GLImageProcessing-Info.plist4300911832#584"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GLImageProcessing-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app/Info.plist0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app
+s294631443.168670
+e294631443.171321
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app
+lSLF07#2@119"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app294631443#294631443#0(0"0(0#0#0"4300911832#338"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLImageProcessing/build/Debug-iphonesimulator/GLImageProcessing.app0#
+

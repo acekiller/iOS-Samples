@@ -1,0 +1,304 @@
+TAlternateViews
+v7
+r0
+t294638210.512231
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/LandscapeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/PortraitViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.h
+c000000004BA3F3E20000000000000AF1
+t1269036002
+s2801
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m
+c000000004BA3F3E20000000000000B8A
+t1269036002
+s2954
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.h
+c000000004BA3F3E20000000000000A5B
+t1269036002
+s2651
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m
+c000000004BA3F3E20000000000000F0D
+t1269036002
+s3853
+i"LandscapeViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.h
+c000000004BA3F3E20000000000000AF6
+t1269036002
+s2806
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m
+c000000004BA3F3E2000000000000120C
+t1269036002
+s4620
+i"PortraitViewController.h"
+i"LandscapeViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/Prefix.pch
+c0000000049FA56910000000000000059
+t1241142929
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AlternateViews.LinkFileList
+c000000004BDF9B0100000000000002A4
+t1272945409
+s676
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AppDelegate.o
+t1272945410
+s39268
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/LandscapeViewController.o
+t1272945410
+s33812
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/PortraitViewController.o
+t1272945410
+s36416
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/main.o
+t1272945410
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app
+t1272945410
+s204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app.dSYM
+t1272945410
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews
+t1272945410
+s21676
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/Info.plist
+t1272945409
+s683
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/PkgInfo
+t1272945409
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/LandscapeView.nib
+t1272945409
+s1649
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/MainWindow.nib
+t1272945409
+s2037
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/PortraitView.nib
+t1272945409
+s1630
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib
+c0000000049FA5691000000000000201B
+t1241142929
+s8219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib
+c0000000049FA56910000000000002C07
+t1241142929
+s11271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib
+c0000000049FA56910000000000001E29
+t1241142929
+s7721
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m
+c000000004BA3F3E20000000000000A84
+t1269036002
+s2692
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch.gch
+t1272945410
+s12952976
+
+NInfo.plist
+c0000000049FA569100000000000003DA
+t1241142929
+s986
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294638209#294638209#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638210.347371
+e294638210.429791
+r1
+xCompileC
+xbuild/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m294638210#294638210#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m4300911832#2223"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/LandscapeViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638210.348411
+e294638210.429428
+r1
+xCompileC
+xbuild/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/LandscapeViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m294638210#294638210#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m4300911832#2247"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/LandscapeViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/LandscapeViewController.o0#
+
+CCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/PortraitViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638210.349631
+e294638210.436970
+r1
+xCompileC
+xbuild/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/PortraitViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m294638210#294638210#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m4300911832#2245"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/PortraitViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/PortraitViewController.o0#
+
+CCompileC build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638210.346167
+e294638210.419440
+r1
+xCompileC
+xbuild/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m294638210#294638210#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m4300911832#2209"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib
+s294638209.345094
+e294638209.679051
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib
+lSLF07#2@37"CompileXIB en.lproj/LandscapeView.xib294638209#294638209#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/LandscapeView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/LandscapeView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib
+s294638209.342845
+e294638209.701283
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294638209#294638209#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib
+s294638209.344166
+e294638209.692454
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib
+lSLF07#2@36"CompileXIB en.lproj/PortraitView.xib294638209#294638209#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/en.lproj/PortraitView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/en.lproj/PortraitView.xib0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews
+s294638210.491879
+e294638210.509410
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/AlternateViews.app.dSYM build/Debug-iphonesimulator/AlternateViews.app/AlternateViews294638210#294638210#0(0"0(0#0#122"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews4300911832#470"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews normal i386
+s294638210.437107
+e294638210.491743
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews
+xnormal
+xi386
+lSLF07#2@127"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews294638210#294638210#0(0"0(0#0#0"4300911832#1007"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/Objects-normal/i386/AlternateViews.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/AlternateViews0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/Info.plist Info.plist
+s294638209.332093
+e294638209.342427
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294638209#294638209#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/Info.plist4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638209.701425
+e294638210.346024
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294638209#294638210#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/Prefix.pch4300911832#2057"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/AlternateViews-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/AlternateViews.build/Debug-iphonesimulator/AlternateViews.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-diidbdlxrupwpabfkqaydvutctdh/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app
+s294638210.509504
+e294638210.512186
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app
+lSLF07#2@113"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app294638210#294638210#0(0"0(0#0#0"4300911832#329"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AlternateViews/build/Debug-iphonesimulator/AlternateViews.app0#
+

@@ -1,0 +1,458 @@
+TGKRocket
+v7
+r0
+t294573193.982641
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/Info.plist GKRocket-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib
+cCpResource build/Debug-iphonesimulator/GKRocket.app/bluerocket.png bluerocket.png
+cCpResource build/Debug-iphonesimulator/GKRocket.app/redrocket.png redrocket.png
+cCpResource build/Debug-iphonesimulator/GKRocket.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch.gch GKRocket_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocketAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GameLobbyController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/SessionManager.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A76555800000000002E0B30
+t1249269080
+s3017520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004A76671C000000000011E6C0
+t1249273628
+s1173184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76500B0000000000000A22
+t1249267723
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKVoiceChatService.h
+c000000004A766B7A0000000000002509
+t1249274746
+s9481
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004A766B7A0000000000000112
+t1249274746
+s274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/Availability.h
+c000000004A7653D100000000000019F9
+t1249268689
+s6649
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.h
+c000000004B9FD2B30000000000000AC9
+t1268765363
+s2761
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m
+c000000004B9FD2B30000000000000C12
+t1268765363
+s3090
+i"GKRocketAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.h
+c000000004B9FD2B30000000000000C1E
+t1268765363
+s3102
+i<UIKit/UIKit.h>
+i"SessionManager.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m
+c000000004B9FD2B30000000000001B74
+t1268765363
+s7028
+i"GameLobbyController.h"
+i"RocketController.h"
+i<GameKit/GameKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib
+c000000004B1409E6000000000000428F
+t1259604454
+s17039
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.h
+c000000004B9FD2B30000000000001132
+t1268765363
+s4402
+i<UIKit/UIKit.h>
+i"SessionManager.h"
+i"RocketView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m
+c000000004B9FD2B300000000000045EF
+t1268765363
+s17903
+i"RocketController.h"
+i<GameKit/GKVoiceChatService.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib
+c000000004AD7BD1B00000000000C650E
+t1255652635
+s812302
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.h
+c000000004B9FD2B30000000000000B87
+t1268765363
+s2951
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m
+c000000004B9FD2B30000000000001545
+t1268765363
+s5445
+i"RocketView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.h
+c000000004B9FD2B30000000000001242
+t1268765363
+s4674
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m
+c000000004B9FD2B3000000000000424E
+t1268765363
+s16974
+i<AudioToolbox/AudioToolbox.h>
+i"SessionManager.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/GKRocket_Prefix.pch
+c000000004ADFA9620000000000000142
+t1256171874
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib
+c000000004B1409E60000000000005B59
+t1259604454
+s23385
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/ReadMe.txt
+c000000004B9FD2B30000000000000937
+t1268765363
+s2359
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/bluerocket.png
+c000000004AD7BD1B00000000000004C0
+t1255652635
+s1216
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app
+t1272880393
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app.dSYM
+t1272880393
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket
+t1272880393
+s64436
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GameLobbyController.nib
+t1272880390
+s941
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/Info.plist
+t1272880389
+s623
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/MainWindow.nib
+t1272880390
+s1512
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/PkgInfo
+t1272880389
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/ReadMe.txt
+t1272880389
+s2359
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/RocketController.nib
+t1272880391
+s2151
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/bluerocket.png
+t1272880389
+s1216
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/redrocket.png
+t1272880389
+s1189
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocket.LinkFileList
+c000000004BDE9D040000000000000382
+t1272880388
+s898
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocketAppDelegate.o
+t1272880393
+s39880
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GameLobbyController.o
+t1272880393
+s53048
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketController.o
+t1272880393
+s64872
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketView.o
+t1272880393
+s17736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/SessionManager.o
+t1272880393
+s39036
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/main.o
+t1272880393
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m
+c000000004B9FD2B30000000000000A5D
+t1268765363
+s2653
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/redrocket.png
+c000000004AD7BD1B00000000000004A5
+t1255652635
+s1189
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch.gch
+t1272880392
+s13026768
+
+NGKRocket-Info.plist
+c000000004ADF845700000000000003B5
+t1256162391
+s949
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294573188#294573189#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocketAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573192.849032
+e294573193.117597
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocketAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m294573192#294573193#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m4300911832#2099"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GKRocketAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocketAppDelegate.o0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GameLobbyController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573192.850038
+e294573193.184077
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GameLobbyController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m294573192#294573193#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m4300911832#2099"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GameLobbyController.o0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573192.851908
+e294573193.309418
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m294573192#294573193#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m4300911832#2093"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketController.o0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573193.117756
+e294573193.217738
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m294573193#294573193#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m4300911832#2081"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/RocketView.o0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/SessionManager.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573193.084925
+e294573193.376866
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/SessionManager.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m294573193#294573193#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/SessionManager.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/SessionManager.o0#
+
+CCompileC build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573192.847992
+e294573193.084762
+r1
+xCompileC
+xbuild/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m294573192#294573193#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m4300911832#2061"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib
+s294573189.406890
+e294573191.103412
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib
+lSLF07#2@42"CompileXIB Classes/GameLobbyController.xib294573189#294573191#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib4300911832#555"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GameLobbyController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/GameLobbyController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib
+s294573189.410948
+e294573191.204964
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib
+lSLF07#2@39"CompileXIB Classes/RocketController.xib294573189#294573191#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/RocketController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/Classes/RocketController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib
+s294573189.375975
+e294573191.116215
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294573189#294573191#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GKRocket.app/ReadMe.txt ReadMe.txt
+s294573189.413799
+e294573189.567685
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKRocket.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294573189#294573189#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/ReadMe.txt4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app0#
+
+CCpResource build/Debug-iphonesimulator/GKRocket.app/bluerocket.png bluerocket.png
+s294573189.411894
+e294573189.567099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKRocket.app/bluerocket.png
+xbluerocket.png
+lSLF07#2@19"Copy bluerocket.png294573189#294573189#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/bluerocket.png4300911832#507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/bluerocket.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app0#
+
+CCpResource build/Debug-iphonesimulator/GKRocket.app/redrocket.png redrocket.png
+s294573189.412941
+e294573189.567389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GKRocket.app/redrocket.png
+xredrocket.png
+lSLF07#2@18"Copy redrocket.png294573189#294573189#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/redrocket.png4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/redrocket.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket
+s294573193.907067
+e294573193.949358
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/GKRocket.app.dSYM build/Debug-iphonesimulator/GKRocket.app/GKRocket294573193#294573193#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket normal i386
+s294573193.376959
+e294573193.906970
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket294573193#294573193#0(0"0(0#0#0"4300911832#990"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/Objects-normal/i386/GKRocket.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/GKRocket0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/Info.plist GKRocket-Info.plist
+s294573189.142651
+e294573189.375829
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/Info.plist
+xGKRocket-Info.plist
+lSLF07#2@27"Process GKRocket-Info.plist294573189#294573189#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/GKRocket-Info.plist32651531097145444#530"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GKRocket-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch.gch GKRocket_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573191.205094
+e294573192.847832
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch.gch
+xGKRocket_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile GKRocket_Prefix.pch294573191#294573192#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/GKRocket_Prefix.pch4300911832#1936"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/GKRocket-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/GKRocket.build/Debug-iphonesimulator/GKRocket.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/GKRocket_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GKRocket_Prefix-camiygduhnwqtpdxaojuvnemdkno/GKRocket_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app
+s294573193.949451
+e294573193.982582
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app294573193#294573193#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GKRocket/build/Debug-iphonesimulator/GKRocket.app0#
+

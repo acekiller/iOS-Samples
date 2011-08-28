@@ -1,0 +1,475 @@
+TAddMusic
+v7
+r0
+t294589931.702137
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Info.plist AddMusic-Info.plist
+cCpResource build/Debug-iphonesimulator/AddMusic.app/no_artwork.png Resources/no_artwork.png
+cCpResource build/Debug-iphonesimulator/AddMusic.app/background.png Resources/background.png
+cCpResource build/Debug-iphonesimulator/AddMusic.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/AddMusic.app/sound.caf Resources/sound.caf
+cCpResource build/Debug-iphonesimulator/AddMusic.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AddMusic.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib
+cCpResource build/Debug-iphonesimulator/AddMusic.app/Settings.bundle Resources/Settings.bundle
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch.gch AddMusic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusicAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MusicTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/AddMusic_Prefix.pch
+c000000004AB7CA1B00000000000000B9
+t1253558811
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.h
+c000000004BA3F4170000000000000ADF
+t1269036055
+s2783
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m
+c000000004BA3F4170000000000000AF8
+t1269036055
+s2808
+i"AddMusicAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.h
+c000000004BA3F417000000000000128B
+t1269036055
+s4747
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"MusicTableViewController.h"
+i"AddMusicAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m
+c000000004BA3F41700000000000067FE
+t1269036055
+s26622
+i"MainViewController.h"
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.h
+c000000004BA3F4170000000000000D76
+t1269036055
+s3446
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m
+c000000004BA3F4170000000000001ABC
+t1269036055
+s6844
+i"MusicTableViewController.h"
+i"MainViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/ReadMe.txt
+c000000004AB7CA1B0000000000001187
+t1253558811
+s4487
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Default.png
+c000000004AB7CA1B0000000000023939
+t1253558811
+s145721
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Settings.bundle
+c000000004BA3F4160000000000000088
+t1269036054
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/background.png
+c000000004AB7CA1B0000000000030840
+t1253558811
+s198720
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/Localizable.strings
+c000000004AB7CA1B0000000000000D82
+t1253558811
+s3458
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib
+c000000004AB7CA1B0000000000004ABF
+t1253558811
+s19135
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib
+c000000004AB7CA1B0000000000002775
+t1253558811
+s10101
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib
+c000000004AB7CA1B00000000000033EB
+t1253558811
+s13291
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/no_artwork.png
+c000000004AB7CA1B0000000000001358
+t1253558811
+s4952
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/sound.caf
+c000000004AB7CA1B000000000001269C
+t1253558811
+s75420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusic.LinkFileList
+c000000004BDEDE680000000000000261
+t1272897128
+s609
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusicAppDelegate.o
+t1272897131
+s39068
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MainViewController.o
+t1272897131
+s88260
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MusicTableViewController.o
+t1272897131
+s50456
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/main.o
+t1272897131
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app
+t1272897131
+s408
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app.dSYM
+t1272897131
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic
+t1272897131
+s49212
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Default.png
+t1272897128
+s145721
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Info.plist
+t1272897128
+s650
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/PkgInfo
+t1272897128
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/ReadMe.txt
+t1272897128
+s4487
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Settings.bundle
+t1272897128
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/background.png
+t1272897128
+s198720
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/Localizable.strings
+t1272897128
+s3458
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MainView.nib
+t1272897129
+s4680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MainWindow.nib
+t1272897129
+s1495
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MusicTableView.nib
+t1272897129
+s2354
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/no_artwork.png
+t1272897128
+s4952
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/sound.caf
+t1272897128
+s75420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m
+c000000004BA3F4170000000000000A4B
+t1269036055
+s2635
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch.gch
+t1272897131
+s12952976
+
+NAddMusic-Info.plist
+c000000004AB7CA1B00000000000003D1
+t1253558811
+s977
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294589928#294589928#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusicAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589931.312043
+e294589931.427911
+r1
+xCompileC
+xbuild/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusicAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m294589931#294589931#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m4300911832#2091"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/AddMusicAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusicAppDelegate.o0#
+
+CCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MainViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589931.314545
+e294589931.536966
+r1
+xCompileC
+xbuild/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MainViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m:475:2: warning: #warning *** Simulator mode: iPod library access works only when running on a device.
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m294589931#294589931#0(186"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m:475:2: warning: #warning *** Simulator mode: iPod library access works only when running on a device.1(22@85"#warning *** Simulator mode: iPod library access works only when running on a device.294589931#0#186#0(6@83"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m290728855#475#0#475#0#10"#warning *0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m4300911832#2089"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MainViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MusicTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589931.313008
+e294589931.473332
+r1
+xCompileC
+xbuild/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MusicTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m294589931#294589931#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m4300911832#2101"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Classes/MusicTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/MusicTableViewController.o0#
+
+CCompileC build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589931.310997
+e294589931.376728
+r1
+xCompileC
+xbuild/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m294589931#294589931#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m4300911832#2053"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib
+s294589928.825424
+e294589930.121813
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib
+lSLF07#2@42"CompileXIB Resources/en.lproj/MainView.xib294589928#294589930#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib4300911832#553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MainView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib
+s294589928.857376
+e294589929.942894
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib
+lSLF07#2@44"CompileXIB Resources/en.lproj/MainWindow.xib294589928#294589929#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib
+s294589928.859364
+e294589929.943207
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib
+lSLF07#2@48"CompileXIB Resources/en.lproj/MusicTableView.xib294589928#294589929#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj/MusicTableView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/MusicTableView.xib0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/Default.png Resources/Default.png
+s294589928.821012
+e294589928.857055
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png294589928#294589928#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Default.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/ReadMe.txt ReadMe.txt
+s294589928.822872
+e294589928.860425
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294589928#294589928#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/ReadMe.txt4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/Settings.bundle Resources/Settings.bundle
+s294589928.866006
+e294589928.875311
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/Settings.bundle
+xResources/Settings.bundle
+lSLF07#2@30"Copy Resources/Settings.bundle294589928#294589928#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Settings.bundle4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/Settings.bundle /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/background.png Resources/background.png
+s294589928.820122
+e294589928.855000
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/background.png
+xResources/background.png
+lSLF07#2@29"Copy Resources/background.png294589928#294589928#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/background.png4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/background.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
+s294589928.858444
+e294589928.865741
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/en.lproj/Localizable.strings
+xResources/en.lproj/Localizable.strings
+lSLF07#2@43"Copy Resources/en.lproj/Localizable.strings294589928#294589928#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/Localizable.strings4300911832#540"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/en.lproj/Localizable.strings /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/no_artwork.png Resources/no_artwork.png
+s294589928.819143
+e294589928.855243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/no_artwork.png
+xResources/no_artwork.png
+lSLF07#2@29"Copy Resources/no_artwork.png294589928#294589928#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/no_artwork.png4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/no_artwork.png /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CCpResource build/Debug-iphonesimulator/AddMusic.app/sound.caf Resources/sound.caf
+s294589928.821905
+e294589928.857260
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AddMusic.app/sound.caf
+xResources/sound.caf
+lSLF07#2@24"Copy Resources/sound.caf294589928#294589928#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/sound.caf4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/Resources/sound.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic
+s294589931.652554
+e294589931.698889
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/AddMusic.app.dSYM build/Debug-iphonesimulator/AddMusic.app/AddMusic294589931#294589931#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic normal i386
+s294589931.537065
+e294589931.652444
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic294589931#294589931#0(0"0(0#0#0"4300911832#1018"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/Objects-normal/i386/AddMusic.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -framework AudioToolbox -framework AVFoundation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/AddMusic0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Info.plist AddMusic-Info.plist
+s294589928.815710
+e294589928.819021
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Info.plist
+xAddMusic-Info.plist
+lSLF07#2@27"Process AddMusic-Info.plist294589928#294589928#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/AddMusic-Info.plist4300911832#530"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AddMusic-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch.gch AddMusic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294589930.121967
+e294589931.310771
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch.gch
+xAddMusic_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile AddMusic_Prefix.pch294589930#294589931#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/AddMusic_Prefix.pch4300911832#1928"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/AddMusic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/AddMusic.build/Debug-iphonesimulator/AddMusic.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/AddMusic_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddMusic_Prefix-dyxslxelupaeesdbpqrvzybqhhnc/AddMusic_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app
+s294589931.698986
+e294589931.702097
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app294589931#294589931#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/AddMusic/build/Debug-iphonesimulator/AddMusic.app0#
+

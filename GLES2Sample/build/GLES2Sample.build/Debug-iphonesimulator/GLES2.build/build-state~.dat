@@ -1,0 +1,490 @@
+TGLES2
+v7
+r0
+t294629710.687055
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/Info.plist GLES2Sample-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/GLES2Sample.app/template.fsh Resources/Shaders/template.fsh
+cCpResource build/Debug-iphonesimulator/GLES2Sample.app/template.vsh Resources/Shaders/template.vsh
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch.gch GLES2Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch.gch GLES2Sample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2SampleAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES1Renderer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES2Renderer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/Shaders.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/matrix.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004A0BAD6700000000000082AD
+t1242279271
+s33453
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004A0BAD6700000000000014E5
+t1242279271
+s5349
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.h
+c000000004A81CDFF0000000000000E52
+t1250020863
+s3666
+i<UIKit/UIKit.h>
+i"ESRenderer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m
+c000000004A81CDFF000000000000184A
+t1250020863
+s6218
+i"EAGLView.h"
+i"ES1Renderer.h"
+i"ES2Renderer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.h
+c000000004A6E34550000000000000BAD
+t1248736341
+s2989
+i"ESRenderer.h"
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m
+c000000004A6E34550000000000001647
+t1248736341
+s5703
+i"ES1Renderer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.h
+c000000004A6E34550000000000000BF3
+t1248736341
+s3059
+i"ESRenderer.h"
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m
+c000000004A6E345500000000000020A0
+t1248736341
+s8352
+i"ES2Renderer.h"
+i"Shaders.h"
+i"matrix.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ESRenderer.h
+c000000004A6E34550000000000000AA1
+t1248736341
+s2721
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.h
+c000000004A6E34550000000000000AD2
+t1248736341
+s2770
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m
+c000000004A81CDFF0000000000000C16
+t1250020863
+s3094
+i"GLES2SampleAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.h
+c000000004A6E34550000000000000B56
+t1248736341
+s2902
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m
+c000000004A6E34550000000000001435
+t1248736341
+s5173
+i"Shaders.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c
+c000000004A6E34550000000000001C2F
+t1248736341
+s7215
+i<string.h>
+i<math.h>
+i"matrix.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.h
+c000000004A6E34550000000000000C0C
+t1248736341
+s3084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample_Prefix.pch
+c000000004A6E345500000000000000B7
+t1248736341
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib
+c000000004A6E345500000000000025B6
+t1248736341
+s9654
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.fsh
+c000000004A6E345500000000000000A7
+t1248736341
+s167
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.vsh
+c000000004A6E345500000000000000D1
+t1248736341
+s209
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app
+t1272936910
+s272
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app.dSYM
+t1272936910
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample
+t1272936910
+s41040
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/Info.plist
+t1272936909
+s607
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/MainWindow.nib
+t1272936909
+s1548
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/PkgInfo
+t1272936909
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/template.fsh
+t1272936909
+s167
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/template.vsh
+t1272936909
+s209
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/EAGLView.o
+t1272936910
+s19340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES1Renderer.o
+t1272936910
+s14840
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES2Renderer.o
+t1272936910
+s17924
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2Sample.LinkFileList
+c000000004BDF79CD0000000000000412
+t1272936909
+s1042
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2SampleAppDelegate.o
+t1272936910
+s20192
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/Shaders.o
+t1272936910
+s9428
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/main.o
+t1272936910
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/matrix.o
+t1272936910
+s11124
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m
+c000000004BA402230000000000000AB2
+t1269039651
+s2738
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch.gch
+t1272936910
+s12952976
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch.gch
+t1272936909
+s2138480
+
+NGLES2Sample-Info.plist
+c000000004A6E3455000000000000038D
+t1248736341
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629709#294629709#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.364152
+e294629710.531173
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/EAGLView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m: In function '-[EAGLView startAnimation]':
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: no '+displayLinkWithTarget:selector:' method found
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: (Messages without a matching method signature
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: will be assumed to return 'id' and accept
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: '...' as arguments.)
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:156: warning: no '-setFrameInterval:' method found
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:157: warning: no '-addToRunLoop:forMode:' method found
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m294629710#294629710#0(904"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m: In function '-[EAGLView startAnimation]':/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: no '+displayLinkWithTarget:selector:' method found/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: (Messages without a matching method signature/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: will be assumed to return 'id' and accept/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:155: warning: '...' as arguments.)/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:156: warning: no '-setFrameInterval:' method found/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m:157: warning: no '-addToRunLoop:forMode:' method found4(22@50"No '+displayLinkWithTarget:selector:' method found294629710#120#142#0(6@76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m271713663#155#0#155#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)294629710#262#137#0(6@76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m271713663#155#0#155#0#0"0(22@36"No '-setFrameInterval:' method found294629710#644#128#0(6@76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m271713663#156#0#156#0#19"no '*' method found0(22@40"No '-addToRunLoop:forMode:' method found294629710#772#132#0(6@76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m271713663#157#0#157#0#19"no '*' method found0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m4300911832#2120"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/EAGLView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES1Renderer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.366889
+e294629710.505376
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES1Renderer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m294629710#294629710#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m4300911832#2126"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES1Renderer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES1Renderer.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES2Renderer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.463856
+e294629710.575932
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES2Renderer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m294629710#294629710#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m4300911832#2126"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/ES2Renderer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/ES2Renderer.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2SampleAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.362421
+e294629710.477456
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2SampleAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m294629710#294629710#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m4300911832#2148"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/GLES2SampleAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2SampleAppDelegate.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/Shaders.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.477610
+e294629710.555929
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/Shaders.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m294629710#294629710#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m4300911832#2118"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/Shaders.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/Shaders.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629710.361157
+e294629710.463699
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m294629710#294629710#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m4300911832#2104"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/matrix.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c normal i386 c com.apple.compilers.gcc.4_2
+s294629710.505537
+e294629710.617754
+r1
+xCompileC
+xbuild/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/matrix.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c294629710#294629710#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c4300911832#2106"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Classes/matrix.c -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/matrix.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib
+s294629709.283619
+e294629709.559968
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294629709#294629709#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GLES2Sample.app/template.fsh Resources/Shaders/template.fsh
+s294629709.284669
+e294629709.303798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLES2Sample.app/template.fsh
+xResources/Shaders/template.fsh
+lSLF07#2@35"Copy Resources/Shaders/template.fsh294629709#294629709#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.fsh4300911832#535"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.fsh /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app0#
+
+CCpResource build/Debug-iphonesimulator/GLES2Sample.app/template.vsh Resources/Shaders/template.vsh
+s294629709.285619
+e294629709.299444
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLES2Sample.app/template.vsh
+xResources/Shaders/template.vsh
+lSLF07#2@35"Copy Resources/Shaders/template.vsh294629709#294629709#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.vsh4300911832#535"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/Resources/Shaders/template.vsh /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample
+s294629710.660979
+e294629710.673670
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/GLES2Sample.app.dSYM build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample294629710#294629710#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample4300911832#452"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample normal i386
+s294629710.617846
+e294629710.660764
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample294629710#294629710#0(0"0(0#0#0"4300911832#989"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/Objects-normal/i386/GLES2Sample.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/GLES2Sample0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/Info.plist GLES2Sample-Info.plist
+s294629709.267839
+e294629709.283478
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/Info.plist
+xGLES2Sample-Info.plist
+lSLF07#2@30"Process GLES2Sample-Info.plist294629709#294629709#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample-Info.plist4300911832#548"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GLES2Sample-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch.gch GLES2Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294629709.560143
+e294629710.361018
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch.gch
+xGLES2Sample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile GLES2Sample_Prefix.pch294629709#294629710#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample_Prefix.pch4300911832#1979"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-azyrtivxxqpoauhbvfbpbklnsyxi/GLES2Sample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch.gch GLES2Sample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s294629709.561381
+e294629709.690471
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch.gch
+xGLES2Sample_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile GLES2Sample_Prefix.pch294629709#294629709#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample_Prefix.pch4300911832#1969"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/GLES2Sample-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/GLES2Sample.build/Debug-iphonesimulator/GLES2.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/GLES2Sample_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLES2Sample_Prefix-cpfltlkvkmmlhibkmnfudvwadpry/GLES2Sample_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app
+s294629710.673770
+e294629710.686956
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app
+lSLF07#2@107"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app294629710#294629710#0(0"0(0#0#0"4300911832#320"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLES2Sample/build/Debug-iphonesimulator/GLES2Sample.app0#
+

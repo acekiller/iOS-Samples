@@ -1,0 +1,510 @@
+TTaggedLocations
+v7
+r0
+t294631036.373656
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/TaggedLocations.app/ReadMe.txt ReadMe.txt
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch.gch TaggedLocations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocationsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Event.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TagSelectionController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EditableTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EventTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Tag.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000181680
+t1242278878
+s1578624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B00000000000423F0
+t1242354571
+s271344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.h
+c000000004BA3FC5D0000000000000ABE
+t1269038173
+s2750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m
+c000000004BA3FC5D0000000000000B9C
+t1269038173
+s2972
+i"EditableTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.h
+c000000004BA3FC5D0000000000000C28
+t1269038173
+s3112
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m
+c000000004BA3FC5D0000000000000AE1
+t1269038173
+s2785
+i"Event.h"
+i"Tag.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.h
+c000000004BA3FC5D0000000000000C7A
+t1269038173
+s3194
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m
+c000000004BA3FC5D0000000000000F5A
+t1269038173
+s3930
+i"EventTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.h
+c000000004BA3FC5D0000000000000DC9
+t1269038173
+s3529
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m
+c000000004BA3FC5D0000000000003554
+t1269038173
+s13652
+i"RootViewController.h"
+i"TaggedLocationsAppDelegate.h"
+i"Event.h"
+i"Tag.h"
+i"EventTableViewCell.h"
+i"TagSelectionController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.h
+c000000004BA3FC5D0000000000000B23
+t1269038173
+s2851
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m
+c000000004BA3FC5D0000000000000A1A
+t1269038173
+s2586
+i"Tag.h"
+i"Event.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.h
+c000000004BA3FC5D0000000000000D1E
+t1269038173
+s3358
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m
+c000000004BA3FC5D00000000000031CE
+t1269038173
+s12750
+i"TagSelectionController.h"
+i"Event.h"
+i"Tag.h"
+i"EditableTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.h
+c000000004BA3FC5D0000000000000D35
+t1269038173
+s3381
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m
+c000000004BA3FC5D0000000000001BA7
+t1269038173
+s7079
+i"TaggedLocationsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib
+c000000004A524FEF000000000000538C
+t1246908399
+s21388
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib
+c000000004A257D00000000000000726C
+t1243970816
+s29292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib
+c000000004A1D95120000000000002094
+t1243452690
+s8340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/ReadMe.txt
+c000000004A524FEF0000000000000C96
+t1246908399
+s3222
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel
+c000000004BA3FC5D0000000000000088
+t1269038173
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations_Prefix.pch
+c000000004A281C350000000000000168
+t1244142645
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib
+c000000004A25A17300000000000052A4
+t1243980147
+s21156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app
+t1272938236
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app.dSYM
+t1272938236
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/EditableTableViewCell.nib
+t1272938235
+s2540
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/EventTableViewCell.nib
+t1272938235
+s4643
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/Info.plist
+t1272938234
+s629
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/MainWindow.nib
+t1272938235
+s1337
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/PkgInfo
+t1272938234
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/ReadMe.txt
+t1272938234
+s3222
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations
+t1272938236
+s53880
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations.mom
+t1272938236
+s3729
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TagsHeaderView.nib
+t1272938235
+s1840
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EditableTableViewCell.o
+t1272938236
+s17828
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Event.o
+t1272938236
+s5308
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EventTableViewCell.o
+t1272938236
+s22668
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/RootViewController.o
+t1272938236
+s67224
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Tag.o
+t1272938236
+s5160
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TagSelectionController.o
+t1272938236
+s59064
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocations.LinkFileList
+c000000004BDF7EFA000000000000055D
+t1272938234
+s1373
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocationsAppDelegate.o
+t1272938236
+s50332
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/main.o
+t1272938236
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m
+c000000004BA3FC5D0000000000000A54
+t1269038173
+s2644
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch.gch
+t1272938235
+s13801648
+
+NInfo.plist
+c000000004A1D9512000000000000038D
+t1243452690
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294631034#294631034#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EditableTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.148528
+e294631036.251011
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EditableTableViewCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m294631036#294631036#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m4300911832#2312"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EditableTableViewCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EditableTableViewCell.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Event.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.080466
+e294631036.148383
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Event.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m294631036#294631036#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m4300911832#2280"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Event.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Event.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EventTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.154900
+e294631036.270378
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EventTableViewCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m294631036#294631036#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m4300911832#2306"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/EventTableViewCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/EventTableViewCell.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.013057
+e294631036.240969
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m294631036#294631036#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m4300911832#2306"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Tag.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.241127
+e294631036.304253
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Tag.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m294631036#294631036#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m4300911832#2276"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/Tag.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/Tag.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TagSelectionController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.089642
+e294631036.289113
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TagSelectionController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m294631036#294631036#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m4300911832#2314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TagSelectionController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TagSelectionController.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocationsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.011054
+e294631036.154743
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocationsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m294631036#294631036#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m4300911832#2322"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Classes/TaggedLocationsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocationsAppDelegate.o0#
+
+CCompileC build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631036.009188
+e294631036.089466
+r1
+xCompileC
+xbuild/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m294631036#294631036#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m4300911832#2270"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib
+s294631034.925050
+e294631035.324304
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib
+lSLF07#2@36"CompileXIB EditableTableViewCell.xib294631034#294631035#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/EditableTableViewCell.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EditableTableViewCell.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib
+s294631034.926077
+e294631035.370424
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib
+lSLF07#2@33"CompileXIB EventTableViewCell.xib294631034#294631035#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/EventTableViewCell.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/EventTableViewCell.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib
+s294631034.923023
+e294631035.254047
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294631034#294631035#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib
+s294631034.957350
+e294631035.319498
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib
+lSLF07#2@29"CompileXIB TagsHeaderView.xib294631034#294631035#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TagsHeaderView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TagsHeaderView.xib0#
+
+CCpResource build/Debug-iphonesimulator/TaggedLocations.app/ReadMe.txt ReadMe.txt
+s294631034.923924
+e294631034.957205
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TaggedLocations.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294631034#294631034#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/ReadMe.txt4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app0#
+
+CDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel
+s294631036.007667
+e294631036.080300
+r1
+xDataModelCompile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations.mom
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel294631036#294631036#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel4300911832#477"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations.xcdatamodel /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations.mom0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations
+s294631036.351109
+e294631036.370474
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/TaggedLocations.app.dSYM build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations294631036#294631036#0(0"0(0#0#125"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations4300911832#476"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations normal i386
+s294631036.304382
+e294631036.350964
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations
+xnormal
+xi386
+lSLF07#2@130"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations294631036#294631036#0(0"0(0#0#0"4300911832#1061"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/Objects-normal/i386/TaggedLocations.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/TaggedLocations0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/Info.plist Info.plist
+s294631034.919259
+e294631034.922902
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294631034#294631034#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/Info.plist4300911832#556"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch.gch TaggedLocations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294631035.370600
+e294631036.007416
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch.gch
+xTaggedLocations_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile TaggedLocations_Prefix.pch294631035#294631036#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations_Prefix.pch4300911832#2131"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/TaggedLocations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/TaggedLocations.build/Debug-iphonesimulator/TaggedLocations.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/TaggedLocations_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaggedLocations_Prefix-eutdtugvdnuafiaixmraokpiwxlx/TaggedLocations_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app
+s294631036.370567
+e294631036.373578
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app
+lSLF07#2@115"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app294631036#294631036#0(0"0(0#0#0"4300911832#332"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TaggedLocations/build/Debug-iphonesimulator/TaggedLocations.app0#
+

@@ -1,0 +1,558 @@
+TGLPaint
+v7
+r0
+t294587048.010565
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Recording.data Recording.data
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Select.caf Select.caf
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Erase.caf Erase.caf
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Blue.png Images/Blue.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Green.png Images/Green.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Purple.png Images/Purple.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Red.png Images/Red.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Yellow.png Images/Yellow.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/GLPaint.app/Particle.png Particle.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/AppController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/SoundEffect.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingWindow.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A7650200000000000193960
+t1249267744
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004A76500B000000000000E37C
+t1249267723
+s58236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A76554E000000000000094F
+t1249269070
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A76554E0000000000000A61
+t1249269070
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A76554E0000000000009369
+t1249269070
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A76554E0000000000002A42
+t1249269070
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A765556000000000001F8E0
+t1249269078
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7655B1000000000000007D
+t1249269169
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E5890
+t1249269258
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/TargetConditionals.h
+c000000004A7653D100000000000031E9
+t1249268689
+s12777
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.h
+c000000004AB940DE0000000000000B54
+t1253654750
+s2900
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m
+c000000004AB949350000000000001FB6
+t1253656885
+s8118
+i"AppController.h"
+i"PaintingView.h"
+i"SoundEffect.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.h
+c000000004AB94A7A0000000000000DE1
+t1253657210
+s3553
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m
+c000000004AB94A7A0000000000003693
+t1253657210
+s13971
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"PaintingView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.h
+c000000004AB949350000000000000A07
+t1253656885
+s2567
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m
+c000000004AB949350000000000000BB0
+t1253656885
+s2992
+i"PaintingWindow.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.h
+c000000004AB169B80000000000000A85
+t1253140920
+s2693
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m
+c000000004AB169B80000000000000FB4
+t1253140920
+s4020
+i"SoundEffect.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Default.png
+c0000000048B6555F000000000000086F
+t1219908959
+s2159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Erase.caf
+c0000000048B6555F0000000000008120
+t1219908959
+s33056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Icon.png
+c0000000048B6555F0000000000001350
+t1219908959
+s4944
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Blue.png
+c0000000048B6555F000000000000049C
+t1219908959
+s1180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Green.png
+c0000000048B6555F0000000000000487
+t1219908959
+s1159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Purple.png
+c0000000048B6555F0000000000000468
+t1219908959
+s1128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Red.png
+c0000000048B6555F0000000000000470
+t1219908959
+s1136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Yellow.png
+c0000000048B6555F000000000000047E
+t1219908959
+s1150
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib
+c000000004AB940DE0000000000004826
+t1253654750
+s18470
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Particle.png
+c0000000048B6555F0000000000000880
+t1219908959
+s2176
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Prefix.pch
+c0000000048B6555F0000000000000051
+t1219908959
+s81
+i<TargetConditionals.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Recording.data
+c0000000048B6555F0000000000000C84
+t1219908959
+s3204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Select.caf
+c0000000048B6555F000000000000152C
+t1219908959
+s5420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app
+t1272894248
+s578
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app.dSYM
+t1272894247
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Blue.png
+t1272894245
+s1180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Default.png
+t1272894245
+s2159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Erase.caf
+t1272894245
+s33056
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint
+t1272894247
+s39648
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Green.png
+t1272894245
+s1159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Icon.png
+t1272894245
+s4944
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Info.plist
+t1272894245
+s618
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/MainWindow.nib
+t1272894246
+s1188
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Particle.png
+t1272894245
+s2176
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/PkgInfo
+t1272894245
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Purple.png
+t1272894245
+s1128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Recording.data
+t1272894245
+s3204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Red.png
+t1272894245
+s1136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Select.caf
+t1272894245
+s5420
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Yellow.png
+t1272894245
+s1150
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/AppController.o
+t1272894247
+s28740
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/GLPaint.LinkFileList
+c000000004BDED32500000000000002CF
+t1272894245
+s719
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingView.o
+t1272894247
+s33628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingWindow.o
+t1272894247
+s11476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/SoundEffect.o
+t1272894247
+s10256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/main.o
+t1272894247
+s6064
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m
+c000000004AB169B80000000000000A35
+t1253140920
+s2613
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch.gch
+t1272894247
+s13026768
+
+NInfo.plist
+c000000004AB940DE00000000000003AD
+t1253654750
+s941
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294587044#294587045#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/AppController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587047.771575
+e294587047.915504
+r1
+xCompileC
+xbuild/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/AppController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m294587047#294587047#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m4300911832#2075"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/AppController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587047.772703
+e294587047.936280
+r1
+xCompileC
+xbuild/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m294587047#294587047#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m4300911832#2073"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingView.o0#
+
+CCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingWindow.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587047.849751
+e294587047.921531
+r1
+xCompileC
+xbuild/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingWindow.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m294587047#294587047#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m4300911832#2077"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/PaintingWindow.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/PaintingWindow.o0#
+
+CCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/SoundEffect.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587047.773803
+e294587047.866747
+r1
+xCompileC
+xbuild/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/SoundEffect.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m294587047#294587047#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m4300911832#2071"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Classes/SoundEffect.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/SoundEffect.o0#
+
+CCompileC build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587047.751252
+e294587047.849588
+r1
+xCompileC
+xbuild/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m294587047#294587047#0(0"0(0#0#60"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m4300911832#2049"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib
+s294587045.186560
+e294587046.215120
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294587045#294587046#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Blue.png Images/Blue.png
+s294587045.056466
+e294587045.184827
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Blue.png
+xImages/Blue.png
+lSLF07#2@20"Copy Images/Blue.png294587045#294587045#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Blue.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Blue.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Default.png Default.png
+s294587045.181515
+e294587045.197407
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294587045#294587045#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Default.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Erase.caf Erase.caf
+s294587045.054608
+e294587045.184461
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Erase.caf
+xErase.caf
+lSLF07#2@14"Copy Erase.caf294587045#294587045#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Erase.caf4300911832#498"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Erase.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Green.png Images/Green.png
+s294587045.057371
+e294587045.196827
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Green.png
+xImages/Green.png
+lSLF07#2@21"Copy Images/Green.png294587045#294587045#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Green.png4300911832#505"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Green.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Icon.png Icon.png
+s294587045.055586
+e294587045.184636
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294587045#294587045#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Icon.png4300911832#497"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Particle.png Particle.png
+s294587045.185178
+e294587045.196601
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Particle.png
+xParticle.png
+lSLF07#2@17"Copy Particle.png294587045#294587045#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Particle.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Particle.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Purple.png Images/Purple.png
+s294587045.058290
+e294587045.185052
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Purple.png
+xImages/Purple.png
+lSLF07#2@22"Copy Images/Purple.png294587045#294587045#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Purple.png4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Purple.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Recording.data Recording.data
+s294587045.052678
+e294587045.184114
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Recording.data
+xRecording.data
+lSLF07#2@19"Copy Recording.data294587045#294587045#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Recording.data4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Recording.data /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Red.png Images/Red.png
+s294587045.059258
+e294587045.197019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Red.png
+xImages/Red.png
+lSLF07#2@19"Copy Images/Red.png294587045#294587045#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Red.png4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Red.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Select.caf Select.caf
+s294587045.053696
+e294587045.184284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Select.caf
+xSelect.caf
+lSLF07#2@15"Copy Select.caf294587045#294587045#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Select.caf4300911832#499"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Select.caf /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CCpResource build/Debug-iphonesimulator/GLPaint.app/Yellow.png Images/Yellow.png
+s294587045.062418
+e294587045.197226
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLPaint.app/Yellow.png
+xImages/Yellow.png
+lSLF07#2@22"Copy Images/Yellow.png294587045#294587045#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Yellow.png4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Images/Yellow.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint
+s294587047.976217
+e294587048.007108
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/GLPaint.app.dSYM build/Debug-iphonesimulator/GLPaint.app/GLPaint294587047#294587048#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint4300911832#428"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint normal i386
+s294587047.936378
+e294587047.976098
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint
+xnormal
+xi386
+lSLF07#2@106"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint294587047#294587047#0(0"0(0#0#0"4300911832#1003"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/Objects-normal/i386/GLPaint.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/GLPaint0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Info.plist Info.plist
+s294587045.034391
+e294587045.052542
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294587045#294587045#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Info.plist4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294587046.215326
+e294587047.751036
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294587046#294587047#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Prefix.pch4300911832#1918"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-parameter -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/GLPaint-project-headers.hmap -Wall -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/GLPaint.build/Debug-iphonesimulator/GLPaint.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cfnxjwcnntbfkrclcsjwjeamfnjb/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app
+s294587048.007227
+e294587048.010526
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app
+lSLF07#2@99"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app294587048#294587048#0(0"0(0#0#0"4300911832#308"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLPaint/build/Debug-iphonesimulator/GLPaint.app0#
+

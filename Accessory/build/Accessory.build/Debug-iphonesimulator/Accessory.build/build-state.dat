@@ -1,0 +1,313 @@
+TAccessory
+v7
+r0
+t294638400.118078
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Accessory.app/unchecked.png unchecked.png
+cCpResource build/Debug-iphonesimulator/Accessory.app/checked.png checked.png
+cCpResource build/Debug-iphonesimulator/Accessory.app/Default.png Default.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/tableData.plist tableData.plist
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.h
+c000000004BA3ED270000000000000AF4
+t1269034279
+s2804
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m
+c000000004BA3ED270000000000000B57
+t1269034279
+s2903
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Default.png
+c0000000049FA55B00000000000002C85
+t1241142704
+s11397
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.h
+c000000004BA3ED270000000000000A36
+t1269034279
+s2614
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m
+c000000004BA3ED270000000000001843
+t1269034279
+s6211
+i"MyTableViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Prefix.pch
+c0000000049FA55B000000000000000BB
+t1241142704
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/Accessory.LinkFileList
+c000000004BDF9B9000000000000001C5
+t1272945552
+s453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/AppDelegate.o
+t1272945553
+s39008
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/MyTableViewController.o
+t1272945553
+s43444
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/main.o
+t1272945553
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app
+t1272945553
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app.dSYM
+t1272945553
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory
+t1272945553
+s25388
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Default.png
+t1272945552
+s11397
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Info.plist
+t1272945552
+s594
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/PkgInfo
+t1272945552
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/checked.png
+t1272945552
+s1346
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/en.lproj/MainWindow.nib
+t1272945552
+s2501
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/tableData.plist
+t1272945552
+s171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/unchecked.png
+t1272945552
+s1076
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/checked.png
+c0000000049FA55B00000000000000542
+t1241142704
+s1346
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib
+c0000000049FA55B000000000000032F6
+t1241142704
+s13046
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m
+c000000004BA3ED270000000000000AA0
+t1269034279
+s2720
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/tableData.plist
+c0000000049FA55B00000000000000302
+t1241142704
+s770
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/unchecked.png
+c0000000049FA55B00000000000000434
+t1241142704
+s1076
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch.gch
+t1272945553
+s12952976
+
+NInfo.plist
+c0000000049FA55B00000000000000381
+t1241142704
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294638400#294638400#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638353.275176
+e294638353.347284
+r1
+xCompileC
+xbuild/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m294638353#294638353#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m4300911832#2078"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638353.276122
+e294638353.358431
+r1
+xCompileC
+xbuild/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/MyTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m294638353#294638353#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m4300911832#2098"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/MyTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638353.274014
+e294638353.332499
+r1
+xCompileC
+xbuild/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m294638353#294638353#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m4300911832#2064"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib
+s294638352.242215
+e294638352.665173
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294638352#294638352#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/en.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/tableData.plist tableData.plist
+s294638352.399308
+e294638352.427048
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/tableData.plist
+xtableData.plist
+lSLF07#2@20"Copy tableData.plist294638352#294638352#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/tableData.plist4300911832#426"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 tableData.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app0#
+
+CCpResource build/Debug-iphonesimulator/Accessory.app/Default.png Default.png
+s294638352.396867
+e294638352.406590
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Accessory.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294638352#294638352#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Default.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app0#
+
+CCpResource build/Debug-iphonesimulator/Accessory.app/checked.png checked.png
+s294638352.244394
+e294638352.403655
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Accessory.app/checked.png
+xchecked.png
+lSLF07#2@16"Copy checked.png294638352#294638352#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/checked.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/checked.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app0#
+
+CCpResource build/Debug-iphonesimulator/Accessory.app/unchecked.png unchecked.png
+s294638352.243494
+e294638352.401459
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Accessory.app/unchecked.png
+xunchecked.png
+lSLF07#2@18"Copy unchecked.png294638352#294638352#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/unchecked.png4300911832#510"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/unchecked.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory
+s294638353.375776
+e294638353.391143
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Accessory.app.dSYM build/Debug-iphonesimulator/Accessory.app/Accessory294638353#294638353#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory normal i386
+s294638353.358531
+e294638353.375635
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory294638353#294638353#0(0"0(0#0#0"4300911832#957"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Objects-normal/i386/Accessory.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Accessory0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Info.plist Info.plist
+s294638352.233647
+e294638352.242053
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294638352#294638352#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Info.plist4300911832#526"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294638352.665299
+e294638353.273868
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294638352#294638353#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Prefix.pch4300911832#1927"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/Accessory-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Accessory.build/Debug-iphonesimulator/Accessory.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-czdewkmmeqkvsmfetbchyugxgccm/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app
+s294638353.391242
+e294638353.394550
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app294638353#294638353#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Accessory/build/Debug-iphonesimulator/Accessory.app0#
+

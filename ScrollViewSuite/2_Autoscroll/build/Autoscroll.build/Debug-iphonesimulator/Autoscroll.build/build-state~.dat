@@ -1,0 +1,655 @@
+TAutoscroll
+v7
+r0
+t294662600.175415
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Info.plist Autoscroll-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Images.plist ../SharedResources/Images.plist
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/ReadMe.txt ../ReadMe.txt
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/Canning_thumb.png ../SharedResources/Thumbs/Canning_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/DoWithLess_thumb.png ../SharedResources/Thumbs/DoWithLess_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/FairShare_thumb.png ../SharedResources/Thumbs/FairShare_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/GapInLine_thumb.png ../SharedResources/Thumbs/GapInLine_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/Gunpowder_thumb.png ../SharedResources/Thumbs/Gunpowder_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch_thumb.png ../SharedResources/Thumbs/MakeItStretch_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt_thumb.png ../SharedResources/Thumbs/WeCanDoIt_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/WorkToWin_thumb.png ../SharedResources/Thumbs/WorkToWin_thumb.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/Canning.png ../SharedResources/WholeImages/Canning.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/DoWithLess.png ../SharedResources/WholeImages/DoWithLess.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/FairShare.png ../SharedResources/WholeImages/FairShare.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/GapInLine.png ../SharedResources/WholeImages/GapInLine.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/Gunpowder.png ../SharedResources/WholeImages/Gunpowder.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch.png ../SharedResources/WholeImages/MakeItStretch.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt.png ../SharedResources/WholeImages/WeCanDoIt.png
+cCpResource build/Debug-iphonesimulator/Autoscroll.app/WorkToWin.png ../SharedResources/WholeImages/WorkToWin.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch.gch Autoscroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/TapDetectingImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/ThumbImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../ReadMe.txt
+c000000004A295BD60000000000000AAA
+t1244224470
+s2730
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Images.plist
+c000000004A2951DA00000000000001A1
+t1244221914
+s417
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Canning_thumb.png
+c000000004A2951DA00000000000096D0
+t1244221914
+s38608
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/DoWithLess_thumb.png
+c000000004A2951DA000000000000968D
+t1244221914
+s38541
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/FairShare_thumb.png
+c000000004A2951DA000000000000A684
+t1244221914
+s42628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/GapInLine_thumb.png
+c000000004A2951DA0000000000009CC5
+t1244221914
+s40133
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Gunpowder_thumb.png
+c000000004A2951DA00000000000085D9
+t1244221914
+s34265
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/MakeItStretch_thumb.png
+c000000004A2951DA0000000000007733
+t1244221914
+s30515
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WeCanDoIt_thumb.png
+c000000004A2951DA00000000000092B4
+t1244221914
+s37556
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WorkToWin_thumb.png
+c000000004A2951DA000000000000891A
+t1244221914
+s35098
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Canning.png
+c000000004A2951DA000000000051BB0D
+t1244221914
+s5356301
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/DoWithLess.png
+c000000004A2951DA000000000047F237
+t1244221914
+s4715063
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/FairShare.png
+c000000004A2951DA00000000004C6A54
+t1244221914
+s5007956
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/GapInLine.png
+c000000004A2951DA00000000004DC643
+t1244221914
+s5097027
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Gunpowder.png
+c000000004A2951DA0000000000402E24
+t1244221914
+s4206116
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/MakeItStretch.png
+c000000004A2951DA00000000003D83F4
+t1244221914
+s4031476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WeCanDoIt.png
+c000000004A2951DA00000000004FB608
+t1244221914
+s5223944
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WorkToWin.png
+c000000004A2951DA000000000055AE7E
+t1244221914
+s5615230
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Autoscroll_Prefix.pch
+c000000004A26A5EC00000000000000BD
+t1244046828
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.h
+c000000004BA3F99E0000000000000AE0
+t1269037470
+s2784
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m
+c000000004BA3F99E0000000000000B83
+t1269037470
+s2947
+i"AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.h
+c000000004BA3F99E0000000000000C07
+t1269037470
+s3079
+i"TapDetectingImageView.h"
+i"ThumbImageView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m
+c000000004BA3F99E0000000000004718
+t1269037470
+s18200
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.h
+c000000004BA3F99E0000000000000E0E
+t1269037470
+s3598
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m
+c000000004BA3F99E0000000000001BC4
+t1269037470
+s7108
+i"TapDetectingImageView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.h
+c000000004BA3F99E0000000000000F56
+t1269037470
+s3926
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m
+c000000004BA3F99E000000000000171B
+t1269037470
+s5915
+i"ThumbImageView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib
+c000000004A200C5A00000000000021E1
+t1243614298
+s8673
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib
+c000000004A200C5A00000000000017CB
+t1243614298
+s6091
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/AppDelegate.o
+t1272969799
+s37832
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/Autoscroll.LinkFileList
+c000000004BDFFA400000000000000364
+t1272969792
+s868
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/RootViewController.o
+t1272969799
+s60120
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/TapDetectingImageView.o
+t1272969799
+s20724
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/ThumbImageView.o
+t1272969799
+s19624
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/main.o
+t1272969799
+s6016
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app
+t1272969800
+s850
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app.dSYM
+t1272969800
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll
+t1272969799
+s44928
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Canning.png
+t1272969792
+s5356301
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Canning_thumb.png
+t1272969792
+s38608
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/DoWithLess.png
+t1272969792
+s4715063
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/DoWithLess_thumb.png
+t1272969792
+s38541
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/FairShare.png
+t1272969792
+s5007956
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/FairShare_thumb.png
+t1272969792
+s42628
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/GapInLine.png
+t1272969792
+s5097027
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/GapInLine_thumb.png
+t1272969792
+s40133
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Gunpowder.png
+t1272969792
+s4206116
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Gunpowder_thumb.png
+t1272969792
+s34265
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Images.plist
+t1272969794
+s141
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Info.plist
+t1272969792
+s603
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/MainWindow.nib
+t1272969798
+s1467
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch.png
+t1272969792
+s4031476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch_thumb.png
+t1272969792
+s30515
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/PkgInfo
+t1272969792
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/ReadMe.txt
+t1272969792
+s2730
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/RootViewController.nib
+t1272969798
+s1151
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt.png
+t1272969792
+s5223944
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt_thumb.png
+t1272969792
+s37556
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/WorkToWin.png
+t1272969794
+s5615230
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/WorkToWin_thumb.png
+t1272969792
+s35098
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m
+c000000004BA3F99E0000000000000A54
+t1269037470
+s2644
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch.gch
+t1272969799
+s12952976
+
+NAutoscroll-Info.plist
+c000000004A200C5A000000000000038D
+t1243614298
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294662592#294662592#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662599.652485
+e294662599.772630
+r1
+xCompileC
+xbuild/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m294662599#294662599#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m4300911832#2335"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662599.653471
+e294662599.867744
+r1
+xCompileC
+xbuild/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m294662599#294662599#0(0"0(0#0#103"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m4300911832#2349"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/TapDetectingImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662599.654784
+e294662599.776696
+r1
+xCompileC
+xbuild/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/TapDetectingImageView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m294662599#294662599#0(0"0(0#0#106"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m4300911832#2355"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/TapDetectingImageView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/TapDetectingImageView.o0#
+
+CCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/ThumbImageView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662599.748750
+e294662599.841047
+r1
+xCompileC
+xbuild/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/ThumbImageView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m294662599#294662599#0(0"0(0#0#99"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m4300911832#2341"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Classes/ThumbImageView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/ThumbImageView.o0#
+
+CCompileC build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662599.651437
+e294662599.748570
+r1
+xCompileC
+xbuild/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m294662599#294662599#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m4300911832#2313"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib
+s294662592.530967
+e294662598.572941
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294662592#294662598#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib4300911832#591"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib
+s294662592.549694
+e294662598.447255
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib294662592#294662598#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib4300911832#607"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/RootViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/RootViewController.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Images.plist ../SharedResources/Images.plist
+s294662592.550564
+e294662594.918431
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Images.plist
+x../SharedResources/Images.plist
+lSLF07#2@36"Copy ../SharedResources/Images.plist294662592#294662594#0(0"0(0#0#106"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Images.plist4300911832#481"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 ../SharedResources/Images.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/Canning.png ../SharedResources/WholeImages/Canning.png
+s294662592.619631
+e294662596.957818
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/Canning.png
+x../SharedResources/WholeImages/Canning.png
+lSLF07#2@47"Copy ../SharedResources/WholeImages/Canning.png294662592#294662596#0(0"0(0#0#117"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Canning.png4300911832#597"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Canning.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/Canning_thumb.png ../SharedResources/Thumbs/Canning_thumb.png
+s294662592.552361
+e294662592.643316
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/Canning_thumb.png
+x../SharedResources/Thumbs/Canning_thumb.png
+lSLF07#2@48"Copy ../SharedResources/Thumbs/Canning_thumb.png294662592#294662592#0(0"0(0#0#118"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Canning_thumb.png4300911832#598"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Canning_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/DoWithLess.png ../SharedResources/WholeImages/DoWithLess.png
+s294662592.643970
+e294662596.957535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/DoWithLess.png
+x../SharedResources/WholeImages/DoWithLess.png
+lSLF07#2@50"Copy ../SharedResources/WholeImages/DoWithLess.png294662592#294662596#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/DoWithLess.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/DoWithLess.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/DoWithLess_thumb.png ../SharedResources/Thumbs/DoWithLess_thumb.png
+s294662592.553275
+e294662592.619478
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/DoWithLess_thumb.png
+x../SharedResources/Thumbs/DoWithLess_thumb.png
+lSLF07#2@51"Copy ../SharedResources/Thumbs/DoWithLess_thumb.png294662592#294662592#0(0"0(0#0#121"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/DoWithLess_thumb.png4300911832#601"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/DoWithLess_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/FairShare.png ../SharedResources/WholeImages/FairShare.png
+s294662592.644986
+e294662597.049109
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/FairShare.png
+x../SharedResources/WholeImages/FairShare.png
+lSLF07#2@49"Copy ../SharedResources/WholeImages/FairShare.png294662592#294662597#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/FairShare.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/FairShare.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/FairShare_thumb.png ../SharedResources/Thumbs/FairShare_thumb.png
+s294662592.554160
+e294662592.643499
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/FairShare_thumb.png
+x../SharedResources/Thumbs/FairShare_thumb.png
+lSLF07#2@50"Copy ../SharedResources/Thumbs/FairShare_thumb.png294662592#294662592#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/FairShare_thumb.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/FairShare_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/GapInLine.png ../SharedResources/WholeImages/GapInLine.png
+s294662592.645905
+e294662596.958247
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/GapInLine.png
+x../SharedResources/WholeImages/GapInLine.png
+lSLF07#2@49"Copy ../SharedResources/WholeImages/GapInLine.png294662592#294662596#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/GapInLine.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/GapInLine.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/GapInLine_thumb.png ../SharedResources/Thumbs/GapInLine_thumb.png
+s294662592.557936
+e294662592.648920
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/GapInLine_thumb.png
+x../SharedResources/Thumbs/GapInLine_thumb.png
+lSLF07#2@50"Copy ../SharedResources/Thumbs/GapInLine_thumb.png294662592#294662592#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/GapInLine_thumb.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/GapInLine_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/Gunpowder.png ../SharedResources/WholeImages/Gunpowder.png
+s294662592.646833
+e294662596.958525
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/Gunpowder.png
+x../SharedResources/WholeImages/Gunpowder.png
+lSLF07#2@49"Copy ../SharedResources/WholeImages/Gunpowder.png294662592#294662596#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Gunpowder.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/Gunpowder.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/Gunpowder_thumb.png ../SharedResources/Thumbs/Gunpowder_thumb.png
+s294662592.559300
+e294662592.643682
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/Gunpowder_thumb.png
+x../SharedResources/Thumbs/Gunpowder_thumb.png
+lSLF07#2@50"Copy ../SharedResources/Thumbs/Gunpowder_thumb.png294662592#294662592#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Gunpowder_thumb.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/Gunpowder_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch.png ../SharedResources/WholeImages/MakeItStretch.png
+s294662592.647738
+e294662597.395951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/MakeItStretch.png
+x../SharedResources/WholeImages/MakeItStretch.png
+lSLF07#2@53"Copy ../SharedResources/WholeImages/MakeItStretch.png294662592#294662597#0(0"0(0#0#123"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/MakeItStretch.png4300911832#603"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/MakeItStretch.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/MakeItStretch_thumb.png ../SharedResources/Thumbs/MakeItStretch_thumb.png
+s294662592.560605
+e294662592.603394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/MakeItStretch_thumb.png
+x../SharedResources/Thumbs/MakeItStretch_thumb.png
+lSLF07#2@54"Copy ../SharedResources/Thumbs/MakeItStretch_thumb.png294662592#294662592#0(0"0(0#0#124"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/MakeItStretch_thumb.png4300911832#604"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/MakeItStretch_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/ReadMe.txt ../ReadMe.txt
+s294662592.551439
+e294662592.599794
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/ReadMe.txt
+x../ReadMe.txt
+lSLF07#2@18"Copy ../ReadMe.txt294662592#294662592#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../ReadMe.txt4300911832#568"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt.png ../SharedResources/WholeImages/WeCanDoIt.png
+s294662592.649052
+e294662597.242850
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt.png
+x../SharedResources/WholeImages/WeCanDoIt.png
+lSLF07#2@49"Copy ../SharedResources/WholeImages/WeCanDoIt.png294662592#294662597#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WeCanDoIt.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WeCanDoIt.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt_thumb.png ../SharedResources/Thumbs/WeCanDoIt_thumb.png
+s294662592.599947
+e294662592.643068
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/WeCanDoIt_thumb.png
+x../SharedResources/Thumbs/WeCanDoIt_thumb.png
+lSLF07#2@50"Copy ../SharedResources/Thumbs/WeCanDoIt_thumb.png294662592#294662592#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WeCanDoIt_thumb.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WeCanDoIt_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/WorkToWin.png ../SharedResources/WholeImages/WorkToWin.png
+s294662594.918680
+e294662596.956962
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/WorkToWin.png
+x../SharedResources/WholeImages/WorkToWin.png
+lSLF07#2@49"Copy ../SharedResources/WholeImages/WorkToWin.png294662594#294662596#0(0"0(0#0#119"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WorkToWin.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/WholeImages/WorkToWin.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CCpResource build/Debug-iphonesimulator/Autoscroll.app/WorkToWin_thumb.png ../SharedResources/Thumbs/WorkToWin_thumb.png
+s294662592.603490
+e294662592.643861
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Autoscroll.app/WorkToWin_thumb.png
+x../SharedResources/Thumbs/WorkToWin_thumb.png
+lSLF07#2@50"Copy ../SharedResources/Thumbs/WorkToWin_thumb.png294662592#294662592#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WorkToWin_thumb.png4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/../SharedResources/Thumbs/WorkToWin_thumb.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll
+s294662600.088675
+e294662600.140144
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Autoscroll.app.dSYM build/Debug-iphonesimulator/Autoscroll.app/Autoscroll294662600#294662600#0(0"0(0#0#128"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll normal i386
+s294662599.867878
+e294662600.088350
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll
+xnormal
+xi386
+lSLF07#2@133"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll294662599#294662600#0(0"0(0#0#0"4300911832#1057"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Objects-normal/i386/Autoscroll.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Autoscroll0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Info.plist Autoscroll-Info.plist
+s294662592.526715
+e294662592.530854
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Info.plist
+xAutoscroll-Info.plist
+lSLF07#2@29"Process Autoscroll-Info.plist294662592#294662592#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Autoscroll-Info.plist4300911832#596"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Autoscroll-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch.gch Autoscroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294662598.573194
+e294662599.651304
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch.gch
+xAutoscroll_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Autoscroll_Prefix.pch294662598#294662599#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Autoscroll_Prefix.pch4300911832#2166"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/Autoscroll-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Autoscroll.build/Debug-iphonesimulator/Autoscroll.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/Autoscroll_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autoscroll_Prefix-ahntkgtnzwvhujfuqejtzewfxnii/Autoscroll_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app
+s294662600.140261
+e294662600.175363
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app
+lSLF07#2@123"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app294662600#294662600#0(0"0(0#0#0"4300911832#353"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ScrollViewSuite/2_Autoscroll/build/Debug-iphonesimulator/Autoscroll.app0#
+

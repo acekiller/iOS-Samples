@@ -1,0 +1,434 @@
+TSimpleURLConnections
+v7
+r0
+t294590500.541408
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/Info.plist Resources/Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage1.png Resources/TestImage1.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage3.png Resources/TestImage3.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage2.png Resources/TestImage2.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage4.png Resources/TestImage4.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/NoImage.png Resources/NoImage.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/put.png Resources/put.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/get.png Resources/get.png
+cCpResource build/Debug-iphonesimulator/URLConnect.app/post.png Resources/post.png
+cCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PutController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/GetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PostController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.h
+c000000004A9971690000000000000E26
+t1251570025
+s3622
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m
+c000000004A997169000000000000262B
+t1251570025
+s9771
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m
+c000000004A9971690000000000000D00
+t1251570025
+s3328
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.h
+c000000004A9971690000000000000F7D
+t1251570025
+s3965
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m
+c000000004A9971690000000000003896
+t1251570025
+s14486
+i"GetController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.h
+c000000004A997169000000000000106E
+t1251570025
+s4206
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m
+c000000004A99716900000000000068CF
+t1251570025
+s26831
+i"PostController.h"
+i"AppDelegate.h"
+i<sys/socket.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.h
+c000000004A9971690000000000000EF2
+t1251570025
+s3826
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m
+c000000004A9971690000000000003227
+t1251570025
+s12839
+i"PutController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib
+c000000004A997169000000000000FB6C
+t1251570025
+s64364
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/NoImage.png
+c000000004A9971690000000000000DCA
+t1251570025
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage1.png
+c000000004A99716900000000000008D1
+t1251570025
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage2.png
+c000000004A997169000000000000193B
+t1251570025
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage3.png
+c000000004A9971690000000000000D7D
+t1251570025
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage4.png
+c000000004A997169000000000000181B
+t1251570025
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/get.png
+c000000004A997169000000000000010F
+t1251570025
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/post.png
+c000000004A9971690000000000000146
+t1251570025
+s326
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/put.png
+c000000004A9971690000000000000125
+t1251570025
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app
+t1272897700
+s476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app.dSYM
+t1272897700
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/Info.plist
+t1272897696
+s566
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/MainWindow.nib
+t1272897697
+s10843
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/NoImage.png
+t1272897697
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/PkgInfo
+t1272897696
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/TestImage1.png
+t1272897696
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/TestImage2.png
+t1272897697
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/TestImage3.png
+t1272897697
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/TestImage4.png
+t1272897696
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect
+t1272897700
+s81988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/get.png
+t1272897697
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/post.png
+t1272897697
+s326
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/put.png
+t1272897697
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/AppDelegate.o
+t1272897700
+s51332
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/GetController.o
+t1272897699
+s65760
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PostController.o
+t1272897700
+s88632
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PutController.o
+t1272897700
+s63544
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/URLConnect.LinkFileList
+c000000004BDEE0A00000000000000393
+t1272897696
+s915
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/main.o
+t1272897700
+s6372
+
+NResources/Info.plist
+c000000004A9971690000000000000359
+t1251570025
+s857
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294590496#294590496#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590497.632874
+e294590500.388819
+r1
+xCompileC
+xbuild/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m294590497#294590500#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m4300911832#2409"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/AppDelegate.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/GetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590497.636883
+e294590499.940637
+r1
+xCompileC
+xbuild/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/GetController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m294590497#294590499#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m4300911832#2396"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/GetController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/GetController.o0#
+
+CCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PostController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590499.940914
+e294590500.274833
+r1
+xCompileC
+xbuild/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PostController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m294590499#294590500#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m4300911832#2398"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PostController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PostController.o0#
+
+CCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PutController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590497.635470
+e294590500.084527
+r1
+xCompileC
+xbuild/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PutController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m294590497#294590500#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m4300911832#2396"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/PutController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/PutController.o0#
+
+CCompileC build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294590497.634329
+e294590500.179701
+r1
+xCompileC
+xbuild/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m294590497#294590500#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m4300911832#2395"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/URLConnect-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Ancillary Code/main.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib
+s294590496.964685
+e294590497.632704
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294590496#294590497#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/NoImage.png Resources/NoImage.png
+s294590496.969684
+e294590497.014522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/NoImage.png
+xResources/NoImage.png
+lSLF07#2@26"Copy Resources/NoImage.png294590496#294590497#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/NoImage.png4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/NoImage.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage1.png Resources/TestImage1.png
+s294590496.965587
+e294590496.992857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/TestImage1.png
+xResources/TestImage1.png
+lSLF07#2@29"Copy Resources/TestImage1.png294590496#294590496#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage1.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage1.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage2.png Resources/TestImage2.png
+s294590496.968079
+e294590497.015265
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/TestImage2.png
+xResources/TestImage2.png
+lSLF07#2@29"Copy Resources/TestImage2.png294590496#294590497#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage2.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage2.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage3.png Resources/TestImage3.png
+s294590496.967175
+e294590497.013662
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/TestImage3.png
+xResources/TestImage3.png
+lSLF07#2@29"Copy Resources/TestImage3.png294590496#294590497#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage3.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage3.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/TestImage4.png Resources/TestImage4.png
+s294590496.968903
+e294590497.012303
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/TestImage4.png
+xResources/TestImage4.png
+lSLF07#2@29"Copy Resources/TestImage4.png294590496#294590497#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage4.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/TestImage4.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/get.png Resources/get.png
+s294590496.971323
+e294590497.015749
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/get.png
+xResources/get.png
+lSLF07#2@22"Copy Resources/get.png294590496#294590497#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/get.png4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/get.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/post.png Resources/post.png
+s294590496.972237
+e294590497.013366
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/post.png
+xResources/post.png
+lSLF07#2@23"Copy Resources/post.png294590496#294590497#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/post.png4300911832#570"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/post.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CCpResource build/Debug-iphonesimulator/URLConnect.app/put.png Resources/put.png
+s294590496.970487
+e294590497.070138
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/URLConnect.app/put.png
+xResources/put.png
+lSLF07#2@22"Copy Resources/put.png294590496#294590497#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/put.png4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/put.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect
+s294590500.476545
+e294590500.537331
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/URLConnect.app.dSYM build/Debug-iphonesimulator/URLConnect.app/URLConnect294590500#294590500#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect4300911832#476"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect normal i386
+s294590500.388921
+e294590500.476418
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect
+xnormal
+xi386
+lSLF07#2@125"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect294590500#294590500#0(0"0(0#0#0"4300911832#1037"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/SimpleURLConnections.build/Debug-iphonesimulator/SimpleURLConnections.build/Objects-normal/i386/URLConnect.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/URLConnect0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/Info.plist Resources/Info.plist
+s294590496.960747
+e294590496.964525
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist294590496#294590496#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/Resources/Info.plist4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app/Info.plist0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app
+s294590500.537459
+e294590500.541362
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app
+lSLF07#2@115"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app294590500#294590500#0(0"0(0#0#0"4300911832#337"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleURLConnections/build/Debug-iphonesimulator/URLConnect.app0#
+

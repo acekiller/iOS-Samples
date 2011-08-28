@@ -1,0 +1,140 @@
+TaurioTouch
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/../MainWindow.xib
+c000000004846EBAC000000000000271D
+t1212607404
+s10013
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/../icon.png
+c000000004846E9C00000000000001691
+t1212606912
+s5777
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/audio/button_press.caf
+c000000004A329B740000000000001DC6
+t1244830580
+s7622
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/fft_off.png
+c000000004A4D10A00000000000000795
+t1246564512
+s1941
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/fft_on.png
+c000000004A4D10A00000000000000B6E
+t1246564512
+s2926
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/mute_off.png
+c000000004A4D10A00000000000000900
+t1246564512
+s2304
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/mute_on.png
+c000000004A4D10A00000000000000CCB
+t1246564512
+s3275
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/oscilloscope.png
+c000000004A329B740000000000011FEA
+t1244830580
+s73706
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/images/sonogram.png
+c000000004A329B740000000000000902
+t1244830580
+s2306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/button_press.caf
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/fft_off.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/fft_on.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/mute_off.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/mute_on.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/oscilloscope.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Resources/sonogram.png
+t2
+s0
+
+NInfo.plist
+c000000004846E9C000000000000003B0
+t1212606912
+s944
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294629610#294629610#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos2.2.1'1(4@60"error: There is no SDK with the name or path 'iphoneos2.2.1'294629610#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/Resources/../MainWindow.xib
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/button_press.caf Resources/audio/button_press.caf
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/fft_off.png Resources/images/fft_off.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/fft_on.png Resources/images/fft_on.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/icon.png Resources/../icon.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/mute_off.png Resources/images/mute_off.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/mute_on.png Resources/images/mute_on.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/oscilloscope.png Resources/images/oscilloscope.png
+r0
+
+CCpResource build/Debug/aurioTouch.app/Contents/Resources/sonogram.png Resources/images/sonogram.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/aurioTouch/build/Debug/aurioTouch.app
+r0
+

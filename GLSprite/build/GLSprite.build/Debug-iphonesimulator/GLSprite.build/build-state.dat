@@ -1,0 +1,335 @@
+TGLSprite
+v7
+r0
+t294586826.310156
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/GLSprite.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/GLSprite.app/Sprite.png Sprite.png
+cCpResource build/Debug-iphonesimulator/GLSprite.app/Default.png Default.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch.gch GLSprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSpriteAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A76554E000000000000094F
+t1249269070
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A76554E0000000000000A61
+t1249269070
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A76554E0000000000009369
+t1249269070
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A76554E0000000000002A42
+t1249269070
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A765556000000000001F8E0
+t1249269078
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7655B1000000000000007D
+t1249269169
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E5890
+t1249269258
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.h
+c000000004AB169CA0000000000000F3C
+t1253140938
+s3900
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m
+c000000004AB962E70000000000002B23
+t1253663463
+s11043
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.h
+c000000004AB169CA0000000000000A8F
+t1253140938
+s2703
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m
+c000000004AB172420000000000000BF1
+t1253143106
+s3057
+i"GLSpriteAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Default.png
+c0000000048B6553C000000000000086F
+t1219908924
+s2159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/GLSprite_Prefix.pch
+c0000000048B6553C00000000000000B1
+t1219908924
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Icon.png
+c0000000048B6553C00000000000016FD
+t1219908924
+s5885
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Sprite.png
+c0000000048B6553C000000000000F77C
+t1219908924
+s63356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app
+t1272894026
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app.dSYM
+t1272894026
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Default.png
+t1272894023
+s2159
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite
+t1272894026
+s28148
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Icon.png
+t1272894023
+s5885
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Info.plist
+t1272894023
+s651
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/PkgInfo
+t1272894023
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Sprite.png
+t1272894023
+s63356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/en.lproj/MainWindow.nib
+t1272894024
+s1150
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/EAGLView.o
+t1272894026
+s26896
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSprite.LinkFileList
+c000000004BDED24700000000000001B7
+t1272894023
+s439
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSpriteAppDelegate.o
+t1272894026
+s19404
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/main.o
+t1272894026
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib
+c0000000048B6553C000000000000220E
+t1219908924
+s8718
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m
+c000000004AB169CA0000000000000A51
+t1253140938
+s2641
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch.gch
+t1272894025
+s13026768
+
+NInfo.plist
+c000000004AC28AE300000000000003B0
+t1254263523
+s944
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294586823#294586823#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/EAGLView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586826.129410
+e294586826.253170
+r1
+xCompileC
+xbuild/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/EAGLView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m294586826#294586826#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m4300911832#2069"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/EAGLView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSpriteAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586826.128062
+e294586826.200256
+r1
+xCompileC
+xbuild/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSpriteAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m294586826#294586826#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m4300911832#2091"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Classes/GLSpriteAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSpriteAppDelegate.o0#
+
+CCompileC build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586826.126186
+e294586826.179574
+r1
+xCompileC
+xbuild/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m294586826#294586826#0(0"0(0#0#61"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m4300911832#2053"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib
+s294586823.345421
+e294586824.567039
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294586823#294586824#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib4300911832#547"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/en.lproj/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/GLSprite.app/Default.png Default.png
+s294586823.344473
+e294586823.483851
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLSprite.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294586823#294586823#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Default.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/GLSprite.app/Icon.png Icon.png
+s294586823.342530
+e294586823.482633
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLSprite.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294586823#294586823#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Icon.png4300911832#501"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app0#
+
+CCpResource build/Debug-iphonesimulator/GLSprite.app/Sprite.png Sprite.png
+s294586823.343571
+e294586823.481820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLSprite.app/Sprite.png
+xSprite.png
+lSLF07#2@15"Copy Sprite.png294586823#294586823#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Sprite.png4300911832#503"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Sprite.png /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite
+s294586826.290809
+e294586826.306728
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/GLSprite.app.dSYM build/Debug-iphonesimulator/GLSprite.app/GLSprite294586826#294586826#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite4300911832#434"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite normal i386
+s294586826.253289
+e294586826.290679
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite
+xnormal
+xi386
+lSLF07#2@109"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite294586826#294586826#0(0"0(0#0#0"4300911832#989"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/Objects-normal/i386/GLSprite.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/GLSprite0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Info.plist Info.plist
+s294586823.335756
+e294586823.342386
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294586823#294586823#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/Info.plist4300911832#521"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch.gch GLSprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294586824.567166
+e294586826.125816
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch.gch
+xGLSprite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile GLSprite_Prefix.pch294586824#294586826#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/GLSprite_Prefix.pch4300911832#1928"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/GLSprite-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/GLSprite.build/Debug-iphonesimulator/GLSprite.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/GLSprite_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLSprite_Prefix-dibquxkujfxfmsdazpkpdbvjroqh/GLSprite_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app
+s294586826.306827
+e294586826.310088
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app
+lSLF07#2@101"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app294586826#294586826#0(0"0(0#0#0"4300911832#311"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/GLSprite/build/Debug-iphonesimulator/GLSprite.app0#
+

@@ -1,0 +1,459 @@
+TWeatherMap
+v7
+r0
+t294581821.045990
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist WeatherMap-Info.plist
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/sunny.png sunny.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png partly_cloudy.png
+cCpResource build/Debug-iphonesimulator/WeatherMap.app/cloudy.png cloudy.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch.gch WeatherMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000181680
+t1242278878
+s1578624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC0FF000000000000017D
+t1242284287
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A0BC11200000000000F36E0
+t1242284306
+s997088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel
+c000000004BA4068E0000000000000088
+t1269040782
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m
+c000000004BA4068E0000000000000AA7
+t1269040782
+s2727
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.h
+c000000004BA4068E0000000000000BA6
+t1269040782
+s2982
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m
+c000000004BA4068E0000000000000BF3
+t1269040782
+s3059
+i"AppDelegate.h"
+i"MapViewController.h"
+i"WeatherServer.h"
+i"WeatherItem.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.h
+c000000004BA4068E0000000000000B98
+t1269040782
+s2968
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m
+c000000004BA4068E000000000000102F
+t1269040782
+s4143
+i"MapViewController.h"
+i"WeatherServer.h"
+i"WeatherItem.h"
+i"WeatherAnnotationView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.h
+c000000004BA4068E0000000000000A58
+t1269040782
+s2648
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m
+c000000004BA4068E00000000000017BD
+t1269040782
+s6077
+i"WeatherAnnotationView.h"
+i"WeatherItem.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.h
+c000000004BA4068E0000000000000CEE
+t1269040782
+s3310
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m
+c000000004BA4068E0000000000000AE4
+t1269040782
+s2788
+i"WeatherItem.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.h
+c000000004BA4068E0000000000000BE6
+t1269040782
+s3046
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m
+c000000004BA4068E000000000000291D
+t1269040782
+s10525
+i"WeatherServer.h"
+i"WeatherItem.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/WeatherMap_Prefix.pch
+c000000004B3288090000000000000168
+t1261602825
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+t1272889021
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM
+t1272889021
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist
+t1272889018
+s603
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/PkgInfo
+t1272889018
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+t1272889020
+s37756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom
+t1272889020
+s1681
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/cloudy.png
+t1272889018
+s9220
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MainWindow.nib
+t1272889019
+s1571
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MapViewController.nib
+t1272889019
+s2026
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png
+t1272889018
+s10040
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/sunny.png
+t1272889018
+s9169
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o
+t1272889020
+s41540
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o
+t1272889020
+s41112
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o
+t1272889020
+s22284
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o
+t1272889020
+s12848
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherMap.LinkFileList
+c000000004BDEBEBA00000000000003A1
+t1272889018
+s929
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o
+t1272889020
+s28908
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o
+t1272889020
+s6000
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/cloudy.png
+c000000004B3288090000000000002404
+t1261602825
+s9220
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib
+c000000004B328809000000000000559D
+t1261602825
+s21917
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib
+c000000004B32880900000000000052BE
+t1261602825
+s21182
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/partly_cloudy.png
+c000000004B3288090000000000002738
+t1261602825
+s10040
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/sunny.png
+c000000004B32880900000000000023D1
+t1261602825
+s9169
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch.gch
+t1272889020
+s13801648
+
+NWeatherMap-Info.plist
+c000000004B328809000000000000038D
+t1261602825
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294581818#294581818#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.645236
+e294581820.767676
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m294581820#294581820#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m4300911832#2211"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.724034
+e294581820.848691
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m294581820#294581820#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m4300911832#2223"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/MapViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.767821
+e294581820.891952
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m294581820#294581820#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m4300911832#2231"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherAnnotationView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherAnnotationView.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.646742
+e294581820.723892
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m294581820#294581820#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m4300911832#2211"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherItem.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherItem.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.722134
+e294581820.857695
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m294581820#294581820#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m4300911832#2215"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/WeatherServer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherServer.o0#
+
+CCompileC build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581820.643847
+e294581820.721962
+r1
+xCompileC
+xbuild/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m294581820#294581820#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m4300911832#2200"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib
+s294581818.967184
+e294581819.264727
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294581818#294581819#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib4300911832#555"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib
+s294581818.973120
+e294581819.538606
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib
+lSLF07#2@41"CompileXIB en.lproj/MapViewController.xib294581818#294581819#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib4300911832#569"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/en.lproj/MapViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/en.lproj/MapViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/cloudy.png cloudy.png
+s294581818.966232
+e294581818.978961
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/cloudy.png
+xcloudy.png
+lSLF07#2@15"Copy cloudy.png294581818#294581818#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/cloudy.png4300911832#511"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/cloudy.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png partly_cloudy.png
+s294581818.965559
+e294581818.974880
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/partly_cloudy.png
+xpartly_cloudy.png
+lSLF07#2@22"Copy partly_cloudy.png294581818#294581818#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/partly_cloudy.png4300911832#518"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/partly_cloudy.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CCpResource build/Debug-iphonesimulator/WeatherMap.app/sunny.png sunny.png
+s294581818.964833
+e294581818.972556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WeatherMap.app/sunny.png
+xsunny.png
+lSLF07#2@14"Copy sunny.png294581818#294581818#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/sunny.png4300911832#510"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/sunny.png /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+
+CDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel
+s294581820.642733
+e294581820.804249
+r1
+xDataModelCompile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel294581820#294581820#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/Classes/../WeatherMap.xcdatamodel /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap.mom0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+s294581821.025808
+e294581821.042814
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/WeatherMap.app.dSYM build/Debug-iphonesimulator/WeatherMap.app/WeatherMap294581821#294581821#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap normal i386
+s294581820.892055
+e294581821.025701
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap
+xnormal
+xi386
+old: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap294581820#294581821#0(118"ld: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found1(22@104"Directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found294581821#0#118#0(6@0"294581821#0#0#0#0#0"0(0#0#0"4300911832#1079"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/Objects-normal/i386/WeatherMap.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework MapKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/WeatherMap0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist WeatherMap-Info.plist
+s294581818.961200
+e294581818.964754
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist
+xWeatherMap-Info.plist
+lSLF07#2@29"Process WeatherMap-Info.plist294581818#294581818#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/WeatherMap-Info.plist4300911832#542"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WeatherMap-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch.gch WeatherMap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581819.538787
+e294581820.642478
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch.gch
+xWeatherMap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile WeatherMap_Prefix.pch294581819#294581820#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/WeatherMap_Prefix.pch4300911832#2060"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/WeatherMap-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/WeatherMap.build/Debug-iphonesimulator/WeatherMap.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/WeatherMap_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WeatherMap_Prefix-evoqhbdrtzxcpvcgsyacthroksiw/WeatherMap_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+s294581821.042909
+e294581821.045924
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app294581821#294581821#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/WeatherMap/build/Debug-iphonesimulator/WeatherMap.app0#
+

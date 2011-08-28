@@ -1,0 +1,120 @@
+TPVRTextureLoader
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Brick.png
+c000000004AFDF2F20000000000091EE2
+t1258156786
+s597730
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Brick_2.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Brick_4.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Brick_mipmap_2.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Brick_mipmap_4.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/Images/Triangle.png
+c000000004AFDF2F20000000000000142
+t1258156786
+s322
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/MainWindow.xib
+c000000004AFDF2F200000000000026E1
+t1258156786
+s9953
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Brick.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_2.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_4.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_mipmap_2.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_mipmap_4.pvr
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Resources/Triangle.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/PVRTextureLoader.build/Debug/PVRTextureLoader.build/Script-496F87AF0E5B7DDB000CDA93.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NInfo.plist
+c000000004AFDF2F20000000000000381
+t1258156786
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294581769#294581769#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294581769#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/MainWindow.xib
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Brick.png Images/Brick.png
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_2.pvr Images/Brick_2.pvr
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_4.pvr Images/Brick_4.pvr
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_mipmap_2.pvr Images/Brick_mipmap_2.pvr
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Brick_mipmap_4.pvr Images/Brick_mipmap_4.pvr
+r0
+
+CCpResource build/Debug/PVRTextureLoader.app/Contents/Resources/Triangle.png Images/Triangle.png
+r0
+
+CPhaseScriptExecution "Encode Images" /Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/PVRTextureLoader.build/Debug/PVRTextureLoader.build/Script-496F87AF0E5B7DDB000CDA93.sh
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/PVRTextureLoader/build/Debug/PVRTextureLoader.app
+r0
+

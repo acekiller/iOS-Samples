@@ -1,0 +1,400 @@
+TTouchCells
+v7
+r0
+t294636992.694029
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/TouchCells.app/checked.png checked.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/unchecked.png unchecked.png
+cCpResource build/Debug-iphonesimulator/TouchCells.app/Default.png Default.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist tableData.plist
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.h
+c000000004BA3ECEA0000000000000BAE
+t1269034218
+s2990
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m
+c000000004BA3ECEA0000000000000FDB
+t1269034218
+s4059
+i"AppDelegate.h"
+i"MyTableViewController.h"
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.h
+c000000004BA3ECEA0000000000000ABE
+t1269034218
+s2750
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m
+c000000004BA3ECEA00000000000012F6
+t1269034218
+s4854
+i"CustomCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Default.png
+c0000000048DBDF4F00000000000021E2
+t1222369103
+s8674
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.h
+c000000004BA3ECEA0000000000000ADB
+t1269034218
+s2779
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m
+c000000004BA3ECEA0000000000000AE4
+t1269034218
+s2788
+i"DetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.h
+c000000004BA3ECEA0000000000000A2D
+t1269034218
+s2605
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m
+c000000004BA3ECEA0000000000001637
+t1269034218
+s5687
+i"MyTableViewController.h"
+i"CustomCell.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Prefix.pch
+c0000000048DBDF4F0000000000000059
+t1222369103
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+t1272944192
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM
+t1272944192
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Default.png
+t1272944191
+s8674
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist
+t1272944191
+s598
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/PkgInfo
+t1272944191
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+t1272944192
+s29180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/checked.png
+t1272944191
+s1346
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/DetailViewController.nib
+t1272944191
+s1907
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/MainWindow.nib
+t1272944191
+s2940
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist
+t1272944191
+s171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/unchecked.png
+t1272944191
+s1076
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o
+t1272944192
+s43540
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o
+t1272944192
+s25988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o
+t1272944192
+s31296
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o
+t1272944192
+s43980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/TouchCells.LinkFileList
+c000000004BDF963F0000000000000308
+t1272944191
+s776
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o
+t1272944192
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/checked.png
+c0000000048DBDF4F0000000000000542
+t1222369103
+s1346
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib
+c0000000049F8E0D10000000000002441
+t1241047249
+s9281
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib
+c0000000049F8E0D10000000000003A04
+t1241047249
+s14852
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m
+c000000004BA3ECEA0000000000000A84
+t1269034218
+s2692
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/tableData.plist
+c00000000493D4D1E0000000000000302
+t1228754206
+s770
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/unchecked.png
+c0000000048DBDF4F0000000000000434
+t1222369103
+s1076
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch.gch
+t1272944192
+s12952976
+
+NInfo.plist
+c0000000049F8E0D10000000000000351
+t1241047249
+s849
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636991#294636991#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636992.522734
+e294636992.621854
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m294636992#294636992#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m4300911832#2107"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636992.525386
+e294636992.629896
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m294636992#294636992#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m4300911832#2105"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/CustomCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/CustomCell.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636992.583641
+e294636992.652239
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m294636992#294636992#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m4300911832#2125"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/DetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636992.523939
+e294636992.627582
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m294636992#294636992#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m4300911832#2127"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/MyTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636992.521253
+e294636992.583481
+r1
+xCompileC
+xbuild/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m294636992#294636992#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m4300911832#2093"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib
+s294636991.614524
+e294636991.913583
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib
+lSLF07#2@44"CompileXIB en.lproj/DetailViewController.xib294636991#294636991#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/DetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/DetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib
+s294636991.613725
+e294636991.932206
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636991#294636991#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib4300911832#555"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/en.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist tableData.plist
+s294636991.618751
+e294636991.651155
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/tableData.plist
+xtableData.plist
+lSLF07#2@20"Copy tableData.plist294636991#294636991#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/tableData.plist4300911832#429"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 tableData.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/Default.png Default.png
+s294636991.616799
+e294636991.627044
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294636991#294636991#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Default.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/checked.png checked.png
+s294636991.615137
+e294636991.621815
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/checked.png
+xchecked.png
+lSLF07#2@16"Copy checked.png294636991#294636991#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/checked.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/checked.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CCpResource build/Debug-iphonesimulator/TouchCells.app/unchecked.png unchecked.png
+s294636991.615745
+e294636991.623438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TouchCells.app/unchecked.png
+xunchecked.png
+lSLF07#2@18"Copy unchecked.png294636991#294636991#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/unchecked.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/unchecked.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+s294636992.675100
+e294636992.691004
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TouchCells.app.dSYM build/Debug-iphonesimulator/TouchCells.app/TouchCells294636992#294636992#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells normal i386
+s294636992.652331
+e294636992.674936
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells
+xnormal
+xi386
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells294636992#294636992#0(0"0(0#0#0"4300911832#989"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/Objects-normal/i386/TouchCells.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/TouchCells0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist Info.plist
+s294636991.610459
+e294636991.613643
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636991#294636991#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Info.plist4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636991.932338
+e294636992.521092
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294636991#294636992#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Prefix.pch4300911832#1953"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/TouchCells-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/TouchCells.build/Debug-iphonesimulator/TouchCells.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cbqnqmopyngapydqnjizkndkyhtd/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+s294636992.691093
+e294636992.693994
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app294636992#294636992#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TouchCells/build/Debug-iphonesimulator/TouchCells.app0#
+

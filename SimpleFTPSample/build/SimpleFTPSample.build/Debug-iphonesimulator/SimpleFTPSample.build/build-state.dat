@@ -1,0 +1,543 @@
+TSimpleFTPSample
+v7
+r0
+t294581218.748678
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/Info.plist Resources/Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage1.png Resources/TestImage1.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage3.png Resources/TestImage3.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage2.png Resources/TestImage2.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage4.png Resources/TestImage4.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/NoImage.png Resources/NoImage.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/put.png Resources/put.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/get.png Resources/get.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/list.png Resources/list.png
+cCpResource build/Debug-iphonesimulator/FTPSample.app/mkdir.png Resources/mkdir.png
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/InitialDefaults.plist Resources/InitialDefaults.plist
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/PutController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/GetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/ListController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/URLGetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/CreateDirController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/dirent.h
+c00000000476344BE0000000000001551
+t1197687998
+s5457
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.h
+c000000004A997A510000000000000E47
+t1251572305
+s3655
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m
+c000000004A997A510000000000002DD1
+t1251572305
+s11729
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m
+c000000004A997A510000000000000D00
+t1251572305
+s3328
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.h
+c000000004A997A510000000000001048
+t1251572305
+s4168
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m
+c000000004A997A510000000000003182
+t1251572305
+s12674
+i"CreateDirController.h"
+i"AppDelegate.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.h
+c000000004A997A510000000000000F80
+t1251572305
+s3968
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m
+c000000004A997A510000000000002ECB
+t1251572305
+s11979
+i"GetController.h"
+i"AppDelegate.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.h
+c000000004A997A510000000000000FAB
+t1251572305
+s4011
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m
+c000000004B4EF2A30000000000005516
+t1263465123
+s21782
+i"ListController.h"
+i"AppDelegate.h"
+i<sys/socket.h>
+i<sys/dirent.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.h
+c000000004A997A5100000000000010B3
+t1251572305
+s4275
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m
+c000000004A997A510000000000003637
+t1251572305
+s13879
+i"PutController.h"
+i"AppDelegate.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/InitialDefaults.plist
+c000000004A997A51000000000000033C
+t1251572305
+s828
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib
+c000000004A997A510000000000016993
+t1251572305
+s92563
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/NoImage.png
+c000000004A997A510000000000000DCA
+t1251572305
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage1.png
+c000000004A997A5100000000000008D1
+t1251572305
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage2.png
+c000000004A997A51000000000000193B
+t1251572305
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage3.png
+c000000004A997A510000000000000D7D
+t1251572305
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage4.png
+c000000004A997A51000000000000181B
+t1251572305
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/get.png
+c000000004A997A51000000000000010F
+t1251572305
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/list.png
+c000000004A997A510000000000000196
+t1251572305
+s406
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/mkdir.png
+c000000004A997A51000000000000014A
+t1251572305
+s330
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/put.png
+c000000004A997A510000000000000125
+t1251572305
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.h
+c000000004A997A510000000000000F87
+t1251572305
+s3975
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m
+c000000004A997A510000000000002F5E
+t1251572305
+s12126
+i"URLGetController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app
+t1272888418
+s544
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app.dSYM
+t1272888418
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample
+t1272888418
+s102884
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/Info.plist
+t1272888415
+s562
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/InitialDefaults.plist
+t1272888416
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/MainWindow.nib
+t1272888416
+s13743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/NoImage.png
+t1272888415
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/PkgInfo
+t1272888415
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/TestImage1.png
+t1272888415
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/TestImage2.png
+t1272888415
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/TestImage3.png
+t1272888415
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/TestImage4.png
+t1272888415
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/get.png
+t1272888415
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/list.png
+t1272888415
+s406
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/mkdir.png
+t1272888415
+s330
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/put.png
+t1272888415
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/AppDelegate.o
+t1272888417
+s54020
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/CreateDirController.o
+t1272888418
+s63156
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/FTPSample.LinkFileList
+c000000004BDEBC5F00000000000004A5
+t1272888415
+s1189
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/GetController.o
+t1272888418
+s61840
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/ListController.o
+t1272888418
+s82288
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/PutController.o
+t1272888418
+s68084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/URLGetController.o
+t1272888418
+s62704
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/main.o
+t1272888417
+s6352
+
+NResources/Info.plist
+c000000004A997A510000000000000359
+t1251572305
+s857
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294581215#294581215#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581216.488707
+e294581217.285214
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m294581216#294581217#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m4300911832#2280"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/AppDelegate.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/CreateDirController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581218.174094
+e294581218.463499
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/CreateDirController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m294581218#294581218#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m4300911832#2279"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/CreateDirController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/CreateDirController.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/GetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581216.492495
+e294581218.271021
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/GetController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m294581216#294581218#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m4300911832#2267"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/GetController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/GetController.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/ListController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581217.285350
+e294581218.350557
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/ListController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m294581217#294581218#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m4300911832#2269"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/ListController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/ListController.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/PutController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581216.491169
+e294581218.173925
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/PutController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m294581216#294581218#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m4300911832#2267"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/PutController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/PutController.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/URLGetController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581217.541119
+e294581218.272869
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/URLGetController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m294581217#294581218#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m4300911832#2273"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/URLGetController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/URLGetController.o0#
+
+CCompileC build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294581216.489805
+e294581217.540914
+r1
+xCompileC
+xbuild/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m294581216#294581217#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m4300911832#2266"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/FTPSample-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Ancillary Code/main.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib
+s294581215.832373
+e294581216.488568
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294581215#294581216#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib4300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/MainWindow.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/InitialDefaults.plist Resources/InitialDefaults.plist
+s294581215.846904
+e294581216.052425
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/InitialDefaults.plist
+xResources/InitialDefaults.plist
+lSLF07#2@36"Copy Resources/InitialDefaults.plist294581215#294581216#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/InitialDefaults.plist4300911832#454"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/InitialDefaults.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/NoImage.png Resources/NoImage.png
+s294581215.838307
+e294581215.855392
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/NoImage.png
+xResources/NoImage.png
+lSLF07#2@26"Copy Resources/NoImage.png294581215#294581215#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/NoImage.png4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/NoImage.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage1.png Resources/TestImage1.png
+s294581215.833399
+e294581215.846570
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/TestImage1.png
+xResources/TestImage1.png
+lSLF07#2@29"Copy Resources/TestImage1.png294581215#294581215#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage1.png4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage1.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage2.png Resources/TestImage2.png
+s294581215.835215
+e294581215.906461
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/TestImage2.png
+xResources/TestImage2.png
+lSLF07#2@29"Copy Resources/TestImage2.png294581215#294581215#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage2.png4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage2.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage3.png Resources/TestImage3.png
+s294581215.834293
+e294581215.846791
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/TestImage3.png
+xResources/TestImage3.png
+lSLF07#2@29"Copy Resources/TestImage3.png294581215#294581215#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage3.png4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage3.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/TestImage4.png Resources/TestImage4.png
+s294581215.836293
+e294581215.905127
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/TestImage4.png
+xResources/TestImage4.png
+lSLF07#2@29"Copy Resources/TestImage4.png294581215#294581215#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage4.png4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/TestImage4.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/get.png Resources/get.png
+s294581215.843537
+e294581215.862819
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/get.png
+xResources/get.png
+lSLF07#2@22"Copy Resources/get.png294581215#294581215#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/get.png4300911832#553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/get.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/list.png Resources/list.png
+s294581215.844422
+e294581215.870200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/list.png
+xResources/list.png
+lSLF07#2@23"Copy Resources/list.png294581215#294581215#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/list.png4300911832#554"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/list.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/mkdir.png Resources/mkdir.png
+s294581215.845392
+e294581215.905881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/mkdir.png
+xResources/mkdir.png
+lSLF07#2@24"Copy Resources/mkdir.png294581215#294581215#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/mkdir.png4300911832#555"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/mkdir.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CCpResource build/Debug-iphonesimulator/FTPSample.app/put.png Resources/put.png
+s294581215.842601
+e294581215.867046
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FTPSample.app/put.png
+xResources/put.png
+lSLF07#2@22"Copy Resources/put.png294581215#294581215#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/put.png4300911832#553"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/put.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample
+s294581218.699519
+e294581218.729477
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/FTPSample.app.dSYM build/Debug-iphonesimulator/FTPSample.app/FTPSample294581218#294581218#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample normal i386
+s294581218.463628
+e294581218.699414
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample
+xnormal
+xi386
+lSLF07#2@118"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample294581218#294581218#0(0"0(0#0#0"4300911832#996"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/SimpleFTPSample.build/Debug-iphonesimulator/SimpleFTPSample.build/Objects-normal/i386/FTPSample.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CFNetwork -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/FTPSample0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/Info.plist Resources/Info.plist
+s294581215.827876
+e294581215.832241
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist294581215#294581215#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/Resources/Info.plist4300911832#554"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app/Info.plist0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app
+s294581218.729613
+e294581218.748620
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app
+lSLF07#2@109"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app294581218#294581218#0(0"0(0#0#0"4300911832#326"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleFTPSample/build/Debug-iphonesimulator/FTPSample.app0#
+

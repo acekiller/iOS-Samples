@@ -1,0 +1,624 @@
+TSimpleNetworkStreams
+v7
+r0
+t294591774.201529
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.plist Resources/Info.plist
+cCpResource build/Debug-iphonesimulator/NetStreams.app/download.png Resources/download.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/NetStreams.app/NoImage.png Resources/NoImage.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/upload.png Resources/upload.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/Info.html Resources/Info.html
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib
+cCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage4.png Resources/TestImage4.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage3.png Resources/TestImage3.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage2.png Resources/TestImage2.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage1.png Resources/TestImage1.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/receiveserverOn.png Resources/receiveserverOn.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/sendserverOn.png Resources/sendserverOn.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/sendserverOff.png Resources/sendserverOff.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/receiveserverOff.png Resources/receiveserverOff.png
+cCpResource build/Debug-iphonesimulator/NetStreams.app/info.png Resources/info.png
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/InfoController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveServerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendServerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.h
+c000000004A1C53500000000000000DF7
+t1243370320
+s3575
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m
+c000000004A1C535000000000000021C5
+t1243370320
+s8645
+i"AppDelegate.h"
+i"InfoController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.h
+c000000004A1C53500000000000000C9E
+t1243370320
+s3230
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m
+c000000004AAA1BDD0000000000000F19
+t1252662237
+s3865
+i"InfoController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m
+c000000004A02C9650000000000000D00
+t1241696613
+s3328
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.h
+c000000004A1D5F6B0000000000000F39
+t1243438955
+s3897
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m
+c000000004AAA1BDD00000000000028D2
+t1252662237
+s10450
+i"ReceiveController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.h
+c000000004A1D5F6B0000000000000F77
+t1243438955
+s3959
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m
+c000000004AAE1DBF0000000000004098
+t1252924863
+s16536
+i"ReceiveServerController.h"
+i"AppDelegate.h"
+i<CFNetwork/CFNetwork.h>
+i<sys/socket.h>
+i<netinet/in.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/Info.html
+c000000004A1C59970000000000000DDE
+t1243371927
+s3550
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib
+c000000004A1C53500000000000001D89
+t1243370320
+s7561
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib
+c000000004A983C5A000000000000F14E
+t1251490906
+s61774
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/NoImage.png
+c000000004A983C5A0000000000000DCA
+t1251490906
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage1.png
+c000000004A983C5A00000000000008D1
+t1251490906
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage2.png
+c000000004A983C5A000000000000193B
+t1251490906
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage3.png
+c000000004A983C5A0000000000000D7D
+t1251490906
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage4.png
+c000000004A983C5A000000000000181B
+t1251490906
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/download.png
+c000000004A02C965000000000000010F
+t1241696613
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/info.png
+c000000004A1D253A00000000000005AC
+t1243424058
+s1452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOff.png
+c000000004A0D36C50000000000000644
+t1242379973
+s1604
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOn.png
+c000000004A0D36C50000000000000610
+t1242379973
+s1552
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOff.png
+c000000004A0D36C50000000000000645
+t1242379973
+s1605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOn.png
+c000000004A0D36C5000000000000060D
+t1242379973
+s1549
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/upload.png
+c000000004A02C9650000000000000125
+t1241696613
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.h
+c000000004A1D5F6B0000000000000F55
+t1243438955
+s3925
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m
+c000000004AAE1DBF0000000000002974
+t1252924863
+s10612
+i"SendController.h"
+i"AppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.h
+c000000004A1D5F6B0000000000000FC1
+t1243438955
+s4033
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m
+c000000004A9AFAFD00000000000044B5
+t1251670781
+s17589
+i"SendServerController.h"
+i"AppDelegate.h"
+i<CFNetwork/CFNetwork.h>
+i<sys/socket.h>
+i<netinet/in.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app
+t1272898974
+s680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app.dSYM
+t1272898974
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.html
+t1272898966
+s3550
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.plist
+t1272898966
+s566
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/InfoView.nib
+t1272898968
+s1482
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/MainWindow.nib
+t1272898968
+s10202
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams
+t1272898974
+s82692
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NoImage.png
+t1272898966
+s3530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/PkgInfo
+t1272898966
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/TestImage1.png
+t1272898966
+s2257
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/TestImage2.png
+t1272898966
+s6459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/TestImage3.png
+t1272898966
+s3453
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/TestImage4.png
+t1272898966
+s6171
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/download.png
+t1272898966
+s271
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/info.png
+t1272898966
+s1452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/receiveserverOff.png
+t1272898966
+s1604
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/receiveserverOn.png
+t1272898966
+s1552
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/sendserverOff.png
+t1272898966
+s1605
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/sendserverOn.png
+t1272898966
+s1549
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/upload.png
+t1272898966
+s293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/AppDelegate.o
+t1272898973
+s48428
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/InfoController.o
+t1272898973
+s33584
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/NetStreams.LinkFileList
+c000000004BDEE596000000000000051B
+t1272898966
+s1307
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveController.o
+t1272898973
+s57728
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveServerController.o
+t1272898973
+s70784
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendController.o
+t1272898973
+s57668
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendServerController.o
+t1272898973
+s73388
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/main.o
+t1272898972
+s6372
+
+NResources/Info.plist
+c000000004A02C9650000000000000359
+t1241696613
+s857
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294591766#294591766#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/AppDelegate.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591769.052556
+e294591773.121471
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m294591769#294591773#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m4300911832#2409"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/AppDelegate.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/InfoController.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591772.025297
+e294591773.120160
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/InfoController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m294591772#294591773#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m4300911832#2415"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/InfoController.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/InfoController.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591769.051354
+e294591773.894118
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m294591769#294591773#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m4300911832#2404"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveController.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveServerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591773.120286
+e294591773.769683
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveServerController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m294591773#294591773#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m4300911832#2416"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/ReceiveServerController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/ReceiveServerController.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591769.031206
+e294591773.832316
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m294591769#294591773#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m4300911832#2398"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendController.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendServerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591773.121550
+e294591773.807743
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendServerController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m294591773#294591773#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m4300911832#2410"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/SendServerController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/SendServerController.o0#
+
+CCompileC build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/main.o "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294591769.053931
+e294591772.025140
+r1
+xCompileC
+xbuild/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m294591769#294591772#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m4300911832#2395"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-prototypes -Wunused-function -Wunused-label -Wunused-parameter -Wunused-variable -Wunused-value -Wshadow -Wshorten-64-to-32 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/NetStreams-project-headers.hmap -Wall -Wextra -Wfloat-equal -Wpointer-arith -Wstrict-prototypes -Wold-style-definition -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/DerivedSources -c "/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Ancillary Code/main.m" -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib
+s294591766.695695
+e294591768.963328
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib
+lSLF07#2@33"CompileXIB Resources/InfoView.xib294591766#294591768#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/InfoView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/InfoView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib
+s294591766.692374
+e294591769.031072
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294591766#294591769#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/Info.html Resources/Info.html
+s294591766.694804
+e294591766.766386
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/Info.html
+xResources/Info.html
+lSLF07#2@24"Copy Resources/Info.html294591766#294591766#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/Info.html4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/Info.html /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/NoImage.png Resources/NoImage.png
+s294591766.693061
+e294591766.740399
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/NoImage.png
+xResources/NoImage.png
+lSLF07#2@26"Copy Resources/NoImage.png294591766#294591766#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/NoImage.png4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/NoImage.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage1.png Resources/TestImage1.png
+s294591766.747646
+e294591766.766572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/TestImage1.png
+xResources/TestImage1.png
+lSLF07#2@29"Copy Resources/TestImage1.png294591766#294591766#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage1.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage1.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage2.png Resources/TestImage2.png
+s294591766.746716
+e294591766.766200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/TestImage2.png
+xResources/TestImage2.png
+lSLF07#2@29"Copy Resources/TestImage2.png294591766#294591766#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage2.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage2.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage3.png Resources/TestImage3.png
+s294591766.745569
+e294591766.766006
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/TestImage3.png
+xResources/TestImage3.png
+lSLF07#2@29"Copy Resources/TestImage3.png294591766#294591766#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage3.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage3.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/TestImage4.png Resources/TestImage4.png
+s294591766.744329
+e294591766.765800
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/TestImage4.png
+xResources/TestImage4.png
+lSLF07#2@29"Copy Resources/TestImage4.png294591766#294591766#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage4.png4300911832#576"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/TestImage4.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/download.png Resources/download.png
+s294591766.691592
+e294591766.738999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/download.png
+xResources/download.png
+lSLF07#2@27"Copy Resources/download.png294591766#294591766#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/download.png4300911832#574"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/download.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/info.png Resources/info.png
+s294591766.768983
+e294591766.800503
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/info.png
+xResources/info.png
+lSLF07#2@23"Copy Resources/info.png294591766#294591766#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/info.png4300911832#570"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/info.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/receiveserverOff.png Resources/receiveserverOff.png
+s294591766.766880
+e294591766.801065
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/receiveserverOff.png
+xResources/receiveserverOff.png
+lSLF07#2@35"Copy Resources/receiveserverOff.png294591766#294591766#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOff.png4300911832#582"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOff.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/receiveserverOn.png Resources/receiveserverOn.png
+s294591766.749855
+e294591766.766757
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/receiveserverOn.png
+xResources/receiveserverOn.png
+lSLF07#2@34"Copy Resources/receiveserverOn.png294591766#294591766#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOn.png4300911832#581"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/receiveserverOn.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/sendserverOff.png Resources/sendserverOff.png
+s294591766.764047
+e294591766.800757
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/sendserverOff.png
+xResources/sendserverOff.png
+lSLF07#2@32"Copy Resources/sendserverOff.png294591766#294591766#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOff.png4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOff.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/sendserverOn.png Resources/sendserverOn.png
+s294591766.751977
+e294591766.770918
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/sendserverOn.png
+xResources/sendserverOn.png
+lSLF07#2@31"Copy Resources/sendserverOn.png294591766#294591766#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOn.png4300911832#578"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/sendserverOn.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CCpResource build/Debug-iphonesimulator/NetStreams.app/upload.png Resources/upload.png
+s294591766.693916
+e294591766.744170
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NetStreams.app/upload.png
+xResources/upload.png
+lSLF07#2@25"Copy Resources/upload.png294591766#294591766#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/upload.png4300911832#572"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/upload.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams
+s294591774.081774
+e294591774.197788
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/NetStreams.app.dSYM build/Debug-iphonesimulator/NetStreams.app/NetStreams294591774#294591774#0(0"0(0#0#120"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams4300911832#476"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams normal i386
+s294591773.894215
+e294591774.081606
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams
+xnormal
+xi386
+lSLF07#2@125"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams294591773#294591774#0(0"0(0#0#0"4300911832#1058"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/SimpleNetworkStreams.build/Debug-iphonesimulator/SimpleNetworkStreams.build/Objects-normal/i386/NetStreams.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/NetStreams0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.plist Resources/Info.plist
+s294591766.680245
+e294591766.691466
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist294591766#294591766#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/Resources/Info.plist4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app/Info.plist0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app
+s294591774.197895
+e294591774.201480
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app
+lSLF07#2@115"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app294591774#294591774#0(0"0(0#0#0"4300911832#337"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SimpleNetworkStreams/build/Debug-iphonesimulator/NetStreams.app0#
+

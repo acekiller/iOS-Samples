@@ -1,0 +1,412 @@
+TFormulaic
+v7
+r0
+t294630225.665738
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Info.plist Formulaic-Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib
+cCpResource build/Debug-iphonesimulator/Formulaic.app/Sound.aiff Sound.aiff
+cCpResource build/Debug-iphonesimulator/Formulaic.app/table.png table.png
+cCpResource build/Debug-iphonesimulator/Formulaic.app/countdown-off.png countdown-off.png
+cCpResource build/Debug-iphonesimulator/Formulaic.app/countdown-on.png countdown-on.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch.gch Prefix_header.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/GraphingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/TabularDataCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004A0DADB6000000000000D5B9
+t1242410422
+s54713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.h
+c000000004A2F251B0000000000000AB2
+t1244603675
+s2738
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m
+c000000004A2F251B0000000000000B0F
+t1244603675
+s2831
+i"AppDelegate.h"
+i"ViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.h
+c000000004A2F251B0000000000000A88
+t1244603675
+s2696
+i<QuartzCore/QuartzCore.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m
+c000000004A2F251B0000000000002022
+t1244603675
+s8226
+i"GraphingView.h"
+i"ViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.h
+c000000004A2F251B0000000000000AA1
+t1244603675
+s2721
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m
+c000000004A2F251B0000000000000ECC
+t1244603675
+s3788
+i"TabularDataCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.h
+c000000004A2F251B0000000000000D16
+t1244603675
+s3350
+i"GraphingView.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m
+c000000004A69E40700000000000020A9
+t1248453639
+s8361
+i"ViewController.h"
+i"TabularDataCell.h"
+i<AudioToolbox/AudioServices.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib
+c000000004A2F251B00000000000028DE
+t1244603675
+s10462
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Prefix_header.pch
+c000000004A2F251B00000000000009E7
+t1244603675
+s2535
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Sound.aiff
+c000000004A2F251B0000000000006680
+t1244603675
+s26240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib
+c000000004A2F251B0000000000008A9D
+t1244603675
+s35485
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app
+t1272937425
+s374
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app.dSYM
+t1272937425
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic
+t1272937425
+s38368
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Info.plist
+t1272937423
+s593
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/MainWindow.nib
+t1272937424
+s1461
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/PkgInfo
+t1272937423
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Sound.aiff
+t1272937424
+s26240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/ViewController.nib
+t1272937424
+s8014
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/countdown-off.png
+t1272937424
+s5743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/countdown-on.png
+t1272937424
+s5961
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/table.png
+t1272937424
+s1673
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/AppDelegate.o
+t1272937425
+s39316
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/Formulaic.LinkFileList
+c000000004BDF7BCF00000000000002EF
+t1272937423
+s751
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/GraphingView.o
+t1272937425
+s25656
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/TabularDataCell.o
+t1272937425
+s21524
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/ViewController.o
+t1272937425
+s48136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/main.o
+t1272937425
+s5976
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-off.png
+c000000004A2F251B000000000000166F
+t1244603675
+s5743
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-on.png
+c000000004A2F251B0000000000001749
+t1244603675
+s5961
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m
+c000000004A2F251B0000000000000A4F
+t1244603675
+s2639
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/table.png
+c000000004A2F251B0000000000000689
+t1244603675
+s1673
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch.gch
+t1272937425
+s12952976
+
+NFormulaic-Info.plist
+c000000004A2F251B0000000000000387
+t1244603675
+s903
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294630223#294630223#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630225.394616
+e294630225.518680
+r1
+xCompileC
+xbuild/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m294630225#294630225#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m4300911832#2100"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/GraphingView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630225.398444
+e294630225.563088
+r1
+xCompileC
+xbuild/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/GraphingView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m294630225#294630225#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m4300911832#2102"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/GraphingView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/GraphingView.o0#
+
+CCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/TabularDataCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630225.470170
+e294630225.561889
+r1
+xCompileC
+xbuild/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/TabularDataCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m294630225#294630225#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m4300911832#2108"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/TabularDataCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/TabularDataCell.o0#
+
+CCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/ViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630225.396587
+e294630225.572985
+r1
+xCompileC
+xbuild/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/ViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m294630225#294630225#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m4300911832#2106"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Classes/ViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/ViewController.o0#
+
+CCompileC build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630225.360009
+e294630225.469997
+r1
+xCompileC
+xbuild/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m294630225#294630225#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m4300911832#2078"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib
+s294630224.000328
+e294630224.285961
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294630224#294630224#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib4300911832#533"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib
+s294630224.001407
+e294630224.512052
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib
+lSLF07#2@29"CompileXIB ViewController.xib294630224#294630224#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/ViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/ViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/Formulaic.app/Sound.aiff Sound.aiff
+s294630224.002212
+e294630224.009779
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Formulaic.app/Sound.aiff
+xSound.aiff
+lSLF07#2@15"Copy Sound.aiff294630224#294630224#0(0"0(0#0#66"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Sound.aiff4300911832#507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Sound.aiff /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app0#
+
+CCpResource build/Debug-iphonesimulator/Formulaic.app/countdown-off.png countdown-off.png
+s294630224.003990
+e294630224.017088
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Formulaic.app/countdown-off.png
+xcountdown-off.png
+lSLF07#2@22"Copy countdown-off.png294630224#294630224#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-off.png4300911832#514"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-off.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app0#
+
+CCpResource build/Debug-iphonesimulator/Formulaic.app/countdown-on.png countdown-on.png
+s294630224.004839
+e294630224.016790
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Formulaic.app/countdown-on.png
+xcountdown-on.png
+lSLF07#2@21"Copy countdown-on.png294630224#294630224#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-on.png4300911832#513"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/countdown-on.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app0#
+
+CCpResource build/Debug-iphonesimulator/Formulaic.app/table.png table.png
+s294630224.003102
+e294630224.013437
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Formulaic.app/table.png
+xtable.png
+lSLF07#2@14"Copy table.png294630224#294630224#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/table.png4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/table.png /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic
+s294630225.596901
+e294630225.662633
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Formulaic.app.dSYM build/Debug-iphonesimulator/Formulaic.app/Formulaic294630225#294630225#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic4300911832#440"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic normal i386
+s294630225.573118
+e294630225.596765
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic294630225#294630225#0(0"0(0#0#0"4300911832#1003"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Objects-normal/i386/Formulaic.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Formulaic0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Info.plist Formulaic-Info.plist
+s294630223.996058
+e294630224.000179
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Info.plist
+xFormulaic-Info.plist
+lSLF07#2@28"Process Formulaic-Info.plist294630223#294630224#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Formulaic-Info.plist4300911832#536"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Formulaic-Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch.gch Prefix_header.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294630224.512196
+e294630225.359898
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch.gch
+xPrefix_header.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Prefix_header.pch294630224#294630225#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Prefix_header.pch4300911832#1948"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/Formulaic-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Formulaic.build/Debug-iphonesimulator/Formulaic.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/Prefix_header.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix_header-gdsqcaqhrpeuaxedwmmclabqtprw/Prefix_header.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app
+s294630225.662725
+e294630225.665695
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app
+lSLF07#2@103"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app294630225#294630225#0(0"0(0#0#0"4300911832#314"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/Formulaic/build/Debug-iphonesimulator/Formulaic.app0#
+

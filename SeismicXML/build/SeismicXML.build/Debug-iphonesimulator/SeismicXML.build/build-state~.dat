@@ -1,0 +1,432 @@
+TSeismicXML
+v7
+r0
+t294636846.340130
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/2.0.png 2.0.png
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/3.0.png 3.0.png
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/4.0.png 4.0.png
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/5.0.png 5.0.png
+cCpResource build/Debug-iphonesimulator/SeismicXML.app/Icon.png Icon.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch.gch SeismicXML_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXMLAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/Earthquake.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/2.0.png
+c000000004A11CE43000000000000141F
+t1242680899
+s5151
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/3.0.png
+c000000004A11CE43000000000000149B
+t1242680899
+s5275
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/4.0.png
+c000000004A11CE43000000000000151B
+t1242680899
+s5403
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/5.0.png
+c000000004A11CE430000000000001391
+t1242680899
+s5009
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.h
+c000000004BA3E8A20000000000000DE6
+t1269033122
+s3558
+i<Foundation/Foundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m
+c000000004BA3E8A20000000000000AEF
+t1269033122
+s2799
+i"Earthquake.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.h
+c000000004BA3E8A20000000000000BAD
+t1269033122
+s2989
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m
+c000000004BA3E8A20000000000002567
+t1269033122
+s9575
+i"RootViewController.h"
+i"Earthquake.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.h
+c000000004BA3E8A20000000000000F83
+t1269033122
+s3971
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m
+c000000004BA3E8A2000000000000408C
+t1269033122
+s16524
+i"SeismicXMLAppDelegate.h"
+i"RootViewController.h"
+i"Earthquake.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Default.png
+c000000004A11CE4300000000000019C2
+t1242680899
+s6594
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Icon.png
+c000000004A11CE430000000000000FBA
+t1242680899
+s4026
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/SeismicXML_Prefix.pch
+c000000004A11CE430000000000000059
+t1242680899
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app
+t1272944046
+s476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app.dSYM
+t1272944046
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/2.0.png
+t1272944044
+s5151
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/3.0.png
+t1272944044
+s5275
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/4.0.png
+t1272944044
+s5403
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/5.0.png
+t1272944044
+s5009
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Default.png
+t1272944044
+s6594
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Icon.png
+t1272944044
+s4026
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Info.plist
+t1272944044
+s667
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/MainWindow.nib
+t1272944045
+s2100
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/PkgInfo
+t1272944044
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/RootView.nib
+t1272944045
+s1389
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML
+t1272944046
+s41744
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/en.lproj/Localizable.strings
+t1272944044
+s350
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/Earthquake.o
+t1272944046
+s11988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/RootViewController.o
+t1272944046
+s55436
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXML.LinkFileList
+c000000004BDF95AC000000000000026D
+t1272944044
+s621
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXMLAppDelegate.o
+t1272944046
+s72108
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/main.o
+t1272944046
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/Localizable.strings
+c000000004A11CE43000000000000053C
+t1242680899
+s1340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib
+c000000004A11CE430000000000002D79
+t1242680899
+s11641
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib
+c000000004A11CE430000000000001A8F
+t1242680899
+s6799
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m
+c000000004BA3E8A20000000000000A65
+t1269033122
+s2661
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch.gch
+t1272944046
+s12952976
+
+NInfo.plist
+c000000004A11CE4300000000000003D3
+t1242680899
+s979
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636844#294636844#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/Earthquake.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636846.160431
+e294636846.237786
+r1
+xCompileC
+xbuild/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/Earthquake.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m294636846#294636846#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m4300911832#2115"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/Earthquake.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/Earthquake.o0#
+
+CCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636846.159048
+e294636846.279419
+r1
+xCompileC
+xbuild/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m294636846#294636846#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m4300911832#2131"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXMLAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636846.157653
+e294636846.300419
+r1
+xCompileC
+xbuild/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXMLAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m294636846#294636846#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m4300911832#2137"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Classes/SeismicXMLAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXMLAppDelegate.o0#
+
+CCompileC build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636846.156384
+e294636846.216830
+r1
+xCompileC
+xbuild/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m294636846#294636846#0(0"0(0#0#63"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m4300911832#2095"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib
+s294636844.927947
+e294636845.286128
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636844#294636845#0(0"0(0#0#80"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib4300911832#546"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib
+s294636844.937499
+e294636845.272766
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib
+lSLF07#2@32"CompileXIB en.lproj/RootView.xib294636844#294636845#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib4300911832#542"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/RootView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/RootView.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294636844.949383
+e294636844.992393
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294636844#294636844#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/en.lproj/Localizable.strings4300911832#525"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/2.0.png 2.0.png
+s294636844.929405
+e294636844.940086
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/2.0.png
+x2.0.png
+lSLF07#2@12"Copy 2.0.png294636844#294636844#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/2.0.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/2.0.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/3.0.png 3.0.png
+s294636844.930256
+e294636844.958889
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/3.0.png
+x3.0.png
+lSLF07#2@12"Copy 3.0.png294636844#294636844#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/3.0.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/3.0.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/4.0.png 4.0.png
+s294636844.931133
+e294636844.941915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/4.0.png
+x4.0.png
+lSLF07#2@12"Copy 4.0.png294636844#294636844#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/4.0.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/4.0.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/5.0.png 5.0.png
+s294636844.933117
+e294636844.946696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/5.0.png
+x5.0.png
+lSLF07#2@12"Copy 5.0.png294636844#294636844#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/5.0.png4300911832#508"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/5.0.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/Default.png Default.png
+s294636844.928733
+e294636844.939888
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294636844#294636844#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Default.png4300911832#512"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CCpResource build/Debug-iphonesimulator/SeismicXML.app/Icon.png Icon.png
+s294636844.935214
+e294636844.949249
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SeismicXML.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294636844#294636844#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Icon.png4300911832#509"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML
+s294636846.321365
+e294636846.336682
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/SeismicXML.app.dSYM build/Debug-iphonesimulator/SeismicXML.app/SeismicXML294636846#294636846#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML4300911832#446"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML normal i386
+s294636846.300518
+e294636846.321256
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML
+xnormal
+xi386
+lSLF07#2@115"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML294636846#294636846#0(0"0(0#0#0"4300911832#988"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/Objects-normal/i386/SeismicXML.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/SeismicXML0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Info.plist Info.plist
+s294636844.923719
+e294636844.927829
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636844#294636844#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/Info.plist4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch.gch SeismicXML_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636845.286256
+e294636846.156242
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch.gch
+xSeismicXML_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SeismicXML_Prefix.pch294636845#294636846#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/SeismicXML_Prefix.pch4300911832#1966"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/SeismicXML-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/SeismicXML.build/Debug-iphonesimulator/SeismicXML.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/SeismicXML_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeismicXML_Prefix-cxnkktbodjaqkhetfdcewogfqofi/SeismicXML_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app
+s294636846.336793
+e294636846.340056
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app
+lSLF07#2@105"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app294636846#294636846#0(0"0(0#0#0"4300911832#317"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/SeismicXML/build/Debug-iphonesimulator/SeismicXML.app0#
+

@@ -1,0 +1,444 @@
+TLocations
+v7
+r0
+t294634513.390195
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib
+cCpResource build/Debug-iphonesimulator/Locations.app/ReadMe.txt ReadMe.txt
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch.gch Locations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations.momd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/LocationsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Event.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/EventDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Photo.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/UIImageToDataTransformer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000181680
+t1242278878
+s1578624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B00000000000423F0
+t1242354571
+s271344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.h
+c000000004BA3FDE90000000000000B98
+t1269038569
+s2968
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m
+c000000004BA3FDE90000000000000C1B
+t1269038569
+s3099
+i"Event.h"
+i"Photo.h"
+i"UIImageToDataTransformer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.h
+c000000004BA3FDE90000000000000CAF
+t1269038569
+s3247
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m
+c000000004BA3FDE900000000000019F9
+t1269038569
+s6649
+i"EventDetailViewController.h"
+i"Event.h"
+i"Photo.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib
+c000000004A26BD4A000000000000603A
+t1244052810
+s24634
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.h
+c000000004BA3FDE90000000000000D29
+t1269038569
+s3369
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m
+c000000004BA3FDE90000000000001B99
+t1269038569
+s7065
+i"LocationsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.h
+c000000004BA3FDE90000000000000AAD
+t1269038569
+s2733
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m
+c000000004BA3FDE90000000000000A69
+t1269038569
+s2665
+i"Photo.h"
+i"Event.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.h
+c000000004BA3FDE90000000000000CC1
+t1269038569
+s3265
+i<CoreLocation/CoreLocation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m
+c000000004BA3FDE90000000000002704
+t1269038569
+s9988
+i"RootViewController.h"
+i"LocationsAppDelegate.h"
+i"Event.h"
+i"EventDetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.h
+c000000004BA3FDE90000000000000A73
+t1269038569
+s2675
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m
+c000000004BA3FDE90000000000000BB0
+t1269038569
+s2992
+i"UIImageToDataTransformer.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld
+c000000004BA3FDE900000000000000AA
+t1269038569
+s170
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations_Prefix.pch
+c000000004A26BD4A000000000000015C
+t1244052810
+s348
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib
+c000000004A26BD4A0000000000001ED7
+t1244052810
+s7895
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/ReadMe.txt
+c000000004A26D0D90000000000000FD9
+t1244057817
+s4057
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app
+t1272941713
+s306
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app.dSYM
+t1272941713
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/EventDetailViewController.nib
+t1272941712
+s3506
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Info.plist
+t1272941712
+s599
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations
+t1272941713
+s42344
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations.momd
+t1272941713
+s170
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/MainWindow.nib
+t1272941712
+s1331
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/PkgInfo
+t1272941712
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/ReadMe.txt
+t1272941712
+s4057
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Event.o
+t1272941713
+s11276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/EventDetailViewController.o
+t1272941713
+s51300
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Locations.LinkFileList
+c000000004BDF8C900000000000000455
+t1272941712
+s1109
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/LocationsAppDelegate.o
+t1272941713
+s50296
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Photo.o
+t1272941713
+s5168
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/RootViewController.o
+t1272941713
+s56788
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/UIImageToDataTransformer.o
+t1272941713
+s8512
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/main.o
+t1272941713
+s5984
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m
+c000000004A26BD4A00000000000000E6
+t1244052810
+s230
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch.gch
+t1272941713
+s13801648
+
+NInfo.plist
+c000000004A26BD4A000000000000038D
+t1244052810
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294634512#294634512#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Event.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.202619
+e294634513.286661
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Event.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m294634513#294634513#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m4300911832#2149"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Event.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Event.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/EventDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.215381
+e294634513.344173
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/EventDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m294634513#294634513#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m4300911832#2189"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/EventDetailViewController.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/LocationsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.142310
+e294634513.252466
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/LocationsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m294634513#294634513#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m4300911832#2179"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/LocationsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/LocationsAppDelegate.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Photo.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.252622
+e294634513.311767
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Photo.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m294634513#294634513#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m4300911832#2149"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/Photo.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Photo.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.143607
+e294634513.299943
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m294634513#294634513#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m4300911832#2175"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/UIImageToDataTransformer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.286829
+e294634513.349087
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/UIImageToDataTransformer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m294634513#294634513#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m4300911832#2187"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/UIImageToDataTransformer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/UIImageToDataTransformer.o0#
+
+CCompileC build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634513.141187
+e294634513.202459
+r1
+xCompileC
+xbuild/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m294634513#294634513#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m4300911832#2139"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib
+s294634512.141793
+e294634512.475645
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib
+lSLF07#2@48"CompileXIB Classes/EventDetailViewController.xib294634512#294634512#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib4300911832#586"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/EventDetailViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Classes/EventDetailViewController.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib
+s294634512.140506
+e294634512.408257
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294634512#294634512#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib4300911832#548"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Locations.app/ReadMe.txt ReadMe.txt
+s294634512.142818
+e294634512.150225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Locations.app/ReadMe.txt
+xReadMe.txt
+lSLF07#2@15"Copy ReadMe.txt294634512#294634512#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/ReadMe.txt4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/ReadMe.txt /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app0#
+
+CDataModelVersionCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations.momd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld
+s294634513.140349
+e294634513.215019
+r1
+xDataModelVersionCompile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations.momd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld
+lSLF07#2@103"DataModelVersionCompile build/Debug-iphonesimulator/Locations.app/Locations.momd Locations.xcdatamodeld294634513#294634513#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld4300911832#458"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations.xcdatamodeld /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations.momd0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations
+s294634513.370023
+e294634513.387001
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Locations.app.dSYM build/Debug-iphonesimulator/Locations.app/Locations294634513#294634513#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations4300911832#455"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations normal i386
+s294634513.349228
+e294634513.369920
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations
+xnormal
+xi386
+lSLF07#2@117"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations294634513#294634513#0(0"0(0#0#0"4300911832#1026"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Objects-normal/i386/Locations.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework CoreLocation -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Locations0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Info.plist Info.plist
+s294634512.129558
+e294634512.140305
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294634512#294634512#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Info.plist4300911832#541"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch.gch Locations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294634512.475770
+e294634513.140249
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch.gch
+xLocations_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Locations_Prefix.pch294634512#294634513#0(0"0(0#0#81"/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations_Prefix.pch4300911832#2007"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/Locations-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Locations.build/Debug-iphonesimulator/Locations.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/Locations_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Locations_Prefix-dreotwglyywhgzaesbuhclkgjsry/Locations_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app
+s294634513.387127
+e294634513.390135
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app
+lSLF07#2@108"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app294634513#294634513#0(0"0(0#0#0"4300911832#324"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/PhotoLocations/build/Debug-iphonesimulator/Locations.app0#
+

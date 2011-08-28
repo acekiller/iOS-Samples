@@ -1,0 +1,533 @@
+TCustomTableViewCell
+v7
+r0
+t294632698.055955
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png 12-6PM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png 6-12AM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png 6-12PM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png 12-6AM.png
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png Default.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+cCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png Icon.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch.gch CustomTableViewCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6AM.png
+c000000004A21E53E00000000000007E9
+t1243735358
+s2025
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6PM.png
+c000000004A21E53E00000000000009B8
+t1243735358
+s2488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12AM.png
+c000000004A21E53E0000000000000947
+t1243735358
+s2375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12PM.png
+c000000004A21E53E00000000000008AB
+t1243735358
+s2219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.h
+c000000004BA3E7810000000000000BAB
+t1269032833
+s2987
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m
+c000000004BA3E78100000000000015FF
+t1269032833
+s5631
+i"CustomTableViewCellAppDelegate.h"
+i"RootViewController.h"
+i"Region.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.h
+c000000004BA3E7810000000000000BC9
+t1269032833
+s3017
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m
+c000000004BA3E781000000000000115D
+t1269032833
+s4445
+i"Region.h"
+i"TimeZoneWrapper.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.h
+c000000004BA3E7810000000000000B88
+t1269032833
+s2952
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m
+c000000004BA3E78100000000000022B3
+t1269032833
+s8883
+i"RootViewController.h"
+i"TimeZoneCell.h"
+i"TimeZoneWrapper.h"
+i"Region.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.h
+c000000004BA3E7810000000000000B6F
+t1269032833
+s2927
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m
+c000000004BA3E7810000000000000EA7
+t1269032833
+s3751
+i"TimeZoneCell.h"
+i"TimeZoneWrapper.h"
+i"TimeZoneView.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.h
+c000000004BA3E7810000000000000C2F
+t1269032833
+s3119
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m
+c000000004BA3E78100000000000020F8
+t1269032833
+s8440
+i"TimeZoneView.h"
+i"TimeZoneWrapper.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.h
+c000000004BA3E7810000000000000CB8
+t1269032833
+s3256
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m
+c000000004BA3E7810000000000001B43
+t1269032833
+s6979
+i"TimeZoneWrapper.h"
+i"CustomTableViewCellAppDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch
+c000000004A21E53E00000000000000CF
+t1243735358
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Default.png
+c000000004A21E53E0000000000000965
+t1243735358
+s2405
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Icon.png
+c000000004A21E53E0000000000001002
+t1243735358
+s4098
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+c000000004A21E53E0000000000001D23
+t1243735358
+s7459
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCell.LinkFileList
+c000000004BDF85780000000000000577
+t1272939896
+s1399
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o
+t1272939897
+s46452
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o
+t1272939897
+s16188
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o
+t1272939897
+s46128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o
+t1272939897
+s21512
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o
+t1272939898
+s22168
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o
+t1272939897
+s23140
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o
+t1272939897
+s6032
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+t1272939898
+s510
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM
+t1272939898
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png
+t1272939896
+s2025
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png
+t1272939896
+s2488
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png
+t1272939896
+s2375
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png
+t1272939896
+s2219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+t1272939898
+s49088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png
+t1272939896
+s2405
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png
+t1272939896
+s4098
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist
+t1272939896
+s674
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/MainWindow.nib
+t1272939897
+s1341
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/PkgInfo
+t1272939896
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings
+t1272939896
+s100
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings
+t1272939896
+s76
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings
+t1272939896
+s103
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/de.lproj/Localizable.strings
+c000000004A21E53E0000000000000044
+t1243735358
+s68
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/en.lproj/Localizable.strings
+c000000004A21E53E0000000000000090
+t1243735358
+s144
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/fr.lproj/Localizable.strings
+c000000004A21E53E0000000000000047
+t1243735358
+s71
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m
+c000000004BA3E7810000000000000A64
+t1269032833
+s2660
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch.gch
+t1272939897
+s12952976
+
+NInfo.plist
+c000000004A3C3029000000000000038D
+t1245458473
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294632696#294632696#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.800134
+e294632697.912481
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m294632697#294632697#0(0"0(0#0#123"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m4300911832#2641"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/CustomTableViewCellAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCellAppDelegate.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.885461
+e294632697.992287
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m294632697#294632697#0(0"0(0#0#99"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m4300911832#2593"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/Region.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/Region.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.801397
+e294632697.955598
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m294632697#294632697#0(0"0(0#0#111"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m4300911832#2617"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/RootViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.798941
+e294632697.885297
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m294632697#294632697#0(0"0(0#0#105"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m4300911832#2605"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneCell.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.912651
+e294632698.010780
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m294632697#294632698#0(0"0(0#0#105"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m4300911832#2605"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneView.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneView.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.862839
+e294632697.987042
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m294632697#294632697#0(0"0(0#0#108"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m4300911832#2611"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Classes/TimeZoneWrapper.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/TimeZoneWrapper.o0#
+
+CCompileC build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.797832
+e294632697.862673
+r1
+xCompileC
+xbuild/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m294632697#294632697#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m4300911832#2581"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+s294632696.888793
+e294632697.152925
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294632696#294632697#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib4300911832#624"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/MainWindow.xib0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings de.lproj/Localizable.strings
+s294632696.896297
+e294632696.937751
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj/Localizable.strings
+xde.lproj/Localizable.strings
+lSLF07#2@33"Copy de.lproj/Localizable.strings294632696#294632696#0(0"0(0#0#111"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/de.lproj/Localizable.strings4300911832#585"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary de.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/de.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s294632696.890410
+e294632696.936353
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings294632696#294632696#0(0"0(0#0#111"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/en.lproj/Localizable.strings4300911832#586"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/en.lproj0#
+
+CCopyStringsFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings fr.lproj/Localizable.strings
+s294632696.891594
+e294632696.938683
+r1
+xCopyStringsFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj/Localizable.strings
+xfr.lproj/Localizable.strings
+lSLF07#2@33"Copy fr.lproj/Localizable.strings294632696#294632696#0(0"0(0#0#111"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/fr.lproj/Localizable.strings4300911832#585"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary fr.lproj/Localizable.strings --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/fr.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png 12-6AM.png
+s294632696.876764
+e294632696.890293
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/12-6AM.png
+x12-6AM.png
+lSLF07#2@15"Copy 12-6AM.png294632696#294632696#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6AM.png4300911832#598"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6AM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png 12-6PM.png
+s294632696.873375
+e294632696.889704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/12-6PM.png
+x12-6PM.png
+lSLF07#2@15"Copy 12-6PM.png294632696#294632696#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6PM.png4300911832#598"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/12-6PM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png 6-12AM.png
+s294632696.874247
+e294632696.889913
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/6-12AM.png
+x6-12AM.png
+lSLF07#2@15"Copy 6-12AM.png294632696#294632696#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12AM.png4300911832#598"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12AM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png 6-12PM.png
+s294632696.875687
+e294632696.890105
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/6-12PM.png
+x6-12PM.png
+lSLF07#2@15"Copy 6-12PM.png294632696#294632696#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12PM.png4300911832#598"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/6-12PM.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Default.png Default.png
+s294632696.887943
+e294632696.896168
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294632696#294632696#0(0"0(0#0#94"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Default.png4300911832#599"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CCpResource build/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png Icon.png
+s294632696.936485
+e294632696.943639
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomTableViewCell.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294632696#294632696#0(0"0(0#0#91"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Icon.png4300911832#596"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+s294632698.033791
+e294632698.051958
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell294632698#294632698#0(0"0(0#0#154"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell normal i386
+s294632698.010917
+e294632698.033685
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell
+xnormal
+xi386
+lSLF07#2@159"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell294632698#294632698#0(0"0(0#0#0"4300911832#1142"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/Objects-normal/i386/CustomTableViewCell.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/CustomTableViewCell0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist Info.plist
+s294632696.869564
+e294632696.873254
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294632696#294632696#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/Info.plist4300911832#627"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch.gch CustomTableViewCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632697.153092
+e294632697.797722
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch.gch
+xCustomTableViewCell_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CustomTableViewCell_Prefix.pch294632697#294632697#0(0"0(0#0#113"/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch4300911832#2417"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/CustomTableViewCell-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/CustomTableViewCell.build/Debug-iphonesimulator/CustomTableViewCell.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/CustomTableViewCell_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableViewCell_Prefix-gpxnimlchxzdlqgvlnnmkgdvjbta/CustomTableViewCell_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+s294632698.052084
+e294632698.055885
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app
+lSLF07#2@140"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app294632698#294632698#0(0"0(0#0#0"4300911832#378"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/TableViewSuite/5_CustomTableViewCell/build/Debug-iphonesimulator/CustomTableViewCell.app0#
+

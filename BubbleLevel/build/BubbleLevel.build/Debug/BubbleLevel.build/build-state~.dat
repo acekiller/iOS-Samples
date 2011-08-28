@@ -1,0 +1,296 @@
+TBubbleLevel
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/Default.png
+c0000000048B655B2000000000000ACD0
+t1219909042
+s44240
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/Icon.png
+c0000000048B655B200000000000014F6
+t1219909042
+s5366
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/arrows_ccw.png
+c0000000048B655B200000000000016C0
+t1219909042
+s5824
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/arrows_cw.png
+c0000000048B655B200000000000016F0
+t1219909042
+s5872
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/bubble.png
+c0000000048B655B20000000000002124
+t1219909042
+s8484
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate1_button.png
+c0000000048B655B200000000000016FA
+t1219909042
+s5882
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate1_disabled.png
+c0000000048B655B200000000000015F5
+t1219909042
+s5621
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate1_highlight.png
+c0000000048B655B200000000000018F8
+t1219909042
+s6392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate2_button.png
+c0000000048B655B20000000000001771
+t1219909042
+s6001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate2_disabled.png
+c0000000048B655B20000000000001642
+t1219909042
+s5698
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate2_highlight.png
+c0000000048B655B20000000000001971
+t1219909042
+s6513
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate_background.png
+c0000000048B655B2000000000000A47E
+t1219909042
+s42110
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibrate_done_button.png
+c0000000048B655B200000000000008AB
+t1219909042
+s2219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/calibration_complete_large.png
+c0000000048B655B2000000000000168D
+t1219909042
+s5773
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/hold_button.png
+c0000000048B655B20000000000001761
+t1219909042
+s5985
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/levelBackground.png
+c0000000048B655B20000000000009B4A
+t1219909042
+s39754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/release_button.png
+c0000000048B655B20000000000001A7A
+t1219909042
+s6778
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Images/vial_lines.png
+c0000000048B655B20000000000000FDD
+t1219909042
+s4061
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Sounds/farSound.caf
+c0000000048B655B20000000000036D54
+t1219909042
+s224596
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Sounds/levelSound.caf
+c0000000048B655B20000000000006622
+t1219909042
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/Sounds/nearSound.caf
+c0000000048B655B20000000000006622
+t1219909042
+s26146
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/arrows_ccw.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/arrows_cw.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/bubble.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_disabled.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_highlight.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_disabled.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_highlight.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate_background.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibrate_done_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/calibration_complete_large.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/farSound.caf
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/hold_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/levelBackground.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/levelSound.caf
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/nearSound.caf
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/release_button.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Resources/vial_lines.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/en.lproj/MainWindow.xib
+c0000000048B655B20000000000001BDD
+t1219909042
+s7133
+
+NInfo.plist
+c0000000048B655B200000000000003B0
+t1219909042
+s944
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639062#294639062#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639062#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/Default.png Images/Default.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/arrows_ccw.png Images/arrows_ccw.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/arrows_cw.png Images/arrows_cw.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/bubble.png Images/bubble.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_button.png Images/calibrate1_button.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_disabled.png Images/calibrate1_disabled.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate1_highlight.png Images/calibrate1_highlight.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_button.png Images/calibrate2_button.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_disabled.png Images/calibrate2_disabled.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate2_highlight.png Images/calibrate2_highlight.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate_background.png Images/calibrate_background.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibrate_done_button.png Images/calibrate_done_button.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/calibration_complete_large.png Images/calibration_complete_large.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/farSound.caf Sounds/farSound.caf
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/hold_button.png Images/hold_button.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/levelBackground.png Images/levelBackground.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/levelSound.caf Sounds/levelSound.caf
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/nearSound.caf Sounds/nearSound.caf
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/release_button.png Images/release_button.png
+r0
+
+CCpResource build/Debug/BubbleLevel.app/Contents/Resources/vial_lines.png Images/vial_lines.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/BubbleLevel/build/Debug/BubbleLevel.app
+r0
+

@@ -1,0 +1,294 @@
+TViewTransitions
+v7
+r0
+t294635573.483652
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/ViewTransitions.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/ViewTransitions.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/ViewTransitions.app/image1.jpg image1.jpg
+cCpResource build/Debug-iphonesimulator/ViewTransitions.app/image2.jpg image2.jpg
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch.gch ViewTransitions_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitionsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.h
+c000000004BA3E79F0000000000000B05
+t1269032863
+s2821
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m
+c000000004BA3E79F00000000000014D5
+t1269032863
+s5333
+i"ViewTransitionsAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Default.png
+c0000000048B654FC0000000000036BDB
+t1219908860
+s224219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib
+c0000000049DD2D180000000000002CAC
+t1239231768
+s11436
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/ViewTransitions_Prefix.pch
+c000000004A1331270000000000000051
+t1242771751
+s81
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app
+t1272942773
+s340
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app.dSYM
+t1272942773
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Default.png
+t1272942772
+s224219
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Info.plist
+t1272942772
+s658
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/MainWindow.nib
+t1272942772
+s2032
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/PkgInfo
+t1272942772
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions
+t1272942773
+s19996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/icon.png
+t1272942772
+s8672
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/image1.jpg
+t1272942772
+s42916
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/image2.jpg
+t1272942772
+s48996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitions.LinkFileList
+c000000004BDF90B40000000000000158
+t1272942772
+s344
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitionsAppDelegate.o
+t1272942773
+s22276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/main.o
+t1272942773
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/icon.png
+c0000000048B654FC00000000000021E0
+t1219908860
+s8672
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image1.jpg
+c0000000048B654FC000000000000A7A4
+t1219908860
+s42916
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image2.jpg
+c0000000048B654FC000000000000BF64
+t1219908860
+s48996
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m
+c000000004BA3E79F0000000000000A33
+t1269032863
+s2611
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch.gch
+t1272942773
+s12952976
+
+NInfo.plist
+c000000004A0DDC8B0000000000000389
+t1242422411
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294635572#294635572#0(0"0(0#1#0"3515394770833965056#0"0#
+
+CCompileC build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitionsAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635573.373893
+e294635573.453208
+r1
+xCompileC
+xbuild/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitionsAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m294635573#294635573#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m4300911832#2322"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Classes/ViewTransitionsAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitionsAppDelegate.o0#
+
+CCompileC build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635573.372340
+e294635573.424901
+r1
+xCompileC
+xbuild/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m294635573#294635573#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m4300911832#2270"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib
+s294635572.444004
+e294635572.717167
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294635572#294635572#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib4300911832#557"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ViewTransitions.app/Default.png Default.png
+s294635572.445041
+e294635572.455959
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ViewTransitions.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294635572#294635572#0(0"0(0#0#73"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Default.png4300911832#532"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app0#
+
+CCpResource build/Debug-iphonesimulator/ViewTransitions.app/icon.png icon.png
+s294635572.446061
+e294635572.454857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ViewTransitions.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png294635572#294635572#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/icon.png4300911832#529"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app0#
+
+CCpResource build/Debug-iphonesimulator/ViewTransitions.app/image1.jpg image1.jpg
+s294635572.447009
+e294635572.463331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ViewTransitions.app/image1.jpg
+ximage1.jpg
+lSLF07#2@15"Copy image1.jpg294635572#294635572#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image1.jpg4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image1.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app0#
+
+CCpResource build/Debug-iphonesimulator/ViewTransitions.app/image2.jpg image2.jpg
+s294635572.448737
+e294635572.462975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ViewTransitions.app/image2.jpg
+ximage2.jpg
+lSLF07#2@15"Copy image2.jpg294635572#294635572#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image2.jpg4300911832#531"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/image2.jpg /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions
+s294635573.469596
+e294635573.480757
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/ViewTransitions.app.dSYM build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions294635573#294635573#0(0"0(0#0#125"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions4300911832#476"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions normal i386
+s294635573.453307
+e294635573.469449
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions
+xnormal
+xi386
+lSLF07#2@130"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions294635573#294635573#0(0"0(0#0#0"4300911832#1039"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/Objects-normal/i386/ViewTransitions.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/ViewTransitions0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Info.plist Info.plist
+s294635572.414459
+e294635572.443881
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294635572#294635572#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/Info.plist24207049868050544#556"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch.gch ViewTransitions_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294635572.717394
+e294635573.372182
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch.gch
+xViewTransitions_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile ViewTransitions_Prefix.pch294635572#294635573#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/ViewTransitions_Prefix.pch4300911832#2131"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/ViewTransitions-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/ViewTransitions.build/Debug-iphonesimulator/ViewTransitions.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/ViewTransitions_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ViewTransitions_Prefix-albpvbkuowqrxocqogaawskuzzqr/ViewTransitions_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app
+s294635573.480854
+e294635573.483596
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app
+lSLF07#2@115"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app294635573#294635573#0(0"0(0#0#0"4300911832#332"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/ViewTransitions/build/Debug-iphonesimulator/ViewTransitions.app0#
+

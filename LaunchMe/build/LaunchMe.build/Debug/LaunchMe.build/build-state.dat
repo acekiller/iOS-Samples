@@ -1,0 +1,68 @@
+TLaunchMe
+v7
+r1
+cCheck dependencies
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/MainWindow.xib
+c0000000048B655BE0000000000001A02
+t1219909054
+s6658
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/ReadMe.txt
+c0000000048B655BE0000000000000661
+t1219909054
+s1633
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/Resources/ReadMe.txt
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/icon.png
+c0000000048B655BE0000000000001283
+t1219909054
+s4739
+
+NInfo.plist
+c0000000048B655BE000000000000047F
+t1219909054
+s1151
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294639055#294639055#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.0'1(4@58"error: There is no SDK with the name or path 'iphoneos2.0'294639055#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/MainWindow.xib
+r0
+
+CCpResource build/Debug/LaunchMe.app/Contents/Resources/ReadMe.txt ReadMe.txt
+r0
+
+CCpResource build/Debug/LaunchMe.app/Contents/Resources/icon.png icon.png
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/LaunchMe/build/Debug/LaunchMe.app
+r0
+

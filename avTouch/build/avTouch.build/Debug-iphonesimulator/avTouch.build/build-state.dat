@@ -1,0 +1,744 @@
+TavTouch
+v7
+r0
+t294573569.583694
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib
+cCpResource build/Debug-iphonesimulator/avTouch.app/sample.m4a sample.m4a
+cCpResource build/Debug-iphonesimulator/avTouch.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/forward.png images/forward.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/play.png images/play.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/rewind.png images/rewind.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png images/sound_meter_background.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png images/sound_meter_glare.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/volume_down.png images/volume_down.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/volume_up.png images/volume_up.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/avTouch.app/pause.png images/pause.png
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B4DF500000000000120D0
+t1261129205
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B4DEF00000000000000EB
+t1261129199
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D460000000000193960
+t1261129030
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004B2B4D2F0000000000011F11
+t1261129007
+s73489
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B4D2F0000000000000A22
+t1261129007
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5307000000000000094F
+t1261130503
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B53070000000000000A61
+t1261130503
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B53070000000000009369
+t1261130503
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B53070000000000002A42
+t1261130503
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B532D000000000001F8E0
+t1261130541
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.h
+c000000004BA3ED3B0000000000000DF8
+t1269034299
+s3576
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioQueue.h>
+i<AVFoundation/AVFoundation.h>
+i"MeterTable.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm
+c000000004BA3ED3B00000000000021E8
+t1269034299
+s8680
+i"CALevelMeter.h"
+i"LevelMeter.h"
+i"GLLevelMeter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.h
+c000000004BA3ED3B0000000000000ACD
+t1269034299
+s2765
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"LevelMeter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m
+c000000004BA3ED3B0000000000002A55
+t1269034299
+s10837
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLLevelMeter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.h
+c000000004BA3ED3B0000000000001094
+t1269034299
+s4244
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m
+c000000004BA3ED3B0000000000002199
+t1269034299
+s8601
+i"LevelMeter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.h
+c000000004BA3ED3B0000000000000AC7
+t1269034299
+s2759
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m
+c000000004BA3ED3B0000000000000B40
+t1269034299
+s2880
+i"avTouchAppDelegate.h"
+i"avTouchViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.h
+c000000004BA3ED3B0000000000000FF4
+t1269034299
+s4084
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm
+c000000004BA3ED3B00000000000024F1
+t1269034299
+s9457
+i"avTouchController.h"
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CALevelMeter.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.h
+c000000004BA3ED3B0000000000000A12
+t1269034299
+s2578
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m
+c000000004BA3ED3B0000000000000E3E
+t1269034299
+s3646
+i"avTouchViewController.h"
+i"avTouchController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Default.png
+c0000000049B6E5FE00000000000031C0
+t1236723198
+s12736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib
+c000000004935AE6900000000000021BF
+t1228254825
+s8639
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp
+c000000004BA3ED3B0000000000000CDE
+t1269034299
+s3294
+i"MeterTable.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.h
+c000000004BA3ED3B0000000000000D99
+t1269034299
+s3481
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib
+c0000000049B6E5FE000000000000963E
+t1236723198
+s38462
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch
+c000000004BA3ED3B00000000000009BD
+t1269034299
+s2493
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app
+t1272880769
+s612
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM
+t1272880769
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Default.png
+t1272880761
+s12736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist
+t1272880761
+s677
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/MainWindow.nib
+t1272880763
+s1479
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/PkgInfo
+t1272880761
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+t1272880769
+s71808
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouchViewController.nib
+t1272880763
+s7429
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/forward.png
+t1272880761
+s1195
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/icon.png
+t1272880761
+s2451
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/pause.png
+t1272880761
+s3192
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/play.png
+t1272880761
+s1084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/rewind.png
+t1272880761
+s1198
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/sample.m4a
+t1272880761
+s46468
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png
+t1272880761
+s7391
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png
+t1272880761
+s1526
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/volume_down.png
+t1272880761
+s998
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/volume_up.png
+t1272880761
+s1180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o
+t1272880768
+s33688
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o
+t1272880768
+s28088
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o
+t1272880768
+s26396
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o
+t1272880768
+s7220
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouch.LinkFileList
+c000000004BDE9E790000000000000490
+t1272880761
+s1168
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o
+t1272880768
+s38168
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o
+t1272880769
+s51720
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o
+t1272880768
+s31392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o
+t1272880768
+s5980
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/icon.png
+c000000004935AE690000000000000993
+t1228254825
+s2451
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/forward.png
+c0000000049B6E5FE00000000000004AB
+t1236723198
+s1195
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/pause.png
+c0000000049B6E5FE0000000000000C78
+t1236723198
+s3192
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/play.png
+c0000000049B6E5FE000000000000043C
+t1236723198
+s1084
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/rewind.png
+c0000000049B6E5FE00000000000004AE
+t1236723198
+s1198
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_background.png
+c0000000049B6E5FE0000000000001CDF
+t1236723198
+s7391
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_glare.png
+c0000000049B6E5FE00000000000005F6
+t1236723198
+s1526
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_down.png
+c0000000049B6E5FE00000000000003E6
+t1236723198
+s998
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m
+c000000004BA3ED3B0000000000000A3C
+t1269034299
+s2620
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/sample.m4a
+c000000004935AE69000000000000B584
+t1228254825
+s46468
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch.gch
+t1272880763
+s2515312
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch.gch
+t1272880767
+s13968816
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch.gch
+t1272880767
+s13026768
+
+NInfo.plist
+c0000000049B6E5FE00000000000003D4
+t1236723198
+s980
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294573560#294573561#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294573568.462705
+e294573568.958393
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm294573568#294573568#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm4300911832#2070"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/CALevelMeter.mm -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/CALevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573568.222411
+e294573568.898145
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m294573568#294573568#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m4300911832#2048"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/GLLevelMeter.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/GLLevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573568.338236
+e294573568.448298
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m294573568#294573568#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m4300911832#2044"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/LevelMeter.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/LevelMeter.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s294573568.357742
+e294573568.503653
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp294573568#294573568#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp4300911832#2049"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MeterTable.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/MeterTable.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573568.220135
+e294573568.357607
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m294573568#294573568#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m4300911832#2060"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchAppDelegate.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294573568.448438
+e294573569.060079
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm294573568#294573569#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm4300911832#2080"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchController.mm -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchController.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573568.221323
+e294573568.462363
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m294573568#294573568#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m4300911832#2066"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Classes/avTouchViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouchViewController.o0#
+
+CCompileC build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573568.219083
+e294573568.338085
+r1
+xCompileC
+xbuild/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m294573568#294573568#0(0"0(0#0#60"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m4300911832#2024"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib
+s294573561.262531
+e294573563.250820
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294573561#294573563#0(0"0(0#0#68"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib4300911832#527"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib
+s294573561.280809
+e294573563.385960
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib
+lSLF07#2@36"CompileXIB avTouchViewController.xib294573561#294573563#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouchViewController.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouchViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/Default.png Default.png
+s294573561.457415
+e294573561.502579
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png294573561#294573561#0(0"0(0#0#65"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Default.png4300911832#500"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Default.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/forward.png images/forward.png
+s294573561.302972
+e294573561.457099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/forward.png
+ximages/forward.png
+lSLF07#2@23"Copy images/forward.png294573561#294573561#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/forward.png4300911832#507"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/forward.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/icon.png icon.png
+s294573561.301965
+e294573561.454690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png294573561#294573561#0(0"0(0#0#62"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/icon.png4300911832#497"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/pause.png images/pause.png
+s294573561.459459
+e294573561.503836
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/pause.png
+ximages/pause.png
+lSLF07#2@21"Copy images/pause.png294573561#294573561#0(0"0(0#0#70"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/pause.png4300911832#505"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/pause.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/play.png images/play.png
+s294573561.303901
+e294573561.457295
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/play.png
+ximages/play.png
+lSLF07#2@20"Copy images/play.png294573561#294573561#0(0"0(0#0#69"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/play.png4300911832#504"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/play.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/rewind.png images/rewind.png
+s294573561.306060
+e294573561.497230
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/rewind.png
+ximages/rewind.png
+lSLF07#2@22"Copy images/rewind.png294573561#294573561#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/rewind.png4300911832#506"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/rewind.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sample.m4a sample.m4a
+s294573561.300746
+e294573561.498099
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sample.m4a
+xsample.m4a
+lSLF07#2@15"Copy sample.m4a294573561#294573561#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/sample.m4a4300911832#499"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/sample.m4a /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_background.png images/sound_meter_background.png
+s294573561.307138
+e294573561.497442
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sound_meter_background.png
+ximages/sound_meter_background.png
+lSLF07#2@38"Copy images/sound_meter_background.png294573561#294573561#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_background.png4300911832#522"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_background.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png images/sound_meter_glare.png
+s294573561.308065
+e294573561.497627
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/sound_meter_glare.png
+ximages/sound_meter_glare.png
+lSLF07#2@33"Copy images/sound_meter_glare.png294573561#294573561#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_glare.png4300911832#517"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/sound_meter_glare.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/volume_down.png images/volume_down.png
+s294573561.308936
+e294573561.497823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/volume_down.png
+ximages/volume_down.png
+lSLF07#2@27"Copy images/volume_down.png294573561#294573561#0(0"0(0#0#76"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_down.png4300911832#511"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_down.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CCpResource build/Debug-iphonesimulator/avTouch.app/volume_up.png images/volume_up.png
+s294573561.454828
+e294573561.498272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/avTouch.app/volume_up.png
+ximages/volume_up.png
+lSLF07#2@25"Copy images/volume_up.png294573561#294573561#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_up.png4300911832#509"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/images/volume_up.png /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+s294573569.514818
+e294573569.579956
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/avTouch.app.dSYM build/Debug-iphonesimulator/avTouch.app/avTouch294573569#294573569#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch4300911832#428"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch normal i386
+s294573569.060174
+e294573569.514609
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch
+xnormal
+xi386
+lSLF07#2@106"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch294573569#294573569#0(0"0(0#0#0"4300911832#1029"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/Objects-normal/i386/avTouch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/avTouch0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist Info.plist
+s294573561.258409
+e294573561.262391
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294573561#294573561#0(0"0(0#0#64"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/Info.plist4300911832#516"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294573563.386109
+e294573568.218975
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch294573563#294573568#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch4300911832#1901"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-gdqpbrfalnljkgerbycxspxiryux/avTouch_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s294573563.456829
+e294573564.120007
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch294573563#294573564#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch4300911832#1912"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-avotblfmqviwdeetynirqhrazbzl/avTouch_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch.gch avTouch_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294573563.462917
+e294573567.635248
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch.gch
+xavTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile avTouch_Prefix.pch294573563#294573567#0(0"0(0#0#72"/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch4300911832#1922"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/avTouch-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/avTouch.build/Debug-iphonesimulator/avTouch.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/avTouch_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/avTouch_Prefix-ccqbxpbwxgnalwdyubypgqedeqzl/avTouch_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app
+s294573569.580052
+e294573569.583647
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app
+lSLF07#2@99"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app294573569#294573569#0(0"0(0#0#0"4300911832#308"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/avTouch/build/Debug-iphonesimulator/avTouch.app0#
+

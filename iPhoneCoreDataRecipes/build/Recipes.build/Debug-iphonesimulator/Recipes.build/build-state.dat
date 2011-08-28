@@ -1,0 +1,994 @@
+TRecipes
+v7
+r0
+t294632075.740872
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib
+cCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureData.plist RecipeData/TemperatureData.plist
+cCpResource build/Debug-iphonesimulator/Recipes.app/fork.png Resources/fork.png
+cCpResource build/Debug-iphonesimulator/Recipes.app/convert.png Resources/convert.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib
+cCpResource build/Debug-iphonesimulator/Recipes.app/Icon.png Resources/Icon.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib
+cCpResource build/Debug-iphonesimulator/Recipes.app/Recipes.sqlite RecipeData/Recipes.sqlite
+cCpResource build/Debug-iphonesimulator/Recipes.app/choosePhoto.png Resources/choosePhoto.png
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch.gch Recipes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipesAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipe.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeListTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/UnitConverterTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/WeightConverterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureConverterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/ImperialPickerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/MetricPickerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeAddViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipePhotoViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/InstructionsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TypeSelectionViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Ingredient.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/IngredientDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/EditingTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A0BABDE0000000000181680
+t1242278878
+s1578624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BABD0000000000000046B
+t1242278864
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib
+c000000004A271347000000000000710E
+t1244074823
+s28942
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib
+c000000004A5504A0000000000000519A
+t1247085728
+s20890
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib
+c000000004A36C47C0000000000004FAE
+t1245103228
+s20398
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.h
+c000000004BA3FAF80000000000000AEE
+t1269037816
+s2798
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m
+c000000004BA3FAF80000000000000ACC
+t1269037816
+s2764
+i"EditingTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.h
+c000000004BA3FAF80000000000000AF9
+t1269037816
+s2809
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m
+c000000004BA3FAF8000000000000184F
+t1269037816
+s6223
+i"ImperialPickerController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.h
+c000000004BA3FAF80000000000000AB0
+t1269037816
+s2736
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m
+c000000004BA3FAF80000000000000A1F
+t1269037816
+s2591
+i"Ingredient.h"
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.h
+c000000004BA3FAF80000000000000BAD
+t1269037816
+s2989
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m
+c000000004BA3FAF80000000000001A3C
+t1269037816
+s6716
+i"IngredientDetailViewController.h"
+i"Recipe.h"
+i"Ingredient.h"
+i"EditingTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.h
+c000000004BA3FAF80000000000000B55
+t1269037816
+s2901
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m
+c000000004BA3FAF800000000000011DC
+t1269037816
+s4572
+i"InstructionsViewController.h"
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.h
+c000000004BA3FAF80000000000000B26
+t1269037816
+s2854
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m
+c000000004BA3FAF80000000000002067
+t1269037816
+s8295
+i"MetricPickerController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.h
+c000000004BA3FAF80000000000000CAA
+t1269037816
+s3242
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m
+c000000004BA3FAF80000000000000BBD
+t1269037816
+s3005
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.h
+c000000004BA3FAF80000000000000CDD
+t1269037816
+s3293
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m
+c000000004BA3FAF80000000000001574
+t1269037816
+s5492
+i"RecipeAddViewController.h"
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.h
+c000000004BA3FAF80000000000000DCF
+t1269037816
+s3535
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m
+c000000004BA3FAF8000000000000562C
+t1269037816
+s22060
+i"RecipeDetailViewController.h"
+i"Recipe.h"
+i"Ingredient.h"
+i"InstructionsViewController.h"
+i"TypeSelectionViewController.h"
+i"RecipePhotoViewController.h"
+i"IngredientDetailViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.h
+c000000004BA3FAF80000000000000CAE
+t1269037816
+s3246
+i"RecipeAddViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m
+c000000004BA3FAF800000000000032A7
+t1269037816
+s12967
+i"RecipeListTableViewController.h"
+i"RecipeDetailViewController.h"
+i"Recipe.h"
+i"RecipeTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.h
+c000000004BA3FAF80000000000000AF5
+t1269037816
+s2805
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m
+c000000004BA3FAF80000000000000D88
+t1269037816
+s3464
+i"RecipePhotoViewController.h"
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.h
+c000000004BA3FAF80000000000000CC6
+t1269037816
+s3270
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m
+c000000004BA3FAF80000000000001C83
+t1269037816
+s7299
+i"RecipeTableViewCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.h
+c000000004BA3FAF80000000000000E11
+t1269037816
+s3601
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m
+c000000004BA3FAF80000000000001E37
+t1269037816
+s7735
+i"RecipesAppDelegate.h"
+i"RecipeListTableViewController.h"
+i"UnitConverterTableViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.h
+c000000004BA3FAF80000000000000B50
+t1269037816
+s2896
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m
+c000000004BA3FAF80000000000000BEF
+t1269037816
+s3055
+i"TemperatureCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.h
+c000000004BA3FAF80000000000000BA6
+t1269037816
+s2982
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m
+c000000004BA3FAF800000000000012C9
+t1269037816
+s4809
+i"TemperatureConverterViewController.h"
+i"TemperatureCell.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.h
+c000000004BA3FAF80000000000000BD3
+t1269037816
+s3027
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m
+c000000004BA3FAF800000000000017BC
+t1269037816
+s6076
+i"TypeSelectionViewController.h"
+i"Recipe.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.h
+c000000004BA3FAF80000000000000A4B
+t1269037816
+s2635
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m
+c000000004BA3FAF80000000000001275
+t1269037816
+s4725
+i"UnitConverterTableViewController.h"
+i"WeightConverterViewController.h"
+i"TemperatureConverterViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.h
+c000000004BA3FAF80000000000000E07
+t1269037816
+s3591
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m
+c000000004BA3FAF800000000000011C4
+t1269037816
+s4548
+i"WeightConverterViewController.h"
+i"MetricPickerController.h"
+i"ImperialPickerController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/RecipeData/Recipes.sqlite
+c000000004A2713470000000000030800
+t1244074823
+s198656
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/RecipeData/TemperatureData.plist
+c000000004A15E1980000000000000822
+t1242947992
+s2082
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel
+c000000004BA3FAF70000000000000088
+t1269037815
+s136
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes_Prefix.pch
+c000000004A15E19800000000000000CD
+t1242947992
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib
+c000000004A1717DB0000000000005B0F
+t1243027419
+s23311
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/Icon.png
+c000000004A1717DB00000000000009C7
+t1243027419
+s2503
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib
+c000000004A1717DB0000000000004651
+t1243027419
+s18001
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib
+c000000004A5500BA0000000000005C1F
+t1247084730
+s23583
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib
+c000000004A1717DB0000000000005778
+t1243027419
+s22392
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib
+c000000004A1717DB0000000000007442
+t1243027419
+s29762
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/choosePhoto.png
+c000000004A1B429E0000000000001EA6
+t1243300510
+s7846
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/convert.png
+c000000004A1717DB00000000000001AB
+t1243027419
+s427
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/fork.png
+c000000004A1717DB00000000000000D3
+t1243027419
+s211
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app
+t1272939275
+s680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app.dSYM
+t1272939275
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/DetailHeaderView.nib
+t1272939273
+s4185
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/EditingTableViewCell.nib
+t1272939273
+s3223
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Icon.png
+t1272939272
+s2503
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Info.plist
+t1272939272
+s616
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/InstructionsView.nib
+t1272939273
+s2860
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/MainWindow.nib
+t1272939273
+s3726
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/PkgInfo
+t1272939272
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/RecipeAddView.nib
+t1272939273
+s1974
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes
+t1272939275
+s117012
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.mom
+t1272939275
+s3866
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.sqlite
+t1272939273
+s198656
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureCell.nib
+t1272939273
+s3021
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureConverter.nib
+t1272939273
+s2358
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureData.plist
+t1272939272
+s435
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/WeightConverter.nib
+t1272939273
+s6133
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/choosePhoto.png
+t1272939273
+s7846
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/convert.png
+t1272939272
+s427
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/fork.png
+t1272939272
+s211
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/EditingTableViewCell.o
+t1272939275
+s18008
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/ImperialPickerController.o
+t1272939275
+s21632
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Ingredient.o
+t1272939275
+s5292
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/IngredientDetailViewController.o
+t1272939275
+s46744
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/InstructionsViewController.o
+t1272939275
+s42460
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/MetricPickerController.o
+t1272939275
+s25248
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipe.o
+t1272939275
+s9268
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeAddViewController.o
+t1272939275
+s42356
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeDetailViewController.o
+t1272939275
+s79064
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeListTableViewController.o
+t1272939275
+s60304
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipePhotoViewController.o
+t1272939275
+s38128
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeTableViewCell.o
+t1272939275
+s35672
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipes.LinkFileList
+c000000004BDF83080000000000000C8C
+t1272939272
+s3212
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipesAppDelegate.o
+t1272939275
+s53492
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureCell.o
+t1272939275
+s19820
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureConverterViewController.o
+t1272939275
+s41636
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TypeSelectionViewController.o
+t1272939275
+s43680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/UnitConverterTableViewController.o
+t1272939275
+s35936
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/WeightConverterViewController.o
+t1272939275
+s40148
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/main.o
+t1272939275
+s6000
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m
+c000000004BA3FAF80000000000000A66
+t1269037816
+s2662
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch.gch
+t1272939274
+s13801648
+
+NInfo.plist
+c000000004A3C306B0000000000000385
+t1245458539
+s901
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294632072#294632072#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/EditingTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.599620
+e294632075.662058
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/EditingTableViewCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m294632075#294632075#0(0"0(0#0#98"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m4300911832#2216"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/EditingTableViewCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/EditingTableViewCell.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/ImperialPickerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.305979
+e294632075.438896
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/ImperialPickerController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m294632075#294632075#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m4300911832#2224"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/ImperialPickerController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/ImperialPickerController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Ingredient.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.547131
+e294632075.620168
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Ingredient.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m294632075#294632075#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m4300911832#2196"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Ingredient.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Ingredient.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/IngredientDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.551024
+e294632075.661250
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/IngredientDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m294632075#294632075#0(0"0(0#0#108"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m4300911832#2236"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/IngredientDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/IngredientDetailViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/InstructionsViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.441342
+e294632075.546958
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/InstructionsViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m294632075#294632075#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m4300911832#2228"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/InstructionsViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/InstructionsViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/MetricPickerController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.308167
+e294632075.441044
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/MetricPickerController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m294632075#294632075#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m4300911832#2220"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/MetricPickerController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/MetricPickerController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipe.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.078849
+e294632075.151915
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipe.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m294632075#294632075#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m4300911832#2188"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/Recipe.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipe.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeAddViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.362303
+e294632075.491303
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeAddViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m294632075#294632075#0(0"0(0#0#101"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m4300911832#2222"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeAddViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeAddViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeDetailViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.396565
+e294632075.612142
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeDetailViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m294632075#294632075#0(0"0(0#0#104"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m4300911832#2228"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeDetailViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeDetailViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeListTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.152071
+e294632075.308014
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeListTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m294632075#294632075#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m4300911832#2234"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeListTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeListTableViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipePhotoViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.439142
+e294632075.550870
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipePhotoViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m294632075#294632075#0(0"0(0#0#103"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m4300911832#2226"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipePhotoViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipePhotoViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeTableViewCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.154669
+e294632075.304123
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeTableViewCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m294632075#294632075#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m4300911832#2214"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipeTableViewCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipeTableViewCell.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipesAppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.077374
+e294632075.195835
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipesAppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m294632075#294632075#0(0"0(0#0#96"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m4300911832#2212"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/RecipesAppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/RecipesAppDelegate.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureCell.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.304517
+e294632075.396400
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureCell.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m294632075#294632075#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m4300911832#2206"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureCell.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureCell.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureConverterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.252802
+e294632075.362154
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureConverterViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m294632075#294632075#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m4300911832#2244"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TemperatureConverterViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TemperatureConverterViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TypeSelectionViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.491469
+e294632075.599462
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TypeSelectionViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m294632075#294632075#0(0"0(0#0#105"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m4300911832#2230"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/TypeSelectionViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/TypeSelectionViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/UnitConverterTableViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.156526
+e294632075.252633
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/UnitConverterTableViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m294632075#294632075#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m4300911832#2240"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/UnitConverterTableViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/UnitConverterTableViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/WeightConverterViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.196004
+e294632075.304391
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/WeightConverterViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m294632075#294632075#0(0"0(0#0#107"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m4300911832#2234"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/WeightConverterViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/WeightConverterViewController.o0#
+
+CCompileC build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632075.075950
+e294632075.154517
+r1
+xCompileC
+xbuild/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m294632075#294632075#0(0"0(0#0#74"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m4300911832#2176"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib
+s294632072.899995
+e294632073.425475
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib
+lSLF07#2@52"CompileXIB Classes/../Resources/DetailHeaderView.xib294632072#294632073#0(0"0(0#0#109"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/DetailHeaderView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/DetailHeaderView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib
+s294632073.404623
+e294632073.900077
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib
+lSLF07#2@52"CompileXIB Classes/../Resources/InstructionsView.xib294632073#294632073#0(0"0(0#0#109"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib4300911832#600"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/InstructionsView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/InstructionsView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib
+s294632073.329487
+e294632073.752011
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib
+lSLF07#2@49"CompileXIB Classes/../Resources/RecipeAddView.xib294632073#294632073#0(0"0(0#0#106"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib4300911832#594"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/RecipeAddView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Classes/../Resources/RecipeAddView.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib
+s294632072.891251
+e294632073.329351
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib
+lSLF07#2@45"CompileXIB Resources/EditingTableViewCell.xib294632072#294632073#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib4300911832#597"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/EditingTableViewCell.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/EditingTableViewCell.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib
+s294632072.938267
+e294632073.404486
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib294632072#294632073#0(0"0(0#0#92"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib
+s294632073.487058
+e294632073.926898
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib
+lSLF07#2@40"CompileXIB Resources/TemperatureCell.xib294632073#294632073#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib4300911832#587"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureCell.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureCell.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib
+s294632073.425736
+e294632073.829922
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib
+lSLF07#2@45"CompileXIB Resources/TemperatureConverter.xib294632073#294632073#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib4300911832#597"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureConverter.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/TemperatureConverter.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib
+s294632072.887494
+e294632073.482806
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib
+lSLF07#2@40"CompileXIB Resources/WeightConverter.xib294632072#294632073#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib4300911832#587"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/WeightConverter.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/WeightConverter.xib0#
+
+CCopyPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureData.plist RecipeData/TemperatureData.plist
+s294632072.888564
+e294632072.937166
+r1
+xCopyPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/TemperatureData.plist
+xRecipeData/TemperatureData.plist
+lSLF07#2@37"Copy RecipeData/TemperatureData.plist294632072#294632072#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/RecipeData/TemperatureData.plist4300911832#465"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 RecipeData/TemperatureData.plist --outdir /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CCpResource build/Debug-iphonesimulator/Recipes.app/Icon.png Resources/Icon.png
+s294632072.937296
+e294632072.944401
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Recipes.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png294632072#294632072#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/Icon.png4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CCpResource build/Debug-iphonesimulator/Recipes.app/Recipes.sqlite RecipeData/Recipes.sqlite
+s294632073.482947
+e294632073.491704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Recipes.app/Recipes.sqlite
+xRecipeData/Recipes.sqlite
+lSLF07#2@30"Copy RecipeData/Recipes.sqlite294632073#294632073#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/RecipeData/Recipes.sqlite4300911832#556"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/RecipeData/Recipes.sqlite /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CCpResource build/Debug-iphonesimulator/Recipes.app/choosePhoto.png Resources/choosePhoto.png
+s294632073.484321
+e294632073.499093
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Recipes.app/choosePhoto.png
+xResources/choosePhoto.png
+lSLF07#2@30"Copy Resources/choosePhoto.png294632073#294632073#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/choosePhoto.png4300911832#556"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/choosePhoto.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CCpResource build/Debug-iphonesimulator/Recipes.app/convert.png Resources/convert.png
+s294632072.890397
+e294632072.899862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Recipes.app/convert.png
+xResources/convert.png
+lSLF07#2@26"Copy Resources/convert.png294632072#294632072#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/convert.png4300911832#552"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/convert.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CCpResource build/Debug-iphonesimulator/Recipes.app/fork.png Resources/fork.png
+s294632072.889553
+e294632072.899181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Recipes.app/fork.png
+xResources/fork.png
+lSLF07#2@23"Copy Resources/fork.png294632072#294632072#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/fork.png4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Resources/fork.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+
+CDataModelCompile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.mom /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel
+s294632075.035836
+e294632075.156377
+r1
+xDataModelCompile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.mom
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel
+lSLF07#2@95"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel294632075#294632075#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel4300911832#471"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes.xcdatamodel /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes.mom0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes
+s294632075.702098
+e294632075.736947
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Recipes.app.dSYM build/Debug-iphonesimulator/Recipes.app/Recipes294632075#294632075#0(0"0(0#0#115"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes4300911832#470"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes normal i386
+s294632075.662128
+e294632075.701953
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes
+xnormal
+xi386
+lSLF07#2@120"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes294632075#294632075#0(0"0(0#0#0"4300911832#1027"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Objects-normal/i386/Recipes.LinkFileList -mmacosx-version-min=10.5 -framework CoreData -framework CoreGraphics -framework Foundation -framework UIKit -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Recipes0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Info.plist Info.plist
+s294632072.881945
+e294632072.887357
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294632072#294632072#0(0"0(0#0#78"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Info.plist4300911832#558"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch.gch Recipes_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294632073.927024
+e294632075.035354
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch.gch
+xRecipes_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Recipes_Prefix.pch294632073#294632075#0(0"0(0#0#86"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes_Prefix.pch4300911832#2039"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/Recipes-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Recipes.build/Debug-iphonesimulator/Recipes.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/Recipes_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Recipes_Prefix-hkvnslknijdbkubyyfwxnflcmhmg/Recipes_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app
+s294632075.737043
+e294632075.740809
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app
+lSLF07#2@113"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app294632075#294632075#0(0"0(0#0#0"4300911832#336"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneCoreDataRecipes/build/Debug-iphonesimulator/Recipes.app0#
+

@@ -1,0 +1,540 @@
+TCryptoExercise
+v7
+r0
+t294636904.469818
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib
+cProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/SecKeyWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/KeyGeneration.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/LocalBonjourController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/ServiceController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoClient.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServerRequest.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h
+c000000004A0BAA3600000000000060BB
+t1242278454
+s24763
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004A0BA99500000000000004F5
+t1242278293
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004A0BA9980000000000073E20
+t1242278296
+s474656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004A0BA9330000000000001A78
+t1242278195
+s6776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004A0BA939000000000004D0D0
+t1242278201
+s315600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/CommonCrypto/CommonCryptor.h
+c000000004748A1090000000000005A99
+t1195942153
+s23193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004748A1090000000000002500
+t1195942153
+s9472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/unistd.h
+c000000004748A13300000000000053FF
+t1195942195
+s21503
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.h
+c0000000049F8DB070000000000000B44
+t1241045767
+s2884
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m
+c0000000049F8DB07000000000000144F
+t1241045767
+s5199
+i"AppDelegate.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i<netinet/in.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.h
+c0000000049F8DB070000000000000F39
+t1241045767
+s3897
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m
+c0000000049F8DB0700000000000022D0
+t1241045767
+s8912
+i"CryptoClient.h"
+i"SecKeyWrapper.h"
+i"AppDelegate.h"
+i"CryptoCommon.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i<arpa/inet.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoCommon.h
+c0000000049F8DB070000000000000EA4
+t1241045767
+s3748
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.h
+c0000000049F8DB070000000000000DA5
+t1241045767
+s3493
+i<UIKit/UIKit.h>
+i"CryptoServerRequest.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m
+c0000000049F8DB070000000000002492
+t1241045767
+s9362
+i"CryptoServer.h"
+i"SecKeyWrapper.h"
+i"CryptoCommon.h"
+i"CryptoServerRequest.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i<arpa/inet.h>
+i<CFNetwork/CFSocketStream.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.h
+c0000000049F8DB070000000000000E79
+t1241045767
+s3705
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m
+c0000000049F8DB070000000000002319
+t1241045767
+s8985
+i"CryptoServer.h"
+i"SecKeyWrapper.h"
+i"CryptoCommon.h"
+i"CryptoServerRequest.h"
+i<CFNetwork/CFSocketStream.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i<arpa/inet.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.h
+c0000000049F8DB070000000000000BE0
+t1241045767
+s3040
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m
+c0000000049F8DB0700000000000010C5
+t1241045767
+s4293
+i"KeyGeneration.h"
+i"AppDelegate.h"
+i"SecKeyWrapper.h"
+i"CryptoServer.h"
+i"CryptoCommon.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.h
+c0000000049F8DB070000000000000D6A
+t1241045767
+s3434
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m
+c0000000049F8DB070000000000001BDC
+t1241045767
+s7132
+i"LocalBonjourController.h"
+i"CryptoCommon.h"
+i"ServiceController.h"
+i"AppDelegate.h"
+i"CryptoServer.h"
+i"KeyGeneration.h"
+i"SecKeyWrapper.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.h
+c0000000049F8DB070000000000001406
+t1241045767
+s5126
+i<UIKit/UIKit.h>
+i<Security/Security.h>
+i<CommonCrypto/CommonDigest.h>
+i<CommonCrypto/CommonCryptor.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m
+c0000000049F8DB0700000000000075BF
+t1241045767
+s30143
+i"SecKeyWrapper.h"
+i<Security/Security.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.h
+c0000000049F8DB070000000000000CF1
+t1241045767
+s3313
+i<UIKit/UIKit.h>
+i"CryptoClient.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m
+c0000000049F8DB0700000000000015BA
+t1241045767
+s5562
+i"ServiceController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Prefix.pch
+c0000000048E3C2E800000000000000BD
+t1222886120
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/AppDelegate.o
+t1272944104
+s43756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoClient.o
+t1272944104
+s28140
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoExercise.LinkFileList
+c000000004BDF95E700000000000005E5
+t1272944103
+s1509
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServer.o
+t1272944104
+s31204
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServerRequest.o
+t1272944104
+s29700
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/KeyGeneration.o
+t1272944104
+s44172
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/LocalBonjourController.o
+t1272944104
+s51276
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/SecKeyWrapper.o
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/ServiceController.o
+t1272944104
+s48756
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/main.o
+t1272944104
+s5988
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app
+t1272944103
+s170
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app.dSYM
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/CryptoExercise
+t2
+s0
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/Info.plist
+t1272944103
+s652
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/PkgInfo
+t1272944103
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/KeyGeneration.nib
+t1272944103
+s3930
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/MainWindow.nib
+t1272944103
+s3107
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/ServiceView.nib
+t1272944103
+s4538
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib
+c0000000049F8DB0700000000000039F1
+t1241045767
+s14833
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib
+c0000000049F8DB0700000000000040F9
+t1241045767
+s16633
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib
+c0000000049F8DB0700000000000037BD
+t1241045767
+s14269
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m
+c0000000049F8DB070000000000000A62
+t1241045767
+s2658
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch.gch
+t1272944104
+s12944784
+
+NInfo.plist
+c0000000049F8DB0700000000000003BD
+t1241045767
+s957
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294636903#294636903#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/AppDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.137637
+e294636904.327645
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/AppDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m294636904#294636904#0(0"0(0#0#82"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m4300911832#2241"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/AppDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoClient.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.325814
+e294636904.459178
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoClient.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m294636904#294636904#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m4300911832#2243"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoClient.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoClient.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServer.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.274897
+e294636904.447559
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServer.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m294636904#294636904#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m4300911832#2243"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServer.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServer.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServerRequest.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.327799
+e294636904.469731
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServerRequest.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m294636904#294636904#0(0"0(0#0#90"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m4300911832#2257"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/CryptoServerRequest.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/CryptoServerRequest.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/KeyGeneration.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.139767
+e294636904.274744
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/KeyGeneration.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m294636904#294636904#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m4300911832#2245"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/KeyGeneration.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/KeyGeneration.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/LocalBonjourController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.190666
+e294636904.325649
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/LocalBonjourController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m294636904#294636904#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m4300911832#2263"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/LocalBonjourController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/LocalBonjourController.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/SecKeyWrapper.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.138615
+e294636904.266455
+r0
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/SecKeyWrapper.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m:76:2: error: #error This sample is designed to run on a device, not in the simulator. To run this sample, choose Project > Set Active SDK > Device and connect a device. Then click Build and Go.
+lSLF07#2@92"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m294636904#294636904#0(279"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m:76:2: error: #error This sample is designed to run on a device, not in the simulator. To run this sample, choose Project > Set Active SDK > Device and connect a device. Then click Build and Go.1(4@180"#error This sample is designed to run on a device, not in the simulator. To run this sample, choose Project > Set Active SDK > Device and connect a device. Then click Build and Go.294636904#0#279#0(6@84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m262738567#76#0#76#0#8"#error *0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m4300911832#2245"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/SecKeyWrapper.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/SecKeyWrapper.o1#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/ServiceController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.266607
+e294636904.418639
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/ServiceController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m294636904#294636904#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m4300911832#2253"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Classes/ServiceController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/ServiceController.o0#
+
+CCompileC build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636904.136599
+e294636904.190565
+r1
+xCompileC
+xbuild/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m294636904#294636904#0(0"0(0#0#67"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m4300911832#2219"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib
+s294636903.112861
+e294636903.482594
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib
+lSLF07#2@37"CompileXIB en.lproj/KeyGeneration.xib294636903#294636903#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib4300911832#577"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/KeyGeneration.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/KeyGeneration.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib
+s294636903.111768
+e294636903.460933
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib294636903#294636903#0(0"0(0#0#84"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib4300911832#571"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib
+s294636903.113710
+e294636903.524511
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib
+lSLF07#2@35"CompileXIB en.lproj/ServiceView.xib294636903#294636903#0(0"0(0#0#85"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib4300911832#573"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/en.lproj/ServiceView.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/en.lproj/ServiceView.xib0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/CryptoExercise
+r0
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/CryptoExercise normal i386
+r0
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/Info.plist Info.plist
+s294636903.099342
+e294636903.111638
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294636903#294636903#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Info.plist4300911832#551"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app/Info.plist0#
+
+CProcessPCH /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294636903.524640
+e294636904.136480
+r1
+xProcessPCH
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch294636903#294636904#0(0"0(0#0#71"/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Prefix.pch4300911832#2067"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/CryptoExercise-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/CryptoExercise.build/Debug-iphonesimulator/CryptoExercise.build/DerivedSources -DDEBUG=1 -c /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-dgrdrcxmbygjutfmekfpuzmonidg/Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/CryptoExercise/build/Debug-iphonesimulator/CryptoExercise.app
+r0
+

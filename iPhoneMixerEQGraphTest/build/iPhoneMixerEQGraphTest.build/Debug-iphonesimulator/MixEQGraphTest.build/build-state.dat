@@ -1,0 +1,593 @@
+TMixEQGraphTest
+v7
+r0
+t294579220.224991
+cCheck dependencies
+cProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Info.plist Info.plist
+cCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/green_button.png Resources/green_button.png
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/red_button.png Resources/red_button.png
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/info.html Resources/info.html
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Track1.mp4 Resources/Track1.mp4
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Track2.mp4 Resources/Track2.mp4
+cCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/moof.png Resources/moof.png
+cProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch.gch iPhoneMixerEQGraphTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAComponentDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/AUGraphController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixerEQGraphTestDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest normal i386
+cGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest
+cTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B4DF500000000000120D0
+t1261129205
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D460000000000193960
+t1261129030
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B4D2F0000000000000A22
+t1261129007
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
+c000000004B2B4D2D000000000000041D
+t1261129005
+s1053
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004B2B4CBD000000000000F342
+t1261128893
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004B2B4C150000000000001983
+t1261128725
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B2B4C170000000000000A99
+t1261128727
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/ConditionalMacros.h
+c000000004B2B4EE20000000000006860
+t1261129442
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.h
+c000000004BA407B80000000000000EAD
+t1269041080
+s3757
+i<CoreFoundation/CoreFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioUnit/AudioUnit.h>
+i"CAStreamBasicDescription.h"
+i"CAComponentDescription.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm
+c000000004BA407B80000000000004AB2
+t1269041080
+s19122
+i"AUGraphController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.h
+c000000004BA407B80000000000000B8E
+t1269041080
+s2958
+i<UIKit/UIKit.h>
+i"MyViewController.h"
+i"CAXException.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m
+c000000004BA407B80000000000001D43
+t1269041080
+s7491
+i"MixerEQGraphTestDelegate.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.h
+c000000004BA407B8000000000000119C
+t1269041080
+s4508
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"AUGraphController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m
+c000000004BA407B80000000000002E8E
+t1269041080
+s11918
+i"MyViewController.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Icon.png
+c000000004B7330A300000000000015FD
+t1265840291
+s5629
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib
+c000000004B7330A3000000000000D94B
+t1265840291
+s55627
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track1.mp4
+c000000004B7330A300000000000F3110
+t1265840291
+s995600
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track2.mp4
+c000000004B7330A300000000000F30AE
+t1265840291
+s995502
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/green_button.png
+c000000004B7330A300000000000002EE
+t1265840291
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/info.html
+c000000004B7330A300000000000009C3
+t1265840291
+s2499
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/moof.png
+c000000004B7330A300000000000030F2
+t1265840291
+s12530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/red_button.png
+c000000004B7330A300000000000002F2
+t1265840291
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app
+t1272886420
+s442
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM
+t1272886420
+s102
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Icon.png
+t1272886416
+s5629
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Info.plist
+t1272886416
+s619
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MainWindow.nib
+t1272886417
+s8768
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest
+t1272886420
+s75032
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/PkgInfo
+t1272886416
+s8
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Track1.mp4
+t1272886416
+s995600
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Track2.mp4
+t1272886416
+s995502
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/green_button.png
+t1272886416
+s750
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/info.html
+t1272886416
+s2499
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/moof.png
+t1272886416
+s12530
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/red_button.png
+t1272886416
+s754
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/AUGraphController.o
+t1272886419
+s47476
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAComponentDescription.o
+t1272886419
+s17688
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+t1272886419
+s35680
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAXException.o
+t1272886419
+s5264
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixEQGraphTest.LinkFileList
+c000000004BDEB490000000000000051D
+t1272886416
+s1309
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixerEQGraphTestDelegate.o
+t1272886419
+s67624
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MyViewController.o
+t1272886419
+s71300
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/main.o
+t1272886419
+s6600
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPhoneMixerEQGraphTest_Prefix.pch
+c000000004B7330A30000000000000059
+t1265840291
+s89
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp
+c000000004B7330A300000000000010BE
+t1265840291
+s4286
+i"CAComponentDescription.h"
+i"CAStreamBasicDescription.h"
+i<ctype.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.h
+c000000004B7330A30000000000001602
+t1265840291
+s5634
+i<AudioUnit/AudioUnit.h>
+i<ConditionalMacros.h>
+i<AudioUnit.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CADebugMacros.h
+c000000004B7330A30000000000004FAE
+t1265840291
+s20398
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAMath.h
+c000000004B7330A30000000000000C6B
+t1265840291
+s3179
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp
+c000000004B7330A30000000000004E32
+t1265840291
+s20018
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i"CALogMacros.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.h
+c000000004B7330A30000000000002E6C
+t1265840291
+s11884
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp
+c000000004B7330A300000000000009EC
+t1265840291
+s2540
+i"CAXException.h"
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.h
+c000000004B7330A30000000000002965
+t1265840291
+s10597
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<string.h>
+
+N/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m
+c000000004BA407B80000000000000A46
+t1269041080
+s2630
+i<UIKit/UIKit.h>
+
+N/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch.gch
+t1272886419
+s13968816
+
+NInfo.plist
+c000000004B7330A30000000000000384
+t1265840291
+s900
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294579216#294579216#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/AUGraphController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.482855
+e294579219.671892
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/AUGraphController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm294579219#294579219#0(0"0(0#0#97"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm4300911832#2457"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/AUGraphController.mm -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/AUGraphController.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAComponentDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.459009
+e294579219.584061
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAComponentDescription.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp294579219#294579219#0(0"0(0#0#110"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp4300911832#2475"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAComponentDescription.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAComponentDescription.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.404239
+e294579219.594264
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAStreamBasicDescription.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp294579219#294579219#0(0"0(0#0#112"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp4300911832#2479"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAStreamBasicDescription.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAXException.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.406872
+e294579219.482691
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAXException.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp294579219#294579219#0(0"0(0#0#100"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp4300911832#2455"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPublicUtility/CAXException.cpp -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/CAXException.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixerEQGraphTestDelegate.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.584234
+e294579219.771620
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixerEQGraphTestDelegate.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m294579219#294579219#0(0"0(0#0#103"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m4300911832#2470"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MixerEQGraphTestDelegate.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixerEQGraphTestDelegate.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MyViewController.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.405477
+e294579219.644523
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MyViewController.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m294579219#294579219#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m4300911832#2454"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Classes/MyViewController.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/main.o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579219.402703
+e294579219.458846
+r1
+xCompileC
+xbuild/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/main.o
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m294579219#294579219#0(0"0(0#0#75"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m4300911832#2422"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -include /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/main.m -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib
+s294579216.164222
+e294579217.559622
+r1
+xCompileXIB
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294579216#294579217#0(0"0(0#0#83"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib4300911832#579"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MainWindow.nib /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Icon.png Icon.png
+s294579216.181891
+e294579216.227250
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png294579216#294579216#0(0"0(0#0#77"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Icon.png4300911832#549"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Icon.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Track1.mp4 Resources/Track1.mp4
+s294579216.182740
+e294579216.229005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/Track1.mp4
+xResources/Track1.mp4
+lSLF07#2@25"Copy Resources/Track1.mp4294579216#294579216#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track1.mp44300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track1.mp4 /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/Track2.mp4 Resources/Track2.mp4
+s294579216.183635
+e294579216.231772
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/Track2.mp4
+xResources/Track2.mp4
+lSLF07#2@25"Copy Resources/Track2.mp4294579216#294579216#0(0"0(0#0#89"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track2.mp44300911832#561"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/Track2.mp4 /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/green_button.png Resources/green_button.png
+s294579216.179344
+e294579216.228747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/green_button.png
+xResources/green_button.png
+lSLF07#2@31"Copy Resources/green_button.png294579216#294579216#0(0"0(0#0#95"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/green_button.png4300911832#567"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/green_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/info.html Resources/info.html
+s294579216.181017
+e294579216.228077
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/info.html
+xResources/info.html
+lSLF07#2@24"Copy Resources/info.html294579216#294579216#0(0"0(0#0#88"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/info.html4300911832#560"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/info.html /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/moof.png Resources/moof.png
+s294579216.184548
+e294579216.226943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/moof.png
+xResources/moof.png
+lSLF07#2@23"Copy Resources/moof.png294579216#294579216#0(0"0(0#0#87"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/moof.png4300911832#559"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/moof.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CCpResource build/Debug-iphonesimulator/MixEQGraphTest.app/red_button.png Resources/red_button.png
+s294579216.180176
+e294579216.226670
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MixEQGraphTest.app/red_button.png
+xResources/red_button.png
+lSLF07#2@29"Copy Resources/red_button.png294579216#294579216#0(0"0(0#0#93"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/red_button.png4300911832#565"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Resources/red_button.png /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
+CGenerateDSYMFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest
+s294579220.202355
+e294579220.221632
+r1
+xGenerateDSYMFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest294579220#294579220#0(0"0(0#0#130"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest4300911832#494"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app.dSYM0#
+
+CLd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest normal i386
+s294579219.771718
+e294579220.202253
+r1
+xLd
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest
+xnormal
+xi386
+lSLF07#2@135"Link /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest294579219#294579220#0(0"0(0#0#0"4300911832#1081"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -filelist /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/Objects-normal/i386/MixEQGraphTest.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework AVFoundation -framework AudioToolbox -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/MixEQGraphTest0#
+
+CProcessInfoPlistFile /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Info.plist Info.plist
+s294579216.141714
+e294579216.164125
+r1
+xProcessInfoPlistFile
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist294579216#294579216#0(0"0(0#0#79"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/Info.plist4300911832#575"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app/Info.plist0#
+
+CProcessPCH++ /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch.gch iPhoneMixerEQGraphTest_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s294579217.559788
+e294579219.402506
+r1
+xProcessPCH++
+x/var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch.gch
+xiPhoneMixerEQGraphTest_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile iPhoneMixerEQGraphTest_Prefix.pch294579217#294579219#0(0"0(0#0#102"/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPhoneMixerEQGraphTest_Prefix.pch4300911832#2277"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-generated-files.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-own-target-headers.hmap -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-all-target-headers.hmap -iquote /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/MixEQGraphTest-project-headers.hmap -F/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/include -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources/i386 -I/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/iPhoneMixerEQGraphTest.build/Debug-iphonesimulator/MixEQGraphTest.build/DerivedSources -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/iPhoneMixerEQGraphTest_Prefix.pch -o /var/folders/gT/gTszuhG1EuKNgt1gx+n4ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneMixerEQGraphTest_Prefix-gmzqmfulytdpgvgcvsktnpkltxez/iPhoneMixerEQGraphTest_Prefix.pch.gch0#
+
+CTouch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app
+s294579220.221727
+e294579220.224929
+r1
+xTouch
+x/Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app
+lSLF07#2@121"Touch /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app294579220#294579220#0(0"0(0#0#0"4300911832#345"    cd /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pika/iPhoneDev/SamplePrograms/Programs/iPhoneMixerEQGraphTest/build/Debug-iphonesimulator/MixEQGraphTest.app0#
+
